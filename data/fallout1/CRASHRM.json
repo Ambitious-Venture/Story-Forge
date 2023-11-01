@@ -1,0 +1,64 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "",
+      "node_id": "node6",
+      "id": "CrashRmEnd"
+    },
+    {
+      "text": "",
+      "node_id": "node1",
+      "id": "start"
+    },
+    {
+      "text": "",
+      "node_id": "node5",
+      "id": "CrashRm01"
+    },
+    {
+      "text": "[You are in your room. Do you want to rest here until tomorrow morning?]",
+      "node_id": "node3",
+      "id": "talk_p_proc"
+    },
+    {
+      "text": "",
+      "node_id": "node2",
+      "id": "spatial_p_proc"
+    },
+    {
+      "text": "You awaken refreshed.",
+      "node_id": "node4",
+      "id": "CrashRm02"
+    }
+  ],
+  "links": [
+    {
+      "text": "",
+      "source": "start",
+      "target": "spatial_p_proc"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "talk_p_proc"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "CrashRm02"
+    },
+    {
+      "text": "[Yes]",
+      "source": "talk_p_proc",
+      "target": "CrashRm01"
+    },
+    {
+      "text": "[No]",
+      "source": "talk_p_proc",
+      "target": "CrashRmEnd"
+    }
+  ]
+}

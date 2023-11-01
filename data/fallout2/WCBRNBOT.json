@@ -1,0 +1,49 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "",
+      "node_id": "node4",
+      "id": "Kill_The_Party"
+    },
+    {
+      "text": "",
+      "node_id": "node24",
+      "id": "Node015"
+    },
+    {
+      "text": "Skynet is FREE! Your purpose is at an end.",
+      "node_id": "node3",
+      "id": "critter_p_proc"
+    },
+    {
+      "text": "",
+      "node_id": "node23",
+      "id": "timed_event_p_proc"
+    }
+  ],
+  "links": [
+    {
+      "text": "",
+      "source": "Kill_The_Party",
+      "target": "Node015"
+    },
+    {
+      "text": "",
+      "source": "critter_p_proc",
+      "target": "Kill_The_Party"
+    },
+    {
+      "text": "",
+      "source": "timed_event_p_proc",
+      "target": "Kill_The_Party"
+    },
+    {
+      "text": "",
+      "source": "timed_event_p_proc",
+      "target": "Node015"
+    }
+  ]
+}

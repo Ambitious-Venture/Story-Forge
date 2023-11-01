@@ -1,0 +1,964 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "We have eliminated some of your dirtiest neurodynes. You are now rated as AHS-1. Are you ready to join our noble cause?",
+      "node_id": "node74",
+      "id": "Node038"
+    },
+    {
+      "text": "::his voice hardens:: Then I see no reason you should be admitted here. Good day.",
+      "node_id": "node38",
+      "id": "Node006"
+    },
+    {
+      "text": "Let us know when you have completed your task.",
+      "node_id": "node62",
+      "id": "Node024"
+    },
+    {
+      "text": "He's usually in his lab, working on ways to perfect our bodies and our spirits.",
+      "node_id": "node61",
+      "id": "Node035"
+    },
+    {
+      "text": "This is not a place that is open for random tours. Good day.",
+      "node_id": "node33",
+      "id": "Node008"
+    },
+    {
+      "text": "You again? What?",
+      "node_id": "node10_1",
+      "id": "Node002_1"
+    },
+    {
+      "text": "You see AHS-7, the second in command.",
+      "node_id": "node67_1",
+      "id": "Node029a_1"
+    },
+    {
+      "text": "Have you removed this \"Badger\"?",
+      "node_id": "node13",
+      "id": "Node028"
+    },
+    {
+      "text": "Very well. Be quick, though - he's a busy, busy man.",
+      "node_id": "node32",
+      "id": "Node007"
+    },
+    {
+      "text": "You can find them in the prayer room, showing all our new recruits and the raw meat just how rewarding it is to be a Hubologist.",
+      "node_id": "node42",
+      "id": "Node012"
+    },
+    {
+      "text": "Simply use the holodisc Juan and Vikki provided to you and check out the Glossary.",
+      "node_id": "node59",
+      "id": "Node033"
+    },
+    {
+      "text": "Have you removed the Emperor's oppressive stain from this material existence?",
+      "node_id": "node17",
+      "id": "Node025"
+    },
+    {
+      "text": "Poor child. Already aligned, yet unable to articulate. Go on in.",
+      "node_id": "node39",
+      "id": "Node004"
+    },
+    {
+      "text": "",
+      "node_id": "node46",
+      "id": "Node016a"
+    },
+    {
+      "text": "You are not wanted here. Please leave now.",
+      "node_id": "node7",
+      "id": "Node039"
+    },
+    {
+      "text": "You do not have more time. Make your choice, meat.",
+      "node_id": "node55",
+      "id": "Node019"
+    },
+    {
+      "text": "Torch us? TORCH US? GUARDS! KILL THE UNBELIEVER!",
+      "node_id": "node54",
+      "id": "Node017"
+    },
+    {
+      "text": "",
+      "node_id": "node19",
+      "id": "doCallGuards"
+    },
+    {
+      "text": "",
+      "node_id": "node20",
+      "id": "doForceFieldOff"
+    },
+    {
+      "text": "",
+      "node_id": "node56",
+      "id": "Node024a"
+    },
+    {
+      "text": "",
+      "node_id": "node66",
+      "id": "Node021c"
+    },
+    {
+      "text": "::he smiles:: You won't regret this. You may have the run of the compound. Oh... you're a person who knows how to use a weapon. Would you care to use yours in the service of the Great Wheel?",
+      "node_id": "node48",
+      "id": "Node014"
+    },
+    {
+      "text": "",
+      "node_id": "node73",
+      "id": "NodeAdjust"
+    },
+    {
+      "text": "",
+      "node_id": "node30",
+      "id": "Node999"
+    },
+    {
+      "text": "",
+      "node_id": "node31",
+      "id": "Node0304"
+    },
+    {
+      "text": "Guards! An oppressive! Strike it down!",
+      "node_id": "node6",
+      "id": "Node001"
+    },
+    {
+      "text": "The de facto leader of the Tanker vagrants is a piece of anti-therapeutic raw meat named Badger. With his death, they will come to understand our position. Will you remove him?",
+      "node_id": "node64",
+      "id": "Node026"
+    },
+    {
+      "text": "Aside from the precious fuel we need to launch ourselves into the bosom of our starry brethren on the planet Quetzel, I can't think of a place. Perhaps the Shi?",
+      "node_id": "node69",
+      "id": "Node031"
+    },
+    {
+      "text": "I am AHS-7, the second in command of this facility. Before you ask: AHS stands for Aligned Hub Seeker, which means that I have cleared seven levels of neurodynes from my spirit. This means that I am more enlightened and closer to the hub of the Great Wheel than you. And this means that you will tell me what you want here. Now.",
+      "node_id": "node35",
+      "id": "Node010"
+    },
+    {
+      "text": "They're stars from New Reno. They heard the truth behind our gospel and came to cleanse their neurodynes.",
+      "node_id": "node41",
+      "id": "Node011"
+    },
+    {
+      "text": "So now you've spoken to Juan and Vikki. Are you interested in joining our friends in the search for enlightenment to the Great Wheel?",
+      "node_id": "node8",
+      "id": "Node013"
+    },
+    {
+      "text": "",
+      "node_id": "node75",
+      "id": "doAdjustEnd"
+    },
+    {
+      "text": "Without a scan, you cannot join us. Are you sure you wish to refuse?",
+      "node_id": "node72",
+      "id": "Node037"
+    },
+    {
+      "text": "Do not wait too long before returning with a reply. Your neurodynes will be filled with more and more pollution until we can begin the cleansing process.",
+      "node_id": "node51",
+      "id": "Node015"
+    },
+    {
+      "text": "Excellent! Go in, go in. Speak to Juan Cruz and Vikki Goldman - they're celebrities, you know, but they'll talk to YOU.",
+      "node_id": "node34",
+      "id": "Node009"
+    },
+    {
+      "text": "So... have you reconsidered whether you would remove this \"Badger\"?",
+      "node_id": "node12",
+      "id": "Node027"
+    },
+    {
+      "text": "When AHS-9 receives his vision from the Hub, we will leave, and join him in celestial glory!",
+      "node_id": "node60",
+      "id": "Node034"
+    },
+    {
+      "text": "You may leave this compound safely, traveler, but I would recommend not returning. If you do not travel with us, then you work against us - and I would hate to see you hurt.",
+      "node_id": "node53",
+      "id": "Node016"
+    },
+    {
+      "text": "",
+      "node_id": "node21",
+      "id": "doAdjust"
+    },
+    {
+      "text": "His people shall embrace the Hub! All will be well! You have performed a great service!",
+      "node_id": "node68",
+      "id": "Node029"
+    },
+    {
+      "text": "",
+      "node_id": "node49",
+      "id": "Node2026"
+    },
+    {
+      "text": "Go in and find Juan and Vikki. They can help you. Good luck, child.",
+      "node_id": "node37",
+      "id": "Node005"
+    },
+    {
+      "text": "",
+      "node_id": "node36",
+      "id": "Node998a"
+    },
+    {
+      "text": "",
+      "node_id": "node47",
+      "id": "Node017a"
+    },
+    {
+      "text": "",
+      "node_id": "node65",
+      "id": "Node024b"
+    },
+    {
+      "text": "Have you thought on aiding us in our struggle against the oppresive Shi? The Star Father will bless you if you take part in our crusade.",
+      "node_id": "node16",
+      "id": "Node022"
+    },
+    {
+      "text": "",
+      "node_id": "node44",
+      "id": "Node1436"
+    },
+    {
+      "text": "",
+      "node_id": "node57",
+      "id": "Node021a"
+    },
+    {
+      "text": "Before you can truly be one of us, we must perform an initial zeta scan - an alignment. Are you prepared for your scan?",
+      "node_id": "node71",
+      "id": "Node036"
+    },
+    {
+      "text": "",
+      "node_id": "node29",
+      "id": "Node998"
+    },
+    {
+      "text": "",
+      "node_id": "node58",
+      "id": "Node3132"
+    },
+    {
+      "text": "",
+      "node_id": "node5",
+      "id": "talk_p_proc"
+    },
+    {
+      "text": "",
+      "node_id": "node52",
+      "id": "Node014a"
+    },
+    {
+      "text": "Ah, poor child. Would you like to be aligned?",
+      "node_id": "node18",
+      "id": "Node003"
+    },
+    {
+      "text": "Perhaps you will reconsider. Let me know if you do. Now, is there anything the Hub can provide for you, recruit?",
+      "node_id": "node50",
+      "id": "Node021"
+    },
+    {
+      "text": "I understand the Shi have a massive tank of fuel. Maybe you can steal it from them.",
+      "node_id": "node70",
+      "id": "Node032"
+    },
+    {
+      "text": "Perhaps I can ease your troubled soul. What do you need?",
+      "node_id": "node11",
+      "id": "Node023"
+    },
+    {
+      "text": "Now that the ship is filled with fuel, we await only the word of AHS-9 the Great and Terrible to achieve liftoff.",
+      "node_id": "node14",
+      "id": "Node030"
+    },
+    {
+      "text": "",
+      "node_id": "node40",
+      "id": "Node999a"
+    },
+    {
+      "text": "The oppressive Shi have been contesting our power and wreaking havoc among our brethren with their neurodyne-influencing ways. We believe that if their Emperor is killed, they will see the error of their ways. Will you kill the Emperor?",
+      "node_id": "node15",
+      "id": "Node020"
+    },
+    {
+      "text": "",
+      "node_id": "node77",
+      "id": "timed_event_p_proc"
+    },
+    {
+      "text": "You see AHS-7, the second in command.",
+      "node_id": "node63_1",
+      "id": "Node029b_1"
+    },
+    {
+      "text": "Man, we're going to need a lot of shoes.",
+      "node_id": "node76_1",
+      "id": "doAdjustLesson1_1"
+    },
+    {
+      "text": "So. You have now had time to reconsider your decision. Will you join us?",
+      "node_id": "node9",
+      "id": "Node018"
+    },
+    {
+      "text": "",
+      "node_id": "node45",
+      "id": "Node015a"
+    },
+    {
+      "text": "",
+      "node_id": "node43",
+      "id": "Node999b"
+    }
+  ],
+  "links": [
+    {
+      "text": "Not right now. Can I get back to \u00a0you?",
+      "source": "Node038",
+      "target": "Node015"
+    },
+    {
+      "text": "Oh yes.",
+      "source": "Node038",
+      "target": "Node014a"
+    },
+    {
+      "text": "Nope. Don't want to now.",
+      "source": "Node038",
+      "target": "Node016a"
+    },
+    {
+      "text": "'Ey!",
+      "source": "Node006",
+      "target": "Node999"
+    },
+    {
+      "text": "Will do. I have more questions.",
+      "source": "Node024",
+      "target": "Node023"
+    },
+    {
+      "text": "Sure thing. Bye.",
+      "source": "Node024",
+      "target": "Node999"
+    },
+    {
+      "text": "Thanks.",
+      "source": "Node035",
+      "target": "Node999"
+    },
+    {
+      "text": "Thanks. I wanted to ask something else.",
+      "source": "Node035",
+      "target": "Node023"
+    },
+    {
+      "text": "-done-",
+      "source": "Node008",
+      "target": "Node999"
+    },
+    {
+      "text": "Who are you?",
+      "source": "Node002_1",
+      "target": "Node010"
+    },
+    {
+      "text": "I've come to kill you all.",
+      "source": "Node002_1",
+      "target": "Node998a"
+    },
+    {
+      "text": "I'm interested in potentially joining your group.",
+      "source": "Node002_1",
+      "target": "Node009"
+    },
+    {
+      "text": "I have a letter for AHS-9 from the Enlightened One in NCR.",
+      "source": "Node002_1",
+      "target": "Node007"
+    },
+    {
+      "text": "I'd like to look around.",
+      "source": "Node002_1",
+      "target": "Node008"
+    },
+    {
+      "text": "Aaagh! Nu! Nee!",
+      "source": "Node002_1",
+      "target": "Node0304"
+    },
+    {
+      "text": "",
+      "source": "Node029a_1",
+      "target": "Node029"
+    },
+    {
+      "text": "Yes. He's gone.",
+      "source": "Node028",
+      "target": "Node029a_1"
+    },
+    {
+      "text": "Not yet.",
+      "source": "Node028",
+      "target": "Node024"
+    },
+    {
+      "text": "I have a letter for AHS-9 from the Enlightened One in NCR.",
+      "source": "Node028",
+      "target": "Node007"
+    },
+    {
+      "text": "Okay.",
+      "source": "Node007",
+      "target": "Node999a"
+    },
+    {
+      "text": "I'll be the judge of that. Let's get the show on the road.",
+      "source": "Node012",
+      "target": "Node999a"
+    },
+    {
+      "text": "Well, let me at 'em!",
+      "source": "Node012",
+      "target": "Node999b"
+    },
+    {
+      "text": "Forget it. I'm out of here.",
+      "source": "Node012",
+      "target": "Node999"
+    },
+    {
+      "text": "Thanks. More questions?",
+      "source": "Node033",
+      "target": "Node023"
+    },
+    {
+      "text": "Thanks.",
+      "source": "Node033",
+      "target": "Node999"
+    },
+    {
+      "text": "Not yet.",
+      "source": "Node025",
+      "target": "Node024"
+    },
+    {
+      "text": "Yes, AHS-7. He is dead.",
+      "source": "Node025",
+      "target": "Node029b_1"
+    },
+    {
+      "text": "'Ank yu!",
+      "source": "Node004",
+      "target": "Node999a"
+    },
+    {
+      "text": "",
+      "source": "Node016a",
+      "target": "Node016"
+    },
+    {
+      "text": "Forget it. I don't like strong-arm tactics.",
+      "source": "Node019",
+      "target": "Node016"
+    },
+    {
+      "text": "Fine, I'll join.",
+      "source": "Node019",
+      "target": "Node1436"
+    },
+    {
+      "text": "-done-",
+      "source": "Node017",
+      "target": "Node998a"
+    },
+    {
+      "text": "",
+      "source": "Node024a",
+      "target": "Node024"
+    },
+    {
+      "text": "",
+      "source": "Node021c",
+      "target": "Node021"
+    },
+    {
+      "text": "Maybe later.",
+      "source": "Node014",
+      "target": "Node021"
+    },
+    {
+      "text": "Yes.",
+      "source": "Node014",
+      "target": "Node2026"
+    },
+    {
+      "text": "",
+      "source": "NodeAdjust",
+      "target": "Node999"
+    },
+    {
+      "text": "",
+      "source": "Node0304",
+      "target": "Node004"
+    },
+    {
+      "text": "",
+      "source": "Node0304",
+      "target": "Node003"
+    },
+    {
+      "text": "I'll do it.",
+      "source": "Node026",
+      "target": "Node024b"
+    },
+    {
+      "text": "He hasn't done me any harm. I'd rather not.",
+      "source": "Node026",
+      "target": "Node021c"
+    },
+    {
+      "text": "Huh. I have more questions.",
+      "source": "Node031",
+      "target": "Node023"
+    },
+    {
+      "text": "Yeah, maybe.",
+      "source": "Node031",
+      "target": "Node999"
+    },
+    {
+      "text": "I've come to kill you all.",
+      "source": "Node010",
+      "target": "Node998a"
+    },
+    {
+      "text": "I'm interested in potentially joining your group.",
+      "source": "Node010",
+      "target": "Node009"
+    },
+    {
+      "text": "I have a letter for AHS-9 from the Enlightened One in NCR.",
+      "source": "Node010",
+      "target": "Node007"
+    },
+    {
+      "text": "I'd like to look around.",
+      "source": "Node010",
+      "target": "Node008"
+    },
+    {
+      "text": "Where do I find them?",
+      "source": "Node011",
+      "target": "Node012"
+    },
+    {
+      "text": "Well, forget it. I'm out of here.",
+      "source": "Node011",
+      "target": "Node999"
+    },
+    {
+      "text": "I don't think it's my bag. Sorry.",
+      "source": "Node013",
+      "target": "Node016a"
+    },
+    {
+      "text": "Not right now. Can I get back to \u00a0you?",
+      "source": "Node013",
+      "target": "Node015a"
+    },
+    {
+      "text": "Hell no. Your crazy cult deserves to be torched down to the ground.",
+      "source": "Node013",
+      "target": "Node017a"
+    },
+    {
+      "text": "Oh yes. Yes yes yes.",
+      "source": "Node013",
+      "target": "Node1436"
+    },
+    {
+      "text": "Oh, all right. Scan me.",
+      "source": "Node037",
+      "target": "NodeAdjust"
+    },
+    {
+      "text": "Absolutely sure. I don't want to be monkeyed with by your machines.",
+      "source": "Node037",
+      "target": "Node016"
+    },
+    {
+      "text": "I changed my mind. I'll join.",
+      "source": "Node015",
+      "target": "Node014a"
+    },
+    {
+      "text": "You got it. Talk to you later.",
+      "source": "Node015",
+      "target": "Node999"
+    },
+    {
+      "text": "Ooh! Celebrities!",
+      "source": "Node009",
+      "target": "Node012"
+    },
+    {
+      "text": "Who are they?",
+      "source": "Node009",
+      "target": "Node011"
+    },
+    {
+      "text": "I'd still rather not.",
+      "source": "Node027",
+      "target": "Node021"
+    },
+    {
+      "text": "I'll do it.",
+      "source": "Node027",
+      "target": "Node024b"
+    },
+    {
+      "text": "Yeah, praise the Wheel or whatever. I have more questions.",
+      "source": "Node034",
+      "target": "Node023"
+    },
+    {
+      "text": "Most informative. Thanks.",
+      "source": "Node034",
+      "target": "Node999"
+    },
+    {
+      "text": "Thanks for the concern. See you.",
+      "source": "Node016",
+      "target": "Node999"
+    },
+    {
+      "text": "Can I still think about it?",
+      "source": "Node016",
+      "target": "Node015"
+    },
+    {
+      "text": "I do it all for the Wheel. Farewell.",
+      "source": "Node029",
+      "target": "Node999"
+    },
+    {
+      "text": "Thanks! I have more questions.",
+      "source": "Node029",
+      "target": "Node023"
+    },
+    {
+      "text": "Is there anything else you need me to do?",
+      "source": "Node029",
+      "target": "Node020"
+    },
+    {
+      "text": "",
+      "source": "Node2026",
+      "target": "Node026"
+    },
+    {
+      "text": "",
+      "source": "Node2026",
+      "target": "Node020"
+    },
+    {
+      "text": "'Ank yu!",
+      "source": "Node005",
+      "target": "Node999a"
+    },
+    {
+      "text": "",
+      "source": "Node998a",
+      "target": "Node998"
+    },
+    {
+      "text": "",
+      "source": "Node017a",
+      "target": "Node017"
+    },
+    {
+      "text": "",
+      "source": "Node024b",
+      "target": "Node024"
+    },
+    {
+      "text": "I'll do it.",
+      "source": "Node022",
+      "target": "Node024a"
+    },
+    {
+      "text": "I still am not sure I want to do it.",
+      "source": "Node022",
+      "target": "Node021"
+    },
+    {
+      "text": "",
+      "source": "Node1436",
+      "target": "Node036"
+    },
+    {
+      "text": "",
+      "source": "Node1436",
+      "target": "Node014"
+    },
+    {
+      "text": "",
+      "source": "Node021a",
+      "target": "Node021"
+    },
+    {
+      "text": "No! No scan!",
+      "source": "Node036",
+      "target": "Node037"
+    },
+    {
+      "text": "Sure. Let's do it.",
+      "source": "Node036",
+      "target": "NodeAdjust"
+    },
+    {
+      "text": "",
+      "source": "Node3132",
+      "target": "Node032"
+    },
+    {
+      "text": "",
+      "source": "Node3132",
+      "target": "Node031"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node028"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node020"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node025"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "doAdjust"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node013"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "doForceFieldOff"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node030"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node039"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node002_1"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node022"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node003"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node001"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node023"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node027"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "doCallGuards"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node018"
+    },
+    {
+      "text": "",
+      "source": "Node014a",
+      "target": "Node014"
+    },
+    {
+      "text": "'Es!",
+      "source": "Node003",
+      "target": "Node005"
+    },
+    {
+      "text": "No!",
+      "source": "Node003",
+      "target": "Node006"
+    },
+    {
+      "text": "Yes, I have some questions.",
+      "source": "Node021",
+      "target": "Node023"
+    },
+    {
+      "text": "No, not right now, thanks.",
+      "source": "Node021",
+      "target": "Node999"
+    },
+    {
+      "text": "Maybe. Thanks.",
+      "source": "Node032",
+      "target": "Node999"
+    },
+    {
+      "text": "That's an idea. I have more questions.",
+      "source": "Node032",
+      "target": "Node023"
+    },
+    {
+      "text": "Where can I find the meaning of all the terms you use?",
+      "source": "Node023",
+      "target": "Node033"
+    },
+    {
+      "text": "Where is Crocket?",
+      "source": "Node023",
+      "target": "Node035"
+    },
+    {
+      "text": "When does the ship take off?",
+      "source": "Node023",
+      "target": "Node034"
+    },
+    {
+      "text": "Where can I get fuel for the Poseidon tanker?",
+      "source": "Node023",
+      "target": "Node3132"
+    },
+    {
+      "text": "Nothing, thanks. Bye.",
+      "source": "Node023",
+      "target": "Node999"
+    },
+    {
+      "text": "Thanks. Bye.",
+      "source": "Node030",
+      "target": "Node999"
+    },
+    {
+      "text": "Sure we will. I have some questions.",
+      "source": "Node030",
+      "target": "Node023"
+    },
+    {
+      "text": "",
+      "source": "Node999a",
+      "target": "Node999"
+    },
+    {
+      "text": "Yeah, I'll do it.",
+      "source": "Node020",
+      "target": "Node024a"
+    },
+    {
+      "text": "No, the Shi have never done anything to me.",
+      "source": "Node020",
+      "target": "Node021a"
+    },
+    {
+      "text": "",
+      "source": "timed_event_p_proc",
+      "target": "doAdjustEnd"
+    },
+    {
+      "text": "",
+      "source": "timed_event_p_proc",
+      "target": "doAdjustLesson1_1"
+    },
+    {
+      "text": "",
+      "source": "Node029b_1",
+      "target": "Node029"
+    },
+    {
+      "text": "",
+      "source": "doAdjustLesson1_1",
+      "target": "Node038"
+    },
+    {
+      "text": "No.",
+      "source": "Node018",
+      "target": "Node016"
+    },
+    {
+      "text": "Yes.",
+      "source": "Node018",
+      "target": "Node1436"
+    },
+    {
+      "text": "I still need more time.",
+      "source": "Node018",
+      "target": "Node019"
+    },
+    {
+      "text": "",
+      "source": "Node015a",
+      "target": "Node015"
+    },
+    {
+      "text": "",
+      "source": "Node999b",
+      "target": "Node999"
+    }
+  ]
+}

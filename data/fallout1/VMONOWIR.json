@@ -1,0 +1,64 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "It severely damages your right leg.",
+      "node_id": "node2_2",
+      "id": "spatial_p_proc_2"
+    },
+    {
+      "text": "You try to disarm the wire, but can't get a good handle on it. You pull back before it cuts you.",
+      "node_id": "node3_2",
+      "id": "use_skill_on_p_proc_2"
+    },
+    {
+      "text": "",
+      "node_id": "node1",
+      "id": "start"
+    },
+    {
+      "text": "It severely damages your left leg.",
+      "node_id": "node2_3",
+      "id": "spatial_p_proc_3"
+    },
+    {
+      "text": "You try to disarm the wire, but slip and cut yourself with it.",
+      "node_id": "node3_1",
+      "id": "use_skill_on_p_proc_1"
+    },
+    {
+      "text": "You feel intense pain in your legs. You've been sliced wide open by a monofilament wire.",
+      "node_id": "node2_1",
+      "id": "spatial_p_proc_1"
+    }
+  ],
+  "links": [
+    {
+      "text": "",
+      "source": "start",
+      "target": "spatial_p_proc_3"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "spatial_p_proc_2"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "use_skill_on_p_proc_1"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "spatial_p_proc_1"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "use_skill_on_p_proc_2"
+    }
+  ]
+}

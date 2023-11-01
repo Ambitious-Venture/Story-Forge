@@ -1,0 +1,179 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "You skillfully disarm the trap. skillfully disarms the trap.",
+      "node_id": "node13_1",
+      "id": "Disarm_Traps_1"
+    },
+    {
+      "text": "You see an uncovered grave.",
+      "node_id": "node13_3",
+      "id": "Disarm_Traps_3"
+    },
+    {
+      "text": "You find a trap on the grave. finds a trap on the grave.",
+      "node_id": "node9_1",
+      "id": "pickup_p_proc_1"
+    },
+    {
+      "text": "You fail to properly set the trap in the grave.",
+      "node_id": "node11_2",
+      "id": "Set_Trap_2"
+    },
+    {
+      "text": "The grave site has been covered.",
+      "node_id": "node10_2",
+      "id": "use_obj_on_p_proc_2"
+    },
+    {
+      "text": "You skillfully set a trap in the grave. fails to properly set the trap in the grave.",
+      "node_id": "node11_3",
+      "id": "Set_Trap_3"
+    },
+    {
+      "text": "You skillfully set a trap in the grave. fails to properly set the trap in the grave.",
+      "node_id": "node11_5",
+      "id": "Set_Trap_5"
+    },
+    {
+      "text": "You fail to disarm the trap.",
+      "node_id": "node13_6",
+      "id": "Disarm_Traps_6"
+    },
+    {
+      "text": "You see a grave.",
+      "node_id": "node13_2",
+      "id": "Disarm_Traps_2"
+    },
+    {
+      "text": "You do not find any traps on the grave.",
+      "node_id": "node13_4",
+      "id": "Disarm_Traps_4"
+    },
+    {
+      "text": "You skillfully disarm the trap. fail to disarm the trap.",
+      "node_id": "node13_7",
+      "id": "Disarm_Traps_7"
+    },
+    {
+      "text": "You skillfully set a trap in the grave. skillfully sets a trap in the grave.",
+      "node_id": "node11_1",
+      "id": "Set_Trap_1"
+    },
+    {
+      "text": "You skillfully disarm the trap. does not find any traps on the grave.",
+      "node_id": "node13_5",
+      "id": "Disarm_Traps_5"
+    },
+    {
+      "text": "You do not find any traps on the grave. does not find any traps on the grave.",
+      "node_id": "node12_1",
+      "id": "use_skill_on_p_proc_1"
+    },
+    {
+      "text": "You fail to properly set the trap in the grave.",
+      "node_id": "node11_4",
+      "id": "Set_Trap_4"
+    },
+    {
+      "text": "You find a trap on the grave. finds a trap on the grave.",
+      "node_id": "node7_1",
+      "id": "use_p_proc_1"
+    },
+    {
+      "text": "You find a trap on the grave. finds a trap on the grave.",
+      "node_id": "node10_1",
+      "id": "use_obj_on_p_proc_1"
+    },
+    {
+      "text": "",
+      "node_id": "node8",
+      "id": "Explode_Grave"
+    }
+  ],
+  "links": [
+    {
+      "text": "",
+      "source": "Disarm_Traps_1",
+      "target": "Explode_Grave"
+    },
+    {
+      "text": "",
+      "source": "Disarm_Traps_3",
+      "target": "Explode_Grave"
+    },
+    {
+      "text": "",
+      "source": "pickup_p_proc_1",
+      "target": "Explode_Grave"
+    },
+    {
+      "text": "",
+      "source": "Set_Trap_2",
+      "target": "Explode_Grave"
+    },
+    {
+      "text": "",
+      "source": "use_obj_on_p_proc_2",
+      "target": "Explode_Grave"
+    },
+    {
+      "text": "",
+      "source": "Set_Trap_3",
+      "target": "Explode_Grave"
+    },
+    {
+      "text": "",
+      "source": "Set_Trap_5",
+      "target": "Explode_Grave"
+    },
+    {
+      "text": "",
+      "source": "Disarm_Traps_6",
+      "target": "Explode_Grave"
+    },
+    {
+      "text": "",
+      "source": "Disarm_Traps_2",
+      "target": "Explode_Grave"
+    },
+    {
+      "text": "",
+      "source": "Disarm_Traps_4",
+      "target": "Explode_Grave"
+    },
+    {
+      "text": "",
+      "source": "Disarm_Traps_7",
+      "target": "Explode_Grave"
+    },
+    {
+      "text": "",
+      "source": "Set_Trap_1",
+      "target": "Explode_Grave"
+    },
+    {
+      "text": "",
+      "source": "Disarm_Traps_5",
+      "target": "Explode_Grave"
+    },
+    {
+      "text": "",
+      "source": "Set_Trap_4",
+      "target": "Explode_Grave"
+    },
+    {
+      "text": "",
+      "source": "use_p_proc_1",
+      "target": "Explode_Grave"
+    },
+    {
+      "text": "",
+      "source": "use_obj_on_p_proc_1",
+      "target": "Explode_Grave"
+    }
+  ]
+}

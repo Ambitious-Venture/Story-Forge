@@ -1,0 +1,604 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "",
+      "node_id": "node19",
+      "id": "slimbarter"
+    },
+    {
+      "text": "",
+      "node_id": "node45",
+      "id": "Node11a"
+    },
+    {
+      "text": "",
+      "node_id": "node26",
+      "id": "Node960"
+    },
+    {
+      "text": "Hello there Slim. My name\u2019s . Why do you call this Trapper Town?",
+      "node_id": "node10_2",
+      "id": "Node004_2"
+    },
+    {
+      "text": "",
+      "node_id": "node37",
+      "id": "Node997"
+    },
+    {
+      "text": "",
+      "node_id": "node7",
+      "id": "Node050"
+    },
+    {
+      "text": "Oh, you mean a GECK. huh? Well, I saw an ad for one of those in an old magazine. But I don\u2019t think they exist anymore. Certainly not around here, anyplace.",
+      "node_id": "node43",
+      "id": "Node009"
+    },
+    {
+      "text": "We blocked off all the entrances to the north side of town except one. I have a key to that one entrance -- just in case anyone needs to get over there for any reason. I can\u2019t figure out why anyone would want to, though; I sure wouldn\u2019t.",
+      "node_id": "node48",
+      "id": "Node015"
+    },
+    {
+      "text": "Your tribe are mostly farmers aren\u2019t they? I don\u2019t think I could teach you a darn thing.",
+      "node_id": "node31",
+      "id": "Node027"
+    },
+    {
+      "text": "",
+      "node_id": "node56",
+      "id": "Node24a"
+    },
+    {
+      "text": "",
+      "node_id": "node6",
+      "id": "Node998"
+    },
+    {
+      "text": "People been disappearing. Just them as are slow and sickly, for now. 'Course, they don't stop to cook their food like us. They just gnaw it into a few bloody clumps of hair and rags. Least that's all we find in the morning. I've even heard talk that there's some kind of giant rat god that tells 'em all what to do.",
+      "node_id": "node55",
+      "id": "Node024"
+    },
+    {
+      "text": "The golden ones are sneaky and twice as vicious as the regular ones. Plus, once they bite you they\u2019ll hold on and gnaw through to the bone. And that\u2019s not even counting their poison. But their hides look real nice, and so they\u2019re worth a lot more.",
+      "node_id": "node52",
+      "id": "Node019"
+    },
+    {
+      "text": "I don\u2019t think I\u2019d try it if I were you. You might get your hands all dirty and callused. (heh, hee, hee) Anything else you want to know about?",
+      "node_id": "node28",
+      "id": "Node017"
+    },
+    {
+      "text": "Well, I guess you didn\u2019t need that key as much as you thought, huh? You sure you got what you  wanted?",
+      "node_id": "node21",
+      "id": "Node014"
+    },
+    {
+      "text": "You\u2019re interested in trapping, huh? (He looks you up and down.)",
+      "node_id": "node49",
+      "id": "Node016"
+    },
+    {
+      "text": "Well they taste pretty good if you spit-roast 'em with just a titch of herbs. But most of the time they can be a real nuisance, and they're getting worse. We've barricaded the north side of town but they're sneaking through anyway. There's one door to the north side, right here, but I have it locked.",
+      "node_id": "node40_1",
+      "id": "Node023_1"
+    },
+    {
+      "text": "I\u2019m always happy to share my skill with others. I can teach you some tricks for only $50.",
+      "node_id": "node30_1",
+      "id": "Node026_1"
+    },
+    {
+      "text": "",
+      "node_id": "node32",
+      "id": "Node980"
+    },
+    {
+      "text": "",
+      "node_id": "node5",
+      "id": "talk_p_proc"
+    },
+    {
+      "text": "",
+      "node_id": "node29",
+      "id": "Node970"
+    },
+    {
+      "text": "Just be careful. Seems the deeper you go, the bigger they get back there.",
+      "node_id": "node41",
+      "id": "Node003"
+    },
+    {
+      "text": "Maybe he found where they come from and got all ate up. (heh, hee, hee) But I tell you one thing; Mrs. Buckner\u2019s heart just about broke when he didn\u2019t come back. You see, he was her beau. Mrs. Buckner runs Buckner house, y\u2019know.",
+      "node_id": "node54",
+      "id": "Node021"
+    },
+    {
+      "text": "",
+      "node_id": "node44",
+      "id": "Node06a"
+    },
+    {
+      "text": "Hello there, my name\u2019s Slim Picket. I speak for this part of town. (point at self) Me",
+      "node_id": "node38_1",
+      "id": "Node005_1"
+    },
+    {
+      "text": "Say, your antenna don't pick up all the channels do it? Well, I tell you what. Here's a key to that door behind me. There's all kinds of rats back there - even one big one s'posedly. You go through there and kill all the dang rats you can eat. How's that?",
+      "node_id": "node8_1",
+      "id": "Node006_1"
+    },
+    {
+      "text": "",
+      "node_id": "node39",
+      "id": "Node999"
+    },
+    {
+      "text": "What did you want to know about?",
+      "node_id": "node47_1",
+      "id": "Node008_1"
+    },
+    {
+      "text": "Well, that ought to have learned you a thing or three about the great out-of-doors. Hope you can put it to good use. Remember about the scat now.",
+      "node_id": "node34",
+      "id": "Node028"
+    },
+    {
+      "text": "Hello there, my name\u2019s Slim Picket. I speak for this part of town. , me hungry",
+      "node_id": "node38_2",
+      "id": "Node005_2"
+    },
+    {
+      "text": "",
+      "node_id": "node33",
+      "id": "Node990"
+    },
+    {
+      "text": "You still want that key? Why?",
+      "node_id": "node46_1",
+      "id": "Node010_1"
+    },
+    {
+      "text": "One real good trapper, name of Smiley, went north looking for wherever they come from. He was convinced that they all came from one place. Thing is, nobody\u2019s heard from him for a couple months now.",
+      "node_id": "node53",
+      "id": "Node020"
+    },
+    {
+      "text": "",
+      "node_id": "node22",
+      "id": "Node920"
+    },
+    {
+      "text": "Hello there, friend. Nice of you to visit all of us here. My name\u2019s Slim Picket. I talk for Trapper Town.",
+      "node_id": "node10_1",
+      "id": "Node004_1"
+    },
+    {
+      "text": "I just don\u2019t want to have anything to do with those critters. I leave \u2018em alone and hope they\u2019ll do the same for me. Take care now.",
+      "node_id": "node42",
+      "id": "Node002"
+    },
+    {
+      "text": "Hi there. How can I help you out?",
+      "node_id": "node11_1",
+      "id": "Node007_1"
+    },
+    {
+      "text": "Well, now you look like you could handle yourself. Geckos come in two types -\u2014 regular or golden. The regular ones are easy to trap and hunt, but the golden ones are worth more money.",
+      "node_id": "node27",
+      "id": "Node018"
+    },
+    {
+      "text": "",
+      "node_id": "node25",
+      "id": "Node950"
+    },
+    {
+      "text": "If you want the key, you\u2019re going to have to buy it from me.",
+      "node_id": "node24",
+      "id": "Node012"
+    },
+    {
+      "text": "I guess you got what you wanted. Just be careful now.",
+      "node_id": "node20",
+      "id": "Node013"
+    },
+    {
+      "text": "Well, little missy, you sure don\u2019t look chewed up by those rats yet -- but you will if you keep pestering them. Just don\u2019t bring any back here with you.",
+      "node_id": "node9_1",
+      "id": "Node001_1"
+    },
+    {
+      "text": "We have a whole lot full of cars. All ready for their owners to come back from shopping. Thing is, they never did. Not a dang one of \u2018em runs, though. There\u2019s a real beauty of a Chrysalis Motors Highwayman just east of here, but I haven\u2019t figured out how to get to it, yet.",
+      "node_id": "node50",
+      "id": "Node022"
+    }
+  ],
+  "links": [
+    {
+      "text": "",
+      "source": "slimbarter",
+      "target": "Node013"
+    },
+    {
+      "text": "",
+      "source": "slimbarter",
+      "target": "Node014"
+    },
+    {
+      "text": "",
+      "source": "Node960",
+      "target": "Node018"
+    },
+    {
+      "text": "",
+      "source": "Node960",
+      "target": "Node017"
+    },
+    {
+      "text": "Do you know where I could find something called a Garden of Eden Creation Kit?",
+      "source": "Node004_2",
+      "target": "Node009"
+    },
+    {
+      "text": "Nice to meet you, Mr. Picket. I\u2019m just looking around for now, though. Goodbye.",
+      "source": "Node004_2",
+      "target": "Node999"
+    },
+    {
+      "text": "",
+      "source": "Node997",
+      "target": "Node004_2"
+    },
+    {
+      "text": "",
+      "source": "Node997",
+      "target": "Node004_1"
+    },
+    {
+      "text": "",
+      "source": "Node997",
+      "target": "Node005_1"
+    },
+    {
+      "text": "",
+      "source": "Node997",
+      "target": "Node005_2"
+    },
+    {
+      "text": "Really? Well, tell me about something else then.",
+      "source": "Node009",
+      "target": "Node008_1"
+    },
+    {
+      "text": "Oh, well; that\u2019s all I wanted to know. Thanks.",
+      "source": "Node009",
+      "target": "Node999"
+    },
+    {
+      "text": "Interesting; tell me something else.",
+      "source": "Node015",
+      "target": "Node008_1"
+    },
+    {
+      "text": "I\u2019m interested in getting that key from you.",
+      "source": "Node015",
+      "target": "Node010_1"
+    },
+    {
+      "text": "That\u2019s all I need to know for now. Goodbye.",
+      "source": "Node015",
+      "target": "Node999"
+    },
+    {
+      "text": "I think I\u2019ll be going then. Goodbye.",
+      "source": "Node027",
+      "target": "Node999"
+    },
+    {
+      "text": "I\u2019m that good already, huh? Well, tell me about something else then.",
+      "source": "Node027",
+      "target": "Node008_1"
+    },
+    {
+      "text": "",
+      "source": "Node24a",
+      "target": "Node010_1"
+    },
+    {
+      "text": "Interesting. Tell me about something else.",
+      "source": "Node024",
+      "target": "Node008_1"
+    },
+    {
+      "text": "Interesting. Maybe someone should do something about that. Say, do you have a key to the north side of Trapper Town?",
+      "source": "Node024",
+      "target": "Node24a"
+    },
+    {
+      "text": "That\u2019s all I need to know for now. Goodbye.",
+      "source": "Node024",
+      "target": "Node999"
+    },
+    {
+      "text": "Tell me more.",
+      "source": "Node019",
+      "target": "Node020"
+    },
+    {
+      "text": "That\u2019s all I need to know for now. Goodbye.",
+      "source": "Node017",
+      "target": "Node999"
+    },
+    {
+      "text": "I sure wish I was as skillful a trapper as you are. I bet you could teach me a lot.",
+      "source": "Node017",
+      "target": "Node970"
+    },
+    {
+      "text": "Well, I sure wouldn\u2019t want to get my hands dirty. Tell me something else.",
+      "source": "Node017",
+      "target": "Node008_1"
+    },
+    {
+      "text": "Hey, Slim, I have a couple of things that I wanted to ask you about.",
+      "source": "Node014",
+      "target": "Node008_1"
+    },
+    {
+      "text": "Oops; I knew there was something else I wanted.",
+      "source": "Node014",
+      "target": "slimbarter"
+    },
+    {
+      "text": "I don\u2019t need anything else from you. Thanks anyhow.",
+      "source": "Node014",
+      "target": "Node999"
+    },
+    {
+      "text": "[MORE]",
+      "source": "Node016",
+      "target": "Node960"
+    },
+    {
+      "text": "That\u2019s all I need to know for now. Goodbye.",
+      "source": "Node023_1",
+      "target": "Node999"
+    },
+    {
+      "text": "At home mom just used to pan-fry them with a little butter. But, tell me more about  the rat attacks.",
+      "source": "Node023_1",
+      "target": "Node024"
+    },
+    {
+      "text": "Well, you better have a lot to teach me for that.",
+      "source": "Node026_1",
+      "target": "Node990"
+    },
+    {
+      "text": "I don\u2019t think I need to learn anything right now. Goodbye.",
+      "source": "Node026_1",
+      "target": "Node999"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node004_1"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node007_1"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node001_1"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node004_2"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node998"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node050"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node006_1"
+    },
+    {
+      "text": "",
+      "source": "Node970",
+      "target": "Node027"
+    },
+    {
+      "text": "",
+      "source": "Node970",
+      "target": "Node026_1"
+    },
+    {
+      "text": "That\u2019s all I need to know for now. Goodbye.",
+      "source": "Node021",
+      "target": "Node999"
+    },
+    {
+      "text": "Interesting. Tell me something else.",
+      "source": "Node021",
+      "target": "Node008_1"
+    },
+    {
+      "text": "",
+      "source": "Node06a",
+      "target": "Node11a"
+    },
+    {
+      "text": "No! Rats scaaarrrry! No. Me go now.",
+      "source": "Node006_1",
+      "target": "Node999"
+    },
+    {
+      "text": "OK. Heh, heh, rat kill. Heh, heh, heh.",
+      "source": "Node006_1",
+      "target": "Node06a"
+    },
+    {
+      "text": "Do you ever go to the north side?",
+      "source": "Node008_1",
+      "target": "Node015"
+    },
+    {
+      "text": "Do you know anything about a Garden of Eden Creation Kit?",
+      "source": "Node008_1",
+      "target": "Node009"
+    },
+    {
+      "text": "Thanks for the info. I don\u2019t think I need to know about anything else. Goodbye.",
+      "source": "Node008_1",
+      "target": "Node999"
+    },
+    {
+      "text": "You sure have a lot of cars here.",
+      "source": "Node008_1",
+      "target": "Node022"
+    },
+    {
+      "text": "Tell me about trapping geckos.",
+      "source": "Node008_1",
+      "target": "Node016"
+    },
+    {
+      "text": "Thanks for the information, Slim. I\u2019m going to go and practice right now. Goodbye.",
+      "source": "Node028",
+      "target": "Node999"
+    },
+    {
+      "text": "Thank you for all the tips, Slim, but I still think just smelling the scat is good enough. I was wondering about something else, though.",
+      "source": "Node028",
+      "target": "Node008_1"
+    },
+    {
+      "text": "You\u2019re right. Old scat doesn\u2019t taste near the same as fresh. Thanks, Slim. Now tell me more  about those geckos.",
+      "source": "Node028",
+      "target": "Node018"
+    },
+    {
+      "text": "",
+      "source": "Node990",
+      "target": "Node028"
+    },
+    {
+      "text": "I guess I wouldn\u2019t want a key. It sounds as though it\u2019s pretty dangerous over there.",
+      "source": "Node010_1",
+      "target": "Node999"
+    },
+    {
+      "text": "I\u2019m an explorer; I want to explore everyplace I can. Besides, maybe there\u2019s a GECK forgotten on a back shelf in there.",
+      "source": "Node010_1",
+      "target": "Node920"
+    },
+    {
+      "text": "What do you think happened to him?",
+      "source": "Node020",
+      "target": "Node021"
+    },
+    {
+      "text": "",
+      "source": "Node920",
+      "target": "Node012"
+    },
+    {
+      "text": "Do you know where I could find something called a Garden of Eden Creation Kit?",
+      "source": "Node004_1",
+      "target": "Node009"
+    },
+    {
+      "text": "Nice to meet you, Mr. Picket. I\u2019m just looking around for now, though. Goodbye.",
+      "source": "Node004_1",
+      "target": "Node999"
+    },
+    {
+      "text": "I guess I don\u2019t need anything. Goodbye.",
+      "source": "Node007_1",
+      "target": "Node999"
+    },
+    {
+      "text": "Interesting. Tell me something else.",
+      "source": "Node018",
+      "target": "Node008_1"
+    },
+    {
+      "text": "Tell me more about the golden geckos.",
+      "source": "Node018",
+      "target": "Node019"
+    },
+    {
+      "text": "That\u2019s all I need to know for now. Goodbye.",
+      "source": "Node018",
+      "target": "Node999"
+    },
+    {
+      "text": "",
+      "source": "Node950",
+      "target": "Node012"
+    },
+    {
+      "text": "I don\u2019t want to trade for the key. It won\u2019t cost you anything to let me borrow it. I\u2019ll make sure to close the door after myself.",
+      "source": "Node012",
+      "target": "Node950"
+    },
+    {
+      "text": "I don\u2019t mind trading for the key.",
+      "source": "Node012",
+      "target": "slimbarter"
+    },
+    {
+      "text": "I don\u2019t think I want the key. Goodbye.",
+      "source": "Node012",
+      "target": "Node999"
+    },
+    {
+      "text": "Thanks.",
+      "source": "Node013",
+      "target": "Node999"
+    },
+    {
+      "text": "Uh, ok.",
+      "source": "Node001_1",
+      "target": "Node999"
+    },
+    {
+      "text": "No, thanks to you.",
+      "source": "Node001_1",
+      "target": "Node002"
+    },
+    {
+      "text": "Don\u2019t worry. I won\u2019t.",
+      "source": "Node001_1",
+      "target": "Node003"
+    },
+    {
+      "text": "A Highwayman? Interesting. Tell me about something else.",
+      "source": "Node022",
+      "target": "Node008_1"
+    },
+    {
+      "text": "That\u2019s all I need to know for now. Goodbye.",
+      "source": "Node022",
+      "target": "Node999"
+    }
+  ]
+}

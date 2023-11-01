@@ -1,0 +1,44 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "This is a badly worn-out desk with a dusty, cracked computer seated precariously atop it.",
+      "node_id": "node1",
+      "id": "start"
+    },
+    {
+      "text": "Many circuits are fried from an EMP burst.",
+      "node_id": "node2_1",
+      "id": "computer00_1"
+    },
+    {
+      "text": "It doesn't work.",
+      "node_id": "node2_2",
+      "id": "computer00_2"
+    },
+    {
+      "text": "You slice your hands on the case.",
+      "node_id": "node2_3",
+      "id": "computer00_3"
+    }
+  ],
+  "links": [
+    {
+      "text": "",
+      "source": "start",
+      "target": "computer00_3"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "computer00_1"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "computer00_2"
+    }
+  ]
+}

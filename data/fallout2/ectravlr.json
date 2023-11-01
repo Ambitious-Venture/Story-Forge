@@ -1,0 +1,34 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "Ug.",
+      "node_id": "node15",
+      "id": "NodeFleeing"
+    },
+    {
+      "text": "A traveler.",
+      "node_id": "node16",
+      "id": "NodeFighting"
+    },
+    {
+      "text": "",
+      "node_id": "node14",
+      "id": "combat_p_proc"
+    }
+  ],
+  "links": [
+    {
+      "text": "",
+      "source": "combat_p_proc",
+      "target": "NodeFleeing"
+    },
+    {
+      "text": "",
+      "source": "combat_p_proc",
+      "target": "NodeFighting"
+    }
+  ]
+}

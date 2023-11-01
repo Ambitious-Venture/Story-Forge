@@ -1,0 +1,24 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "",
+      "node_id": "node27",
+      "id": "Zark_Party"
+    },
+    {
+      "text": "The electrified floor discharges.",
+      "node_id": "node26",
+      "id": "timed_event_p_proc"
+    }
+  ],
+  "links": [
+    {
+      "text": "",
+      "source": "timed_event_p_proc",
+      "target": "Zark_Party"
+    }
+  ]
+}

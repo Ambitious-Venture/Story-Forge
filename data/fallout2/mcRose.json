@@ -1,0 +1,44 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "Hey! I\u2019m the only one allowed to go through the lost and found box.",
+      "node_id": "node52",
+      "id": "timed_event_p_proc"
+    },
+    {
+      "text": "",
+      "node_id": "node5",
+      "id": "Node998"
+    },
+    {
+      "text": "",
+      "node_id": "node4",
+      "id": "pickup_p_proc"
+    },
+    {
+      "text": "",
+      "node_id": "node14",
+      "id": "damage_p_proc"
+    }
+  ],
+  "links": [
+    {
+      "text": "",
+      "source": "timed_event_p_proc",
+      "target": "Node998"
+    },
+    {
+      "text": "",
+      "source": "pickup_p_proc",
+      "target": "Node998"
+    },
+    {
+      "text": "",
+      "source": "damage_p_proc",
+      "target": "Node998"
+    }
+  ]
+}

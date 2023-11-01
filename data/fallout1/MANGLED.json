@@ -1,0 +1,24 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "You notice bloody tracks leading to the bodies.",
+      "node_id": "node1",
+      "id": "start"
+    },
+    {
+      "text": "It looks like some of the animals dragged the bodies here.",
+      "node_id": "node2",
+      "id": "dead00"
+    }
+  ],
+  "links": [
+    {
+      "text": "",
+      "source": "start",
+      "target": "dead00"
+    }
+  ]
+}

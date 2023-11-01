@@ -1,0 +1,94 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "",
+      "node_id": "node6",
+      "id": "damage_p_proc"
+    },
+    {
+      "text": "",
+      "node_id": "node7",
+      "id": "map_update_p_proc"
+    },
+    {
+      "text": "You failed to bypass the electronic lock.",
+      "node_id": "node2",
+      "id": "look_at_p_proc"
+    },
+    {
+      "text": "",
+      "node_id": "node1",
+      "id": "start"
+    },
+    {
+      "text": "You failed to bypass the electronic lock.",
+      "node_id": "node3",
+      "id": "use_p_proc"
+    },
+    {
+      "text": "You bypass the electronic lock.",
+      "node_id": "node5_1",
+      "id": "use_obj_on_p_proc_1"
+    },
+    {
+      "text": "You failed to bypass the electronic lock.",
+      "node_id": "node8_2",
+      "id": "OpenDoor_2"
+    },
+    {
+      "text": "You bypass the electronic lock.",
+      "node_id": "node8_1",
+      "id": "OpenDoor_1"
+    },
+    {
+      "text": "You bypass the electronic lock.",
+      "node_id": "node4",
+      "id": "use_skill_on_p_proc"
+    }
+  ],
+  "links": [
+    {
+      "text": "",
+      "source": "start",
+      "target": "use_obj_on_p_proc_1"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "map_update_p_proc"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "look_at_p_proc"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "use_skill_on_p_proc"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "use_p_proc"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "damage_p_proc"
+    },
+    {
+      "text": "",
+      "source": "use_skill_on_p_proc",
+      "target": "OpenDoor_2"
+    },
+    {
+      "text": "",
+      "source": "use_skill_on_p_proc",
+      "target": "OpenDoor_1"
+    }
+  ]
+}

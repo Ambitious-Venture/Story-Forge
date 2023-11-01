@@ -1,0 +1,34 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "You see a rabid boxing fan. He is screaming for blood.",
+      "node_id": "node2_1",
+      "id": "ChooseFromList_1"
+    },
+    {
+      "text": "",
+      "node_id": "node10",
+      "id": "CLICK_MORE"
+    },
+    {
+      "text": "",
+      "node_id": "node3",
+      "id": "CLICK_PREV"
+    }
+  ],
+  "links": [
+    {
+      "text": "",
+      "source": "CLICK_MORE",
+      "target": "ChooseFromList_1"
+    },
+    {
+      "text": "",
+      "source": "CLICK_PREV",
+      "target": "ChooseFromList_1"
+    }
+  ]
+}

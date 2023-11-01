@@ -1,0 +1,774 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "You see a hideous ghoul.",
+      "node_id": "node5_1",
+      "id": "look_at_p_proc_1"
+    },
+    {
+      "text": "Once, I was as you are now - a pure human. But, through the intervention of Nightkin, I was taken to some place far removed from here.",
+      "node_id": "node51",
+      "id": "Talius38"
+    },
+    {
+      "text": "",
+      "node_id": "node1",
+      "id": "start"
+    },
+    {
+      "text": "Though I am different in appearance, I have much knowledge to impart upon those who will listen.",
+      "node_id": "node22",
+      "id": "Talius32"
+    },
+    {
+      "text": "There is a way in which you can help. The one who did this to me must  be stopped.",
+      "node_id": "node32",
+      "id": "Talius11"
+    },
+    {
+      "text": "My entrance into the Followers was quite simple really. It was the Followers who rescued me from the full effects of the transformation into  a heinous beast.",
+      "node_id": "node15",
+      "id": "Talius37"
+    },
+    {
+      "text": "I thank you for your kindness. You do me a great service. Please, accept this as a token of good will. I purloined it from the body of a  deceased renegade.",
+      "node_id": "node34",
+      "id": "Talius13"
+    },
+    {
+      "text": "I doubt you would have, coming from the outside world. Now, I must retire. Please be careful out there with those creatures who see to destroy.",
+      "node_id": "node42",
+      "id": "Talius26"
+    },
+    {
+      "text": "I am glad to hear that he has come to his senses to allow the people out. While it is far from safe out here, it will do good to restore the earth once more. Farewell, my friend.",
+      "node_id": "node45",
+      "id": "Talius25"
+    },
+    {
+      "text": "I believed as such. He always was a cautious man. I pity him his responsibility. May you fare better than myself on this fool's quest.",
+      "node_id": "node44",
+      "id": "Talius24"
+    },
+    {
+      "text": "I apologize. I forget myself at times. Would you like some brain help?",
+      "node_id": "node16",
+      "id": "Talius03"
+    },
+    {
+      "text": "Please, dispense justice upon the defouler who seeks to undermine the trust of the Followers.",
+      "node_id": "node9",
+      "id": "Talius40"
+    },
+    {
+      "text": "I see that you are a little slow. I, too, was once of your intelligence. But, through the teachings of the Followers, I have been able to transcend  my shortcomings.",
+      "node_id": "node12",
+      "id": "Talius02"
+    },
+    {
+      "text": "The place from whence I came was in the mountains far to the north. It was a small vault in which many people lived.",
+      "node_id": "node29",
+      "id": "Talius15"
+    },
+    {
+      "text": "Me .",
+      "node_id": "node11_3",
+      "id": "Talius01_3"
+    },
+    {
+      "text": "Be at peace then. I can understand your unease. Mayhaps another will come to help remove this threat. Good day to you.",
+      "node_id": "node35",
+      "id": "Talius14"
+    },
+    {
+      "text": "",
+      "node_id": "node47",
+      "id": "Talius29a"
+    },
+    {
+      "text": "I know very little. The only things I know are that our scouts are the only ones who ever go over to the Children to spy on them. No one else is allowed because of the danger.",
+      "node_id": "node24",
+      "id": "Talius29"
+    },
+    {
+      "text": "Excellent job on removing from our midst that dissembler, Heather.",
+      "node_id": "node8",
+      "id": "Talius41"
+    },
+    {
+      "text": "Greetings brother. My name is Talius. How might I assist you today?",
+      "node_id": "node11_1",
+      "id": "Talius01_1"
+    },
+    {
+      "text": "",
+      "node_id": "node13",
+      "id": "combat"
+    },
+    {
+      "text": "That is good news indeed to hear. I am overjoyed to hear the destruction of one evil and a town set free. Please, take this.",
+      "node_id": "node40",
+      "id": "Talius20"
+    },
+    {
+      "text": "Sarcasm and slights shall not deter me my benevolent disposition. The time has come for you to depart. Good day.",
+      "node_id": "node39",
+      "id": "Talius21"
+    },
+    {
+      "text": "Please depart. I am attempting to retire here. Come back during the day.",
+      "node_id": "node10",
+      "id": "Talius00"
+    },
+    {
+      "text": "Those whom the Followers and Children call Nightkin are not what they seem. They have been created by one called the Lieutenant. I believe he may  follow another.",
+      "node_id": "node48",
+      "id": "Talius33"
+    },
+    {
+      "text": "",
+      "node_id": "node4",
+      "id": "destroy_p_proc"
+    },
+    {
+      "text": "Yes. The overseer of the community gave me a shotgun and some shells. However, those were lost many years passed. Since I have never found anything,  I could not return.",
+      "node_id": "node28",
+      "id": "Talius10"
+    },
+    {
+      "text": "Nay, I doubt you would be able to do as such.",
+      "node_id": "node43",
+      "id": "Talius27"
+    },
+    {
+      "text": "Nay, I am no spy. Though many think as such. There is a spy within our humble abode. Yet, we are unable to ferret the spy out.",
+      "node_id": "node20",
+      "id": "Talius07"
+    },
+    {
+      "text": "I have heard nothing more of them.",
+      "node_id": "node30_1",
+      "id": "Talius16_1"
+    },
+    {
+      "text": "I found a great deal of those Mutant things there. It was they who entrapped me and transformed me into my current form.",
+      "node_id": "node37_1",
+      "id": "Talius18_1"
+    },
+    {
+      "text": "Me . Me",
+      "node_id": "node11_2",
+      "id": "Talius01_2"
+    },
+    {
+      "text": "I regret that I cannot tolerate insolence. Be gone.",
+      "node_id": "node14",
+      "id": "Talius36"
+    },
+    {
+      "text": "My vault had no name. It was merely numbered 13.",
+      "node_id": "node36",
+      "id": "Talius22"
+    },
+    {
+      "text": "I was not of a state in which to observe what transpired. All I had known was that I awoke here and was tended by the good doctor.",
+      "node_id": "node52",
+      "id": "Talius39"
+    },
+    {
+      "text": "I heard from some of the other travelers that Necropolis had a way in which to produce water without much difficulty.",
+      "node_id": "node31_1",
+      "id": "Talius17_1"
+    },
+    {
+      "text": "Alas, I have no more time to spare on you. Good day.",
+      "node_id": "node17_1",
+      "id": "Talius04_1"
+    },
+    {
+      "text": "No. I killed only some of the mutants. There was another mutant, a ghoul, named Set, who helped me take out most of them.",
+      "node_id": "node38_1",
+      "id": "Talius19_1"
+    },
+    {
+      "text": "Really? Has the Overseer finally seen his way through to allow people to travel outside the Vault?",
+      "node_id": "node41",
+      "id": "Talius23"
+    },
+    {
+      "text": "I am . What are you doing here?",
+      "node_id": "node11_4",
+      "id": "Talius01_4"
+    },
+    {
+      "text": "Because I will stop you.",
+      "node_id": "node46",
+      "id": "Talius28"
+    },
+    {
+      "text": "",
+      "node_id": "node26",
+      "id": "TaliusEnd"
+    },
+    {
+      "text": "Their leader is the head of a mutant army. What he does is take pure humans and transform them. I'm not quite sure, because I was knocked unconscious before the process.",
+      "node_id": "node33",
+      "id": "Talius12"
+    },
+    {
+      "text": "",
+      "node_id": "node2",
+      "id": "critter_p_proc"
+    },
+    {
+      "text": "I wish you would have been of greater intellect. No matter, I shall dispense with you shortly.",
+      "node_id": "node25",
+      "id": "Talius30"
+    },
+    {
+      "text": "Some time ago, I lived in a place far to the north of here. They were having a problem with the water supply and sought out people to find a way to fix it.",
+      "node_id": "node27",
+      "id": "Talius09"
+    },
+    {
+      "text": "",
+      "node_id": "node6",
+      "id": "pickup_p_proc"
+    },
+    {
+      "text": "Once, I was as you are. But, through the interaction of the Nightkin in Necropolis, I was thrust into this state.",
+      "node_id": "node23",
+      "id": "Talius08"
+    },
+    {
+      "text": "Yes, . I am enthusiastic that you acknowledge your given nomenclature. How might I assist you this fine morrow?",
+      "node_id": "node18_1",
+      "id": "Talius05_1"
+    },
+    {
+      "text": "Greetings to you as well. I am called . How is it that you came into the realm of the Followers?",
+      "node_id": "node11_5",
+      "id": "Talius01_5"
+    },
+    {
+      "text": "There isn't much that I know about him. Last I saw him, before my untimely transformation, he was searching for pure humans.",
+      "node_id": "node49",
+      "id": "Talius34"
+    },
+    {
+      "text": "I am here to assist these good people in understanding the workings of the Children of the Cathedral.",
+      "node_id": "node19",
+      "id": "Talius06"
+    },
+    {
+      "text": "All I know of the Children is that they are in league with these Nightkin, super mutants.",
+      "node_id": "node21_1",
+      "id": "Talius31_1"
+    },
+    {
+      "text": "",
+      "node_id": "node7",
+      "id": "talk_p_proc"
+    },
+    {
+      "text": "As yet, I am uncertain. Perhaps another group which seeks to disrupt  their ways would know.",
+      "node_id": "node50",
+      "id": "Talius35"
+    },
+    {
+      "text": "Somehow, he reminds you of someone.",
+      "node_id": "node3",
+      "id": "description_p_proc"
+    }
+  ],
+  "links": [
+    {
+      "text": "Please, continue.",
+      "source": "Talius38",
+      "target": "Talius39"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "pickup_p_proc"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "description_p_proc"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "destroy_p_proc"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "critter_p_proc"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "look_at_p_proc_1"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "talk_p_proc"
+    },
+    {
+      "text": "What can you tell me?",
+      "source": "Talius32",
+      "target": "Talius33"
+    },
+    {
+      "text": "I have no time for this, I'm leaving.",
+      "source": "Talius32",
+      "target": "TaliusEnd"
+    },
+    {
+      "text": "Who is it?",
+      "source": "Talius11",
+      "target": "Talius12"
+    },
+    {
+      "text": "I do not fully understand. Please, go on.",
+      "source": "Talius37",
+      "target": "Talius38"
+    },
+    {
+      "text": "Yeah. You's!",
+      "source": "Talius03",
+      "target": "combat"
+    },
+    {
+      "text": "You hep. You hep!",
+      "source": "Talius03",
+      "target": "Talius04_1"
+    },
+    {
+      "text": "No know.",
+      "source": "Talius02",
+      "target": "Talius03"
+    },
+    {
+      "text": "Too smart. Die now.",
+      "source": "Talius02",
+      "target": "combat"
+    },
+    {
+      "text": "Why did you go to Necropolis?",
+      "source": "Talius15",
+      "target": "Talius17_1"
+    },
+    {
+      "text": "What was the name of this Vault?",
+      "source": "Talius15",
+      "target": "Talius22"
+    },
+    {
+      "text": "Sounds nice. I've gotta run.",
+      "source": "Talius15",
+      "target": "TaliusEnd"
+    },
+    {
+      "text": "Did you ever find a way to fix the water problem?",
+      "source": "Talius15",
+      "target": "Talius16_1"
+    },
+    {
+      "text": "Huh?",
+      "source": "Talius01_3",
+      "target": "Talius02"
+    },
+    {
+      "text": "You can die!",
+      "source": "Talius01_3",
+      "target": "combat"
+    },
+    {
+      "text": "Don't worry about me Mutie! How did you get in here?",
+      "source": "Talius01_3",
+      "target": "Talius36"
+    },
+    {
+      "text": "Can you tell me how one, of your alterations, entered the Followers?",
+      "source": "Talius01_3",
+      "target": "Talius37"
+    },
+    {
+      "text": "I think that it is you. Now die!",
+      "source": "Talius29",
+      "target": "combat"
+    },
+    {
+      "text": "Then it might be a scout. I will look into that.",
+      "source": "Talius29",
+      "target": "Talius29a"
+    },
+    {
+      "text": "Can you tell me how one, of your alterations, entered the Followers?",
+      "source": "Talius01_1",
+      "target": "Talius37"
+    },
+    {
+      "text": "Huh?",
+      "source": "Talius01_1",
+      "target": "Talius02"
+    },
+    {
+      "text": "You can die!",
+      "source": "Talius01_1",
+      "target": "combat"
+    },
+    {
+      "text": "Don't worry about me Mutie! How did you get in here?",
+      "source": "Talius01_1",
+      "target": "Talius36"
+    },
+    {
+      "text": "What can you tell me about this Lieutenant?",
+      "source": "Talius33",
+      "target": "Talius34"
+    },
+    {
+      "text": "Some information. Well, I will be off.",
+      "source": "Talius33",
+      "target": "TaliusEnd"
+    },
+    {
+      "text": "Where was this place?",
+      "source": "Talius10",
+      "target": "Talius15"
+    },
+    {
+      "text": "That's really awful. I wish there was something I could do.",
+      "source": "Talius10",
+      "target": "Talius11"
+    },
+    {
+      "text": "Did you ever find a way to fix the water problem?",
+      "source": "Talius10",
+      "target": "Talius16_1"
+    },
+    {
+      "text": "Too bad. Gotta head out.",
+      "source": "Talius10",
+      "target": "TaliusEnd"
+    },
+    {
+      "text": "Why did you go to Necropolis?",
+      "source": "Talius10",
+      "target": "Talius17_1"
+    },
+    {
+      "text": "Try and stop me.",
+      "source": "Talius27",
+      "target": "combat"
+    },
+    {
+      "text": "Why do you say that?",
+      "source": "Talius27",
+      "target": "Talius28"
+    },
+    {
+      "text": "Tough luck, Mutie!",
+      "source": "Talius07",
+      "target": "Talius30"
+    },
+    {
+      "text": "I think I found the spy. Now I will remove the problem.",
+      "source": "Talius07",
+      "target": "combat"
+    },
+    {
+      "text": "Then how do you help the Followers?",
+      "source": "Talius07",
+      "target": "Talius08"
+    },
+    {
+      "text": "Tell me what you know about this spy. Maybe I can help.",
+      "source": "Talius07",
+      "target": "Talius29"
+    },
+    {
+      "text": "What was the name of this Vault?",
+      "source": "Talius16_1",
+      "target": "Talius22"
+    },
+    {
+      "text": "Sounds nice. I've gotta run.",
+      "source": "Talius16_1",
+      "target": "TaliusEnd"
+    },
+    {
+      "text": "Rough deal. See you around.",
+      "source": "Talius18_1",
+      "target": "TaliusEnd"
+    },
+    {
+      "text": "Who lead them?",
+      "source": "Talius18_1",
+      "target": "Talius12"
+    },
+    {
+      "text": "Huh?",
+      "source": "Talius01_2",
+      "target": "Talius02"
+    },
+    {
+      "text": "You can die!",
+      "source": "Talius01_2",
+      "target": "combat"
+    },
+    {
+      "text": "Don't worry about me Mutie! How did you get in here?",
+      "source": "Talius01_2",
+      "target": "Talius36"
+    },
+    {
+      "text": "Can you tell me how one, of your alterations, entered the Followers?",
+      "source": "Talius01_2",
+      "target": "Talius37"
+    },
+    {
+      "text": "That is where I am from.",
+      "source": "Talius22",
+      "target": "Talius23"
+    },
+    {
+      "text": "Thanks for the info. Now I'm going to tell those Mutants about it.",
+      "source": "Talius22",
+      "target": "Talius27"
+    },
+    {
+      "text": "Never heard of the place.",
+      "source": "Talius22",
+      "target": "Talius26"
+    },
+    {
+      "text": "I am truly sorry to hear of your predicament. I will find those who did this to you and remedy the situation.",
+      "source": "Talius39",
+      "target": "TaliusEnd"
+    },
+    {
+      "text": "Feel at home there?",
+      "source": "Talius17_1",
+      "target": "Talius21"
+    },
+    {
+      "text": "The rest of them are gone now. Set is doing fine.",
+      "source": "Talius19_1",
+      "target": "Talius20"
+    },
+    {
+      "text": "That sounds great. Well, I will see you around.",
+      "source": "Talius19_1",
+      "target": "TaliusEnd"
+    },
+    {
+      "text": "Yes, he thinks everything is safe.",
+      "source": "Talius23",
+      "target": "Talius25"
+    },
+    {
+      "text": "No, he is still scared of the outside world.",
+      "source": "Talius23",
+      "target": "Talius24"
+    },
+    {
+      "text": "Huh?",
+      "source": "Talius01_4",
+      "target": "Talius02"
+    },
+    {
+      "text": "You can die!",
+      "source": "Talius01_4",
+      "target": "combat"
+    },
+    {
+      "text": "Don't worry about me Mutie! How did you get in here?",
+      "source": "Talius01_4",
+      "target": "Talius36"
+    },
+    {
+      "text": "Can you tell me how one, of your alterations, entered the Followers?",
+      "source": "Talius01_4",
+      "target": "Talius37"
+    },
+    {
+      "text": "",
+      "source": "Talius28",
+      "target": "combat"
+    },
+    {
+      "text": "I will go kill them for you then.",
+      "source": "Talius12",
+      "target": "Talius13"
+    },
+    {
+      "text": "Sounds too risky for me. I'm out of here.",
+      "source": "Talius12",
+      "target": "Talius14"
+    },
+    {
+      "text": "",
+      "source": "Talius30",
+      "target": "combat"
+    },
+    {
+      "text": "Where was this place?",
+      "source": "Talius09",
+      "target": "Talius15"
+    },
+    {
+      "text": "Did you find a way to fix this problem?",
+      "source": "Talius09",
+      "target": "Talius16_1"
+    },
+    {
+      "text": "But why Necropolis?",
+      "source": "Talius09",
+      "target": "Talius17_1"
+    },
+    {
+      "text": "So you volunteered.",
+      "source": "Talius09",
+      "target": "Talius10"
+    },
+    {
+      "text": "Why were you in Necropolis?",
+      "source": "Talius08",
+      "target": "Talius09"
+    },
+    {
+      "text": "And now I will transform you once more. Rest in pieces.",
+      "source": "Talius08",
+      "target": "combat"
+    },
+    {
+      "text": "That's awful. But, tough luck. See you around.",
+      "source": "Talius08",
+      "target": "TaliusEnd"
+    },
+    {
+      "text": "Wha?",
+      "source": "Talius05_1",
+      "target": "Talius02"
+    },
+    {
+      "text": "Brain hurt. Me kill you. Take brain.",
+      "source": "Talius05_1",
+      "target": "combat"
+    },
+    {
+      "text": "Huh?",
+      "source": "Talius01_5",
+      "target": "Talius02"
+    },
+    {
+      "text": "You can die!",
+      "source": "Talius01_5",
+      "target": "combat"
+    },
+    {
+      "text": "Don't worry about me Mutie! How did you get in here?",
+      "source": "Talius01_5",
+      "target": "Talius36"
+    },
+    {
+      "text": "Can you tell me how one, of your alterations, entered the Followers?",
+      "source": "Talius01_5",
+      "target": "Talius37"
+    },
+    {
+      "text": "Can you hazard a hypothesis as to why this may be so?",
+      "source": "Talius34",
+      "target": "Talius35"
+    },
+    {
+      "text": "I will think on this for a while. Thank you.",
+      "source": "Talius34",
+      "target": "TaliusEnd"
+    },
+    {
+      "text": "How can you know anything about the Children?",
+      "source": "Talius06",
+      "target": "Talius31_1"
+    },
+    {
+      "text": "So you are a spy for the Children?",
+      "source": "Talius06",
+      "target": "Talius07"
+    },
+    {
+      "text": "What can you do? You are a mutant.",
+      "source": "Talius06",
+      "target": "Talius32"
+    },
+    {
+      "text": "That's awful. But, tough luck. See you around.",
+      "source": "Talius31_1",
+      "target": "TaliusEnd"
+    },
+    {
+      "text": "Why were you in Necropolis?",
+      "source": "Talius31_1",
+      "target": "Talius09"
+    },
+    {
+      "text": "And now I will transform you once more. Rest in pieces.",
+      "source": "Talius31_1",
+      "target": "combat"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Talius01_2"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Talius41"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Talius01_1"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Talius01_4"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Talius01_5"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Talius00"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Talius01_3"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Talius40"
+    },
+    {
+      "text": "Thank you. Good day.",
+      "source": "Talius35",
+      "target": "TaliusEnd"
+    }
+  ]
+}

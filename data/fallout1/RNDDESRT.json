@@ -1,0 +1,2454 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "A group of hostile gangers bursts forth!",
+      "node_id": "node82",
+      "id": "Bone3"
+    },
+    {
+      "text": "",
+      "node_id": "node6",
+      "id": "Junk_table"
+    },
+    {
+      "text": "A patrol unit of mutants is passing close by, along with them are some strange creatures!",
+      "node_id": "node70",
+      "id": "Vats3"
+    },
+    {
+      "text": "You search for water in the high desert landscape for an hour, but you do not find enough to fully satisfy your thirst. You have sustained a point of health damage.",
+      "node_id": "node33_6",
+      "id": "Shady2_6"
+    },
+    {
+      "text": "Looks like you've stumbled into a vicious gang war!",
+      "node_id": "node81",
+      "id": "Bone2"
+    },
+    {
+      "text": "Your water supply runs low, and your search of points of health damage.",
+      "node_id": "node39_5",
+      "id": "Raider2_5"
+    },
+    {
+      "text": "You manage to avoid a serious case of dehydration by searching for water. The search takes an additional hours.",
+      "node_id": "node28_2",
+      "id": "South3_2"
+    },
+    {
+      "text": "You stumble upon a pack of bizarre creatures.",
+      "node_id": "node75",
+      "id": "Glow2"
+    },
+    {
+      "text": "A small group of gangers attack!",
+      "node_id": "node84",
+      "id": "Bone5"
+    },
+    {
+      "text": "It looks like they traveled from somewhere far north of here.",
+      "node_id": "node1_2",
+      "id": "start_2"
+    },
+    {
+      "text": "You manage to avoid a serious case of dehydration by searching for water. The search takes an additional hour.",
+      "node_id": "node24_1",
+      "id": "North6_1"
+    },
+    {
+      "text": "Raiders!!!",
+      "node_id": "node29",
+      "id": "South4"
+    },
+    {
+      "text": "",
+      "node_id": "node17",
+      "id": "Place_critter"
+    },
+    {
+      "text": "You search for water in the high desert landscape for hours, but you do not find enough to fully satisfy your thirst. You have sustained a point of health damage.",
+      "node_id": "node24_8",
+      "id": "North6_8"
+    },
+    {
+      "text": "You search for water in the high desert landscape for points of health damage.",
+      "node_id": "node56_10",
+      "id": "Necrop1_10"
+    },
+    {
+      "text": "You manage to avoid a serious case of dehydration by searching for water. The search takes an additional hours.",
+      "node_id": "node72_1",
+      "id": "Vats5_1"
+    },
+    {
+      "text": "Your water supply runs low, and your search of hours fails to locate more water. Severe dehydration sets in causing you",
+      "node_id": "node50_2",
+      "id": "Hub1_2"
+    },
+    {
+      "text": "You stumble into a migrating pack of Rad Scorpions.",
+      "node_id": "node86_1",
+      "id": "Death1_1"
+    },
+    {
+      "text": "You search for water in the high desert landscape for points of health damage.",
+      "node_id": "node28_10",
+      "id": "South3_10"
+    },
+    {
+      "text": "You search for water in the high desert landscape for hours, but you do not find enough to fully satisfy your thirst. You have sustained a point of health damage.",
+      "node_id": "node39_8",
+      "id": "Raider2_8"
+    },
+    {
+      "text": "You have stumbled across some items laying on the ground.",
+      "node_id": "node37",
+      "id": "Shady6"
+    },
+    {
+      "text": "Your water supply runs low, and your search of points of health damage.",
+      "node_id": "node45_5",
+      "id": "Junk2_5"
+    },
+    {
+      "text": "You manage to avoid a serious case of dehydration by searching for water. The search takes an additional hours.",
+      "node_id": "node39_2",
+      "id": "Raider2_2"
+    },
+    {
+      "text": "You search for water in the high desert landscape for an hour, but you do not find enough to fully satisfy your thirst. You have sustained points of health damage.",
+      "node_id": "node39_7",
+      "id": "Raider2_7"
+    },
+    {
+      "text": "You manage to avoid a serious case of dehydration by searching for water. The search takes an additional hours.",
+      "node_id": "node50_1",
+      "id": "Hub1_1"
+    },
+    {
+      "text": "STAMPEDE!!!",
+      "node_id": "node26",
+      "id": "South1"
+    },
+    {
+      "text": "Uh oh . . . a raiding party!",
+      "node_id": "node41",
+      "id": "Raider4"
+    },
+    {
+      "text": "Your water supply runs low, and your search of an hour fails to locate more water. Severe dehydration sets in, causing you points of health damage.",
+      "node_id": "node33_3",
+      "id": "Shady2_3"
+    },
+    {
+      "text": "Your water supply runs low, and your search of hours fails to locate more water. Severe dehydration sets in causing you",
+      "node_id": "node56_4",
+      "id": "Necrop1_4"
+    },
+    {
+      "text": "",
+      "node_id": "node12",
+      "id": "Death_table"
+    },
+    {
+      "text": "",
+      "node_id": "node13",
+      "id": "Bone_table"
+    },
+    {
+      "text": "Your water supply runs low, and your search of hours fails to locate more water. Severe dehydration sets in causing you",
+      "node_id": "node33_4",
+      "id": "Shady2_4"
+    },
+    {
+      "text": "A patrol unit of super mutants is passing close by!",
+      "node_id": "node71",
+      "id": "Vats4"
+    },
+    {
+      "text": "Your water supply runs low, and your search of hours fails to locate more water. Severe dehydration sets in causing you",
+      "node_id": "node24_4",
+      "id": "North6_4"
+    },
+    {
+      "text": "You stumble across a pack of hungry Radscorpions.",
+      "node_id": "node76",
+      "id": "Glow3"
+    },
+    {
+      "text": "",
+      "node_id": "node11",
+      "id": "Glow_table"
+    },
+    {
+      "text": "You search for water in the high desert landscape for points of health damage.",
+      "node_id": "node64_10",
+      "id": "Steel3_10"
+    },
+    {
+      "text": "You search for water in the high desert landscape for hours, but you do not find enough to fully satisfy your thirst. You have sustained a point of health damage.",
+      "node_id": "node28_8",
+      "id": "South3_8"
+    },
+    {
+      "text": "You feel nauseous, and the air seems to waver with heat.",
+      "node_id": "node77",
+      "id": "Glow4"
+    },
+    {
+      "text": "You search for water in the high desert landscape for an hour, but you do not find enough to fully satisfy your thirst. You have sustained points of health damage.",
+      "node_id": "node45_7",
+      "id": "Junk2_7"
+    },
+    {
+      "text": "Your water supply runs low, and your search of hours fails to locate more water. Severe dehydration sets in causing you",
+      "node_id": "node39_4",
+      "id": "Raider2_4"
+    },
+    {
+      "text": "Ahead you can see junk strewn about the sands.",
+      "node_id": "node73",
+      "id": "Vats6"
+    },
+    {
+      "text": "You encounter something out of an old SciFi movie.",
+      "node_id": "node79",
+      "id": "Glow6"
+    },
+    {
+      "text": "Your water supply runs low, and your search of points of health damage.",
+      "node_id": "node56_5",
+      "id": "Necrop1_5"
+    },
+    {
+      "text": "You note a partially-eaten corpse here.",
+      "node_id": "node61",
+      "id": "Necrop6"
+    },
+    {
+      "text": "",
+      "node_id": "node16",
+      "id": "stranger"
+    },
+    {
+      "text": "You are suddenly attacked by a swarm of Mantis!",
+      "node_id": "node85",
+      "id": "Bone6"
+    },
+    {
+      "text": "Your water supply runs low, and your search of points of health damage.",
+      "node_id": "node24_5",
+      "id": "North6_5"
+    },
+    {
+      "text": "You manage to avoid a serious case of dehydration by searching for water. The search takes an additional hour.",
+      "node_id": "node64_1",
+      "id": "Steel3_1"
+    },
+    {
+      "text": "",
+      "node_id": "node8",
+      "id": "Necrop_table"
+    },
+    {
+      "text": "You stumble into a family of Rad Scorpions.",
+      "node_id": "node34",
+      "id": "Shady3"
+    },
+    {
+      "text": "You encounter a dead traveler.",
+      "node_id": "node36",
+      "id": "Shady5"
+    },
+    {
+      "text": "Your water supply runs low, and your search of an hour fails to locate more water. Severe dehydration sets in, causing you points of health damage.",
+      "node_id": "node72_2",
+      "id": "Vats5_2"
+    },
+    {
+      "text": "",
+      "node_id": "node2",
+      "id": "North_table"
+    },
+    {
+      "text": "You search for water in the high desert landscape for hours, but you do not find enough to fully satisfy your thirst. You have sustained a point of health damage.",
+      "node_id": "node64_8",
+      "id": "Steel3_8"
+    },
+    {
+      "text": "Your water supply runs low, and your search of an hour fails to locate more water. Severe dehydration sets in, causing you points of health damage.",
+      "node_id": "node24_3",
+      "id": "North6_3"
+    },
+    {
+      "text": "You manage to avoid a serious case of dehydration by searching for water. The search takes an additional hours.",
+      "node_id": "node64_2",
+      "id": "Steel3_2"
+    },
+    {
+      "text": "You have stumbled upon a pack of Rad Scorpions.",
+      "node_id": "node22",
+      "id": "North4"
+    },
+    {
+      "text": "You manage to avoid a serious case of dehydration by searching for water. The search takes an additional hours.",
+      "node_id": "node24_2",
+      "id": "North6_2"
+    },
+    {
+      "text": "You manage to avoid a serious case of dehydration by searching for water. The search takes an additional hours.",
+      "node_id": "node33_2",
+      "id": "Shady2_2"
+    },
+    {
+      "text": "A small group of raiders attack!",
+      "node_id": "node83",
+      "id": "Bone4"
+    },
+    {
+      "text": "Junk and rocks are scattered about.",
+      "node_id": "node59",
+      "id": "Necrop4"
+    },
+    {
+      "text": "You stumble upon a Super Mutant war party.",
+      "node_id": "node74",
+      "id": "Glow1"
+    },
+    {
+      "text": "You manage to avoid a serious case of dehydration by searching for water. The search takes an additional hour.",
+      "node_id": "node28_1",
+      "id": "South3_1"
+    },
+    {
+      "text": "Your water supply runs low, and your search of points of health damage.",
+      "node_id": "node28_5",
+      "id": "South3_5"
+    },
+    {
+      "text": "You search for water in the high desert landscape for points of health damage.",
+      "node_id": "node24_10",
+      "id": "North6_10"
+    },
+    {
+      "text": "Radscorpions, incoming!",
+      "node_id": "node40",
+      "id": "Raider3"
+    },
+    {
+      "text": "You search for water in the high desert landscape for hours, but you do not find enough to fully satisfy your thirst. You have sustained",
+      "node_id": "node39_9",
+      "id": "Raider2_9"
+    },
+    {
+      "text": "You search for water in the high desert landscape for an hour, but you do not find enough to fully satisfy your thirst. You have sustained a point of health damage.",
+      "node_id": "node45_6",
+      "id": "Junk2_6"
+    },
+    {
+      "text": "Your water supply runs low, and your search of an hour fails to locate more water. Severe dehydration sets in, causing you points of health damage.",
+      "node_id": "node39_3",
+      "id": "Raider2_3"
+    },
+    {
+      "text": "You search for water in the high desert landscape for hours, but you do not find enough to fully satisfy your thirst. You have sustained a point of health damage.",
+      "node_id": "node33_8",
+      "id": "Shady2_8"
+    },
+    {
+      "text": "AMBUSH!!!",
+      "node_id": "node20_1",
+      "id": "North2_1"
+    },
+    {
+      "text": "You search for water in the high desert landscape for an hour, but you do not find enough to fully satisfy your thirst. You have sustained points of health damage.",
+      "node_id": "node33_7",
+      "id": "Shady2_7"
+    },
+    {
+      "text": "Scene_Type ==",
+      "node_id": "node14",
+      "id": "Scenes"
+    },
+    {
+      "text": "You come upon the remains of a battlefield, with bodies strewn about.",
+      "node_id": "node43",
+      "id": "Raider6"
+    },
+    {
+      "text": "Apparently, they were just wandering the wastes.",
+      "node_id": "node1_3",
+      "id": "start_3"
+    },
+    {
+      "text": "You come across what's left of merchant Duc's hostile guards.",
+      "node_id": "node35_1",
+      "id": "Shady4_1"
+    },
+    {
+      "text": "",
+      "node_id": "node18",
+      "id": "choose_start"
+    },
+    {
+      "text": "You have stumbled on to a fierce battle between Rad Scorpions and Mole Rats.",
+      "node_id": "node19",
+      "id": "North1"
+    },
+    {
+      "text": "You search for water in the high desert landscape for an hour, but you do not find enough to fully satisfy your thirst. You have sustained points of health damage.",
+      "node_id": "node72_6",
+      "id": "Vats5_6"
+    },
+    {
+      "text": "You have stumbled across a bizarre floating creature.",
+      "node_id": "node78",
+      "id": "Glow5"
+    },
+    {
+      "text": "You search for water in the high desert landscape for an hour, but you do not find enough to fully satisfy your thirst. You have sustained a point of health damage.",
+      "node_id": "node56_6",
+      "id": "Necrop1_6"
+    },
+    {
+      "text": "Your water supply runs low, and your search of an hour fails to locate more water. Severe dehydration sets in, causing you points of health damage.",
+      "node_id": "node45_3",
+      "id": "Junk2_3"
+    },
+    {
+      "text": "You spot a wandering pack of wild coyotes.",
+      "node_id": "node46",
+      "id": "Junk3"
+    },
+    {
+      "text": "You come across a small party of merchants and guards.",
+      "node_id": "node48",
+      "id": "Junk5"
+    },
+    {
+      "text": "You search for water in the high desert landscape for an hour, but you do not find enough to fully satisfy your thirst. You have sustained points of health damage.",
+      "node_id": "node64_7",
+      "id": "Steel3_7"
+    },
+    {
+      "text": "You search for water in the high desert landscape for points of health damage.",
+      "node_id": "node33_10",
+      "id": "Shady2_10"
+    },
+    {
+      "text": "Skinny hostile humanoids with greenish skin approach.",
+      "node_id": "node58",
+      "id": "Necrop3"
+    },
+    {
+      "text": "Your water supply runs low, and your search of hours fails to locate more water. Severe dehydration sets in causing you",
+      "node_id": "node72_3",
+      "id": "Vats5_3"
+    },
+    {
+      "text": "Several men in power armor are approaching you.",
+      "node_id": "node65",
+      "id": "Steel4"
+    },
+    {
+      "text": "You see a vicious battle underway between several desert raiders and a group of men in power armor.",
+      "node_id": "node67",
+      "id": "Steel6"
+    },
+    {
+      "text": "You spot the remains of a caravan, being looted by raiders.",
+      "node_id": "node38",
+      "id": "Raider1"
+    },
+    {
+      "text": "You search for water in the high desert landscape for hours, but you do not find enough to fully satisfy your thirst. You have sustained",
+      "node_id": "node72_8",
+      "id": "Vats5_8"
+    },
+    {
+      "text": "You encounter a Mole rat.",
+      "node_id": "node90_1",
+      "id": "Death5_1"
+    },
+    {
+      "text": "Your water supply runs low, and your search of hours fails to locate more water. Severe dehydration sets in causing you",
+      "node_id": "node64_4",
+      "id": "Steel3_4"
+    },
+    {
+      "text": "You search for water in the high desert landscape for hours, but you do not find enough to fully satisfy your thirst. You have sustained a point of health damage.",
+      "node_id": "node72_7",
+      "id": "Vats5_7"
+    },
+    {
+      "text": "Your water supply runs low, and your search of points of health damage.",
+      "node_id": "node72_4",
+      "id": "Vats5_4"
+    },
+    {
+      "text": "Radscorpions, incoming!",
+      "node_id": "node44",
+      "id": "Junk1"
+    },
+    {
+      "text": "You search for water in the high desert landscape for an hour, but you do not find enough to fully satisfy your thirst. You have sustained points of health damage.",
+      "node_id": "node24_7",
+      "id": "North6_7"
+    },
+    {
+      "text": "You manage to avoid a serious case of dehydration by searching for water. The search takes an additional hours.",
+      "node_id": "node56_2",
+      "id": "Necrop1_2"
+    },
+    {
+      "text": "You see several radscorpions some distance away.",
+      "node_id": "node89",
+      "id": "Death4"
+    },
+    {
+      "text": "You search for water in the high desert landscape for hours, but you do not find enough to fully satisfy your thirst. You have sustained",
+      "node_id": "node56_9",
+      "id": "Necrop1_9"
+    },
+    {
+      "text": "You manage to avoid a serious case of dehydration by searching for water. The search takes an additional hour.",
+      "node_id": "node45_1",
+      "id": "Junk2_1"
+    },
+    {
+      "text": "You search for water in the high desert landscape for an hour, but you do not find enough to fully satisfy your thirst. You have sustained points of health damage.",
+      "node_id": "node56_7",
+      "id": "Necrop1_7"
+    },
+    {
+      "text": "Your water supply runs low, and your search of hours fails to locate more water. Severe dehydration sets in causing you",
+      "node_id": "node28_4",
+      "id": "South3_4"
+    },
+    {
+      "text": "Your water supply runs low, and your search of points of health damage.",
+      "node_id": "node88_3",
+      "id": "Death3_3"
+    },
+    {
+      "text": "You see a lone raider in the distance.",
+      "node_id": "node42",
+      "id": "Raider5"
+    },
+    {
+      "text": "",
+      "node_id": "node10",
+      "id": "Vats_table"
+    },
+    {
+      "text": "You see a peasant herding several brahmin.",
+      "node_id": "node55",
+      "id": "Hub6"
+    },
+    {
+      "text": "Your water supply runs low, and your search of points of health damage.",
+      "node_id": "node50_3",
+      "id": "Hub1_3"
+    },
+    {
+      "text": "You encounter a mutated creature of the desert.",
+      "node_id": "node87",
+      "id": "Death2"
+    },
+    {
+      "text": "A tremendous horde of radscorpions is coming this way!",
+      "node_id": "node63",
+      "id": "Steel2"
+    },
+    {
+      "text": "",
+      "node_id": "node3",
+      "id": "South_table"
+    },
+    {
+      "text": "You search for water in the high desert landscape for points of health damage.",
+      "node_id": "node72_9",
+      "id": "Vats5_9"
+    },
+    {
+      "text": "Your water supply runs low, and your search of points of health damage.",
+      "node_id": "node64_5",
+      "id": "Steel3_5"
+    },
+    {
+      "text": "You see several mutants exploring a patch of hostile ground.",
+      "node_id": "node68",
+      "id": "Vats1"
+    },
+    {
+      "text": "You have stumbled across some items laying on the ground.",
+      "node_id": "node49",
+      "id": "Junk6"
+    },
+    {
+      "text": "",
+      "node_id": "node4",
+      "id": "Shady_table"
+    },
+    {
+      "text": "",
+      "node_id": "node5",
+      "id": "Raider_table"
+    },
+    {
+      "text": "",
+      "node_id": "node7",
+      "id": "Hub_table"
+    },
+    {
+      "text": "You have stumbled on a large gathering of Mole Rats.",
+      "node_id": "node30",
+      "id": "South5"
+    },
+    {
+      "text": "You notice several individuals scouting about.",
+      "node_id": "node47",
+      "id": "Junk4"
+    },
+    {
+      "text": "You have stumbled upon a large pack of radscorpions!",
+      "node_id": "node21",
+      "id": "North3"
+    },
+    {
+      "text": "You search for water in the high desert landscape for an hour, but you do not find enough to fully satisfy your thirst. You have sustained a point of health damage.",
+      "node_id": "node64_6",
+      "id": "Steel3_6"
+    },
+    {
+      "text": "You search for water in the high desert landscape for an hour, but you do not find enough to fully satisfy your thirst. You have sustained a point of health damage.",
+      "node_id": "node72_5",
+      "id": "Vats5_5"
+    },
+    {
+      "text": "You encounter a group of guardsmen on patrol.",
+      "node_id": "node53",
+      "id": "Hub4"
+    },
+    {
+      "text": "You have stumbled upon a family of Mole Rats.",
+      "node_id": "node23",
+      "id": "North5"
+    },
+    {
+      "text": "You search for water in the high desert landscape for hours, but you do not find enough to fully satisfy your thirst. You have sustained",
+      "node_id": "node45_9",
+      "id": "Junk2_9"
+    },
+    {
+      "text": "You manage to avoid a serious case of dehydration by searching for water. The search takes an additional hours.",
+      "node_id": "node88_1",
+      "id": "Death3_1"
+    },
+    {
+      "text": "They appear to have traveled here from somewhere nearby.",
+      "node_id": "node1_1",
+      "id": "start_1"
+    },
+    {
+      "text": "You manage to avoid a serious case of dehydration by searching for water. The search takes an additional hour.",
+      "node_id": "node33_1",
+      "id": "Shady2_1"
+    },
+    {
+      "text": "You've run into some Radscorpions hunting Mole rats.",
+      "node_id": "node57",
+      "id": "Necrop2"
+    },
+    {
+      "text": "You stumble into a migrating pack of Rad Scorpions.",
+      "node_id": "node91_1",
+      "id": "Death6_1"
+    },
+    {
+      "text": "A pack of nasty radscorpions strikes from the desert!",
+      "node_id": "node52",
+      "id": "Hub3"
+    },
+    {
+      "text": "",
+      "node_id": "node25",
+      "id": "hunters"
+    },
+    {
+      "text": "You search for water in the high desert landscape for an hour, but you do not find enough to fully satisfy your thirst. You have sustained a point of health damage.",
+      "node_id": "node24_6",
+      "id": "North6_6"
+    },
+    {
+      "text": "Your water supply runs low, and your search of hours fails to locate more water. Severe dehydration sets in causing you",
+      "node_id": "node88_2",
+      "id": "Death3_2"
+    },
+    {
+      "text": "You encounter some peasants under attack.",
+      "node_id": "node32",
+      "id": "Shady1"
+    },
+    {
+      "text": "",
+      "node_id": "node15",
+      "id": "Lighting"
+    },
+    {
+      "text": "Your water supply runs low, and your search of points of health damage.",
+      "node_id": "node33_5",
+      "id": "Shady2_5"
+    },
+    {
+      "text": "You search for water in the high desert landscape for hours, but you do not find enough to fully satisfy your thirst. You have sustained a point of health damage.",
+      "node_id": "node45_8",
+      "id": "Junk2_8"
+    },
+    {
+      "text": "Skinny hostile humanoids with greenish skin approach.",
+      "node_id": "node60",
+      "id": "Necrop5"
+    },
+    {
+      "text": "You come across a merchant with several guards.",
+      "node_id": "node54",
+      "id": "Hub5"
+    },
+    {
+      "text": "You see some strange creatures ahead . . .",
+      "node_id": "node69",
+      "id": "Vats2"
+    },
+    {
+      "text": "Your water supply runs low, and your search of an hour fails to locate more water. Severe dehydration sets in, causing you points of health damage.",
+      "node_id": "node64_3",
+      "id": "Steel3_3"
+    },
+    {
+      "text": "You search for water in the high desert landscape for an hour, but you do not find enough to fully satisfy your thirst. You have sustained a point of health damage.",
+      "node_id": "node39_6",
+      "id": "Raider2_6"
+    },
+    {
+      "text": "You search for water in the high desert landscape for points of health damage.",
+      "node_id": "node39_10",
+      "id": "Raider2_10"
+    },
+    {
+      "text": "Your water supply runs low, and your search of hours fails to locate more water. Severe dehydration sets in causing you",
+      "node_id": "node45_4",
+      "id": "Junk2_4"
+    },
+    {
+      "text": "You search for water in the high desert landscape for points of health damage.",
+      "node_id": "node45_10",
+      "id": "Junk2_10"
+    },
+    {
+      "text": "You search for water in the high desert landscape for hours, but you do not find enough to fully satisfy your thirst. You have sustained",
+      "node_id": "node64_9",
+      "id": "Steel3_9"
+    },
+    {
+      "text": "Raiders ambush you!",
+      "node_id": "node51",
+      "id": "Hub2"
+    },
+    {
+      "text": "Your water supply runs low, and your search of an hour fails to locate more water. Severe dehydration sets in, causing you points of health damage.",
+      "node_id": "node56_3",
+      "id": "Necrop1_3"
+    },
+    {
+      "text": "You search for water in the high desert landscape for hours, but you do not find enough to fully satisfy your thirst. You have sustained a point of health damage.",
+      "node_id": "node56_8",
+      "id": "Necrop1_8"
+    },
+    {
+      "text": "You are ambushed by a small Super Mutant war party.",
+      "node_id": "node80",
+      "id": "Bone1"
+    },
+    {
+      "text": "",
+      "node_id": "node9",
+      "id": "Steel_table"
+    },
+    {
+      "text": "You encounter a band of wild radscorpions.",
+      "node_id": "node31",
+      "id": "South6"
+    },
+    {
+      "text": "Your water supply runs low, and your search of an hour fails to locate more water. Severe dehydration sets in, causing you points of health damage.",
+      "node_id": "node28_3",
+      "id": "South3_3"
+    },
+    {
+      "text": "You stumble onto a large pack of Rad Scorpions!",
+      "node_id": "node27",
+      "id": "South2"
+    },
+    {
+      "text": "You manage to avoid a serious case of dehydration by searching for water. The search takes an additional hours.",
+      "node_id": "node45_2",
+      "id": "Junk2_2"
+    },
+    {
+      "text": "You search for water in the high desert landscape for hours, but you do not find enough to fully satisfy your thirst. You have sustained",
+      "node_id": "node28_9",
+      "id": "South3_9"
+    },
+    {
+      "text": "You manage to avoid a serious case of dehydration by searching for water. The search takes an additional hour.",
+      "node_id": "node56_1",
+      "id": "Necrop1_1"
+    },
+    {
+      "text": "You see a group of merchants and guards.",
+      "node_id": "node66",
+      "id": "Steel5"
+    },
+    {
+      "text": "You search for water in the high desert landscape for hours, but you do not find enough to fully satisfy your thirst. You have sustained",
+      "node_id": "node24_9",
+      "id": "North6_9"
+    },
+    {
+      "text": "You see a small war going on -- men versus mutants!",
+      "node_id": "node62",
+      "id": "Steel1"
+    },
+    {
+      "text": "You search for water in the high desert landscape for hours, but you do not find enough to fully satisfy your thirst. You have sustained",
+      "node_id": "node33_9",
+      "id": "Shady2_9"
+    },
+    {
+      "text": "You search for water in the high desert landscape for an hour, but you do not find enough to fully satisfy your thirst. You have sustained a point of health damage.",
+      "node_id": "node28_6",
+      "id": "South3_6"
+    },
+    {
+      "text": "You search for water in the high desert landscape for an hour, but you do not find enough to fully satisfy your thirst. You have sustained points of health damage.",
+      "node_id": "node28_7",
+      "id": "South3_7"
+    },
+    {
+      "text": "You manage to avoid a serious case of dehydration by searching for water. The search takes an additional hour.",
+      "node_id": "node39_1",
+      "id": "Raider2_1"
+    }
+  ],
+  "links": [
+    {
+      "text": "",
+      "source": "Bone3",
+      "target": "Place_critter"
+    },
+    {
+      "text": "",
+      "source": "Bone3",
+      "target": "stranger"
+    },
+    {
+      "text": "",
+      "source": "Junk_table",
+      "target": "Junk2_8"
+    },
+    {
+      "text": "",
+      "source": "Junk_table",
+      "target": "hunters"
+    },
+    {
+      "text": "",
+      "source": "Junk_table",
+      "target": "Junk5"
+    },
+    {
+      "text": "",
+      "source": "Junk_table",
+      "target": "Junk2_9"
+    },
+    {
+      "text": "",
+      "source": "Junk_table",
+      "target": "Junk2_4"
+    },
+    {
+      "text": "",
+      "source": "Junk_table",
+      "target": "Junk3"
+    },
+    {
+      "text": "",
+      "source": "Junk_table",
+      "target": "Junk2_6"
+    },
+    {
+      "text": "",
+      "source": "Junk_table",
+      "target": "Junk6"
+    },
+    {
+      "text": "",
+      "source": "Junk_table",
+      "target": "Junk1"
+    },
+    {
+      "text": "",
+      "source": "Junk_table",
+      "target": "Junk2_5"
+    },
+    {
+      "text": "",
+      "source": "Junk_table",
+      "target": "Junk2_10"
+    },
+    {
+      "text": "",
+      "source": "Junk_table",
+      "target": "Junk2_2"
+    },
+    {
+      "text": "",
+      "source": "Junk_table",
+      "target": "Junk2_1"
+    },
+    {
+      "text": "",
+      "source": "Junk_table",
+      "target": "Junk4"
+    },
+    {
+      "text": "",
+      "source": "Junk_table",
+      "target": "choose_start"
+    },
+    {
+      "text": "",
+      "source": "Junk_table",
+      "target": "Junk2_7"
+    },
+    {
+      "text": "",
+      "source": "Junk_table",
+      "target": "Junk2_3"
+    },
+    {
+      "text": "",
+      "source": "Vats3",
+      "target": "Place_critter"
+    },
+    {
+      "text": "",
+      "source": "Vats3",
+      "target": "stranger"
+    },
+    {
+      "text": "",
+      "source": "Bone2",
+      "target": "stranger"
+    },
+    {
+      "text": "",
+      "source": "Bone2",
+      "target": "Place_critter"
+    },
+    {
+      "text": "",
+      "source": "Glow2",
+      "target": "stranger"
+    },
+    {
+      "text": "",
+      "source": "Glow2",
+      "target": "Place_critter"
+    },
+    {
+      "text": "",
+      "source": "Bone5",
+      "target": "stranger"
+    },
+    {
+      "text": "",
+      "source": "Bone5",
+      "target": "Place_critter"
+    },
+    {
+      "text": "",
+      "source": "start_2",
+      "target": "Shady_table"
+    },
+    {
+      "text": "",
+      "source": "start_2",
+      "target": "Bone_table"
+    },
+    {
+      "text": "",
+      "source": "start_2",
+      "target": "Junk_table"
+    },
+    {
+      "text": "",
+      "source": "start_2",
+      "target": "South_table"
+    },
+    {
+      "text": "",
+      "source": "start_2",
+      "target": "Necrop_table"
+    },
+    {
+      "text": "",
+      "source": "start_2",
+      "target": "Raider_table"
+    },
+    {
+      "text": "",
+      "source": "start_2",
+      "target": "Hub_table"
+    },
+    {
+      "text": "",
+      "source": "start_2",
+      "target": "Vats_table"
+    },
+    {
+      "text": "",
+      "source": "start_2",
+      "target": "Steel_table"
+    },
+    {
+      "text": "",
+      "source": "start_2",
+      "target": "Lighting"
+    },
+    {
+      "text": "",
+      "source": "start_2",
+      "target": "Glow_table"
+    },
+    {
+      "text": "",
+      "source": "start_2",
+      "target": "Scenes"
+    },
+    {
+      "text": "",
+      "source": "start_2",
+      "target": "Death_table"
+    },
+    {
+      "text": "",
+      "source": "start_2",
+      "target": "North_table"
+    },
+    {
+      "text": "",
+      "source": "South4",
+      "target": "stranger"
+    },
+    {
+      "text": "",
+      "source": "South4",
+      "target": "Place_critter"
+    },
+    {
+      "text": "",
+      "source": "Death1_1",
+      "target": "Place_critter"
+    },
+    {
+      "text": "",
+      "source": "Death1_1",
+      "target": "stranger"
+    },
+    {
+      "text": "",
+      "source": "South1",
+      "target": "Place_critter"
+    },
+    {
+      "text": "",
+      "source": "Raider4",
+      "target": "Place_critter"
+    },
+    {
+      "text": "",
+      "source": "Raider4",
+      "target": "stranger"
+    },
+    {
+      "text": "",
+      "source": "Death_table",
+      "target": "Death3_1"
+    },
+    {
+      "text": "",
+      "source": "Death_table",
+      "target": "Death4"
+    },
+    {
+      "text": "",
+      "source": "Death_table",
+      "target": "Death3_2"
+    },
+    {
+      "text": "",
+      "source": "Death_table",
+      "target": "choose_start"
+    },
+    {
+      "text": "",
+      "source": "Death_table",
+      "target": "Death5_1"
+    },
+    {
+      "text": "",
+      "source": "Death_table",
+      "target": "Death1_1"
+    },
+    {
+      "text": "",
+      "source": "Death_table",
+      "target": "Death2"
+    },
+    {
+      "text": "",
+      "source": "Death_table",
+      "target": "Death6_1"
+    },
+    {
+      "text": "",
+      "source": "Death_table",
+      "target": "Death3_3"
+    },
+    {
+      "text": "",
+      "source": "Death_table",
+      "target": "hunters"
+    },
+    {
+      "text": "",
+      "source": "Bone_table",
+      "target": "choose_start"
+    },
+    {
+      "text": "",
+      "source": "Bone_table",
+      "target": "Bone1"
+    },
+    {
+      "text": "",
+      "source": "Bone_table",
+      "target": "Bone6"
+    },
+    {
+      "text": "",
+      "source": "Bone_table",
+      "target": "Bone5"
+    },
+    {
+      "text": "",
+      "source": "Bone_table",
+      "target": "hunters"
+    },
+    {
+      "text": "",
+      "source": "Bone_table",
+      "target": "Bone2"
+    },
+    {
+      "text": "",
+      "source": "Bone_table",
+      "target": "Bone4"
+    },
+    {
+      "text": "",
+      "source": "Bone_table",
+      "target": "Bone3"
+    },
+    {
+      "text": "",
+      "source": "Vats4",
+      "target": "stranger"
+    },
+    {
+      "text": "",
+      "source": "Vats4",
+      "target": "Place_critter"
+    },
+    {
+      "text": "",
+      "source": "Glow3",
+      "target": "Place_critter"
+    },
+    {
+      "text": "",
+      "source": "Glow3",
+      "target": "stranger"
+    },
+    {
+      "text": "",
+      "source": "Glow_table",
+      "target": "Glow6"
+    },
+    {
+      "text": "",
+      "source": "Glow_table",
+      "target": "Glow1"
+    },
+    {
+      "text": "",
+      "source": "Glow_table",
+      "target": "hunters"
+    },
+    {
+      "text": "",
+      "source": "Glow_table",
+      "target": "Glow5"
+    },
+    {
+      "text": "",
+      "source": "Glow_table",
+      "target": "Glow3"
+    },
+    {
+      "text": "",
+      "source": "Glow_table",
+      "target": "Glow4"
+    },
+    {
+      "text": "",
+      "source": "Glow_table",
+      "target": "choose_start"
+    },
+    {
+      "text": "",
+      "source": "Glow_table",
+      "target": "Glow2"
+    },
+    {
+      "text": "",
+      "source": "Glow4",
+      "target": "Place_critter"
+    },
+    {
+      "text": "",
+      "source": "Vats6",
+      "target": "stranger"
+    },
+    {
+      "text": "",
+      "source": "Vats6",
+      "target": "Place_critter"
+    },
+    {
+      "text": "",
+      "source": "Glow6",
+      "target": "stranger"
+    },
+    {
+      "text": "",
+      "source": "Glow6",
+      "target": "Place_critter"
+    },
+    {
+      "text": "",
+      "source": "Necrop6",
+      "target": "Place_critter"
+    },
+    {
+      "text": "",
+      "source": "stranger",
+      "target": "Place_critter"
+    },
+    {
+      "text": "",
+      "source": "Bone6",
+      "target": "Place_critter"
+    },
+    {
+      "text": "",
+      "source": "Bone6",
+      "target": "stranger"
+    },
+    {
+      "text": "",
+      "source": "Necrop_table",
+      "target": "Necrop1_2"
+    },
+    {
+      "text": "",
+      "source": "Necrop_table",
+      "target": "Necrop4"
+    },
+    {
+      "text": "",
+      "source": "Necrop_table",
+      "target": "Necrop1_1"
+    },
+    {
+      "text": "",
+      "source": "Necrop_table",
+      "target": "Necrop3"
+    },
+    {
+      "text": "",
+      "source": "Necrop_table",
+      "target": "Necrop1_10"
+    },
+    {
+      "text": "",
+      "source": "Necrop_table",
+      "target": "Necrop1_5"
+    },
+    {
+      "text": "",
+      "source": "Necrop_table",
+      "target": "Necrop2"
+    },
+    {
+      "text": "",
+      "source": "Necrop_table",
+      "target": "Necrop1_4"
+    },
+    {
+      "text": "",
+      "source": "Necrop_table",
+      "target": "choose_start"
+    },
+    {
+      "text": "",
+      "source": "Necrop_table",
+      "target": "Necrop1_6"
+    },
+    {
+      "text": "",
+      "source": "Necrop_table",
+      "target": "Necrop1_9"
+    },
+    {
+      "text": "",
+      "source": "Necrop_table",
+      "target": "Necrop1_8"
+    },
+    {
+      "text": "",
+      "source": "Necrop_table",
+      "target": "Necrop6"
+    },
+    {
+      "text": "",
+      "source": "Necrop_table",
+      "target": "Necrop1_3"
+    },
+    {
+      "text": "",
+      "source": "Necrop_table",
+      "target": "Necrop5"
+    },
+    {
+      "text": "",
+      "source": "Necrop_table",
+      "target": "hunters"
+    },
+    {
+      "text": "",
+      "source": "Necrop_table",
+      "target": "Necrop1_7"
+    },
+    {
+      "text": "",
+      "source": "Shady3",
+      "target": "Place_critter"
+    },
+    {
+      "text": "",
+      "source": "Shady3",
+      "target": "stranger"
+    },
+    {
+      "text": "",
+      "source": "Shady5",
+      "target": "Place_critter"
+    },
+    {
+      "text": "",
+      "source": "Shady5",
+      "target": "stranger"
+    },
+    {
+      "text": "",
+      "source": "North_table",
+      "target": "North6_4"
+    },
+    {
+      "text": "",
+      "source": "North_table",
+      "target": "North2_1"
+    },
+    {
+      "text": "",
+      "source": "North_table",
+      "target": "North6_1"
+    },
+    {
+      "text": "",
+      "source": "North_table",
+      "target": "North6_8"
+    },
+    {
+      "text": "",
+      "source": "North_table",
+      "target": "North4"
+    },
+    {
+      "text": "",
+      "source": "North_table",
+      "target": "North6_7"
+    },
+    {
+      "text": "",
+      "source": "North_table",
+      "target": "North6_3"
+    },
+    {
+      "text": "",
+      "source": "North_table",
+      "target": "choose_start"
+    },
+    {
+      "text": "",
+      "source": "North_table",
+      "target": "North6_9"
+    },
+    {
+      "text": "",
+      "source": "North_table",
+      "target": "North6_6"
+    },
+    {
+      "text": "",
+      "source": "North_table",
+      "target": "North5"
+    },
+    {
+      "text": "",
+      "source": "North_table",
+      "target": "North6_5"
+    },
+    {
+      "text": "",
+      "source": "North_table",
+      "target": "North3"
+    },
+    {
+      "text": "",
+      "source": "North_table",
+      "target": "North6_10"
+    },
+    {
+      "text": "",
+      "source": "North_table",
+      "target": "North6_2"
+    },
+    {
+      "text": "",
+      "source": "North_table",
+      "target": "North1"
+    },
+    {
+      "text": "",
+      "source": "North_table",
+      "target": "hunters"
+    },
+    {
+      "text": "",
+      "source": "North4",
+      "target": "stranger"
+    },
+    {
+      "text": "",
+      "source": "North4",
+      "target": "Place_critter"
+    },
+    {
+      "text": "",
+      "source": "Bone4",
+      "target": "stranger"
+    },
+    {
+      "text": "",
+      "source": "Bone4",
+      "target": "Place_critter"
+    },
+    {
+      "text": "",
+      "source": "Glow1",
+      "target": "Place_critter"
+    },
+    {
+      "text": "",
+      "source": "Glow1",
+      "target": "stranger"
+    },
+    {
+      "text": "",
+      "source": "Raider3",
+      "target": "stranger"
+    },
+    {
+      "text": "",
+      "source": "Raider3",
+      "target": "Place_critter"
+    },
+    {
+      "text": "",
+      "source": "North2_1",
+      "target": "stranger"
+    },
+    {
+      "text": "",
+      "source": "North2_1",
+      "target": "Place_critter"
+    },
+    {
+      "text": "",
+      "source": "Raider6",
+      "target": "Place_critter"
+    },
+    {
+      "text": "",
+      "source": "start_3",
+      "target": "Junk_table"
+    },
+    {
+      "text": "",
+      "source": "start_3",
+      "target": "Shady_table"
+    },
+    {
+      "text": "",
+      "source": "start_3",
+      "target": "Necrop_table"
+    },
+    {
+      "text": "",
+      "source": "start_3",
+      "target": "Vats_table"
+    },
+    {
+      "text": "",
+      "source": "start_3",
+      "target": "Steel_table"
+    },
+    {
+      "text": "",
+      "source": "start_3",
+      "target": "South_table"
+    },
+    {
+      "text": "",
+      "source": "start_3",
+      "target": "Glow_table"
+    },
+    {
+      "text": "",
+      "source": "start_3",
+      "target": "Raider_table"
+    },
+    {
+      "text": "",
+      "source": "start_3",
+      "target": "Hub_table"
+    },
+    {
+      "text": "",
+      "source": "start_3",
+      "target": "Scenes"
+    },
+    {
+      "text": "",
+      "source": "start_3",
+      "target": "North_table"
+    },
+    {
+      "text": "",
+      "source": "start_3",
+      "target": "Lighting"
+    },
+    {
+      "text": "",
+      "source": "start_3",
+      "target": "Death_table"
+    },
+    {
+      "text": "",
+      "source": "start_3",
+      "target": "Bone_table"
+    },
+    {
+      "text": "",
+      "source": "Shady4_1",
+      "target": "Place_critter"
+    },
+    {
+      "text": "",
+      "source": "choose_start",
+      "target": "Scenes"
+    },
+    {
+      "text": "",
+      "source": "North1",
+      "target": "Place_critter"
+    },
+    {
+      "text": "",
+      "source": "North1",
+      "target": "stranger"
+    },
+    {
+      "text": "",
+      "source": "Glow5",
+      "target": "Place_critter"
+    },
+    {
+      "text": "",
+      "source": "Junk3",
+      "target": "stranger"
+    },
+    {
+      "text": "",
+      "source": "Junk3",
+      "target": "Place_critter"
+    },
+    {
+      "text": "",
+      "source": "Junk5",
+      "target": "Place_critter"
+    },
+    {
+      "text": "",
+      "source": "Necrop3",
+      "target": "Place_critter"
+    },
+    {
+      "text": "",
+      "source": "Necrop3",
+      "target": "stranger"
+    },
+    {
+      "text": "",
+      "source": "Steel4",
+      "target": "Place_critter"
+    },
+    {
+      "text": "",
+      "source": "Steel6",
+      "target": "stranger"
+    },
+    {
+      "text": "",
+      "source": "Steel6",
+      "target": "Place_critter"
+    },
+    {
+      "text": "",
+      "source": "Raider1",
+      "target": "stranger"
+    },
+    {
+      "text": "",
+      "source": "Raider1",
+      "target": "Place_critter"
+    },
+    {
+      "text": "",
+      "source": "Death5_1",
+      "target": "stranger"
+    },
+    {
+      "text": "",
+      "source": "Death5_1",
+      "target": "Place_critter"
+    },
+    {
+      "text": "",
+      "source": "Junk1",
+      "target": "stranger"
+    },
+    {
+      "text": "",
+      "source": "Junk1",
+      "target": "Place_critter"
+    },
+    {
+      "text": "",
+      "source": "Death4",
+      "target": "Place_critter"
+    },
+    {
+      "text": "",
+      "source": "Death4",
+      "target": "stranger"
+    },
+    {
+      "text": "",
+      "source": "Raider5",
+      "target": "Place_critter"
+    },
+    {
+      "text": "",
+      "source": "Vats_table",
+      "target": "Vats5_3"
+    },
+    {
+      "text": "",
+      "source": "Vats_table",
+      "target": "Vats5_5"
+    },
+    {
+      "text": "",
+      "source": "Vats_table",
+      "target": "Vats2"
+    },
+    {
+      "text": "",
+      "source": "Vats_table",
+      "target": "Vats4"
+    },
+    {
+      "text": "",
+      "source": "Vats_table",
+      "target": "hunters"
+    },
+    {
+      "text": "",
+      "source": "Vats_table",
+      "target": "Vats5_9"
+    },
+    {
+      "text": "",
+      "source": "Vats_table",
+      "target": "Vats6"
+    },
+    {
+      "text": "",
+      "source": "Vats_table",
+      "target": "Vats5_8"
+    },
+    {
+      "text": "",
+      "source": "Vats_table",
+      "target": "Vats5_4"
+    },
+    {
+      "text": "",
+      "source": "Vats_table",
+      "target": "Vats5_1"
+    },
+    {
+      "text": "",
+      "source": "Vats_table",
+      "target": "choose_start"
+    },
+    {
+      "text": "",
+      "source": "Vats_table",
+      "target": "Vats3"
+    },
+    {
+      "text": "",
+      "source": "Vats_table",
+      "target": "Vats5_2"
+    },
+    {
+      "text": "",
+      "source": "Vats_table",
+      "target": "Vats1"
+    },
+    {
+      "text": "",
+      "source": "Vats_table",
+      "target": "Vats5_7"
+    },
+    {
+      "text": "",
+      "source": "Vats_table",
+      "target": "Vats5_6"
+    },
+    {
+      "text": "",
+      "source": "Hub6",
+      "target": "Place_critter"
+    },
+    {
+      "text": "",
+      "source": "Death2",
+      "target": "stranger"
+    },
+    {
+      "text": "",
+      "source": "Death2",
+      "target": "Place_critter"
+    },
+    {
+      "text": "",
+      "source": "Steel2",
+      "target": "Place_critter"
+    },
+    {
+      "text": "",
+      "source": "Steel2",
+      "target": "stranger"
+    },
+    {
+      "text": "",
+      "source": "South_table",
+      "target": "South3_10"
+    },
+    {
+      "text": "",
+      "source": "South_table",
+      "target": "South3_5"
+    },
+    {
+      "text": "",
+      "source": "South_table",
+      "target": "South1"
+    },
+    {
+      "text": "",
+      "source": "South_table",
+      "target": "South3_7"
+    },
+    {
+      "text": "",
+      "source": "South_table",
+      "target": "South3_3"
+    },
+    {
+      "text": "",
+      "source": "South_table",
+      "target": "South6"
+    },
+    {
+      "text": "",
+      "source": "South_table",
+      "target": "South2"
+    },
+    {
+      "text": "",
+      "source": "South_table",
+      "target": "South5"
+    },
+    {
+      "text": "",
+      "source": "South_table",
+      "target": "South3_4"
+    },
+    {
+      "text": "",
+      "source": "South_table",
+      "target": "choose_start"
+    },
+    {
+      "text": "",
+      "source": "South_table",
+      "target": "South3_8"
+    },
+    {
+      "text": "",
+      "source": "South_table",
+      "target": "South3_2"
+    },
+    {
+      "text": "",
+      "source": "South_table",
+      "target": "South3_1"
+    },
+    {
+      "text": "",
+      "source": "South_table",
+      "target": "South3_6"
+    },
+    {
+      "text": "",
+      "source": "South_table",
+      "target": "South4"
+    },
+    {
+      "text": "",
+      "source": "South_table",
+      "target": "South3_9"
+    },
+    {
+      "text": "",
+      "source": "South_table",
+      "target": "hunters"
+    },
+    {
+      "text": "",
+      "source": "Vats1",
+      "target": "Place_critter"
+    },
+    {
+      "text": "",
+      "source": "Vats1",
+      "target": "stranger"
+    },
+    {
+      "text": "",
+      "source": "Shady_table",
+      "target": "choose_start"
+    },
+    {
+      "text": "",
+      "source": "Shady_table",
+      "target": "hunters"
+    },
+    {
+      "text": "",
+      "source": "Shady_table",
+      "target": "Shady2_3"
+    },
+    {
+      "text": "",
+      "source": "Shady_table",
+      "target": "Shady2_6"
+    },
+    {
+      "text": "",
+      "source": "Shady_table",
+      "target": "Shady2_5"
+    },
+    {
+      "text": "",
+      "source": "Shady_table",
+      "target": "Shady2_2"
+    },
+    {
+      "text": "",
+      "source": "Shady_table",
+      "target": "Shady6"
+    },
+    {
+      "text": "",
+      "source": "Shady_table",
+      "target": "Shady5"
+    },
+    {
+      "text": "",
+      "source": "Shady_table",
+      "target": "Shady2_1"
+    },
+    {
+      "text": "",
+      "source": "Shady_table",
+      "target": "Shady4_1"
+    },
+    {
+      "text": "",
+      "source": "Shady_table",
+      "target": "Shady1"
+    },
+    {
+      "text": "",
+      "source": "Shady_table",
+      "target": "Shady2_9"
+    },
+    {
+      "text": "",
+      "source": "Shady_table",
+      "target": "Shady2_4"
+    },
+    {
+      "text": "",
+      "source": "Shady_table",
+      "target": "Shady3"
+    },
+    {
+      "text": "",
+      "source": "Shady_table",
+      "target": "Shady2_7"
+    },
+    {
+      "text": "",
+      "source": "Shady_table",
+      "target": "Shady2_10"
+    },
+    {
+      "text": "",
+      "source": "Shady_table",
+      "target": "Shady2_8"
+    },
+    {
+      "text": "",
+      "source": "Raider_table",
+      "target": "Raider2_2"
+    },
+    {
+      "text": "",
+      "source": "Raider_table",
+      "target": "choose_start"
+    },
+    {
+      "text": "",
+      "source": "Raider_table",
+      "target": "hunters"
+    },
+    {
+      "text": "",
+      "source": "Raider_table",
+      "target": "Raider2_7"
+    },
+    {
+      "text": "",
+      "source": "Raider_table",
+      "target": "Raider2_3"
+    },
+    {
+      "text": "",
+      "source": "Raider_table",
+      "target": "Raider4"
+    },
+    {
+      "text": "",
+      "source": "Raider_table",
+      "target": "Raider2_4"
+    },
+    {
+      "text": "",
+      "source": "Raider_table",
+      "target": "Raider1"
+    },
+    {
+      "text": "",
+      "source": "Raider_table",
+      "target": "Raider2_1"
+    },
+    {
+      "text": "",
+      "source": "Raider_table",
+      "target": "Raider2_10"
+    },
+    {
+      "text": "",
+      "source": "Raider_table",
+      "target": "Raider6"
+    },
+    {
+      "text": "",
+      "source": "Raider_table",
+      "target": "Raider2_5"
+    },
+    {
+      "text": "",
+      "source": "Raider_table",
+      "target": "Raider5"
+    },
+    {
+      "text": "",
+      "source": "Raider_table",
+      "target": "Raider2_8"
+    },
+    {
+      "text": "",
+      "source": "Raider_table",
+      "target": "Raider2_6"
+    },
+    {
+      "text": "",
+      "source": "Raider_table",
+      "target": "Raider2_9"
+    },
+    {
+      "text": "",
+      "source": "Raider_table",
+      "target": "Raider3"
+    },
+    {
+      "text": "",
+      "source": "Hub_table",
+      "target": "Hub1_1"
+    },
+    {
+      "text": "",
+      "source": "Hub_table",
+      "target": "Hub3"
+    },
+    {
+      "text": "",
+      "source": "Hub_table",
+      "target": "Hub4"
+    },
+    {
+      "text": "",
+      "source": "Hub_table",
+      "target": "choose_start"
+    },
+    {
+      "text": "",
+      "source": "Hub_table",
+      "target": "Hub1_2"
+    },
+    {
+      "text": "",
+      "source": "Hub_table",
+      "target": "Hub6"
+    },
+    {
+      "text": "",
+      "source": "Hub_table",
+      "target": "Hub5"
+    },
+    {
+      "text": "",
+      "source": "Hub_table",
+      "target": "Hub1_3"
+    },
+    {
+      "text": "",
+      "source": "Hub_table",
+      "target": "hunters"
+    },
+    {
+      "text": "",
+      "source": "Hub_table",
+      "target": "Hub2"
+    },
+    {
+      "text": "",
+      "source": "South5",
+      "target": "stranger"
+    },
+    {
+      "text": "",
+      "source": "South5",
+      "target": "Place_critter"
+    },
+    {
+      "text": "",
+      "source": "Junk4",
+      "target": "Place_critter"
+    },
+    {
+      "text": "",
+      "source": "North3",
+      "target": "stranger"
+    },
+    {
+      "text": "",
+      "source": "North3",
+      "target": "Place_critter"
+    },
+    {
+      "text": "",
+      "source": "Hub4",
+      "target": "Place_critter"
+    },
+    {
+      "text": "",
+      "source": "North5",
+      "target": "Place_critter"
+    },
+    {
+      "text": "",
+      "source": "North5",
+      "target": "stranger"
+    },
+    {
+      "text": "",
+      "source": "start_1",
+      "target": "Steel_table"
+    },
+    {
+      "text": "",
+      "source": "start_1",
+      "target": "Lighting"
+    },
+    {
+      "text": "",
+      "source": "start_1",
+      "target": "Death_table"
+    },
+    {
+      "text": "",
+      "source": "start_1",
+      "target": "North_table"
+    },
+    {
+      "text": "",
+      "source": "start_1",
+      "target": "Shady_table"
+    },
+    {
+      "text": "",
+      "source": "start_1",
+      "target": "Necrop_table"
+    },
+    {
+      "text": "",
+      "source": "start_1",
+      "target": "Vats_table"
+    },
+    {
+      "text": "",
+      "source": "start_1",
+      "target": "Bone_table"
+    },
+    {
+      "text": "",
+      "source": "start_1",
+      "target": "Junk_table"
+    },
+    {
+      "text": "",
+      "source": "start_1",
+      "target": "South_table"
+    },
+    {
+      "text": "",
+      "source": "start_1",
+      "target": "Glow_table"
+    },
+    {
+      "text": "",
+      "source": "start_1",
+      "target": "Raider_table"
+    },
+    {
+      "text": "",
+      "source": "start_1",
+      "target": "Hub_table"
+    },
+    {
+      "text": "",
+      "source": "start_1",
+      "target": "Scenes"
+    },
+    {
+      "text": "",
+      "source": "Necrop2",
+      "target": "stranger"
+    },
+    {
+      "text": "",
+      "source": "Necrop2",
+      "target": "Place_critter"
+    },
+    {
+      "text": "",
+      "source": "Death6_1",
+      "target": "Place_critter"
+    },
+    {
+      "text": "",
+      "source": "Death6_1",
+      "target": "stranger"
+    },
+    {
+      "text": "",
+      "source": "Hub3",
+      "target": "Place_critter"
+    },
+    {
+      "text": "",
+      "source": "Hub3",
+      "target": "stranger"
+    },
+    {
+      "text": "",
+      "source": "hunters",
+      "target": "Place_critter"
+    },
+    {
+      "text": "",
+      "source": "hunters",
+      "target": "stranger"
+    },
+    {
+      "text": "",
+      "source": "Shady1",
+      "target": "stranger"
+    },
+    {
+      "text": "",
+      "source": "Shady1",
+      "target": "Place_critter"
+    },
+    {
+      "text": "",
+      "source": "Necrop5",
+      "target": "stranger"
+    },
+    {
+      "text": "",
+      "source": "Necrop5",
+      "target": "Place_critter"
+    },
+    {
+      "text": "",
+      "source": "Hub5",
+      "target": "Place_critter"
+    },
+    {
+      "text": "",
+      "source": "Vats2",
+      "target": "stranger"
+    },
+    {
+      "text": "",
+      "source": "Vats2",
+      "target": "Place_critter"
+    },
+    {
+      "text": "",
+      "source": "Hub2",
+      "target": "stranger"
+    },
+    {
+      "text": "",
+      "source": "Hub2",
+      "target": "Place_critter"
+    },
+    {
+      "text": "",
+      "source": "Bone1",
+      "target": "stranger"
+    },
+    {
+      "text": "",
+      "source": "Bone1",
+      "target": "Place_critter"
+    },
+    {
+      "text": "",
+      "source": "Steel_table",
+      "target": "choose_start"
+    },
+    {
+      "text": "",
+      "source": "Steel_table",
+      "target": "Steel3_7"
+    },
+    {
+      "text": "",
+      "source": "Steel_table",
+      "target": "Steel5"
+    },
+    {
+      "text": "",
+      "source": "Steel_table",
+      "target": "Steel3_10"
+    },
+    {
+      "text": "",
+      "source": "Steel_table",
+      "target": "Steel3_1"
+    },
+    {
+      "text": "",
+      "source": "Steel_table",
+      "target": "Steel2"
+    },
+    {
+      "text": "",
+      "source": "Steel_table",
+      "target": "hunters"
+    },
+    {
+      "text": "",
+      "source": "Steel_table",
+      "target": "Steel3_6"
+    },
+    {
+      "text": "",
+      "source": "Steel_table",
+      "target": "Steel3_3"
+    },
+    {
+      "text": "",
+      "source": "Steel_table",
+      "target": "Steel3_5"
+    },
+    {
+      "text": "",
+      "source": "Steel_table",
+      "target": "Steel3_4"
+    },
+    {
+      "text": "",
+      "source": "Steel_table",
+      "target": "Steel3_2"
+    },
+    {
+      "text": "",
+      "source": "Steel_table",
+      "target": "Steel3_9"
+    },
+    {
+      "text": "",
+      "source": "Steel_table",
+      "target": "Steel6"
+    },
+    {
+      "text": "",
+      "source": "Steel_table",
+      "target": "Steel3_8"
+    },
+    {
+      "text": "",
+      "source": "Steel_table",
+      "target": "Steel4"
+    },
+    {
+      "text": "",
+      "source": "Steel_table",
+      "target": "Steel1"
+    },
+    {
+      "text": "",
+      "source": "South6",
+      "target": "Place_critter"
+    },
+    {
+      "text": "",
+      "source": "South6",
+      "target": "stranger"
+    },
+    {
+      "text": "",
+      "source": "South2",
+      "target": "Place_critter"
+    },
+    {
+      "text": "",
+      "source": "South2",
+      "target": "stranger"
+    },
+    {
+      "text": "",
+      "source": "Steel5",
+      "target": "Place_critter"
+    },
+    {
+      "text": "",
+      "source": "Steel1",
+      "target": "stranger"
+    },
+    {
+      "text": "",
+      "source": "Steel1",
+      "target": "Place_critter"
+    }
+  ]
+}

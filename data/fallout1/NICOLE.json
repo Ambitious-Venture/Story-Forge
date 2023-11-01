@@ -1,0 +1,144 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "",
+      "node_id": "node67",
+      "id": "UpReactLevel"
+    },
+    {
+      "text": "We don't worship so much as follow a set of principles. We want to bring peace back to this wasteland. The world tends toward destruction, so we try to make a difference.",
+      "node_id": "node13",
+      "id": "Nicole02"
+    },
+    {
+      "text": "[Sigh] You're simply not ready to understand the differences. Okay. So why don't you just think about it, then come back to talk.",
+      "node_id": "node49",
+      "id": "Nicole35"
+    },
+    {
+      "text": "Well, if you say so. Now run along, because we have work to do.",
+      "node_id": "node17",
+      "id": "Nicole78"
+    },
+    {
+      "text": "",
+      "node_id": "node15",
+      "id": "Nicole09"
+    },
+    {
+      "text": "Greetings. Hey! We're very glad you could join us. We hope you have found our humble abode to your satisfaction.",
+      "node_id": "node6",
+      "id": "Nicole01"
+    },
+    {
+      "text": "We know it could be better. But when you're preparing for war...",
+      "node_id": "node16",
+      "id": "Nicole15"
+    },
+    {
+      "text": "",
+      "node_id": "node7",
+      "id": "Nicole00"
+    },
+    {
+      "text": "Please, we're busy. Don't you have things to do?",
+      "node_id": "node4",
+      "id": "talk_p_proc"
+    },
+    {
+      "text": "",
+      "node_id": "node27",
+      "id": "DownReactLevel"
+    },
+    {
+      "text": "Hey! I don't appreciate that, but I'll overlook it if you apologize.",
+      "node_id": "node14",
+      "id": "Nicole11"
+    },
+    {
+      "text": "You've probably seen their hospitals around. They preach peace, but there is something wrong with them. We need to find out what.",
+      "node_id": "node12",
+      "id": "Nicole50"
+    },
+    {
+      "text": "",
+      "node_id": "node5",
+      "id": "LevelToReact"
+    }
+  ],
+  "links": [
+    {
+      "text": "",
+      "source": "UpReactLevel",
+      "target": "LevelToReact"
+    },
+    {
+      "text": "",
+      "source": "Nicole35",
+      "target": "DownReactLevel"
+    },
+    {
+      "text": "",
+      "source": "Nicole09",
+      "target": "Nicole00"
+    },
+    {
+      "text": "It's okay, I guess.",
+      "source": "Nicole01",
+      "target": "Nicole15"
+    },
+    {
+      "text": "Thanks. Can you tell me more about what you worship here?",
+      "source": "Nicole01",
+      "target": "Nicole02"
+    },
+    {
+      "text": "Nuhh? Uh, nuh, nuh. Huh?",
+      "source": "Nicole01",
+      "target": "Nicole78"
+    },
+    {
+      "text": "I have. Can I ask you a few questions?",
+      "source": "Nicole01",
+      "target": "Nicole09"
+    },
+    {
+      "text": "'Humble' is a good word. 'Dump' would be better.",
+      "source": "Nicole01",
+      "target": "Nicole11"
+    },
+    {
+      "text": "What else do you know about the Children of the Cathedral?",
+      "source": "Nicole00",
+      "target": "Nicole50"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Nicole01"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Nicole00"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "LevelToReact"
+    },
+    {
+      "text": "",
+      "source": "DownReactLevel",
+      "target": "LevelToReact"
+    },
+    {
+      "text": "",
+      "source": "Nicole11",
+      "target": "DownReactLevel"
+    }
+  ]
+}

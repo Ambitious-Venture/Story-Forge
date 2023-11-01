@@ -1,0 +1,24 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "",
+      "node_id": "node1",
+      "id": "start"
+    },
+    {
+      "text": "This is the Vault Emergency Medical Lab--EML. It is here so that all serious injuries and ailments might be treated. There should be a medic on duty 24 hours a day.",
+      "node_id": "node2",
+      "id": "spatial_p_proc"
+    }
+  ],
+  "links": [
+    {
+      "text": "",
+      "source": "start",
+      "target": "spatial_p_proc"
+    }
+  ]
+}

@@ -1,0 +1,939 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "You're pretty good already. Go learn to shoot or something.",
+      "node_id": "node42_2",
+      "id": "Node004_2"
+    },
+    {
+      "text": "",
+      "node_id": "node56",
+      "id": "NodeTest"
+    },
+    {
+      "text": "",
+      "node_id": "node46",
+      "id": "Node008a"
+    },
+    {
+      "text": "",
+      "node_id": "node65",
+      "id": "Node013a"
+    },
+    {
+      "text": "Oh, look, the idiot. I don't want to talk to you. Go away.",
+      "node_id": "node15",
+      "id": "Node006"
+    },
+    {
+      "text": "",
+      "node_id": "node51",
+      "id": "Node2628"
+    },
+    {
+      "text": "You need to train more.",
+      "node_id": "node28",
+      "id": "endTestFail"
+    },
+    {
+      "text": "You have already defeated my men. You have passed my test. You are ready to fight the Dragon.",
+      "node_id": "node53_1",
+      "id": "Node014_1"
+    },
+    {
+      "text": "",
+      "node_id": "node64",
+      "id": "NodeAngry"
+    },
+    {
+      "text": "Evil? Hardly. Just smart. Maybe if you're so concerned about doing the right thing by people, you should see the Dragon. He likes simpering weaklings like you.",
+      "node_id": "node47",
+      "id": "Node008"
+    },
+    {
+      "text": "You have beaten Lo Pan in mortal combat. For some reason the sun seems a little brighter today.",
+      "node_id": "node19_2",
+      "id": "destroy_p_proc_2"
+    },
+    {
+      "text": "[Lo Pan studies you and then throws a quick punch which smacks you in the nose before you can even react.] You are not good enough.",
+      "node_id": "node62",
+      "id": "Node028"
+    },
+    {
+      "text": "Let us begin. Follow my lead.",
+      "node_id": "node18",
+      "id": "DoLearn"
+    },
+    {
+      "text": "Him? The Dragon. He's a weakling who fosters weakness.",
+      "node_id": "node37",
+      "id": "Node007"
+    },
+    {
+      "text": "I am done training today. Return tommorow.",
+      "node_id": "node42_1",
+      "id": "Node004_1"
+    },
+    {
+      "text": "You want to fight me to the death, or do you just want to see who's better?",
+      "node_id": "node41",
+      "id": "Node012"
+    },
+    {
+      "text": "You have already defeated my men. No others wish to challenge you.",
+      "node_id": "node53_2",
+      "id": "Node014_2"
+    },
+    {
+      "text": "You have already defeated my men. No others wish to challenge you.",
+      "node_id": "node60_2",
+      "id": "Node026_2"
+    },
+    {
+      "text": "Baaa, sheep, baaa! Go back to your robed masters. I don't have anything to say to you.",
+      "node_id": "node7",
+      "id": "Node019"
+    },
+    {
+      "text": "Then you're a fool and a dog doing the bidding of others. I will laugh when you die.",
+      "node_id": "node54",
+      "id": "Node017"
+    },
+    {
+      "text": "You have already defeated my men. You have passed my test. You are ready to fight the Dragon.",
+      "node_id": "node60_1",
+      "id": "Node026_1"
+    },
+    {
+      "text": "",
+      "node_id": "node20",
+      "id": "ReturnInven"
+    },
+    {
+      "text": "",
+      "node_id": "node35",
+      "id": "Node999"
+    },
+    {
+      "text": "What do you want?",
+      "node_id": "node8",
+      "id": "Node001"
+    },
+    {
+      "text": "",
+      "node_id": "node43",
+      "id": "NodeLearn"
+    },
+    {
+      "text": "Are you? Can you fight a man hand to hand, foot to face, without relying on armor and weapons?",
+      "node_id": "node49",
+      "id": "Node010"
+    },
+    {
+      "text": "",
+      "node_id": "node50",
+      "id": "Node011a"
+    },
+    {
+      "text": "You see an arrogant Shi gangster.",
+      "node_id": "node12_1",
+      "id": "Node025_1"
+    },
+    {
+      "text": "Because otherwise the peasants will curse me and it'll make it that much harder to cow them when I've beaten the Dragon.",
+      "node_id": "node52",
+      "id": "Node011"
+    },
+    {
+      "text": "Get out of here, idiot. I don't have anything to say to you.",
+      "node_id": "node14",
+      "id": "Node002"
+    },
+    {
+      "text": "Great. I hope you have a grave ready. Did the Dragon send you?",
+      "node_id": "node40",
+      "id": "Node013"
+    },
+    {
+      "text": "You see Lo Pan, a domineering, ruthless man.",
+      "node_id": "node12_2",
+      "id": "Node025_2"
+    },
+    {
+      "text": "FIGHT!",
+      "node_id": "node30",
+      "id": "doFight"
+    },
+    {
+      "text": "",
+      "node_id": "node39",
+      "id": "Node4_5"
+    },
+    {
+      "text": "I'm Lo Pan. I'm also the \"sworn enemy\" of the Dragon. Why he insists on having a sworn enemy is beyond me. I just fight as well as him, and I think he's weak-hearted and allows others to live under his shadow. We're enemies because we have the same fighting style, and whoever wins will be the one who carries the tradition.",
+      "node_id": "node38",
+      "id": "Node015"
+    },
+    {
+      "text": "Yes, I should. And I do. Unfortunately, the Dragon stands in the way. We're too evenly balanced in our fight against each other. I need just one trained person to help me.",
+      "node_id": "node45",
+      "id": "Node009"
+    },
+    {
+      "text": "You will need to defeat me. \u00a0However, none of these battles will to be to the death - \u00a0to protect my men, of course. [he sneers]",
+      "node_id": "node61",
+      "id": "Node027"
+    },
+    {
+      "text": "You already took the test of the Dragon!",
+      "node_id": "node42_3",
+      "id": "Node004_3"
+    },
+    {
+      "text": "",
+      "node_id": "node57",
+      "id": "NodeAttackNow"
+    },
+    {
+      "text": "Next Opponent!",
+      "node_id": "node16_3",
+      "id": "DoTest_3"
+    },
+    {
+      "text": "I may be a scumbag, but never will it be said I don't stand up for my people. I'm going to hurt you before you die.",
+      "node_id": "node6",
+      "id": "Node016"
+    },
+    {
+      "text": "",
+      "node_id": "node58",
+      "id": "NodeChallenge"
+    },
+    {
+      "text": "Prepare yourself!",
+      "node_id": "node17",
+      "id": "DoChallenge"
+    },
+    {
+      "text": "Teach you? I don't think so. You look far too self-righteous. Get out of here.",
+      "node_id": "node44",
+      "id": "Node005"
+    },
+    {
+      "text": "",
+      "node_id": "node31",
+      "id": "learn1"
+    },
+    {
+      "text": "You have learned well.",
+      "node_id": "node32_1",
+      "id": "learn2_1"
+    },
+    {
+      "text": "You see Lo Pan, a domineering, ruthless man.",
+      "node_id": "node11_2",
+      "id": "Node024_2"
+    },
+    {
+      "text": "You see an arrogant Shi gangster.",
+      "node_id": "node11_1",
+      "id": "Node024_1"
+    },
+    {
+      "text": "No, it's not. But the Dragon still beats me. If you have any backbone, you'll take him out. But then, I never expected pride from a lao wai.",
+      "node_id": "node59",
+      "id": "Node022"
+    },
+    {
+      "text": "Next Opponent!",
+      "node_id": "node16_2",
+      "id": "DoTest_2"
+    },
+    {
+      "text": "",
+      "node_id": "node34",
+      "id": "Node998"
+    },
+    {
+      "text": "",
+      "node_id": "node63",
+      "id": "TakeInven"
+    },
+    {
+      "text": "",
+      "node_id": "node5",
+      "id": "talk_p_proc"
+    },
+    {
+      "text": "I'm Lo Pan. I'm the best fighter in town, except for the Dragon. And one day, he's a dead man. When that happens, I'll teach others my style.",
+      "node_id": "node36",
+      "id": "Node003"
+    },
+    {
+      "text": "You are, I must admit, even better a fighter than I am. You wanna try for the Dragon?",
+      "node_id": "node10",
+      "id": "Node021"
+    },
+    {
+      "text": "You see Lo Pan, a domineering, ruthless man.",
+      "node_id": "node29_1",
+      "id": "endTestPass_1"
+    },
+    {
+      "text": "I just got back from killing a lao wai who tried to steal our secrets. The Dragon and I took him out. We worked well together, I must admit.",
+      "node_id": "node13",
+      "id": "Node023"
+    },
+    {
+      "text": "Next Opponent!",
+      "node_id": "node16_4",
+      "id": "DoTest_4"
+    },
+    {
+      "text": "Didn't I tell you to talk to the Dragon about your moral qualms? He'll hold your hand. I won't. Now leave.",
+      "node_id": "node9",
+      "id": "Node020"
+    },
+    {
+      "text": "I warned you to leave, not to die. Oh well.",
+      "node_id": "node27",
+      "id": "timed_event_p_proc"
+    },
+    {
+      "text": "You see Lo Pan, a domineering, ruthless man.",
+      "node_id": "node19_1",
+      "id": "destroy_p_proc_1"
+    },
+    {
+      "text": "",
+      "node_id": "node48",
+      "id": "Node010a"
+    },
+    {
+      "text": "Next Opponent!",
+      "node_id": "node16_1",
+      "id": "DoTest_1"
+    },
+    {
+      "text": "Good. At least you're your own master. Are you tough enough to fight without weapons or armor?",
+      "node_id": "node55",
+      "id": "Node018"
+    }
+  ],
+  "links": [
+    {
+      "text": "-done-",
+      "source": "Node004_2",
+      "target": "NodeLearn"
+    },
+    {
+      "text": "",
+      "source": "NodeTest",
+      "target": "Node999"
+    },
+    {
+      "text": "",
+      "source": "Node008a",
+      "target": "Node008"
+    },
+    {
+      "text": "",
+      "source": "Node013a",
+      "target": "Node013"
+    },
+    {
+      "text": "Duhhh...",
+      "source": "Node006",
+      "target": "Node999"
+    },
+    {
+      "text": "",
+      "source": "Node2628",
+      "target": "Node026_1"
+    },
+    {
+      "text": "",
+      "source": "Node2628",
+      "target": "Node026_2"
+    },
+    {
+      "text": "",
+      "source": "Node2628",
+      "target": "Node028"
+    },
+    {
+      "text": "",
+      "source": "endTestFail",
+      "target": "ReturnInven"
+    },
+    {
+      "text": "-begin-",
+      "source": "Node014_1",
+      "target": "NodeTest"
+    },
+    {
+      "text": "",
+      "source": "NodeAngry",
+      "target": "Node999"
+    },
+    {
+      "text": "-done-",
+      "source": "Node008",
+      "target": "Node999"
+    },
+    {
+      "text": "",
+      "source": "destroy_p_proc_2",
+      "target": "ReturnInven"
+    },
+    {
+      "text": "Fine. Bye.",
+      "source": "Node028",
+      "target": "Node999"
+    },
+    {
+      "text": "Ok, but can I ask something else?",
+      "source": "Node028",
+      "target": "Node001"
+    },
+    {
+      "text": "What, you're evil?",
+      "source": "Node007",
+      "target": "Node008a"
+    },
+    {
+      "text": "I see. I have more questions.",
+      "source": "Node007",
+      "target": "Node001"
+    },
+    {
+      "text": "The people are sheep. You should serve yourself.",
+      "source": "Node007",
+      "target": "Node009"
+    },
+    {
+      "text": "-done-",
+      "source": "Node004_1",
+      "target": "NodeLearn"
+    },
+    {
+      "text": "To the finish. I can take you.",
+      "source": "Node012",
+      "target": "Node013"
+    },
+    {
+      "text": "Neither. Forget it.",
+      "source": "Node012",
+      "target": "Node999"
+    },
+    {
+      "text": "A test of skills. I don't want to kill you.",
+      "source": "Node012",
+      "target": "Node014_2"
+    },
+    {
+      "text": "A test of skills. I don't want to kill you.",
+      "source": "Node012",
+      "target": "Node014_1"
+    },
+    {
+      "text": "-begin-",
+      "source": "Node014_2",
+      "target": "NodeTest"
+    },
+    {
+      "text": "What is that?",
+      "source": "Node026_2",
+      "target": "Node027"
+    },
+    {
+      "text": "Sounds like too much trouble. Bye.",
+      "source": "Node026_2",
+      "target": "Node999"
+    },
+    {
+      "text": "- attack now, with armor and weapons -",
+      "source": "Node017",
+      "target": "NodeAttackNow"
+    },
+    {
+      "text": "- enter the ring, remove armor and weapons, and fight hand to hand -",
+      "source": "Node017",
+      "target": "NodeChallenge"
+    },
+    {
+      "text": "Sounds like too much trouble. Bye.",
+      "source": "Node026_1",
+      "target": "Node999"
+    },
+    {
+      "text": "What is that?",
+      "source": "Node026_1",
+      "target": "Node027"
+    },
+    {
+      "text": "I wish to challenge you.",
+      "source": "Node001",
+      "target": "Node013"
+    },
+    {
+      "text": "Forget it.",
+      "source": "Node001",
+      "target": "Node999"
+    },
+    {
+      "text": "Daggle aggle aggle!",
+      "source": "Node001",
+      "target": "Node002"
+    },
+    {
+      "text": "I wish to challenge you.",
+      "source": "Node001",
+      "target": "Node012"
+    },
+    {
+      "text": "Who you?",
+      "source": "Node001",
+      "target": "Node003"
+    },
+    {
+      "text": "Who are you?",
+      "source": "Node001",
+      "target": "Node015"
+    },
+    {
+      "text": "Who was that you were fighting?",
+      "source": "Node001",
+      "target": "Node007"
+    },
+    {
+      "text": "I want to learn to fight like you. Teach me.",
+      "source": "Node001",
+      "target": "Node4_5"
+    },
+    {
+      "text": "",
+      "source": "NodeLearn",
+      "target": "Node999"
+    },
+    {
+      "text": "I can, but why should I?",
+      "source": "Node010",
+      "target": "Node011a"
+    },
+    {
+      "text": "Oh. Well, in that case, I gotta go.",
+      "source": "Node010",
+      "target": "Node999"
+    },
+    {
+      "text": "Sounds fair to me. How does this test work?",
+      "source": "Node010",
+      "target": "Node2628"
+    },
+    {
+      "text": "",
+      "source": "Node011a",
+      "target": "Node011"
+    },
+    {
+      "text": "It was my pleasure. Bye.",
+      "source": "Node025_1",
+      "target": "Node999"
+    },
+    {
+      "text": "You're welcome. Can I ask a question?",
+      "source": "Node025_1",
+      "target": "Node001"
+    },
+    {
+      "text": "Got it. I have more questions.",
+      "source": "Node011",
+      "target": "Node001"
+    },
+    {
+      "text": "Got it. Let's start the test.",
+      "source": "Node011",
+      "target": "Node2628"
+    },
+    {
+      "text": "Riiight. See ya.",
+      "source": "Node011",
+      "target": "Node999"
+    },
+    {
+      "text": "GRR!",
+      "source": "Node002",
+      "target": "Node999"
+    },
+    {
+      "text": "Yes. I'm doing this for the Shi.",
+      "source": "Node013",
+      "target": "Node017"
+    },
+    {
+      "text": "No. I'm doing this because I think you're scum.",
+      "source": "Node013",
+      "target": "Node018"
+    },
+    {
+      "text": "It was my pleasure. Bye.",
+      "source": "Node025_2",
+      "target": "Node999"
+    },
+    {
+      "text": "You're welcome. Can I ask a question?",
+      "source": "Node025_2",
+      "target": "Node001"
+    },
+    {
+      "text": "",
+      "source": "Node4_5",
+      "target": "Node005"
+    },
+    {
+      "text": "",
+      "source": "Node4_5",
+      "target": "Node004_2"
+    },
+    {
+      "text": "",
+      "source": "Node4_5",
+      "target": "Node004_3"
+    },
+    {
+      "text": "",
+      "source": "Node4_5",
+      "target": "Node004_1"
+    },
+    {
+      "text": "I'm not too bad at hand-to-hand combat myself. Wanna give me a try?",
+      "source": "Node015",
+      "target": "Node2628"
+    },
+    {
+      "text": "Thanks. Bye.",
+      "source": "Node015",
+      "target": "Node999"
+    },
+    {
+      "text": "That's interesting. Must be rewarding. I have more questions.",
+      "source": "Node015",
+      "target": "Node001"
+    },
+    {
+      "text": "I am that person.",
+      "source": "Node009",
+      "target": "Node010a"
+    },
+    {
+      "text": "I see. Well, I have more questions.",
+      "source": "Node009",
+      "target": "Node001"
+    },
+    {
+      "text": "I see. Well, so long.",
+      "source": "Node009",
+      "target": "Node999"
+    },
+    {
+      "text": "Let's get it on!",
+      "source": "Node027",
+      "target": "NodeTest"
+    },
+    {
+      "text": "You can take care of the Dragon yourself.",
+      "source": "Node027",
+      "target": "Node999"
+    },
+    {
+      "text": "-done-",
+      "source": "Node004_3",
+      "target": "NodeLearn"
+    },
+    {
+      "text": "",
+      "source": "NodeAttackNow",
+      "target": "Node998"
+    },
+    {
+      "text": "",
+      "source": "DoTest_3",
+      "target": "TakeInven"
+    },
+    {
+      "text": "-done-",
+      "source": "Node016",
+      "target": "Node998"
+    },
+    {
+      "text": "",
+      "source": "NodeChallenge",
+      "target": "Node999"
+    },
+    {
+      "text": "",
+      "source": "DoChallenge",
+      "target": "TakeInven"
+    },
+    {
+      "text": "What the... ?",
+      "source": "Node005",
+      "target": "Node999"
+    },
+    {
+      "text": "Great. Bye.",
+      "source": "Node024_2",
+      "target": "Node999"
+    },
+    {
+      "text": "Great. I have questions.",
+      "source": "Node024_2",
+      "target": "Node001"
+    },
+    {
+      "text": "Great. I have questions.",
+      "source": "Node024_1",
+      "target": "Node001"
+    },
+    {
+      "text": "Great. Bye.",
+      "source": "Node024_1",
+      "target": "Node999"
+    },
+    {
+      "text": "Right. I have questions.",
+      "source": "Node022",
+      "target": "Node001"
+    },
+    {
+      "text": "Yeah, whatever. Bye.",
+      "source": "Node022",
+      "target": "Node999"
+    },
+    {
+      "text": "",
+      "source": "DoTest_2",
+      "target": "TakeInven"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node019"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node020"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node021"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node025_2"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "DoTest_1"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node025_1"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "DoChallenge"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "DoTest_4"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node016"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node006"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "DoTest_3"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node002"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node024_1"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "DoLearn"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node024_2"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node001"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node023"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "DoTest_2"
+    },
+    {
+      "text": "Teach me!",
+      "source": "Node003",
+      "target": "Node4_5"
+    },
+    {
+      "text": "Tank yu.",
+      "source": "Node003",
+      "target": "Node999"
+    },
+    {
+      "text": "Yes. I'll do it right now.",
+      "source": "Node021",
+      "target": "Node999"
+    },
+    {
+      "text": "It's not really my fight.",
+      "source": "Node021",
+      "target": "Node022"
+    },
+    {
+      "text": "Sure, but I have some questions.",
+      "source": "Node021",
+      "target": "Node001"
+    },
+    {
+      "text": "",
+      "source": "endTestPass_1",
+      "target": "ReturnInven"
+    },
+    {
+      "text": "Great. I have questions.",
+      "source": "Node023",
+      "target": "Node001"
+    },
+    {
+      "text": "Great. Bye.",
+      "source": "Node023",
+      "target": "Node999"
+    },
+    {
+      "text": "",
+      "source": "DoTest_4",
+      "target": "TakeInven"
+    },
+    {
+      "text": "-done-",
+      "source": "Node020",
+      "target": "Node999"
+    },
+    {
+      "text": "I wish to challenge you.",
+      "source": "Node020",
+      "target": "Node013"
+    },
+    {
+      "text": "",
+      "source": "timed_event_p_proc",
+      "target": "learn2_1"
+    },
+    {
+      "text": "",
+      "source": "timed_event_p_proc",
+      "target": "DoTest_4"
+    },
+    {
+      "text": "",
+      "source": "timed_event_p_proc",
+      "target": "DoTest_3"
+    },
+    {
+      "text": "",
+      "source": "timed_event_p_proc",
+      "target": "learn1"
+    },
+    {
+      "text": "",
+      "source": "timed_event_p_proc",
+      "target": "DoTest_2"
+    },
+    {
+      "text": "",
+      "source": "timed_event_p_proc",
+      "target": "endTestPass_1"
+    },
+    {
+      "text": "",
+      "source": "timed_event_p_proc",
+      "target": "endTestFail"
+    },
+    {
+      "text": "",
+      "source": "timed_event_p_proc",
+      "target": "DoTest_1"
+    },
+    {
+      "text": "",
+      "source": "timed_event_p_proc",
+      "target": "doFight"
+    },
+    {
+      "text": "",
+      "source": "destroy_p_proc_1",
+      "target": "ReturnInven"
+    },
+    {
+      "text": "",
+      "source": "Node010a",
+      "target": "Node010"
+    },
+    {
+      "text": "",
+      "source": "DoTest_1",
+      "target": "TakeInven"
+    },
+    {
+      "text": "- attack now, with armor and weapons -",
+      "source": "Node018",
+      "target": "NodeAttackNow"
+    },
+    {
+      "text": "- enter the ring, remove armor and weapons, and fight hand to hand -",
+      "source": "Node018",
+      "target": "NodeChallenge"
+    }
+  ]
+}

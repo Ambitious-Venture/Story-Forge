@@ -1,0 +1,269 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "You are certain that the system should have a set of diagnostic routines available. However, the keyboard input seems to have been disabled. The unit accepts voice commands only. What do you do?",
+      "node_id": "node20",
+      "id": "Node004"
+    },
+    {
+      "text": "",
+      "node_id": "node5",
+      "id": "use_skill_on_p_proc"
+    },
+    {
+      "text": "You tell your so-called President that he will burn for this.",
+      "node_id": "node12_1",
+      "id": "sequence_1"
+    },
+    {
+      "text": "Whatever. You were never anything more than a talking animal.",
+      "node_id": "node12_2",
+      "id": "sequence_2"
+    },
+    {
+      "text": "Their blood will run like the Nile!",
+      "node_id": "node12_6",
+      "id": "sequence_6"
+    },
+    {
+      "text": "Accessing security footage, loading holographic playback...",
+      "node_id": "node9",
+      "id": "Node008"
+    },
+    {
+      "text": "Peering into the mass of cables and circuit boards, you find that the system has been deliberately sabotaged. One of the circuit boards, the voice recognition module, is beyond repair and must be replaced. Now all you need to do is find a replacement module.",
+      "node_id": "node21",
+      "id": "Node005"
+    },
+    {
+      "text": "This well-known repair method produces two results. First, the monitor seems to go haywire for several seconds and then stabilizes. Second, you hear a breaking metal type of sound and the panel you kicked falls to the floor. What do you do?",
+      "node_id": "node19",
+      "id": "Node003"
+    },
+    {
+      "text": "The terminal needs a voice recognition module installed before it can become operational.",
+      "node_id": "node10_1",
+      "id": "Node006_1"
+    },
+    {
+      "text": "",
+      "node_id": "node22",
+      "id": "Node999"
+    },
+    {
+      "text": "And now I give you death.",
+      "node_id": "node12_4",
+      "id": "sequence_4"
+    },
+    {
+      "text": "",
+      "node_id": "node4",
+      "id": "use_p_proc"
+    },
+    {
+      "text": "You examine the computer terminal, but cannot find anything obviously wrong with it. What do  you do?",
+      "node_id": "node11",
+      "id": "Node001"
+    },
+    {
+      "text": "",
+      "node_id": "node17",
+      "id": "timed_event_p_proc"
+    },
+    {
+      "text": "The system is working fine now.",
+      "node_id": "node8",
+      "id": "Node007"
+    },
+    {
+      "text": "",
+      "node_id": "node23",
+      "id": "NodeDoSeq"
+    },
+    {
+      "text": "You gaze at the console for a while and decide upon the best spot to place a punch. After giving it your best 'this'll fix it' hit, the monitor flashes a couple of times and then stabilizes. There is  no other effect. What do you do?",
+      "node_id": "node18",
+      "id": "Node002"
+    },
+    {
+      "text": "That may be, but we were created through your experimentation. Your gave us life!",
+      "node_id": "node12_3",
+      "id": "sequence_3"
+    },
+    {
+      "text": "Take his body. The doctor wanted a specimen.",
+      "node_id": "node12_5",
+      "id": "sequence_5"
+    }
+  ],
+  "links": [
+    {
+      "text": "The only thing left is to look inside.",
+      "source": "Node004",
+      "target": "Node005"
+    },
+    {
+      "text": "Leave it alone.",
+      "source": "Node004",
+      "target": "Node999"
+    },
+    {
+      "text": "",
+      "source": "use_skill_on_p_proc",
+      "target": "sequence_3"
+    },
+    {
+      "text": "",
+      "source": "use_skill_on_p_proc",
+      "target": "Node001"
+    },
+    {
+      "text": "",
+      "source": "use_skill_on_p_proc",
+      "target": "Node008"
+    },
+    {
+      "text": "",
+      "source": "use_skill_on_p_proc",
+      "target": "sequence_5"
+    },
+    {
+      "text": "",
+      "source": "use_skill_on_p_proc",
+      "target": "sequence_1"
+    },
+    {
+      "text": "",
+      "source": "use_skill_on_p_proc",
+      "target": "Node006_1"
+    },
+    {
+      "text": "",
+      "source": "use_skill_on_p_proc",
+      "target": "sequence_4"
+    },
+    {
+      "text": "",
+      "source": "use_skill_on_p_proc",
+      "target": "sequence_6"
+    },
+    {
+      "text": "",
+      "source": "use_skill_on_p_proc",
+      "target": "sequence_2"
+    },
+    {
+      "text": "",
+      "source": "use_skill_on_p_proc",
+      "target": "Node007"
+    },
+    {
+      "text": "Leave it alone.",
+      "source": "Node003",
+      "target": "Node999"
+    },
+    {
+      "text": "Run the diagnostic program.",
+      "source": "Node003",
+      "target": "Node004"
+    },
+    {
+      "text": "Damn thing's open. Might as well look inside.",
+      "source": "Node003",
+      "target": "Node005"
+    },
+    {
+      "text": "",
+      "source": "use_p_proc",
+      "target": "use_skill_on_p_proc"
+    },
+    {
+      "text": "Kick it in that 'special' spot.",
+      "source": "Node001",
+      "target": "Node003"
+    },
+    {
+      "text": "Leave it alone.",
+      "source": "Node001",
+      "target": "Node999"
+    },
+    {
+      "text": "Hit it in that 'special' way.",
+      "source": "Node001",
+      "target": "Node002"
+    },
+    {
+      "text": "Run the diagnostic program.",
+      "source": "Node001",
+      "target": "Node004"
+    },
+    {
+      "text": "Open it up and look inside.",
+      "source": "Node001",
+      "target": "Node005"
+    },
+    {
+      "text": "",
+      "source": "timed_event_p_proc",
+      "target": "sequence_1"
+    },
+    {
+      "text": "",
+      "source": "timed_event_p_proc",
+      "target": "sequence_5"
+    },
+    {
+      "text": "",
+      "source": "timed_event_p_proc",
+      "target": "sequence_4"
+    },
+    {
+      "text": "",
+      "source": "timed_event_p_proc",
+      "target": "sequence_6"
+    },
+    {
+      "text": "",
+      "source": "timed_event_p_proc",
+      "target": "sequence_2"
+    },
+    {
+      "text": "",
+      "source": "timed_event_p_proc",
+      "target": "use_skill_on_p_proc"
+    },
+    {
+      "text": "",
+      "source": "timed_event_p_proc",
+      "target": "sequence_3"
+    },
+    {
+      "text": "",
+      "source": "NodeDoSeq",
+      "target": "Node999"
+    },
+    {
+      "text": "Run the diagnostic program.",
+      "source": "Node002",
+      "target": "Node004"
+    },
+    {
+      "text": "Open it up and look inside.",
+      "source": "Node002",
+      "target": "Node005"
+    },
+    {
+      "text": "Kick it in that 'special' spot.",
+      "source": "Node002",
+      "target": "Node003"
+    },
+    {
+      "text": "Leave it alone.",
+      "source": "Node002",
+      "target": "Node999"
+    }
+  ]
+}

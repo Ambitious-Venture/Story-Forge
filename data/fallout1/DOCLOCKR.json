@@ -1,0 +1,299 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "",
+      "node_id": "node1",
+      "id": "start"
+    },
+    {
+      "text": "While tampering with the lock, you trip up the tumblers. There's no bypassing this lock now.",
+      "node_id": "node4_2",
+      "id": "use_obj_on_p_proc_2"
+    },
+    {
+      "text": "You spot a trap on the locker, and accidentally set it off!",
+      "node_id": "node3_2",
+      "id": "use_p_proc_2"
+    },
+    {
+      "text": "You accidentally set off the trap!",
+      "node_id": "node4_3",
+      "id": "use_obj_on_p_proc_3"
+    },
+    {
+      "text": "You accidentally set off the trap!",
+      "node_id": "node5_3",
+      "id": "use_skill_on_p_proc_3"
+    },
+    {
+      "text": "The locker's already unlocked.",
+      "node_id": "node4_5",
+      "id": "use_obj_on_p_proc_5"
+    },
+    {
+      "text": "You fail to bypass the lock on the locker.",
+      "node_id": "node4_4",
+      "id": "use_obj_on_p_proc_4"
+    },
+    {
+      "text": "You fail to bypass the lock on the locker.",
+      "node_id": "node5_2",
+      "id": "use_skill_on_p_proc_2"
+    },
+    {
+      "text": "You fail to disarm the trap.",
+      "node_id": "node5_10",
+      "id": "use_skill_on_p_proc_10"
+    },
+    {
+      "text": "You spot a trap on the locker, and disarm it.",
+      "node_id": "node3_1",
+      "id": "use_p_proc_1"
+    },
+    {
+      "text": "The locker's already unlocked.",
+      "node_id": "node5_4",
+      "id": "use_skill_on_p_proc_4"
+    },
+    {
+      "text": "You disarm the trap.",
+      "node_id": "node5_8",
+      "id": "use_skill_on_p_proc_8"
+    },
+    {
+      "text": "You spot a trap on the locker, and disarm it.",
+      "node_id": "node5_5",
+      "id": "use_skill_on_p_proc_5"
+    },
+    {
+      "text": "",
+      "node_id": "node2",
+      "id": "look_at_p_proc"
+    },
+    {
+      "text": "You notice that there is a crude explosive device on the locker.",
+      "node_id": "node5_6",
+      "id": "use_skill_on_p_proc_6"
+    },
+    {
+      "text": "You accidentally set off the trap!",
+      "node_id": "node4_1",
+      "id": "use_obj_on_p_proc_1"
+    },
+    {
+      "text": "You accidentally set off the trap!",
+      "node_id": "node5_9",
+      "id": "use_skill_on_p_proc_9"
+    },
+    {
+      "text": "",
+      "node_id": "node6",
+      "id": "set_off_trap"
+    },
+    {
+      "text": "You spot a trap on the locker, but fail to disarm it.",
+      "node_id": "node3_3",
+      "id": "use_p_proc_3"
+    },
+    {
+      "text": "You accidentally set off the trap!",
+      "node_id": "node5_7",
+      "id": "use_skill_on_p_proc_7"
+    },
+    {
+      "text": "While tampering with the lock, you trip up the tumblers. There's no bypassing this lock now.",
+      "node_id": "node5_1",
+      "id": "use_skill_on_p_proc_1"
+    }
+  ],
+  "links": [
+    {
+      "text": "",
+      "source": "start",
+      "target": "use_skill_on_p_proc_4"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "use_obj_on_p_proc_2"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "use_skill_on_p_proc_3"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "look_at_p_proc"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "use_skill_on_p_proc_2"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "use_skill_on_p_proc_10"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "use_p_proc_2"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "use_obj_on_p_proc_4"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "use_skill_on_p_proc_7"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "use_skill_on_p_proc_5"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "use_skill_on_p_proc_6"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "use_obj_on_p_proc_5"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "use_p_proc_3"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "use_p_proc_1"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "use_skill_on_p_proc_8"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "use_obj_on_p_proc_3"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "use_skill_on_p_proc_1"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "use_obj_on_p_proc_1"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "use_skill_on_p_proc_9"
+    },
+    {
+      "text": "",
+      "source": "use_obj_on_p_proc_2",
+      "target": "set_off_trap"
+    },
+    {
+      "text": "",
+      "source": "use_p_proc_2",
+      "target": "set_off_trap"
+    },
+    {
+      "text": "",
+      "source": "use_obj_on_p_proc_3",
+      "target": "set_off_trap"
+    },
+    {
+      "text": "",
+      "source": "use_skill_on_p_proc_3",
+      "target": "set_off_trap"
+    },
+    {
+      "text": "",
+      "source": "use_obj_on_p_proc_5",
+      "target": "set_off_trap"
+    },
+    {
+      "text": "",
+      "source": "use_obj_on_p_proc_4",
+      "target": "set_off_trap"
+    },
+    {
+      "text": "",
+      "source": "use_skill_on_p_proc_2",
+      "target": "set_off_trap"
+    },
+    {
+      "text": "",
+      "source": "use_skill_on_p_proc_10",
+      "target": "set_off_trap"
+    },
+    {
+      "text": "",
+      "source": "use_p_proc_1",
+      "target": "set_off_trap"
+    },
+    {
+      "text": "",
+      "source": "use_skill_on_p_proc_4",
+      "target": "set_off_trap"
+    },
+    {
+      "text": "",
+      "source": "use_skill_on_p_proc_8",
+      "target": "set_off_trap"
+    },
+    {
+      "text": "",
+      "source": "use_skill_on_p_proc_5",
+      "target": "set_off_trap"
+    },
+    {
+      "text": "",
+      "source": "use_skill_on_p_proc_6",
+      "target": "set_off_trap"
+    },
+    {
+      "text": "",
+      "source": "use_obj_on_p_proc_1",
+      "target": "set_off_trap"
+    },
+    {
+      "text": "",
+      "source": "use_skill_on_p_proc_9",
+      "target": "set_off_trap"
+    },
+    {
+      "text": "",
+      "source": "use_p_proc_3",
+      "target": "set_off_trap"
+    },
+    {
+      "text": "",
+      "source": "use_skill_on_p_proc_7",
+      "target": "set_off_trap"
+    },
+    {
+      "text": "",
+      "source": "use_skill_on_p_proc_1",
+      "target": "set_off_trap"
+    }
+  ]
+}

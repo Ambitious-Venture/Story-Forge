@@ -1,0 +1,104 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "I've put you on the Elron quest.",
+      "node_id": "node15",
+      "id": "Node004"
+    },
+    {
+      "text": "",
+      "node_id": "node18",
+      "id": "Node999"
+    },
+    {
+      "text": "I've kidnapped your tribe.",
+      "node_id": "node13",
+      "id": "Node002"
+    },
+    {
+      "text": "",
+      "node_id": "node5",
+      "id": "talk_p_proc"
+    },
+    {
+      "text": "Hello I am Mr. Cheater. How may I help you?",
+      "node_id": "node6",
+      "id": "Node001"
+    },
+    {
+      "text": "Now you have been to the military base.",
+      "node_id": "node17",
+      "id": "Node006"
+    },
+    {
+      "text": "I've put you on the Brotherhood quest.",
+      "node_id": "node16",
+      "id": "Node005"
+    },
+    {
+      "text": "I've put you on the Shi quest.",
+      "node_id": "node14",
+      "id": "Node003"
+    }
+  ],
+  "links": [
+    {
+      "text": "Thank you, Mr. Cheater.",
+      "source": "Node004",
+      "target": "Node999"
+    },
+    {
+      "text": "Thank you, Mr. Cheater.",
+      "source": "Node002",
+      "target": "Node999"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node001"
+    },
+    {
+      "text": "Will you put me on the Shi quest?",
+      "source": "Node001",
+      "target": "Node003"
+    },
+    {
+      "text": "Will you put me on the Elron quest?",
+      "source": "Node001",
+      "target": "Node004"
+    },
+    {
+      "text": "Will you put me on the Brotherhood quest?",
+      "source": "Node001",
+      "target": "Node005"
+    },
+    {
+      "text": "Make it so I've already been to the military base.",
+      "source": "Node001",
+      "target": "Node006"
+    },
+    {
+      "text": "Will you kidnap my tribe?",
+      "source": "Node001",
+      "target": "Node002"
+    },
+    {
+      "text": "Thank you, Mr. Cheater.",
+      "source": "Node006",
+      "target": "Node999"
+    },
+    {
+      "text": "Thank you, Mr. Cheater.",
+      "source": "Node005",
+      "target": "Node999"
+    },
+    {
+      "text": "Thank you, Mr. Cheater.",
+      "source": "Node003",
+      "target": "Node999"
+    }
+  ]
+}

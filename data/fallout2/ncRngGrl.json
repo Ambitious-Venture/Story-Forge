@@ -1,0 +1,64 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "",
+      "node_id": "node9",
+      "id": "CLICK_4"
+    },
+    {
+      "text": "",
+      "node_id": "node4",
+      "id": "CLICK_0"
+    },
+    {
+      "text": "GVar23",
+      "node_id": "node5",
+      "id": "GVar23"
+    },
+    {
+      "text": "",
+      "node_id": "node7",
+      "id": "CLICK_2"
+    },
+    {
+      "text": "",
+      "node_id": "node8",
+      "id": "CLICK_3"
+    },
+    {
+      "text": "",
+      "node_id": "node6",
+      "id": "CLICK_1"
+    }
+  ],
+  "links": [
+    {
+      "text": "",
+      "source": "CLICK_4",
+      "target": "GVar23"
+    },
+    {
+      "text": "",
+      "source": "CLICK_0",
+      "target": "GVar23"
+    },
+    {
+      "text": "",
+      "source": "CLICK_2",
+      "target": "GVar23"
+    },
+    {
+      "text": "",
+      "source": "CLICK_3",
+      "target": "GVar23"
+    },
+    {
+      "text": "",
+      "source": "CLICK_1",
+      "target": "GVar23"
+    }
+  ]
+}

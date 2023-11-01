@@ -1,0 +1,24 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "Yeah. Did you ever hear about the raiders who fell into the Rad Scorpion nest and they all got stung and stung and eaten alive, except for the one who ran away with half his face chewed off!",
+      "node_id": "node28",
+      "id": "FishrSon11"
+    },
+    {
+      "text": "Man, that was a good one!",
+      "node_id": "node29",
+      "id": "FishrSon11a"
+    }
+  ],
+  "links": [
+    {
+      "text": "Seen anything unusual lately?",
+      "source": "FishrSon11",
+      "target": "FishrSon11a"
+    }
+  ]
+}

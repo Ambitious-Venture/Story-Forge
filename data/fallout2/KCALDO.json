@@ -1,0 +1,394 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "Well stranger, since you\u2019re (hic) new to these parts, you probably don\u2019t (urp) know that it\u2019s (hic) customary to tip the town greeter before asking any questions and such.",
+      "node_id": "node24",
+      "id": "Node004"
+    },
+    {
+      "text": "",
+      "node_id": "node23",
+      "id": "Node997"
+    },
+    {
+      "text": "Hello there, Friend -- you look a bit perplexed. What you need is an friend here in town. I\u2019m Aldo, the town greeter. like friend.",
+      "node_id": "node7_2",
+      "id": "Node018_2"
+    },
+    {
+      "text": "I could sure use some money for medicine. I feel pretty weak - but if you can\u2019t (cough, cough) spare any (cough), I guess I understand. Maybe next time, if I\u2019m still around (cough) by then.",
+      "node_id": "node37",
+      "id": "Node015"
+    },
+    {
+      "text": "A gecko is a large lizard that\u2019s hunted by the trappers round these parts for its meat and hide. But, it sure is a lot of work to catch them dang critters - and dangerous too. My advice to a friend...avoid it. It's far too much work.",
+      "node_id": "node36",
+      "id": "Node009"
+    },
+    {
+      "text": "Ask away, oh benefactor of mine.",
+      "node_id": "node30",
+      "id": "Node006"
+    },
+    {
+      "text": "",
+      "node_id": "node6",
+      "id": "Node998"
+    },
+    {
+      "text": "If you give me $20 I\u2019ll be your friend and I\u2019ll make sure everyone else is, too. That\u2019s how it works here in the big city.",
+      "node_id": "node39",
+      "id": "Node019"
+    },
+    {
+      "text": "Whiskey Bob is usually (urp) at Buckner\u2019s Place right here in downtown. I don't think he's been able to get out to tend his still lately. He's just not a reliable source of medicine for someone as (hic) unwell as myself.",
+      "node_id": "node38",
+      "id": "Node017"
+    },
+    {
+      "text": "I\u2019m certain that your generosity to someone as needful as myself (hic) will bring you good luck. I hope to see you again soon.",
+      "node_id": "node29",
+      "id": "Node014"
+    },
+    {
+      "text": "You mean my much needed medicine? (hic) Well, I used to buy it at either the Golden Gecko or the Buckner Place (urp), but they won\u2019t sell it to me until I pay some money on my bill. Lucky for me, Whiskey Bob's been making a bit of medicine for some of his friends.",
+      "node_id": "node34",
+      "id": "Node016"
+    },
+    {
+      "text": "Friend? Heh, heh,",
+      "node_id": "node7_1",
+      "id": "Node018_1"
+    },
+    {
+      "text": "",
+      "node_id": "node5",
+      "id": "talk_p_proc"
+    },
+    {
+      "text": "Here in Klamath some people farm, some raise brahmin, but trapping geckos is what most of the  people do.",
+      "node_id": "node32",
+      "id": "Node008"
+    },
+    {
+      "text": "Thanks for the money, friend. (urp) I\u2019m going to use it to get some (hic) medicine for my dry throat. Consider yourself officially (hic) greeted to the town of Klamath. Do you have any questions about our fair (urp) metropolis?",
+      "node_id": "node19",
+      "id": "Node005"
+    },
+    {
+      "text": "Old stuff, huh? (urp) Well the only (hic) trader I know who trades much old stuff is  (hic) Vic.",
+      "node_id": "node31",
+      "id": "Node021"
+    },
+    {
+      "text": "",
+      "node_id": "node18",
+      "id": "Node910"
+    },
+    {
+      "text": "My name\u2019s of Arroyo. I\u2019m the Chosen One.",
+      "node_id": "node8_2",
+      "id": "Node001_2"
+    },
+    {
+      "text": "A Geck? Heck, you mean a gecko. Never heard about a geck but I\u2019ll tell you about geckos.",
+      "node_id": "node35",
+      "id": "Node020"
+    },
+    {
+      "text": "Thanks for nothing. I hope you don\u2019t stay in town too long. We don\u2019t need your kind here. Humph. Tribals -- they\u2019re all the same.",
+      "node_id": "node26",
+      "id": "Node007"
+    },
+    {
+      "text": "You can buy or trade things at Buckner House and also the Golden Gecko. Sometimes they even have healing herbs available -- not that they\u2019d give me any for my (hic) condition. They\u2019re both run by real skinflints. Just get a little behind on your (hic) tab and out you go, into the cold and rain.",
+      "node_id": "node33",
+      "id": "Node010"
+    },
+    {
+      "text": "I know that you couldn\u2019t spare any money for the official town greeter earlier, but perhaps (hic) this time you are feeling more generous and are ready to be greeted \u2018officially\u2019 to Klamath.",
+      "node_id": "node10",
+      "id": "Node011"
+    },
+    {
+      "text": "Hey there, friend, good to see you again. Can you spare some money for a bit of medicine? My throat is getting dryer and scratchier (hic) all the time. I could even throw in another official  (urp) greeting.",
+      "node_id": "node9",
+      "id": "Node012"
+    },
+    {
+      "text": "Thanks for nothing. How can you be so cruel to someone as unwell as myself? Damn tribals! (Aldo spits on the ground at your feet, dribbling a bit on his scruffy chin)",
+      "node_id": "node20",
+      "id": "Node013"
+    },
+    {
+      "text": "My name\u2019s . Thanks for welcoming me here.",
+      "node_id": "node8_1",
+      "id": "Node001_1"
+    },
+    {
+      "text": "Well now (hic), I haven\u2019t seen Vic for a while. I don\u2019t rightly (urp) know where he might have run off to. You might talk to (urp) Jenny over at the bath house. She and Vic were pretty (hic) thick. Heh, heh, heh. Get it? Oh my, I haven\u2019t lost my touch.",
+      "node_id": "node40",
+      "id": "Node022"
+    }
+  ],
+  "links": [
+    {
+      "text": "Here\u2019s a tip for you - stay away from the booze for a while.",
+      "source": "Node004",
+      "target": "Node007"
+    },
+    {
+      "text": "A tip, huh? Well I guess it\u2019s worth $5 to get you off my back.",
+      "source": "Node004",
+      "target": "Node910"
+    },
+    {
+      "text": "",
+      "source": "Node997",
+      "target": "Node004"
+    },
+    {
+      "text": "",
+      "source": "Node997",
+      "target": "Node005"
+    },
+    {
+      "text": "Urk, (sniff, sniff) bad smell. Go away now.",
+      "source": "Node018_2",
+      "target": "Node013"
+    },
+    {
+      "text": "Hmm. One more thing, Aldo.",
+      "source": "Node009",
+      "target": "Node006"
+    },
+    {
+      "text": "Oh, thanks. I guess that\u2019s all I need to know.",
+      "source": "Node009",
+      "target": "Node014"
+    },
+    {
+      "text": "Where do you buy your booze?",
+      "source": "Node006",
+      "target": "Node016"
+    },
+    {
+      "text": "Where can I trade things or find healing?",
+      "source": "Node006",
+      "target": "Node010"
+    },
+    {
+      "text": "What do folks do here in Klamath?",
+      "source": "Node006",
+      "target": "Node008"
+    },
+    {
+      "text": "Do you know where I might find a GECK?",
+      "source": "Node006",
+      "target": "Node020"
+    },
+    {
+      "text": "Thanks, I think that\u2019s all I need to know for now.",
+      "source": "Node006",
+      "target": "Node014"
+    },
+    {
+      "text": "Toowa-eee-nty? Ook? \u00a0Beeg Cee-tee? Ook?",
+      "source": "Node019",
+      "target": "Node013"
+    },
+    {
+      "text": "Thanks for the information, Aldo. That\u2019s about all I need to know.",
+      "source": "Node017",
+      "target": "Node014"
+    },
+    {
+      "text": "Glad you found another supplier. Uh, could you breathe a bit more downwind? I\u2019ve got another  question for you.",
+      "source": "Node017",
+      "target": "Node006"
+    },
+    {
+      "text": "Thanks, Aldo. Tell me about something else, though.",
+      "source": "Node016",
+      "target": "Node006"
+    },
+    {
+      "text": "Interesting. Where would I find this Whiskey Bob?",
+      "source": "Node016",
+      "target": "Node017"
+    },
+    {
+      "text": "I\u2019m glad you found a source for your medicine. I guess that\u2019s all I need to know for now.",
+      "source": "Node016",
+      "target": "Node014"
+    },
+    {
+      "text": "Urk, (sniff, sniff) bad smell. Go away now.",
+      "source": "Node018_1",
+      "target": "Node013"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node018_2"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node998"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node001_1"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node001_2"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node011"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node012"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node018_1"
+    },
+    {
+      "text": "What\u2019s a gecko?",
+      "source": "Node008",
+      "target": "Node009"
+    },
+    {
+      "text": "That\u2019s interesting. I have another question, though.",
+      "source": "Node008",
+      "target": "Node006"
+    },
+    {
+      "text": "Oh, thanks. I guess that\u2019s all I need to know.",
+      "source": "Node008",
+      "target": "Node014"
+    },
+    {
+      "text": "Well, actually, I was curious about a thing or two.",
+      "source": "Node005",
+      "target": "Node006"
+    },
+    {
+      "text": "Aldo, I\u2019m looking for a trader that sells beforetime things. You know, really old stuff.",
+      "source": "Node005",
+      "target": "Node021"
+    },
+    {
+      "text": "No thanks, I think I can figure things out here on my own.",
+      "source": "Node005",
+      "target": "Node014"
+    },
+    {
+      "text": "Vic? Where can I find this Vic?",
+      "source": "Node021",
+      "target": "Node022"
+    },
+    {
+      "text": "",
+      "source": "Node910",
+      "target": "Node005"
+    },
+    {
+      "text": "",
+      "source": "Node910",
+      "target": "Node013"
+    },
+    {
+      "text": "Uhh, thanks for the greeting. I\u2019m just a traveler.",
+      "source": "Node001_2",
+      "target": "Node004"
+    },
+    {
+      "text": "You don\u2019t need to know my name or anything else about me. Go away, you filthy drunkard.",
+      "source": "Node001_2",
+      "target": "Node007"
+    },
+    {
+      "text": "Tell me about geckos.",
+      "source": "Node020",
+      "target": "Node009"
+    },
+    {
+      "text": "Thanks for the information, that\u2019s all I need for now.",
+      "source": "Node010",
+      "target": "Node014"
+    },
+    {
+      "text": "I\u2019ve always found the fresh air invigorating. Hmm, I have another question for you.",
+      "source": "Node010",
+      "target": "Node006"
+    },
+    {
+      "text": "No, thanks, I don\u2019t think I need your official greeting.",
+      "source": "Node011",
+      "target": "Node015"
+    },
+    {
+      "text": "I guess I could spare $5 to keep you off my back.",
+      "source": "Node011",
+      "target": "Node005"
+    },
+    {
+      "text": "I felt that something was missing. Here\u2019s $5; I\u2019m ready to be Greeted.",
+      "source": "Node011",
+      "target": "Node910"
+    },
+    {
+      "text": "I think I\u2019d rather have your insides greet my blade.",
+      "source": "Node011",
+      "target": "Node013"
+    },
+    {
+      "text": "Sure, I can always spare $5 for a friend\u2019s medicine.",
+      "source": "Node012",
+      "target": "Node910"
+    },
+    {
+      "text": "I think you\u2019ve had enough medicine. You should sweat that poison out of your system with some  hard work.",
+      "source": "Node012",
+      "target": "Node013"
+    },
+    {
+      "text": "Sorry, Aldo I can\u2019t spare any right now.",
+      "source": "Node012",
+      "target": "Node015"
+    },
+    {
+      "text": "Uhh, thanks for the greeting. I\u2019m just a traveler.",
+      "source": "Node001_1",
+      "target": "Node004"
+    },
+    {
+      "text": "You don\u2019t need to know my name or anything else about me. Go away, you filthy drunkard.",
+      "source": "Node001_1",
+      "target": "Node007"
+    },
+    {
+      "text": "Thankfully, you\u2019re one-of-a-kind, Aldo. I guess that\u2019s all I need to know.",
+      "source": "Node022",
+      "target": "Node014"
+    },
+    {
+      "text": "It\u2019s nice to know that no matter how low you sink, you can\u2019t lose something you never had. Let me risk asking you something else.",
+      "source": "Node022",
+      "target": "Node006"
+    }
+  ]
+}

@@ -1,0 +1,179 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "You see Nurse Marney.",
+      "node_id": "node4_1",
+      "id": "look_at_p_proc_1"
+    },
+    {
+      "text": "",
+      "node_id": "node2",
+      "id": "critter_p_proc"
+    },
+    {
+      "text": "There you go. That should have you all set. Please be more  careful out there.",
+      "node_id": "node10",
+      "id": "Marney02"
+    },
+    {
+      "text": "You are an excellent student. Good luck to you.",
+      "node_id": "node14",
+      "id": "Marney07"
+    },
+    {
+      "text": "",
+      "node_id": "node8",
+      "id": "MarneyEnd"
+    },
+    {
+      "text": "I can teach you a little, but not much. It will take some time.  Are you willing to stay?",
+      "node_id": "node9",
+      "id": "Marney06"
+    },
+    {
+      "text": "Yes, I see that you are suffering from some damage. This may take some time. Would you like me to try to mend your  wounds?",
+      "node_id": "node7",
+      "id": "Marney01"
+    },
+    {
+      "text": "",
+      "node_id": "node1",
+      "id": "start"
+    },
+    {
+      "text": "I can teach you a little. But it will take several hours. Are you  willing to stay?",
+      "node_id": "node12",
+      "id": "Marney03"
+    },
+    {
+      "text": "As you wish. Good luck out there.",
+      "node_id": "node11",
+      "id": "Marney05"
+    },
+    {
+      "text": "",
+      "node_id": "node3",
+      "id": "destroy_p_proc"
+    },
+    {
+      "text": "",
+      "node_id": "node5",
+      "id": "talk_p_proc"
+    },
+    {
+      "text": "You see a doctor.",
+      "node_id": "node4_2",
+      "id": "look_at_p_proc_2"
+    },
+    {
+      "text": "You see a nurse.",
+      "node_id": "node4_3",
+      "id": "look_at_p_proc_3"
+    },
+    {
+      "text": "Welcome. How might I help you today?",
+      "node_id": "node6",
+      "id": "Marney00"
+    },
+    {
+      "text": "You are a very good student. I hope you remain on our  side. Good bye.",
+      "node_id": "node13",
+      "id": "Marney04"
+    }
+  ],
+  "links": [
+    {
+      "text": "Okay. Thank you.",
+      "source": "Marney02",
+      "target": "MarneyEnd"
+    },
+    {
+      "text": "You're good at that. Can you teach me about trauma care?",
+      "source": "Marney02",
+      "target": "Marney03"
+    },
+    {
+      "text": "Yes.",
+      "source": "Marney06",
+      "target": "Marney07"
+    },
+    {
+      "text": "I'm sorry, but I lack extra time.",
+      "source": "Marney06",
+      "target": "Marney05"
+    },
+    {
+      "text": "Nuh uh.",
+      "source": "Marney01",
+      "target": "Marney05"
+    },
+    {
+      "text": "Uh huh.",
+      "source": "Marney01",
+      "target": "Marney02"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "look_at_p_proc_3"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "look_at_p_proc_1"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "destroy_p_proc"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "talk_p_proc"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "look_at_p_proc_2"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "critter_p_proc"
+    },
+    {
+      "text": "Sorry, too busy.",
+      "source": "Marney03",
+      "target": "Marney05"
+    },
+    {
+      "text": "Yes.",
+      "source": "Marney03",
+      "target": "Marney04"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Marney00"
+    },
+    {
+      "text": "Nothing right now. Thanks though.",
+      "source": "Marney00",
+      "target": "MarneyEnd"
+    },
+    {
+      "text": "Can you teach me about medicine?",
+      "source": "Marney00",
+      "target": "Marney06"
+    },
+    {
+      "text": "Hurrgh.",
+      "source": "Marney00",
+      "target": "Marney01"
+    }
+  ]
+}

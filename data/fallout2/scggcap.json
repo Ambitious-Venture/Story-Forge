@@ -1,0 +1,24 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "",
+      "node_id": "node3",
+      "id": "critter_p_proc"
+    },
+    {
+      "text": "You are not to tamper with that! Please leave now or there will be trouble.",
+      "node_id": "node4",
+      "id": "Node005"
+    }
+  ],
+  "links": [
+    {
+      "text": "",
+      "source": "critter_p_proc",
+      "target": "Node005"
+    }
+  ]
+}

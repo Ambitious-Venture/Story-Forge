@@ -1,0 +1,114 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "Upon inspection you notice that this computer has been used as a home by rats.",
+      "node_id": "node2_7",
+      "id": "search_7"
+    },
+    {
+      "text": "You notice nothing unusual.",
+      "node_id": "node3_1",
+      "id": "skills_1"
+    },
+    {
+      "text": "",
+      "node_id": "node1",
+      "id": "start"
+    },
+    {
+      "text": "You notice nothing unusual.",
+      "node_id": "node2_1",
+      "id": "search_1"
+    },
+    {
+      "text": "A monitor connected to this computer is printing the word 'System failure.' over and over.",
+      "node_id": "node2_3",
+      "id": "search_3"
+    },
+    {
+      "text": "Lights are flashing on this computer but it seems random to you.",
+      "node_id": "node2_5",
+      "id": "search_5"
+    },
+    {
+      "text": "This computer gives you a harmless shock when you touch it.",
+      "node_id": "node2_6",
+      "id": "search_6"
+    },
+    {
+      "text": "This computer appears to have been attacked by a ghoul.",
+      "node_id": "node2_4",
+      "id": "search_4"
+    },
+    {
+      "text": "Half of this computer is black and charred from an old fire.",
+      "node_id": "node2_9",
+      "id": "search_9"
+    },
+    {
+      "text": "Random numbers are printing across a screen connected to this system.",
+      "node_id": "node2_8",
+      "id": "search_8"
+    },
+    {
+      "text": "This computer is making a weird humming noise.",
+      "node_id": "node2_2",
+      "id": "search_2"
+    }
+  ],
+  "links": [
+    {
+      "text": "",
+      "source": "start",
+      "target": "search_2"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "search_4"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "search_6"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "skills_1"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "search_7"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "search_5"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "search_9"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "search_8"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "search_3"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "search_1"
+    }
+  ]
+}

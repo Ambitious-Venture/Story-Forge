@@ -1,0 +1,489 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "",
+      "node_id": "node11",
+      "id": "do_round"
+    },
+    {
+      "text": "",
+      "node_id": "node1",
+      "id": "start"
+    },
+    {
+      "text": "Let's see if you've learned from the previous example.",
+      "node_id": "node8_5",
+      "id": "lesson1_5"
+    },
+    {
+      "text": "One little shove will land you right on your ass.",
+      "node_id": "node7_2",
+      "id": "give_skill_2"
+    },
+    {
+      "text": "Those talents would be a shame to waste.",
+      "node_id": "node8_8",
+      "id": "lesson1_8"
+    },
+    {
+      "text": "Are you sure you want to be a Scribe Initiate?",
+      "node_id": "node7_1",
+      "id": "give_skill_1"
+    },
+    {
+      "text": "If you have the opportunity for a kill, shouldn't you go for it?",
+      "node_id": "node8_3",
+      "id": "lesson1_3"
+    },
+    {
+      "text": "Not bad, that last move almost got me.",
+      "node_id": "node8_6",
+      "id": "lesson1_6"
+    },
+    {
+      "text": "",
+      "node_id": "node3",
+      "id": "destroy_p_proc"
+    },
+    {
+      "text": "Well that's all for now, so let's review.",
+      "node_id": "node8_17",
+      "id": "lesson1_17"
+    },
+    {
+      "text": "We'll just keep you in reserve. Okay?",
+      "node_id": "node8_9",
+      "id": "lesson1_9"
+    },
+    {
+      "text": "Excellent!",
+      "node_id": "node9_3",
+      "id": "praise_3"
+    },
+    {
+      "text": "Never look away from your opponent.",
+      "node_id": "node9_2",
+      "id": "praise_2"
+    },
+    {
+      "text": "Stay focused.",
+      "node_id": "node9_1",
+      "id": "praise_1"
+    },
+    {
+      "text": "Those talents would be a shame to waste.",
+      "node_id": "node7_3",
+      "id": "give_skill_3"
+    },
+    {
+      "text": "Are you sure you want to be a Scribe Initiate?",
+      "node_id": "node8_7",
+      "id": "lesson1_7"
+    },
+    {
+      "text": "",
+      "node_id": "node4",
+      "id": "do_combat"
+    },
+    {
+      "text": "Just think about it.",
+      "node_id": "node8_13",
+      "id": "lesson1_13"
+    },
+    {
+      "text": "Thank you Brother Thomas.",
+      "node_id": "node8_14",
+      "id": "lesson1_14"
+    },
+    {
+      "text": "You gain 500 experience points from watching the training.",
+      "node_id": "node8_18",
+      "id": "lesson1_18"
+    },
+    {
+      "text": "I hope you all noticed how Brother Anthony did not overextend himself.",
+      "node_id": "node8_15",
+      "id": "lesson1_15"
+    },
+    {
+      "text": "You see Brother Thomas.",
+      "node_id": "node8_1",
+      "id": "lesson1_1"
+    },
+    {
+      "text": "",
+      "node_id": "node5",
+      "id": "critter_p_proc"
+    },
+    {
+      "text": "",
+      "node_id": "node2",
+      "id": "prepare_for_combat"
+    },
+    {
+      "text": "I'm just fooling with ya.",
+      "node_id": "node8_11",
+      "id": "lesson1_11"
+    },
+    {
+      "text": "He also tried to use my weight and bulkiness against me.",
+      "node_id": "node8_16",
+      "id": "lesson1_16"
+    },
+    {
+      "text": "Why is overextending so bad?",
+      "node_id": "node8_2",
+      "id": "lesson1_2"
+    },
+    {
+      "text": "You see Brother Thomas.",
+      "node_id": "node8_4",
+      "id": "lesson1_4"
+    },
+    {
+      "text": "",
+      "node_id": "node10",
+      "id": "recover_from_combat"
+    },
+    {
+      "text": "",
+      "node_id": "node12",
+      "id": "pick_a_student"
+    },
+    {
+      "text": "Uhh.",
+      "node_id": "node8_10",
+      "id": "lesson1_10"
+    },
+    {
+      "text": "You may want to reconsider a career as a Knight.",
+      "node_id": "node8_12",
+      "id": "lesson1_12"
+    }
+  ],
+  "links": [
+    {
+      "text": "",
+      "source": "start",
+      "target": "prepare_for_combat"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "do_combat"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "destroy_p_proc"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "critter_p_proc"
+    },
+    {
+      "text": "",
+      "source": "lesson1_5",
+      "target": "do_round"
+    },
+    {
+      "text": "",
+      "source": "lesson1_5",
+      "target": "pick_a_student"
+    },
+    {
+      "text": "",
+      "source": "lesson1_8",
+      "target": "do_round"
+    },
+    {
+      "text": "",
+      "source": "lesson1_8",
+      "target": "pick_a_student"
+    },
+    {
+      "text": "",
+      "source": "lesson1_3",
+      "target": "do_round"
+    },
+    {
+      "text": "",
+      "source": "lesson1_3",
+      "target": "pick_a_student"
+    },
+    {
+      "text": "",
+      "source": "lesson1_6",
+      "target": "pick_a_student"
+    },
+    {
+      "text": "",
+      "source": "lesson1_6",
+      "target": "do_round"
+    },
+    {
+      "text": "",
+      "source": "lesson1_17",
+      "target": "do_round"
+    },
+    {
+      "text": "",
+      "source": "lesson1_17",
+      "target": "pick_a_student"
+    },
+    {
+      "text": "",
+      "source": "lesson1_9",
+      "target": "do_round"
+    },
+    {
+      "text": "",
+      "source": "lesson1_9",
+      "target": "pick_a_student"
+    },
+    {
+      "text": "",
+      "source": "lesson1_7",
+      "target": "pick_a_student"
+    },
+    {
+      "text": "",
+      "source": "lesson1_7",
+      "target": "do_round"
+    },
+    {
+      "text": "",
+      "source": "do_combat",
+      "target": "praise_1"
+    },
+    {
+      "text": "",
+      "source": "do_combat",
+      "target": "lesson1_11"
+    },
+    {
+      "text": "",
+      "source": "do_combat",
+      "target": "lesson1_9"
+    },
+    {
+      "text": "",
+      "source": "do_combat",
+      "target": "lesson1_8"
+    },
+    {
+      "text": "",
+      "source": "do_combat",
+      "target": "lesson1_4"
+    },
+    {
+      "text": "",
+      "source": "do_combat",
+      "target": "lesson1_14"
+    },
+    {
+      "text": "",
+      "source": "do_combat",
+      "target": "recover_from_combat"
+    },
+    {
+      "text": "",
+      "source": "do_combat",
+      "target": "lesson1_7"
+    },
+    {
+      "text": "",
+      "source": "do_combat",
+      "target": "lesson1_6"
+    },
+    {
+      "text": "",
+      "source": "do_combat",
+      "target": "lesson1_16"
+    },
+    {
+      "text": "",
+      "source": "do_combat",
+      "target": "lesson1_12"
+    },
+    {
+      "text": "",
+      "source": "do_combat",
+      "target": "praise_2"
+    },
+    {
+      "text": "",
+      "source": "do_combat",
+      "target": "praise_3"
+    },
+    {
+      "text": "",
+      "source": "do_combat",
+      "target": "lesson1_15"
+    },
+    {
+      "text": "",
+      "source": "do_combat",
+      "target": "lesson1_17"
+    },
+    {
+      "text": "",
+      "source": "do_combat",
+      "target": "lesson1_5"
+    },
+    {
+      "text": "",
+      "source": "do_combat",
+      "target": "lesson1_13"
+    },
+    {
+      "text": "",
+      "source": "do_combat",
+      "target": "lesson1_18"
+    },
+    {
+      "text": "",
+      "source": "do_combat",
+      "target": "lesson1_10"
+    },
+    {
+      "text": "",
+      "source": "do_combat",
+      "target": "lesson1_1"
+    },
+    {
+      "text": "",
+      "source": "do_combat",
+      "target": "lesson1_2"
+    },
+    {
+      "text": "",
+      "source": "do_combat",
+      "target": "lesson1_3"
+    },
+    {
+      "text": "",
+      "source": "do_combat",
+      "target": "do_round"
+    },
+    {
+      "text": "",
+      "source": "lesson1_13",
+      "target": "do_round"
+    },
+    {
+      "text": "",
+      "source": "lesson1_13",
+      "target": "pick_a_student"
+    },
+    {
+      "text": "",
+      "source": "lesson1_14",
+      "target": "do_round"
+    },
+    {
+      "text": "",
+      "source": "lesson1_14",
+      "target": "pick_a_student"
+    },
+    {
+      "text": "",
+      "source": "lesson1_18",
+      "target": "do_round"
+    },
+    {
+      "text": "",
+      "source": "lesson1_18",
+      "target": "pick_a_student"
+    },
+    {
+      "text": "",
+      "source": "lesson1_15",
+      "target": "do_round"
+    },
+    {
+      "text": "",
+      "source": "lesson1_15",
+      "target": "pick_a_student"
+    },
+    {
+      "text": "",
+      "source": "lesson1_1",
+      "target": "do_round"
+    },
+    {
+      "text": "",
+      "source": "lesson1_1",
+      "target": "pick_a_student"
+    },
+    {
+      "text": "",
+      "source": "critter_p_proc",
+      "target": "pick_a_student"
+    },
+    {
+      "text": "",
+      "source": "lesson1_11",
+      "target": "do_round"
+    },
+    {
+      "text": "",
+      "source": "lesson1_11",
+      "target": "pick_a_student"
+    },
+    {
+      "text": "",
+      "source": "lesson1_16",
+      "target": "do_round"
+    },
+    {
+      "text": "",
+      "source": "lesson1_16",
+      "target": "pick_a_student"
+    },
+    {
+      "text": "",
+      "source": "lesson1_2",
+      "target": "do_round"
+    },
+    {
+      "text": "",
+      "source": "lesson1_2",
+      "target": "pick_a_student"
+    },
+    {
+      "text": "",
+      "source": "lesson1_4",
+      "target": "do_round"
+    },
+    {
+      "text": "",
+      "source": "lesson1_4",
+      "target": "pick_a_student"
+    },
+    {
+      "text": "",
+      "source": "lesson1_10",
+      "target": "do_round"
+    },
+    {
+      "text": "",
+      "source": "lesson1_10",
+      "target": "pick_a_student"
+    },
+    {
+      "text": "",
+      "source": "lesson1_12",
+      "target": "pick_a_student"
+    },
+    {
+      "text": "",
+      "source": "lesson1_12",
+      "target": "do_round"
+    }
+  ]
+}

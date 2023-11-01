@@ -1,0 +1,239 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "",
+      "node_id": "node16",
+      "id": "CurtisEnd"
+    },
+    {
+      "text": "I am called Curtis.",
+      "node_id": "node20",
+      "id": "Curtis04"
+    },
+    {
+      "text": "",
+      "node_id": "node1",
+      "id": "start"
+    },
+    {
+      "text": "Huh. Never thought of that. Makes sense, though. Good idea.",
+      "node_id": "node22",
+      "id": "Curtis08"
+    },
+    {
+      "text": "",
+      "node_id": "node2",
+      "id": "combat_p_proc"
+    },
+    {
+      "text": "Our village is small, but we support ourselves. Aside from the attacks by raiders and the occasional Rad Scorpion, we have no problems. Aradesh is a good leader.",
+      "node_id": "node18",
+      "id": "Curtis05"
+    },
+    {
+      "text": "",
+      "node_id": "node9",
+      "id": "timed_event_p_proc"
+    },
+    {
+      "text": "",
+      "node_id": "node10",
+      "id": "flee_dude"
+    },
+    {
+      "text": "",
+      "node_id": "node4",
+      "id": "destroy_p_proc"
+    },
+    {
+      "text": "I am a farmer. We irrigated the desert many years ago. Although the wasteland is harsh, it is possible to grow things with patience and time.",
+      "node_id": "node19",
+      "id": "Curtis06"
+    },
+    {
+      "text": "You see a weather-beaten farmer.",
+      "node_id": "node5",
+      "id": "look_at_p_proc"
+    },
+    {
+      "text": "",
+      "node_id": "node6",
+      "id": "map_enter_p_proc"
+    },
+    {
+      "text": "Good day.",
+      "node_id": "node13",
+      "id": "Curtis01"
+    },
+    {
+      "text": "Hello again.",
+      "node_id": "node12",
+      "id": "Curtis02"
+    },
+    {
+      "text": "",
+      "node_id": "node3",
+      "id": "critter_p_proc"
+    },
+    {
+      "text": "",
+      "node_id": "node7",
+      "id": "pickup_p_proc"
+    },
+    {
+      "text": "What can I do for you?",
+      "node_id": "node15",
+      "id": "Curtis03"
+    },
+    {
+      "text": "Crop rotation? What's that?",
+      "node_id": "node21",
+      "id": "Curtis07"
+    },
+    {
+      "text": "",
+      "node_id": "node17",
+      "id": "Curtis03a"
+    },
+    {
+      "text": "You gain 500 experience points for helping to improve the agriculture of Shady Sands.",
+      "node_id": "node8",
+      "id": "talk_p_proc"
+    },
+    {
+      "text": "",
+      "node_id": "node14",
+      "id": "movement"
+    }
+  ],
+  "links": [
+    {
+      "text": "",
+      "source": "Curtis04",
+      "target": "Curtis03a"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "pickup_p_proc"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "combat_p_proc"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "timed_event_p_proc"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "look_at_p_proc"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "destroy_p_proc"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "talk_p_proc"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "map_enter_p_proc"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "critter_p_proc"
+    },
+    {
+      "text": "",
+      "source": "Curtis05",
+      "target": "Curtis03a"
+    },
+    {
+      "text": "",
+      "source": "timed_event_p_proc",
+      "target": "movement"
+    },
+    {
+      "text": "I see. You seem to be doing pretty well.",
+      "source": "Curtis06",
+      "target": "Curtis03"
+    },
+    {
+      "text": "You have all of your fields planted right now? You could probably do better with crop rotation.",
+      "source": "Curtis06",
+      "target": "Curtis07"
+    },
+    {
+      "text": "Hello.",
+      "source": "Curtis01",
+      "target": "Curtis03"
+    },
+    {
+      "text": "Hubip.",
+      "source": "Curtis01",
+      "target": "CurtisEnd"
+    },
+    {
+      "text": "What's your name?",
+      "source": "Curtis02",
+      "target": "Curtis03"
+    },
+    {
+      "text": "",
+      "source": "critter_p_proc",
+      "target": "flee_dude"
+    },
+    {
+      "text": "",
+      "source": "Curtis03",
+      "target": "Curtis03a"
+    },
+    {
+      "text": "Never mind.",
+      "source": "Curtis07",
+      "target": "CurtisEnd"
+    },
+    {
+      "text": "You only plant some of your fields, allowing the others to get back some of the nutrients that the plants used up. You let the other fields become fertile again by just tilling up whatever grows there.",
+      "source": "Curtis07",
+      "target": "Curtis08"
+    },
+    {
+      "text": "Nothing, thanks.",
+      "source": "Curtis03a",
+      "target": "CurtisEnd"
+    },
+    {
+      "text": "What are you doing?",
+      "source": "Curtis03a",
+      "target": "Curtis06"
+    },
+    {
+      "text": "What can you tell me about your village?",
+      "source": "Curtis03a",
+      "target": "Curtis05"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Curtis01"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Curtis02"
+    }
+  ]
+}

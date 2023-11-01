@@ -1,0 +1,34 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "",
+      "node_id": "node26",
+      "id": "description_p_proc"
+    },
+    {
+      "text": "You see a moderately attractive woman. She's looking at you as if you're a rival.",
+      "node_id": "node27",
+      "id": "Node002"
+    },
+    {
+      "text": "You see a moderately attractive woman. She seems to be checking you out.",
+      "node_id": "node28",
+      "id": "Node001"
+    }
+  ],
+  "links": [
+    {
+      "text": "",
+      "source": "description_p_proc",
+      "target": "Node001"
+    },
+    {
+      "text": "",
+      "source": "description_p_proc",
+      "target": "Node002"
+    }
+  ]
+}

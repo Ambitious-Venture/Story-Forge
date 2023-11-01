@@ -1,0 +1,73 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "You examine the computer carefully. Your analytical mind discovers a couple of methods that will ease the removal of the water chip.",
+      "node_id": "node4_1",
+      "id": "skills_1"
+    },
+    {
+      "text": "You did not remove the chip. Perhaps you should try again, this time a little more carefully.",
+      "node_id": "node3_5",
+      "id": "removal_5"
+    },
+    {
+      "text": "You learn nothing special about the water computer.",
+      "node_id": "node4_3",
+      "id": "skills_3"
+    },
+    {
+      "text": "After shutting down the Water Purification Computer, you can now hear the repaired water pump working in the distance, bringing water up from what must be a deep well under Necropolis.",
+      "node_id": "node3_1",
+      "id": "removal_1"
+    },
+    {
+      "text": "You are too far away to carefully examine the water computer.",
+      "node_id": "node1_1",
+      "id": "start_1"
+    },
+    {
+      "text": "Your search the water processing control computer is successful. You find the water chip without a problem.",
+      "node_id": "node2_1",
+      "id": "search_1"
+    },
+    {
+      "text": "You easily remove the water chip from the computer. You hear the flow of water to the city stop.",
+      "node_id": "node3_2",
+      "id": "removal_2"
+    },
+    {
+      "text": "You learn nothing special about the water computer.",
+      "node_id": "node4_2",
+      "id": "skills_2"
+    },
+    {
+      "text": "You gain experience points for getting a water chip.",
+      "node_id": "node3_3",
+      "id": "removal_3"
+    },
+    {
+      "text": "You struggle with the computer for a while, but you cannot remove the chip. After a moment, you realize you forgot to remove the locking bolts.",
+      "node_id": "node3_4",
+      "id": "removal_4"
+    },
+    {
+      "text": "You reinstall the water chip into the computer. The computer reboots after a moment, and proceeds to function as normal.",
+      "node_id": "node1_2",
+      "id": "start_2"
+    },
+    {
+      "text": "You search the water computer. It takes a while but you eventually discover the water chip.",
+      "node_id": "node2_2",
+      "id": "search_2"
+    },
+    {
+      "text": "This item cannot be used on the computer.",
+      "node_id": "node1_3",
+      "id": "start_3"
+    }
+  ],
+  "links": []
+}

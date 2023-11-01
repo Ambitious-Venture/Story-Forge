@@ -1,0 +1,224 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "Paladin Rhombus spends most of his time on level one, in the supply room.",
+      "node_id": "node9",
+      "id": "Brenden04"
+    },
+    {
+      "text": "Master Scribe Vree is on level three, in the computer lab.",
+      "node_id": "node7",
+      "id": "Brenden02"
+    },
+    {
+      "text": "General Maxson is usually on level four, in the council chambers.",
+      "node_id": "node8",
+      "id": "Brenden03"
+    },
+    {
+      "text": "",
+      "node_id": "node2",
+      "id": "critter_p_proc"
+    },
+    {
+      "text": "Good day. How may I be of assistance?",
+      "node_id": "node5_1",
+      "id": "Brenden01_1"
+    },
+    {
+      "text": "I've come to the conclusion that the Brotherhood functions mostly like a pseudo-religious organization. We have the strong military hierarchy, combined with codes of honor passed down from our ancestors. Combine this with our technical skills and I think that there are two paths of development for the Brotherhood: a techno-religious dictatorship or a benevolent research society.",
+      "node_id": "node16",
+      "id": "Brenden09"
+    },
+    {
+      "text": "",
+      "node_id": "node1",
+      "id": "start"
+    },
+    {
+      "text": "Indeed. I've been researching information about our predecessors from before the war and about the societies of the outside world. I think that the Brotherhood comes closest in organization to the Knights Templar of the so-called  'Dark Ages'.",
+      "node_id": "node12",
+      "id": "Brenden07"
+    },
+    {
+      "text": "",
+      "node_id": "node3",
+      "id": "destroy_p_proc"
+    },
+    {
+      "text": "",
+      "node_id": "node11",
+      "id": "BrendenEnd"
+    },
+    {
+      "text": "",
+      "node_id": "node4",
+      "id": "talk_p_proc"
+    },
+    {
+      "text": "According to my research, the Knights Templar were a military brotherhood which focused upon the acquisition of wealth and knowledge. Although they had some religious overtones in their structure, their quest for knowledge ultimately made them a secular organization. I think that they would have been a more theocratic organization if they had a greater interest in wealth and power, since the church of that era was primarily involved in control of gold and land.",
+      "node_id": "node15",
+      "id": "Brenden11"
+    },
+    {
+      "text": "We must understand our past if we are to recognize our directions for the future . . . but I'm sure you wouldn't understand that.",
+      "node_id": "node13",
+      "id": "Brenden12"
+    },
+    {
+      "text": "Although the Brotherhood places a high emphasis on hard sciences and applications technology, there has been little in the way of research into the soft sciences, like psychology and sociology. For a well-rounded education, we must apply scientific thought to all endeavors.",
+      "node_id": "node14",
+      "id": "Brenden08"
+    },
+    {
+      "text": "Ultimately we have a command heirarchy, with the Elders at the top. The most influential positions, then, are the Elders and the High Elder. A charismatic High Elder could direct the Brotherhood almost completely. We need to be careful to make sure that we have a leader who is both strong and visionary. Thankfully, I think that General Maxson fits that description.",
+      "node_id": "node17",
+      "id": "Brenden10"
+    },
+    {
+      "text": "Hmm. Apparently I may not be of assistance.",
+      "node_id": "node6",
+      "id": "Brenden05"
+    },
+    {
+      "text": "Actually, it is a journal that I am keeping. I'm working on a treatise on the social dynamics of the Brotherhood.",
+      "node_id": "node10",
+      "id": "Brenden06"
+    }
+  ],
+  "links": [
+    {
+      "text": "What're you reading?",
+      "source": "Brenden04",
+      "target": "Brenden01_1"
+    },
+    {
+      "text": "What're you reading?",
+      "source": "Brenden02",
+      "target": "Brenden01_1"
+    },
+    {
+      "text": "What're you reading?",
+      "source": "Brenden03",
+      "target": "Brenden01_1"
+    },
+    {
+      "text": "I'm looking for Paladin Rhombus.",
+      "source": "Brenden01_1",
+      "target": "Brenden04"
+    },
+    {
+      "text": "What're you reading?",
+      "source": "Brenden01_1",
+      "target": "Brenden06"
+    },
+    {
+      "text": "Gaahh.",
+      "source": "Brenden01_1",
+      "target": "Brenden05"
+    },
+    {
+      "text": "I'm looking for Master Scribe Vree.",
+      "source": "Brenden01_1",
+      "target": "Brenden02"
+    },
+    {
+      "text": "I'm looking for General Maxson.",
+      "source": "Brenden01_1",
+      "target": "Brenden03"
+    },
+    {
+      "text": "Thanks. Good day.",
+      "source": "Brenden01_1",
+      "target": "BrendenEnd"
+    },
+    {
+      "text": "What could influence the development of the Brotherhood?",
+      "source": "Brenden09",
+      "target": "Brenden10"
+    },
+    {
+      "text": "Thanks. Good day.",
+      "source": "Brenden09",
+      "target": "BrendenEnd"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "destroy_p_proc"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "talk_p_proc"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "critter_p_proc"
+    },
+    {
+      "text": "Why did you decide to study this?",
+      "source": "Brenden07",
+      "target": "Brenden08"
+    },
+    {
+      "text": "Thanks. Good day.",
+      "source": "Brenden07",
+      "target": "BrendenEnd"
+    },
+    {
+      "text": "The Knights Templar?",
+      "source": "Brenden07",
+      "target": "Brenden11"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Brenden01_1"
+    },
+    {
+      "text": "Thanks. Good day.",
+      "source": "Brenden11",
+      "target": "BrendenEnd"
+    },
+    {
+      "text": "And how does this relate to the Brotherhood?",
+      "source": "Brenden11",
+      "target": "Brenden09"
+    },
+    {
+      "text": "Thanks. Good day.",
+      "source": "Brenden08",
+      "target": "BrendenEnd"
+    },
+    {
+      "text": "So what have you discovered?",
+      "source": "Brenden08",
+      "target": "Brenden09"
+    },
+    {
+      "text": "Thanks. Good day.",
+      "source": "Brenden10",
+      "target": "BrendenEnd"
+    },
+    {
+      "text": "Hmm. Sounds interesting.",
+      "source": "Brenden06",
+      "target": "Brenden07"
+    },
+    {
+      "text": "So, what's the point?",
+      "source": "Brenden06",
+      "target": "Brenden12"
+    },
+    {
+      "text": "Thanks. Good day.",
+      "source": "Brenden06",
+      "target": "BrendenEnd"
+    }
+  ]
+}

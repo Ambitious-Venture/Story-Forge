@@ -1,0 +1,524 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "",
+      "node_id": "node40",
+      "id": "Node989"
+    },
+    {
+      "text": "No, sorry. He's busy working on something for the boss.",
+      "node_id": "node37_2",
+      "id": "Node018_2"
+    },
+    {
+      "text": "Sorry, Vic doesn't get visitors.",
+      "node_id": "node24",
+      "id": "Node015"
+    },
+    {
+      "text": "Of course. I didn't know you wanted to talk to him right now, sorry. I just thought you were curious or something.",
+      "node_id": "node28",
+      "id": "Node009"
+    },
+    {
+      "text": "",
+      "node_id": "node44",
+      "id": "Node987"
+    },
+    {
+      "text": "",
+      "node_id": "node5",
+      "id": "Node998"
+    },
+    {
+      "text": "",
+      "node_id": "node4",
+      "id": "pickup_p_proc"
+    },
+    {
+      "text": "Fine, see if I care.",
+      "node_id": "node43",
+      "id": "Node024"
+    },
+    {
+      "text": "Oh really? I'm sure the boss would appreciate it. Just as long as he stays put. We don't want him running off again.",
+      "node_id": "node29",
+      "id": "Node017"
+    },
+    {
+      "text": "Sorry, I don't understand.",
+      "node_id": "node25",
+      "id": "Node014"
+    },
+    {
+      "text": "Sure, you can see him.",
+      "node_id": "node36",
+      "id": "Node016"
+    },
+    {
+      "text": "Sorry, can't do that. Direct orders from the boss.",
+      "node_id": "node37_1",
+      "id": "Node018_1"
+    },
+    {
+      "text": "",
+      "node_id": "node6",
+      "id": "talk_p_proc"
+    },
+    {
+      "text": "Oh, sure. I didn't mean you could see him, now that you're a slaver and all.",
+      "node_id": "node32",
+      "id": "Node008"
+    },
+    {
+      "text": "There you go.",
+      "node_id": "node20",
+      "id": "Node003"
+    },
+    {
+      "text": "Get him, guys.",
+      "node_id": "node7",
+      "id": "Node021"
+    },
+    {
+      "text": "Yeah, talk to Metzger. I'm sure he has some work available. I think he said he needed another man.",
+      "node_id": "node22_1",
+      "id": "Node020_1"
+    },
+    {
+      "text": "His name's Vic - some merchant that broke something of my boss's, or something like that. Not too sure.",
+      "node_id": "node23_1",
+      "id": "Node005_1"
+    },
+    {
+      "text": "Now, I'm just letting you talk to him, okay? No funny stuff. He can't leave that room without Metzger's okay.",
+      "node_id": "node30_1",
+      "id": "Node006_1"
+    },
+    {
+      "text": "",
+      "node_id": "node21",
+      "id": "Node999"
+    },
+    {
+      "text": "Well, uh\u2026 I don't know. I guess it wouldn't hurt just for you to talk to him. $300 and I'll let you in.",
+      "node_id": "node42",
+      "id": "Node023"
+    },
+    {
+      "text": "Oh, him? Yeah, some merchant. I think he broke something, but I'm not sure. Why? You know him?",
+      "node_id": "node23_2",
+      "id": "Node005_2"
+    },
+    {
+      "text": "",
+      "node_id": "node41",
+      "id": "Node988"
+    },
+    {
+      "text": "",
+      "node_id": "node27",
+      "id": "Node990"
+    },
+    {
+      "text": "Okay, fine! You can talk to him, but that's it! He's not stepping a foot outside that room. Got it? Now beat it!",
+      "node_id": "node39_1",
+      "id": "Node019_1"
+    },
+    {
+      "text": "",
+      "node_id": "node17",
+      "id": "timed_event_p_proc"
+    },
+    {
+      "text": "",
+      "node_id": "node8",
+      "id": "Node026"
+    },
+    {
+      "text": "To be sure no one bugs him while he works on something for the boss, but mainly to be sure he doesn't run off.",
+      "node_id": "node31",
+      "id": "Node007"
+    },
+    {
+      "text": "Hey, how's it going?",
+      "node_id": "node9_1",
+      "id": "Node004_1"
+    },
+    {
+      "text": "Huh? You just in the habit of walking around into places you don't know? This is the Slaver's Guild.",
+      "node_id": "node26",
+      "id": "Node010"
+    },
+    {
+      "text": "Where? No, never heard of it. This is the Den. Not sure about that place, but I don't get out much. Sorry.",
+      "node_id": "node34",
+      "id": "Node011"
+    },
+    {
+      "text": "",
+      "node_id": "node19",
+      "id": "Node002"
+    },
+    {
+      "text": "Damn, man. Metzger's the slaver master. He runs things around here.",
+      "node_id": "node33",
+      "id": "Node012"
+    },
+    {
+      "text": "Hey! Hands off.",
+      "node_id": "node18_1",
+      "id": "Node001_1"
+    },
+    {
+      "text": "Right through the back door there.",
+      "node_id": "node35",
+      "id": "Node013"
+    },
+    {
+      "text": "He's busy.",
+      "node_id": "node38",
+      "id": "Node022"
+    }
+  ],
+  "links": [
+    {
+      "text": "",
+      "source": "Node989",
+      "target": "Node006_1"
+    },
+    {
+      "text": "No. I'll come back.",
+      "source": "Node018_2",
+      "target": "Node999"
+    },
+    {
+      "text": "Oh, come on. Just let me talk to him real quick.",
+      "source": "Node018_2",
+      "target": "Node022"
+    },
+    {
+      "text": "Who's your boss?",
+      "source": "Node018_2",
+      "target": "Node010"
+    },
+    {
+      "text": "Seve?",
+      "source": "Node015",
+      "target": "Node016"
+    },
+    {
+      "text": "Gaw.",
+      "source": "Node015",
+      "target": "Node999"
+    },
+    {
+      "text": "Surek?",
+      "source": "Node015",
+      "target": "Node014"
+    },
+    {
+      "text": "Thanks.",
+      "source": "Node009",
+      "target": "Node999"
+    },
+    {
+      "text": "",
+      "source": "Node987",
+      "target": "Node024"
+    },
+    {
+      "text": "",
+      "source": "pickup_p_proc",
+      "target": "Node998"
+    },
+    {
+      "text": "Okay.",
+      "source": "Node024",
+      "target": "Node999"
+    },
+    {
+      "text": "Thanks.",
+      "source": "Node017",
+      "target": "Node999"
+    },
+    {
+      "text": "Hmph.",
+      "source": "Node014",
+      "target": "Node999"
+    },
+    {
+      "text": "Tank.",
+      "source": "Node016",
+      "target": "Node999"
+    },
+    {
+      "text": "No. I'll come back.",
+      "source": "Node018_1",
+      "target": "Node999"
+    },
+    {
+      "text": "Oh, come on. Just let me talk to him real quick.",
+      "source": "Node018_1",
+      "target": "Node022"
+    },
+    {
+      "text": "Who's your boss?",
+      "source": "Node018_1",
+      "target": "Node010"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node021"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node004_1"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node026"
+    },
+    {
+      "text": "Well, could you open the door then?",
+      "source": "Node008",
+      "target": "Node009"
+    },
+    {
+      "text": "Okay, thanks.",
+      "source": "Node008",
+      "target": "Node999"
+    },
+    {
+      "text": "",
+      "source": "Node021",
+      "target": "Node998"
+    },
+    {
+      "text": "Uh?",
+      "source": "Node020_1",
+      "target": "Node999"
+    },
+    {
+      "text": "Ruru?",
+      "source": "Node020_1",
+      "target": "Node014"
+    },
+    {
+      "text": "Well, I'm fairly skilled in repairing things. Maybe I could help?",
+      "source": "Node005_1",
+      "target": "Node017"
+    },
+    {
+      "text": "Why are you guarding him?",
+      "source": "Node005_1",
+      "target": "Node010"
+    },
+    {
+      "text": "Can I see him?",
+      "source": "Node005_1",
+      "target": "Node990"
+    },
+    {
+      "text": "The door's locked. Could you open it?",
+      "source": "Node005_1",
+      "target": "Node009"
+    },
+    {
+      "text": "Thanks.",
+      "source": "Node005_1",
+      "target": "Node999"
+    },
+    {
+      "text": "Okay.",
+      "source": "Node006_1",
+      "target": "Node999"
+    },
+    {
+      "text": "Sure.",
+      "source": "Node023",
+      "target": "Node006_1"
+    },
+    {
+      "text": "Screw you, buddy!",
+      "source": "Node023",
+      "target": "Node987"
+    },
+    {
+      "text": "You're nuts. That's too much!",
+      "source": "Node023",
+      "target": "Node024"
+    },
+    {
+      "text": "Sorry, can't afford that.",
+      "source": "Node023",
+      "target": "Node999"
+    },
+    {
+      "text": "Thanks.",
+      "source": "Node005_2",
+      "target": "Node999"
+    },
+    {
+      "text": "Well, I'm fairly skilled in repairing things. Maybe I could help?",
+      "source": "Node005_2",
+      "target": "Node017"
+    },
+    {
+      "text": "Why are you guarding him?",
+      "source": "Node005_2",
+      "target": "Node010"
+    },
+    {
+      "text": "The door's locked. Could you open it?",
+      "source": "Node005_2",
+      "target": "Node009"
+    },
+    {
+      "text": "Can I see him?",
+      "source": "Node005_2",
+      "target": "Node990"
+    },
+    {
+      "text": "",
+      "source": "Node988",
+      "target": "Node023"
+    },
+    {
+      "text": "",
+      "source": "Node990",
+      "target": "Node019_1"
+    },
+    {
+      "text": "",
+      "source": "Node990",
+      "target": "Node008"
+    },
+    {
+      "text": "",
+      "source": "Node990",
+      "target": "Node018_1"
+    },
+    {
+      "text": "",
+      "source": "Node990",
+      "target": "Node018_2"
+    },
+    {
+      "text": "",
+      "source": "Node990",
+      "target": "Node009"
+    },
+    {
+      "text": "Okay.",
+      "source": "Node019_1",
+      "target": "Node999"
+    },
+    {
+      "text": "",
+      "source": "timed_event_p_proc",
+      "target": "Node001_1"
+    },
+    {
+      "text": "",
+      "source": "timed_event_p_proc",
+      "target": "Node002"
+    },
+    {
+      "text": "",
+      "source": "timed_event_p_proc",
+      "target": "Node003"
+    },
+    {
+      "text": "Okay thanks.",
+      "source": "Node007",
+      "target": "Node999"
+    },
+    {
+      "text": "Who's your boss?",
+      "source": "Node007",
+      "target": "Node010"
+    },
+    {
+      "text": "Can I see him?",
+      "source": "Node007",
+      "target": "Node990"
+    },
+    {
+      "text": "Meko veek?",
+      "source": "Node004_1",
+      "target": "Node015"
+    },
+    {
+      "text": "Got to go.",
+      "source": "Node004_1",
+      "target": "Node999"
+    },
+    {
+      "text": "Ugruk.",
+      "source": "Node004_1",
+      "target": "Node014"
+    },
+    {
+      "text": "Oh, so that would make your boss's name\u2026",
+      "source": "Node010",
+      "target": "Node012"
+    },
+    {
+      "text": "Okay, thanks.",
+      "source": "Node010",
+      "target": "Node999"
+    },
+    {
+      "text": "Oh, that's where I am? I though I was in Kansas.",
+      "source": "Node010",
+      "target": "Node011"
+    },
+    {
+      "text": "Moron.",
+      "source": "Node011",
+      "target": "Node999"
+    },
+    {
+      "text": "Oh, where's his office?",
+      "source": "Node012",
+      "target": "Node013"
+    },
+    {
+      "text": "Okay, bye.",
+      "source": "Node012",
+      "target": "Node999"
+    },
+    {
+      "text": "",
+      "source": "Node001_1",
+      "target": "Node998"
+    },
+    {
+      "text": "Thanks.",
+      "source": "Node013",
+      "target": "Node999"
+    },
+    {
+      "text": "Please, he won't leave the room. I promise.",
+      "source": "Node022",
+      "target": "Node989"
+    },
+    {
+      "text": "Can't we work something out - financially maybe?",
+      "source": "Node022",
+      "target": "Node988"
+    },
+    {
+      "text": "Okay, bye.",
+      "source": "Node022",
+      "target": "Node999"
+    }
+  ]
+}

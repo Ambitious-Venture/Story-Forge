@@ -1,0 +1,1184 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "You see the Resident Medical Assistant, Phyllis.",
+      "node_id": "node57_10",
+      "id": "Node038_10"
+    },
+    {
+      "text": "You have given Vault City a donation... for whatever it's worth.",
+      "node_id": "node57_9",
+      "id": "Node038_9"
+    },
+    {
+      "text": "",
+      "node_id": "node11",
+      "id": "Node006"
+    },
+    {
+      "text": "It's down on the 3rd level, if I remember correctly. Haven't been down there in ages.",
+      "node_id": "node35",
+      "id": "Node024"
+    },
+    {
+      "text": "Oh! Hello, again.",
+      "node_id": "node13_1",
+      "id": "Node009_1"
+    },
+    {
+      "text": "Oh, no, no... you see, our pregnancies don't result from intercourse.",
+      "node_id": "node51",
+      "id": "Node035"
+    },
+    {
+      "text": "I'm . Mind if I ask you some questions?",
+      "node_id": "node27_5",
+      "id": "Node015_5"
+    },
+    {
+      "text": "Hmmph. I'm too busy to speak to you right now. If you need anything, see Dr. Troy.",
+      "node_id": "node12",
+      "id": "Node008"
+    },
+    {
+      "text": "You have convinced Phyllis to speak to Dr. Troy about the potential sterility in Vault City.",
+      "node_id": "node58_1",
+      "id": "Node040_1"
+    },
+    {
+      "text": "Look, I know you're a new Citizen and all, and I don't mean to throw a damper on your Citizenship, but this City can be VERY dull at times.",
+      "node_id": "node43",
+      "id": "Node028"
+    },
+    {
+      "text": "",
+      "node_id": "node10",
+      "id": "Node007"
+    },
+    {
+      "text": "",
+      "node_id": "node56",
+      "id": "Node037b"
+    },
+    {
+      "text": "We don't see many new faces around here. I'm Phyllis. What's your name?",
+      "node_id": "node27_3",
+      "id": "Node015_3"
+    },
+    {
+      "text": "YES, MARTIN. GO - BOTTOM - LEVEL.",
+      "node_id": "node28",
+      "id": "Node012"
+    },
+    {
+      "text": "How would that happen?",
+      "node_id": "node49",
+      "id": "Node033"
+    },
+    {
+      "text": "Uh... hmmm. Listen to me again, closely this time: YOU - GO - MARTIN.",
+      "node_id": "node25_1",
+      "id": "Node011_1"
+    },
+    {
+      "text": "",
+      "node_id": "node55",
+      "id": "Node037a"
+    },
+    {
+      "text": "Oh, I don't know. Not much reason to go down into the Vault. It's mostly used for storage space nowadays. The only one down there is Martin, and... well, just between you and me, he's not a great conversationalist.",
+      "node_id": "node40",
+      "id": "Node025"
+    },
+    {
+      "text": "A ghoul! Aieeeeee! Guards!",
+      "node_id": "node9",
+      "id": "Node004"
+    },
+    {
+      "text": "You have convinced Phyllis to see the outside world.",
+      "node_id": "node61_1",
+      "id": "Node044_1"
+    },
+    {
+      "text": "Well, actually... you see, this is something I've been thinking about recently, but Citizens don't seem to have accidental pregnancies. The only successful pregnancies have been facilitated by the Auto-Doc.",
+      "node_id": "node54",
+      "id": "Node039"
+    },
+    {
+      "text": "Pardon me?",
+      "node_id": "node42",
+      "id": "Node045"
+    },
+    {
+      "text": "You see the Resident Medical Assistant, Phyllis.",
+      "node_id": "node57_7",
+      "id": "Node038_7"
+    },
+    {
+      "text": "Guards! Dr. Troy! Help!",
+      "node_id": "node32",
+      "id": "Node017"
+    },
+    {
+      "text": "I'm sorry, but no.",
+      "node_id": "node63",
+      "id": "Node048"
+    },
+    {
+      "text": "",
+      "node_id": "node29",
+      "id": "Node014"
+    },
+    {
+      "text": "You see a thin young woman. She smells faintly of antiseptic.",
+      "node_id": "node61_3",
+      "id": "Node044_3"
+    },
+    {
+      "text": "We don't see many new faces around here. I'm Phyllis. What's your name?",
+      "node_id": "node27_1",
+      "id": "Node015_1"
+    },
+    {
+      "text": "Yeah, it can get kind of overwhelming at times. But here I am, bringing down your opinion of Vault City. Don't misunderstand me. It's a great place to live.",
+      "node_id": "node59",
+      "id": "Node042"
+    },
+    {
+      "text": "",
+      "node_id": "node24",
+      "id": "Node999"
+    },
+    {
+      "text": "You see a thin young woman. She smells faintly of antiseptic.",
+      "node_id": "node64_2",
+      "id": "Node046a_2"
+    },
+    {
+      "text": "You see a thin young woman. She smells faintly of antiseptic.",
+      "node_id": "node58_3",
+      "id": "Node040_3"
+    },
+    {
+      "text": "You risked your own life to save us ALL. You're the bravest person I've ever known.",
+      "node_id": "node6",
+      "id": "Node001"
+    },
+    {
+      "text": "Of course. What is it you would like to know?",
+      "node_id": "node14_1",
+      "id": "Node019_1"
+    },
+    {
+      "text": "Uh... maybe you SHOULD go speak to him. You two may have more in common than I first thought.",
+      "node_id": "node41",
+      "id": "Node026"
+    },
+    {
+      "text": "Well... yes. Actually, there aren't. Yet. I don't know if anyone told you yet, Vault City is a planned community. We're not due for another pregnancy cycle until a few years from now.",
+      "node_id": "node46",
+      "id": "Node031"
+    },
+    {
+      "text": "Oh my, you are hurt, aren't you? I'm sorry, I should have been paying more attention. Go see Dr. Troy. He'll take care of you.",
+      "node_id": "node26",
+      "id": "Node010"
+    },
+    {
+      "text": "An intruder! Aieeeeee! Guards!",
+      "node_id": "node7",
+      "id": "Node002"
+    },
+    {
+      "text": "GO - BOTTOM - LEVEL. LEVEL - THREE. NOW.",
+      "node_id": "node30",
+      "id": "Node013"
+    },
+    {
+      "text": "You see the Resident Medical Assistant, Phyllis.",
+      "node_id": "node64_1",
+      "id": "Node046a_1"
+    },
+    {
+      "text": "It's like they're all... clones. They all dress alike, act alike, and the worst part is that everybody seems happy with it. I... well, sometimes I worry that I'll end up being just like them. That probably sounds silly, huh?",
+      "node_id": "node47",
+      "id": "Node041"
+    },
+    {
+      "text": "Thanks for the wonderful evening.",
+      "node_id": "node5_1",
+      "id": "talk_p_proc_1"
+    },
+    {
+      "text": "Certainly. We'd welcome your contribution. Vault City could use some fresh genetic material.",
+      "node_id": "node53",
+      "id": "Node037"
+    },
+    {
+      "text": "Oh. Well, I... I'd love to.",
+      "node_id": "node62_1",
+      "id": "Node046_1"
+    },
+    {
+      "text": "Vault City? Well, actually, there's not much to say. I mean, I've been a Citizen all my life... but there's not much to do in Vault City. At all.",
+      "node_id": "node36",
+      "id": "Node027"
+    },
+    {
+      "text": "You see the Resident Medical Assistant, Phyllis.",
+      "node_id": "node58_2",
+      "id": "Node040_2"
+    },
+    {
+      "text": "Oh, you mean intercourse? Intercourse is still allowed outside of pregnancy cycles.",
+      "node_id": "node50",
+      "id": "Node034"
+    },
+    {
+      "text": "Why, of all the...! I have NEVER met someone as low-class as yourself. I suggest you leave. Now.",
+      "node_id": "node31",
+      "id": "Node016"
+    },
+    {
+      "text": "I mean, have you noticed how similar everyone is? And OLD? Most of the seminars and extracurricular activities are geared towards octogenarians. I'm barely twenty-five, and this city makes me feel like I'm fifty.",
+      "node_id": "node44",
+      "id": "Node029"
+    },
+    {
+      "text": "",
+      "node_id": "node22",
+      "id": "Node005"
+    },
+    {
+      "text": "You have given Vault City a donation and introduced favorable genetic material into their community.",
+      "node_id": "node57_3",
+      "id": "Node038_3"
+    },
+    {
+      "text": "You see a thin young woman. She smells faintly of antiseptic.",
+      "node_id": "node57_5",
+      "id": "Node038_5"
+    },
+    {
+      "text": "My name's . What do you do around here?",
+      "node_id": "node27_4",
+      "id": "Node015_4"
+    },
+    {
+      "text": "Are you certain? That doesn't sound like Dr. Troy at all. Still... he HAS been working hard lately... no, no, that's impossible. You must be mistaken.",
+      "node_id": "node37",
+      "id": "Node022"
+    },
+    {
+      "text": "Hmmm. Maybe your contribution wasn't as valuable as I thought. Thanks anyway, though.",
+      "node_id": "node57_2",
+      "id": "Node038_2"
+    },
+    {
+      "text": "You see a thin young woman. She smells faintly of antiseptic.",
+      "node_id": "node57_8",
+      "id": "Node038_8"
+    },
+    {
+      "text": "Male Citizens \"donate\" to the Auto-Doc here in the Vault and the most favorable matches are chosen by the computer. Then the appropriate female Citizen is seeded by the Auto-Doc.",
+      "node_id": "node52",
+      "id": "Node036"
+    },
+    {
+      "text": "Excellent! Thank you.",
+      "node_id": "node57_1",
+      "id": "Node038_1"
+    },
+    {
+      "text": "",
+      "node_id": "node23",
+      "id": "Node998"
+    },
+    {
+      "text": "You see the Resident Medical Assistant, Phyllis.",
+      "node_id": "node57_4",
+      "id": "Node038_4"
+    },
+    {
+      "text": "You have given Vault City a donation and introduced fresh genetic material into their community.",
+      "node_id": "node57_6",
+      "id": "Node038_6"
+    },
+    {
+      "text": "You see the Resident Medical Assistant, Phyllis.",
+      "node_id": "node61_2",
+      "id": "Node044_2"
+    },
+    {
+      "text": "A mutant! Aieeeeee! Guards!",
+      "node_id": "node8",
+      "id": "Node003"
+    },
+    {
+      "text": "Yes. Pregnancies are permitted only during certain years established by the Council.",
+      "node_id": "node48",
+      "id": "Node032"
+    },
+    {
+      "text": "I would be VERY careful about what you say about Dr. Troy in Vault City. He is a respected member of our community.",
+      "node_id": "node39",
+      "id": "Node023"
+    },
+    {
+      "text": "Uh no\u2026 \"octogenerian\" is an adjective that refers to a person who is eighty years old.",
+      "node_id": "node45",
+      "id": "Node030"
+    },
+    {
+      "text": "Oh, Dr. Troy can be pretty strict sometimes, but all in all, he's a good man. Vault City's fortunate to have him.",
+      "node_id": "node34",
+      "id": "Node020"
+    },
+    {
+      "text": "Uh... sure. Maybe we'll go out some other time. I'll... uh, call you. Bye.",
+      "node_id": "node21",
+      "id": "timed_event_p_proc"
+    },
+    {
+      "text": "I'm the Resident Medical Assistant. I work for Dr. Troy.",
+      "node_id": "node33",
+      "id": "Node018"
+    },
+    {
+      "text": "Well, welcome to Vault City, fellow Citizen.",
+      "node_id": "node27_2",
+      "id": "Node015_2"
+    },
+    {
+      "text": "You see a thin young woman. She smells faintly of antiseptic.",
+      "node_id": "node57_11",
+      "id": "Node038_11"
+    },
+    {
+      "text": "Well, I've been tempted to go outside the gate, but the other Citizens have warned me against it...",
+      "node_id": "node60",
+      "id": "Node043"
+    }
+  ],
+  "links": [
+    {
+      "text": "I can honestly say I have never missed the primitive charm of Arroyo more until this moment.",
+      "source": "Node038_10",
+      "target": "Node999"
+    },
+    {
+      "text": "I can honestly say I have never missed the primitive charm of Arroyo more until this moment.",
+      "source": "Node038_9",
+      "target": "Node999"
+    },
+    {
+      "text": "Can I ask you another question?",
+      "source": "Node024",
+      "target": "Node019_1"
+    },
+    {
+      "text": "Why not?",
+      "source": "Node024",
+      "target": "Node025"
+    },
+    {
+      "text": "Thanks for the directions. Goodbye.",
+      "source": "Node024",
+      "target": "Node999"
+    },
+    {
+      "text": "Sorry, I thought you were someone else. Good day.",
+      "source": "Node009_1",
+      "target": "Node999"
+    },
+    {
+      "text": "Got ouchie... *snfff*... ouchie HURT",
+      "source": "Node009_1",
+      "target": "Node010"
+    },
+    {
+      "text": "I think I've heard enough.",
+      "source": "Node035",
+      "target": "Node999"
+    },
+    {
+      "text": "I'm afraid to ask. But I will anyway.",
+      "source": "Node035",
+      "target": "Node036"
+    },
+    {
+      "text": "I don't want to know any more. I had some other questions, though...",
+      "source": "Node035",
+      "target": "Node019_1"
+    },
+    {
+      "text": "If I wanted to give you my name, I would have told it to you, \"Sy-phyllis\"... or whatever the hell your name is.",
+      "source": "Node015_5",
+      "target": "Node016"
+    },
+    {
+      "text": "Sorry, I don't have time to talk right now.",
+      "source": "Node015_5",
+      "target": "Node999"
+    },
+    {
+      "text": "Mentioning it to Dr. Troy would be a good idea. Good luck.",
+      "source": "Node040_1",
+      "target": "Node999"
+    },
+    {
+      "text": "That's too bad. I had some other questions...",
+      "source": "Node028",
+      "target": "Node019_1"
+    },
+    {
+      "text": "Dull? How so?",
+      "source": "Node028",
+      "target": "Node029"
+    },
+    {
+      "text": "Oh, well. Sorry to hear it.",
+      "source": "Node028",
+      "target": "Node999"
+    },
+    {
+      "text": "",
+      "source": "Node037b",
+      "target": "Node038_4"
+    },
+    {
+      "text": "",
+      "source": "Node037b",
+      "target": "Node038_10"
+    },
+    {
+      "text": "",
+      "source": "Node037b",
+      "target": "Node038_7"
+    },
+    {
+      "text": "",
+      "source": "Node037b",
+      "target": "Node038_3"
+    },
+    {
+      "text": "",
+      "source": "Node037b",
+      "target": "Node038_9"
+    },
+    {
+      "text": "",
+      "source": "Node037b",
+      "target": "Node038_11"
+    },
+    {
+      "text": "",
+      "source": "Node037b",
+      "target": "Node038_5"
+    },
+    {
+      "text": "",
+      "source": "Node037b",
+      "target": "Node038_8"
+    },
+    {
+      "text": "",
+      "source": "Node037b",
+      "target": "Node038_2"
+    },
+    {
+      "text": "",
+      "source": "Node037b",
+      "target": "Node038_1"
+    },
+    {
+      "text": "",
+      "source": "Node037b",
+      "target": "Node038_6"
+    },
+    {
+      "text": "Sorry, I don't have time to talk right now.",
+      "source": "Node015_3",
+      "target": "Node999"
+    },
+    {
+      "text": "If I wanted to give you my name, I would have told it to you, \"Sy-phyllis\"... or whatever the hell your name is.",
+      "source": "Node015_3",
+      "target": "Node016"
+    },
+    {
+      "text": "YES, MAR-TIN. GO BOTTOM LEVEL.",
+      "source": "Node012",
+      "target": "Node013"
+    },
+    {
+      "text": "Shamble off",
+      "source": "Node012",
+      "target": "Node014"
+    },
+    {
+      "text": "Got ouchie... *snfff*... ouchie HURT",
+      "source": "Node012",
+      "target": "Node010"
+    },
+    {
+      "text": "Forget I asked. Look, I had some other questions...",
+      "source": "Node033",
+      "target": "Node019_1"
+    },
+    {
+      "text": "Uh, last I heard, SEX can make someone pregnant.",
+      "source": "Node033",
+      "target": "Node034"
+    },
+    {
+      "text": "Never mind. I better be going.",
+      "source": "Node033",
+      "target": "Node999"
+    },
+    {
+      "text": "Got ouchie... *snfff*... ouchie HURT",
+      "source": "Node011_1",
+      "target": "Node010"
+    },
+    {
+      "text": "Shamble off",
+      "source": "Node011_1",
+      "target": "Node014"
+    },
+    {
+      "text": "HUGO MARTIN.",
+      "source": "Node011_1",
+      "target": "Node012"
+    },
+    {
+      "text": "",
+      "source": "Node037a",
+      "target": "Node038_5"
+    },
+    {
+      "text": "",
+      "source": "Node037a",
+      "target": "Node038_8"
+    },
+    {
+      "text": "",
+      "source": "Node037a",
+      "target": "Node038_2"
+    },
+    {
+      "text": "",
+      "source": "Node037a",
+      "target": "Node038_1"
+    },
+    {
+      "text": "",
+      "source": "Node037a",
+      "target": "Node038_4"
+    },
+    {
+      "text": "",
+      "source": "Node037a",
+      "target": "Node038_6"
+    },
+    {
+      "text": "",
+      "source": "Node037a",
+      "target": "Node038_10"
+    },
+    {
+      "text": "",
+      "source": "Node037a",
+      "target": "Node038_11"
+    },
+    {
+      "text": "",
+      "source": "Node037a",
+      "target": "Node038_7"
+    },
+    {
+      "text": "",
+      "source": "Node037a",
+      "target": "Node038_3"
+    },
+    {
+      "text": "",
+      "source": "Node037a",
+      "target": "Node038_9"
+    },
+    {
+      "text": "Can I ask you another question?",
+      "source": "Node025",
+      "target": "Node019_1"
+    },
+    {
+      "text": "Uhh.... Why did they make him conversationalist if he's no good at his job?",
+      "source": "Node025",
+      "target": "Node026"
+    },
+    {
+      "text": "I see. Thanks for the information.",
+      "source": "Node025",
+      "target": "Node999"
+    },
+    {
+      "text": "",
+      "source": "Node004",
+      "target": "Node998"
+    },
+    {
+      "text": "It'll be good for you. Take care.",
+      "source": "Node044_1",
+      "target": "Node999"
+    },
+    {
+      "text": "Maybe it's just because they don't have much real sex around here.",
+      "source": "Node039",
+      "target": "Node035"
+    },
+    {
+      "text": "You know, background radiation might be resulting in sterility or even worse, chromosomal damage. Might be worth checking out.",
+      "source": "Node039",
+      "target": "Node040_3"
+    },
+    {
+      "text": "You know, background radiation might be resulting in sterility or even worse, chromosomal damage. Might be worth checking out.",
+      "source": "Node039",
+      "target": "Node040_2"
+    },
+    {
+      "text": "Oh, well. Just thought I'd ask.",
+      "source": "Node039",
+      "target": "Node999"
+    },
+    {
+      "text": "You know, background radiation might be resulting in sterility or even worse, chromosomal damage. Might be worth checking out.",
+      "source": "Node039",
+      "target": "Node040_1"
+    },
+    {
+      "text": "Never mind. Can I ask you another question?",
+      "source": "Node045",
+      "target": "Node019_1"
+    },
+    {
+      "text": "I couldn't help but notice you're an attractive young woman who could stand to get out once in a while. How about you and I have dinner?",
+      "source": "Node045",
+      "target": "Node046_1"
+    },
+    {
+      "text": "Oh, well. Just thought I'd ask.",
+      "source": "Node045",
+      "target": "Node999"
+    },
+    {
+      "text": "I can honestly say I have never missed the primitive charm of Arroyo more until this moment.",
+      "source": "Node038_7",
+      "target": "Node999"
+    },
+    {
+      "text": "So that's how it's going to be, huh? All right then...",
+      "source": "Node017",
+      "target": "Node998"
+    },
+    {
+      "text": "All right. Can I ask you some questions instead?",
+      "source": "Node048",
+      "target": "Node019_1"
+    },
+    {
+      "text": "Oh, well. Just thought I'd ask.",
+      "source": "Node048",
+      "target": "Node999"
+    },
+    {
+      "text": "It'll be good for you. Take care.",
+      "source": "Node044_3",
+      "target": "Node999"
+    },
+    {
+      "text": "Sorry, I don't have time to talk right now.",
+      "source": "Node015_1",
+      "target": "Node999"
+    },
+    {
+      "text": "If I wanted to give you my name, I would have told it to you, \"Sy-phyllis\"... or whatever the hell your name is.",
+      "source": "Node015_1",
+      "target": "Node016"
+    },
+    {
+      "text": "Glad you're happy here. Maybe we'll speak again.",
+      "source": "Node042",
+      "target": "Node999"
+    },
+    {
+      "text": "Just a suggestion, but you might want to travel a little outside of Vault City. Even speak to some of the merchants in the Courtyard. They might be able to broaden your horizons a little.",
+      "source": "Node042",
+      "target": "Node043"
+    },
+    {
+      "text": "It's got its advantages, no doubt. Can I ask you some other questions?",
+      "source": "Node042",
+      "target": "Node019_1"
+    },
+    {
+      "text": "Mentioning it to Dr. Troy would be a good idea. Good luck.",
+      "source": "Node040_3",
+      "target": "Node999"
+    },
+    {
+      "text": "I need some healing.",
+      "source": "Node019_1",
+      "target": "Node010"
+    },
+    {
+      "text": "Can you tell me about Vault City?",
+      "source": "Node019_1",
+      "target": "Node027"
+    },
+    {
+      "text": "What do you think of Dr. Troy?",
+      "source": "Node019_1",
+      "target": "Node020"
+    },
+    {
+      "text": "What do you do here?",
+      "source": "Node019_1",
+      "target": "Node018"
+    },
+    {
+      "text": "Can you tell me where the Central Computer is?",
+      "source": "Node019_1",
+      "target": "Node024"
+    },
+    {
+      "text": "Actually, never mind. Thanks anyway.",
+      "source": "Node019_1",
+      "target": "Node999"
+    },
+    {
+      "text": "Can I ask you another question first?",
+      "source": "Node026",
+      "target": "Node019_1"
+    },
+    {
+      "text": "All right then. I'll go speak to him.",
+      "source": "Node026",
+      "target": "Node999"
+    },
+    {
+      "text": "Uh... a pregnancy cycle?",
+      "source": "Node031",
+      "target": "Node032"
+    },
+    {
+      "text": "Can I ask you another question?",
+      "source": "Node031",
+      "target": "Node019_1"
+    },
+    {
+      "text": "I see. Well, thanks for the information.",
+      "source": "Node031",
+      "target": "Node999"
+    },
+    {
+      "text": "Uh...kay? Yup-yup.",
+      "source": "Node010",
+      "target": "Node999"
+    },
+    {
+      "text": "Could I ask you some questions first?",
+      "source": "Node010",
+      "target": "Node019_1"
+    },
+    {
+      "text": "",
+      "source": "Node002",
+      "target": "Node998"
+    },
+    {
+      "text": "ME GO BOTTOM LEVEL TREE NOW",
+      "source": "Node013",
+      "target": "Node014"
+    },
+    {
+      "text": "Got ouchie... *snfff*... ouchie HURT",
+      "source": "Node013",
+      "target": "Node010"
+    },
+    {
+      "text": "Oh, well. Just thought I'd ask.",
+      "source": "Node041",
+      "target": "Node999"
+    },
+    {
+      "text": "Not at all. Pressure to conform must be pretty rough around here, especially considering how insular a community Vault City is.",
+      "source": "Node041",
+      "target": "Node042"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc_1",
+      "target": "Node002"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc_1",
+      "target": "Node008"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc_1",
+      "target": "Node004"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc_1",
+      "target": "Node006"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc_1",
+      "target": "Node003"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc_1",
+      "target": "Node001"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc_1",
+      "target": "Node007"
+    },
+    {
+      "text": "All right then...",
+      "source": "Node037",
+      "target": "Node037a"
+    },
+    {
+      "text": "Say, could I get a magazine or something?",
+      "source": "Node037",
+      "target": "Node037b"
+    },
+    {
+      "text": "Oh, well. Just thought I'd ask.",
+      "source": "Node046_1",
+      "target": "Node999"
+    },
+    {
+      "text": "Aw, c'mon. I'm new. I'll get into trouble if I go around by myself.",
+      "source": "Node046_1",
+      "target": "Node048"
+    },
+    {
+      "text": "It seems a shame that a beautiful young woman such as yourself can't find SOMETHING to do in Vault City.",
+      "source": "Node027",
+      "target": "Node045"
+    },
+    {
+      "text": "Oh, well. Just thought I'd ask.",
+      "source": "Node027",
+      "target": "Node999"
+    },
+    {
+      "text": "Nothing at all? Come on.",
+      "source": "Node027",
+      "target": "Node028"
+    },
+    {
+      "text": "Can I ask you another question...",
+      "source": "Node027",
+      "target": "Node019_1"
+    },
+    {
+      "text": "Mentioning it to Dr. Troy would be a good idea. Good luck.",
+      "source": "Node040_2",
+      "target": "Node999"
+    },
+    {
+      "text": "Doesn't that make people pregnant?",
+      "source": "Node034",
+      "target": "Node035"
+    },
+    {
+      "text": "Oh. I had some other questions...",
+      "source": "Node034",
+      "target": "Node019_1"
+    },
+    {
+      "text": "Oh, well. Just thought I'd ask.",
+      "source": "Node034",
+      "target": "Node999"
+    },
+    {
+      "text": "I suggest you watch that tone of yours, or there's going to be trouble.",
+      "source": "Node016",
+      "target": "Node017"
+    },
+    {
+      "text": "Whatever. I'm done talking to you anyway.",
+      "source": "Node016",
+      "target": "Node999"
+    },
+    {
+      "text": "Uh... octo-generians? You mean the guards?",
+      "source": "Node029",
+      "target": "Node030"
+    },
+    {
+      "text": "I DID notice the similarity of Citizens.",
+      "source": "Node029",
+      "target": "Node041"
+    },
+    {
+      "text": "Oh, well. Just thought I'd ask.",
+      "source": "Node029",
+      "target": "Node999"
+    },
+    {
+      "text": "Speaking of old, I noticed there aren't any children in the city.",
+      "source": "Node029",
+      "target": "Node031"
+    },
+    {
+      "text": "I can honestly say I have never missed the primitive charm of Arroyo more until this moment.",
+      "source": "Node038_3",
+      "target": "Node999"
+    },
+    {
+      "text": "I can honestly say I have never missed the primitive charm of Arroyo more until this moment.",
+      "source": "Node038_5",
+      "target": "Node999"
+    },
+    {
+      "text": "If I wanted to give you my name, I would have told it to you, \"Sy-phyllis\"... or whatever the hell your name is.",
+      "source": "Node015_4",
+      "target": "Node016"
+    },
+    {
+      "text": "Sorry, I don't have time to talk right now.",
+      "source": "Node015_4",
+      "target": "Node999"
+    },
+    {
+      "text": "I don't think so. He was very clear about what he wanted.",
+      "source": "Node022",
+      "target": "Node023"
+    },
+    {
+      "text": "Hmmmm. Can I ask you another question?",
+      "source": "Node022",
+      "target": "Node019_1"
+    },
+    {
+      "text": "Never mind then.",
+      "source": "Node022",
+      "target": "Node999"
+    },
+    {
+      "text": "I can honestly say I have never missed the primitive charm of Arroyo more until this moment.",
+      "source": "Node038_2",
+      "target": "Node999"
+    },
+    {
+      "text": "I can honestly say I have never missed the primitive charm of Arroyo more until this moment.",
+      "source": "Node038_8",
+      "target": "Node999"
+    },
+    {
+      "text": "Can I donate?",
+      "source": "Node036",
+      "target": "Node037"
+    },
+    {
+      "text": "Don't people still get pregnant from intercourse? What about accidental pregnancies?",
+      "source": "Node036",
+      "target": "Node039"
+    },
+    {
+      "text": "You know, I would very much like to ask you any other question right now.",
+      "source": "Node036",
+      "target": "Node019_1"
+    },
+    {
+      "text": "Would you excuse me? I'm going to go see if I can get my Citizenship revoked.",
+      "source": "Node036",
+      "target": "Node999"
+    },
+    {
+      "text": "I can honestly say I have never missed the primitive charm of Arroyo more until this moment.",
+      "source": "Node038_1",
+      "target": "Node999"
+    },
+    {
+      "text": "I can honestly say I have never missed the primitive charm of Arroyo more until this moment.",
+      "source": "Node038_4",
+      "target": "Node999"
+    },
+    {
+      "text": "I can honestly say I have never missed the primitive charm of Arroyo more until this moment.",
+      "source": "Node038_6",
+      "target": "Node999"
+    },
+    {
+      "text": "It'll be good for you. Take care.",
+      "source": "Node044_2",
+      "target": "Node999"
+    },
+    {
+      "text": "",
+      "source": "Node003",
+      "target": "Node998"
+    },
+    {
+      "text": "I see. Well, thanks for the information.",
+      "source": "Node032",
+      "target": "Node999"
+    },
+    {
+      "text": "What if you get pregnant anyway?",
+      "source": "Node032",
+      "target": "Node033"
+    },
+    {
+      "text": "Oh. I had some other questions...",
+      "source": "Node032",
+      "target": "Node019_1"
+    },
+    {
+      "text": "All right, then. Can I ask you another question?",
+      "source": "Node023",
+      "target": "Node019_1"
+    },
+    {
+      "text": "Thanks for the warning. Maybe I should go talk to someone else.",
+      "source": "Node023",
+      "target": "Node999"
+    },
+    {
+      "text": "Uh, okay. Can I ask you another question?",
+      "source": "Node030",
+      "target": "Node019_1"
+    },
+    {
+      "text": "All right then. Maybe we'll speak later.",
+      "source": "Node030",
+      "target": "Node999"
+    },
+    {
+      "text": "Speaking of octo-generic- uh, octo-ians, uh, old people, I noticed there aren't any children in Vault city.",
+      "source": "Node030",
+      "target": "Node031"
+    },
+    {
+      "text": "Thanks for your time. Goodbye.",
+      "source": "Node020",
+      "target": "Node999"
+    },
+    {
+      "text": "Well, he asked me to smuggle some chems into the city for him.",
+      "source": "Node020",
+      "target": "Node022"
+    },
+    {
+      "text": "Can I ask you another question?",
+      "source": "Node020",
+      "target": "Node019_1"
+    },
+    {
+      "text": "",
+      "source": "timed_event_p_proc",
+      "target": "Node004"
+    },
+    {
+      "text": "",
+      "source": "timed_event_p_proc",
+      "target": "Node005"
+    },
+    {
+      "text": "",
+      "source": "timed_event_p_proc",
+      "target": "Node002"
+    },
+    {
+      "text": "",
+      "source": "timed_event_p_proc",
+      "target": "Node003"
+    },
+    {
+      "text": "",
+      "source": "timed_event_p_proc",
+      "target": "Node001"
+    },
+    {
+      "text": "",
+      "source": "timed_event_p_proc",
+      "target": "Node007"
+    },
+    {
+      "text": "Great. I could use some medical assistance.",
+      "source": "Node018",
+      "target": "Node010"
+    },
+    {
+      "text": "What do you think of Dr. Troy?",
+      "source": "Node018",
+      "target": "Node020"
+    },
+    {
+      "text": "Can I ask you some questions?",
+      "source": "Node018",
+      "target": "Node019_1"
+    },
+    {
+      "text": "Sorry, I don't have time to talk right now.",
+      "source": "Node018",
+      "target": "Node999"
+    },
+    {
+      "text": "If I wanted to give you my name, I would have told it to you, \"Sy-phyllis\"... or whatever the hell your name is.",
+      "source": "Node015_2",
+      "target": "Node016"
+    },
+    {
+      "text": "Sorry, I don't have time to talk right now.",
+      "source": "Node015_2",
+      "target": "Node999"
+    },
+    {
+      "text": "I can honestly say I have never missed the primitive charm of Arroyo more until this moment.",
+      "source": "Node038_11",
+      "target": "Node999"
+    },
+    {
+      "text": "That's just another reason to do it. You don't want to do what the OTHER Citizens do, do you? They're all set in their ways.",
+      "source": "Node043",
+      "target": "Node044_1"
+    },
+    {
+      "text": "They're right. It's probably not a good idea. I better be going.",
+      "source": "Node043",
+      "target": "Node999"
+    },
+    {
+      "text": "That's just another reason to do it. You don't want to do what the OTHER Citizens do, do you? They're all set in their ways.",
+      "source": "Node043",
+      "target": "Node044_3"
+    },
+    {
+      "text": "Well, it can be dangerous out there. Say, can I ask you another question?",
+      "source": "Node043",
+      "target": "Node019_1"
+    },
+    {
+      "text": "That's just another reason to do it. You don't want to do what the OTHER Citizens do, do you? They're all set in their ways.",
+      "source": "Node043",
+      "target": "Node044_2"
+    }
+  ]
+}

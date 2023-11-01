@@ -1,0 +1,34 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "An old bookcase stands here. It seems sturdy enough you could probably store things on it's shelves.",
+      "node_id": "node20_1",
+      "id": "Lock_Door_1"
+    },
+    {
+      "text": "",
+      "node_id": "node21",
+      "id": "Set_Lock"
+    },
+    {
+      "text": "",
+      "node_id": "node22",
+      "id": "Set_Lockpick_Lock"
+    }
+  ],
+  "links": [
+    {
+      "text": "",
+      "source": "Set_Lock",
+      "target": "Lock_Door_1"
+    },
+    {
+      "text": "",
+      "source": "Set_Lockpick_Lock",
+      "target": "Lock_Door_1"
+    }
+  ]
+}

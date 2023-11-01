@@ -1,0 +1,104 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "Thanks for dealing with that dog.",
+      "node_id": "node7",
+      "id": "PeasantD04"
+    },
+    {
+      "text": "Man, that dog looks hungry. It sure wants to eat you alive, Phil.",
+      "node_id": "node3_2",
+      "id": "PeasantD00_2"
+    },
+    {
+      "text": "That sure is a nice pooch you have there.",
+      "node_id": "node6",
+      "id": "PeasantD02"
+    },
+    {
+      "text": "You see a peasant.",
+      "node_id": "node1",
+      "id": "start"
+    },
+    {
+      "text": "I'm sure Phil would appreciate it if you were  to get rid of his dog.",
+      "node_id": "node9",
+      "id": "PeasantD03"
+    },
+    {
+      "text": "",
+      "node_id": "node2",
+      "id": "do_dialogue"
+    },
+    {
+      "text": "What you doing, Phil? You're checking the tread on those sneakers, aren't you?",
+      "node_id": "node3_1",
+      "id": "PeasantD00_1"
+    },
+    {
+      "text": "",
+      "node_id": "node4",
+      "id": "go_inside"
+    },
+    {
+      "text": "That might be a little overkill for a poor defenseless animal, doncha think?",
+      "node_id": "node8",
+      "id": "PeasantD01"
+    },
+    {
+      "text": "",
+      "node_id": "node5",
+      "id": "weapon_check"
+    }
+  ],
+  "links": [
+    {
+      "text": "",
+      "source": "start",
+      "target": "PeasantD00_2"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "go_inside"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "do_dialogue"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "PeasantD00_1"
+    },
+    {
+      "text": "",
+      "source": "do_dialogue",
+      "target": "PeasantD04"
+    },
+    {
+      "text": "",
+      "source": "do_dialogue",
+      "target": "PeasantD03"
+    },
+    {
+      "text": "",
+      "source": "do_dialogue",
+      "target": "PeasantD01"
+    },
+    {
+      "text": "",
+      "source": "do_dialogue",
+      "target": "PeasantD02"
+    },
+    {
+      "text": "",
+      "source": "do_dialogue",
+      "target": "weapon_check"
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "You short out the electronic lock, fusing it shut. So much for that.",
+      "node_id": "node6_2",
+      "id": "use_skill_on_p_proc_2"
+    },
+    {
+      "text": "",
+      "node_id": "node1",
+      "id": "start"
+    },
+    {
+      "text": "The door is electronically locked.",
+      "node_id": "node4",
+      "id": "use_p_proc"
+    },
+    {
+      "text": "You short out the electronic lock, fusing it shut. So much for that.",
+      "node_id": "node5_2",
+      "id": "use_obj_on_p_proc_2"
+    },
+    {
+      "text": "You fiddle with the lock but can't yet bypass the code. Gotta keep trying!",
+      "node_id": "node5_3",
+      "id": "use_obj_on_p_proc_3"
+    },
+    {
+      "text": "You unlock the door.",
+      "node_id": "node5_1",
+      "id": "use_obj_on_p_proc_1"
+    },
+    {
+      "text": "You unlock the door.",
+      "node_id": "node6_1",
+      "id": "use_skill_on_p_proc_1"
+    },
+    {
+      "text": "",
+      "node_id": "node3",
+      "id": "map_enter_p_proc"
+    },
+    {
+      "text": "No luck. You'll need to use electronic lockpicks here.",
+      "node_id": "node6_3",
+      "id": "use_skill_on_p_proc_3"
+    },
+    {
+      "text": "This looks like the door to the Vats Control Room.",
+      "node_id": "node2",
+      "id": "description_p_proc"
+    }
+  ],
+  "links": [
+    {
+      "text": "",
+      "source": "start",
+      "target": "use_obj_on_p_proc_1"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "use_obj_on_p_proc_2"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "use_obj_on_p_proc_3"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "description_p_proc"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "map_enter_p_proc"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "use_skill_on_p_proc_3"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "use_skill_on_p_proc_1"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "use_p_proc"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "use_skill_on_p_proc_2"
+    }
+  ]
+}

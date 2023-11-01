@@ -1,0 +1,24 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "The computer terminal appears non-operational.",
+      "node_id": "node10",
+      "id": "use_p_proc"
+    },
+    {
+      "text": "",
+      "node_id": "node9",
+      "id": "use_skill_on_p_proc"
+    }
+  ],
+  "links": [
+    {
+      "text": "",
+      "source": "use_skill_on_p_proc",
+      "target": "use_p_proc"
+    }
+  ]
+}

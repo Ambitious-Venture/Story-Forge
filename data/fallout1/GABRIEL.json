@@ -1,0 +1,44 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "",
+      "node_id": "node36",
+      "id": "UpReactLevel"
+    },
+    {
+      "text": "Thank you my friend.",
+      "node_id": "node35_1",
+      "id": "Gab23_1"
+    },
+    {
+      "text": "",
+      "node_id": "node49",
+      "id": "DownReactLevel"
+    },
+    {
+      "text": "",
+      "node_id": "node42",
+      "id": "LevelToReact"
+    }
+  ],
+  "links": [
+    {
+      "text": "",
+      "source": "UpReactLevel",
+      "target": "LevelToReact"
+    },
+    {
+      "text": "",
+      "source": "Gab23_1",
+      "target": "UpReactLevel"
+    },
+    {
+      "text": "",
+      "source": "DownReactLevel",
+      "target": "LevelToReact"
+    }
+  ]
+}

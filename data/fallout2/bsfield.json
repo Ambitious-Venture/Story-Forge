@@ -1,0 +1,59 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "",
+      "node_id": "node18",
+      "id": "Do_Flicker"
+    },
+    {
+      "text": "",
+      "node_id": "node17",
+      "id": "Destroy_Field"
+    },
+    {
+      "text": "The force field has been delayed for fifteen seconds.",
+      "node_id": "node16",
+      "id": "Delay_Field"
+    },
+    {
+      "text": "",
+      "node_id": "node15",
+      "id": "Check_State"
+    },
+    {
+      "text": "",
+      "node_id": "node19",
+      "id": "timed_event_p_proc"
+    }
+  ],
+  "links": [
+    {
+      "text": "",
+      "source": "Do_Flicker",
+      "target": "Check_State"
+    },
+    {
+      "text": "",
+      "source": "timed_event_p_proc",
+      "target": "Delay_Field"
+    },
+    {
+      "text": "",
+      "source": "timed_event_p_proc",
+      "target": "Destroy_Field"
+    },
+    {
+      "text": "",
+      "source": "timed_event_p_proc",
+      "target": "Check_State"
+    },
+    {
+      "text": "",
+      "source": "timed_event_p_proc",
+      "target": "Do_Flicker"
+    }
+  ]
+}

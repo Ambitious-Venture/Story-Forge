@@ -1,0 +1,54 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "Ehhh.... I have a bad heart condition... can't take...",
+      "node_id": "node15",
+      "id": "DoDeathSequence"
+    },
+    {
+      "text": "Wow, I guess he did have a heart problem.",
+      "node_id": "node18_1",
+      "id": "ContinueDeath_1"
+    },
+    {
+      "text": "AHHAHH!!! AHAHAHHAH!!! AHHAHAH!!! IT BURNS!!!",
+      "node_id": "node16_1",
+      "id": "DoExplosiveSequence_1"
+    },
+    {
+      "text": "",
+      "node_id": "node14",
+      "id": "use_obj_on_p_proc"
+    },
+    {
+      "text": "",
+      "node_id": "node17",
+      "id": "timed_event_p_proc"
+    }
+  ],
+  "links": [
+    {
+      "text": "",
+      "source": "use_obj_on_p_proc",
+      "target": "DoDeathSequence"
+    },
+    {
+      "text": "",
+      "source": "use_obj_on_p_proc",
+      "target": "DoExplosiveSequence_1"
+    },
+    {
+      "text": "",
+      "source": "timed_event_p_proc",
+      "target": "DoExplosiveSequence_1"
+    },
+    {
+      "text": "",
+      "source": "timed_event_p_proc",
+      "target": "ContinueDeath_1"
+    }
+  ]
+}

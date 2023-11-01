@@ -1,0 +1,44 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "I'm on duty. If you want to see Set, you gotta do it inside.",
+      "node_id": "node3",
+      "id": "ghoul00"
+    },
+    {
+      "text": "",
+      "node_id": "node4",
+      "id": "ghoulend"
+    },
+    {
+      "text": "You see a ghoul guard.",
+      "node_id": "node1",
+      "id": "start"
+    },
+    {
+      "text": "",
+      "node_id": "node2",
+      "id": "do_dialogue"
+    }
+  ],
+  "links": [
+    {
+      "text": "",
+      "source": "ghoul00",
+      "target": "ghoulend"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "do_dialogue"
+    },
+    {
+      "text": "",
+      "source": "do_dialogue",
+      "target": "ghoul00"
+    }
+  ]
+}

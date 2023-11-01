@@ -1,0 +1,24 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "",
+      "node_id": "node61",
+      "id": "Node35a"
+    },
+    {
+      "text": "There. We erased a few nasty imprints! You are now an AHS-1. Now, if you'll excuse me, I have to tend my church.",
+      "node_id": "node60",
+      "id": "Node035"
+    }
+  ],
+  "links": [
+    {
+      "text": "",
+      "source": "Node35a",
+      "target": "Node035"
+    }
+  ]
+}

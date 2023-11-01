@@ -1,0 +1,194 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "",
+      "node_id": "node15",
+      "id": "Node001a"
+    },
+    {
+      "text": "",
+      "node_id": "node19",
+      "id": "Node001e"
+    },
+    {
+      "text": "",
+      "node_id": "node22",
+      "id": "Node002a"
+    },
+    {
+      "text": "",
+      "node_id": "node27",
+      "id": "Node003c"
+    },
+    {
+      "text": "",
+      "node_id": "node23",
+      "id": "Node002b"
+    },
+    {
+      "text": "",
+      "node_id": "node28",
+      "id": "Node003d"
+    },
+    {
+      "text": "",
+      "node_id": "node5",
+      "id": "talk_p_proc"
+    },
+    {
+      "text": "Who?",
+      "node_id": "node21",
+      "id": "Node003"
+    },
+    {
+      "text": "",
+      "node_id": "node26",
+      "id": "Node003b"
+    },
+    {
+      "text": "",
+      "node_id": "node18",
+      "id": "Node001d"
+    },
+    {
+      "text": "",
+      "node_id": "node14",
+      "id": "Node999"
+    },
+    {
+      "text": "",
+      "node_id": "node25",
+      "id": "Node003a"
+    },
+    {
+      "text": "Hey, there. I'm the Illicit Allocations Chief... but you can call me Chet. You need something?",
+      "node_id": "node6",
+      "id": "Node001"
+    },
+    {
+      "text": "",
+      "node_id": "node17",
+      "id": "Node001c"
+    },
+    {
+      "text": "To what?",
+      "node_id": "node20",
+      "id": "Node002"
+    },
+    {
+      "text": "",
+      "node_id": "node16",
+      "id": "Node001b"
+    },
+    {
+      "text": "",
+      "node_id": "node24",
+      "id": "Node002c"
+    }
+  ],
+  "links": [
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node001"
+    },
+    {
+      "text": "Nobody. I have more needs.",
+      "source": "Node003",
+      "target": "Node001"
+    },
+    {
+      "text": "Nevermind. Bye.",
+      "source": "Node003",
+      "target": "Node999"
+    },
+    {
+      "text": "Vic.",
+      "source": "Node003",
+      "target": "Node003c"
+    },
+    {
+      "text": "Myron.",
+      "source": "Node003",
+      "target": "Node003d"
+    },
+    {
+      "text": "Lenny.",
+      "source": "Node003",
+      "target": "Node003b"
+    },
+    {
+      "text": "Marcus.",
+      "source": "Node003",
+      "target": "Node003a"
+    },
+    {
+      "text": "(Doesn't work) I need a character in my party.",
+      "source": "Node001",
+      "target": "Node003"
+    },
+    {
+      "text": "Make me a kicked out citizen.",
+      "source": "Node001",
+      "target": "Node001e"
+    },
+    {
+      "text": "Nope, nothing.",
+      "source": "Node001",
+      "target": "Node999"
+    },
+    {
+      "text": "Change my reputation.",
+      "source": "Node001",
+      "target": "Node002"
+    },
+    {
+      "text": "Set the endgame flag, Chet. I'm all done.",
+      "source": "Node001",
+      "target": "Node001a"
+    },
+    {
+      "text": "Make me a real citizen, if you please.",
+      "source": "Node001",
+      "target": "Node001c"
+    },
+    {
+      "text": "Make me a fake citizen and give me the papers.",
+      "source": "Node001",
+      "target": "Node001d"
+    },
+    {
+      "text": "Make me Captain of the Guard. Now.",
+      "source": "Node001",
+      "target": "Node001b"
+    },
+    {
+      "text": "Make me a childkiller.",
+      "source": "Node002",
+      "target": "Node002b"
+    },
+    {
+      "text": "Nothing...just lower my karma by a 100.",
+      "source": "Node002",
+      "target": "Node002c"
+    },
+    {
+      "text": "Make me a slaver.",
+      "source": "Node002",
+      "target": "Node002a"
+    },
+    {
+      "text": "Nevermind. I wanted something else...",
+      "source": "Node002",
+      "target": "Node001"
+    },
+    {
+      "text": "Nope, nothing.",
+      "source": "Node002",
+      "target": "Node999"
+    }
+  ]
+}

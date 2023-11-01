@@ -1,0 +1,44 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "Your attempt to circumvent the electronic lock fails.",
+      "node_id": "node3_2",
+      "id": "pick_lock_2"
+    },
+    {
+      "text": "You manage to bypass the electronic lock.",
+      "node_id": "node3_1",
+      "id": "pick_lock_1"
+    },
+    {
+      "text": "You see a steel door. A sign on it reads: \"Reactor Core Control Room. Authorized Personnel Only.\"",
+      "node_id": "node1",
+      "id": "start"
+    },
+    {
+      "text": "The door is locked electronically.",
+      "node_id": "node2",
+      "id": "use_stuff"
+    }
+  ],
+  "links": [
+    {
+      "text": "",
+      "source": "start",
+      "target": "pick_lock_1"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "use_stuff"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "pick_lock_2"
+    }
+  ]
+}

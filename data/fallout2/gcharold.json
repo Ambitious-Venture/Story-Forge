@@ -1,0 +1,1654 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "Well, sorta. Our atomic reactor\u2019s a mite...sensitive. The people I got running it mean well, but... well, they are not the sharpest tools in the shed. If you know what I mean.",
+      "node_id": "node23_2",
+      "id": "Node004_2"
+    },
+    {
+      "text": "They shoot ghouls on sight. Makes conversation a bit tricky.",
+      "node_id": "node68",
+      "id": "Node054"
+    },
+    {
+      "text": "Well, I\u2019m certain those ornery bastards in Vault City have one. Not that they\u2019d share. Hell, even if we had one of those thingies, I\u2019m not so certain Festus could install the dang thing.",
+      "node_id": "node63",
+      "id": "Node049"
+    },
+    {
+      "text": "Well, I could probably remember if I wasn\u2019t dead. I never get tired of that joke.",
+      "node_id": "node52",
+      "id": "Node038"
+    },
+    {
+      "text": "Whatcha need, youngster?",
+      "node_id": "node10_4",
+      "id": "Node002_4"
+    },
+    {
+      "text": "Need a little time on the whetstone yourself, huh? I mean they are not too bright. Here\u2019s an example. The other day I get a report. On it, it says the main coolant valve should be shut down. That woulda caused a meltdown that would make the Grand Canyon look like a pig wallow.",
+      "node_id": "node36",
+      "id": "Node006"
+    },
+    {
+      "text": "Wanna know how to keep an idjit in suspense?",
+      "node_id": "node7_3",
+      "id": "Node021_3"
+    },
+    {
+      "text": "Well, I\u2019d sure like to hear that.",
+      "node_id": "node60",
+      "id": "Node044"
+    },
+    {
+      "text": "A Garden of Eden Creation Kit? A GECK, right? I seem to remember Vaults had those. Don\u2019t know where you\u2019d find one today.",
+      "node_id": "node31",
+      "id": "Node035"
+    },
+    {
+      "text": "Who\u2019d a thought I\u2019d be making things right? Although if we don\u2019t get a Hydroelectric Magnetosphere Regulator pretty damn quick, there is gonna be trouble.",
+      "node_id": "node18",
+      "id": "Node008"
+    },
+    {
+      "text": "Hello there, smoothskin. The name\u2019s Harold. I help keep this town running.",
+      "node_id": "node10_1",
+      "id": "Node002_1"
+    },
+    {
+      "text": "Yeah, well, I\u2019m sure some bonehead, very much like yourself, said the same thing about the Master.",
+      "node_id": "node46",
+      "id": "Node028"
+    },
+    {
+      "text": "Uh, yeah, that would be bad. Now, I got things fixed up in time, but we came close to the end there. They need someone to watch out for \u2018em.",
+      "node_id": "node19",
+      "id": "Node007"
+    },
+    {
+      "text": "Yea, it looked just like that. Come to think of it, it had a 13 on it too.",
+      "node_id": "node55",
+      "id": "Node040"
+    },
+    {
+      "text": "You know, it\u2019s not so bad now. You fix the power plant, then you get the info we need to make it good-as-new. Golly-be-damned, ain\u2019t you somethin'?!",
+      "node_id": "node23_1",
+      "id": "Node004_1"
+    },
+    {
+      "text": "Oh. Yeah. Hey, let me ask you something else.",
+      "node_id": "node27",
+      "id": "Node012"
+    },
+    {
+      "text": "Well, you might try talking to Wooz over in the Harp. You can\u2019t miss it - it\u2019s just across the way.",
+      "node_id": "node29",
+      "id": "Node033"
+    },
+    {
+      "text": "You know, you\u2019re a lot like the Vault Dweller.",
+      "node_id": "node33_1",
+      "id": "Node011_1"
+    },
+    {
+      "text": "",
+      "node_id": "node22",
+      "id": "Node997"
+    },
+    {
+      "text": "That so? Well, well, well. That explains a thing or two. I wondered why you looked familiar. I\u2019m not losing the last coupla marbles I got left.",
+      "node_id": "node54",
+      "id": "Node039"
+    },
+    {
+      "text": "Thanks for telling. I sure was curious all these years. You sure got your work cut out for ya. Huh, ya know....",
+      "node_id": "node61",
+      "id": "Node045"
+    },
+    {
+      "text": "That\u2019s a start, but you\u2019re gonna have to do better.",
+      "node_id": "node43",
+      "id": "Node019"
+    },
+    {
+      "text": "More skin! ... Need more skin! (chuckles) What happ'n? Drop your sense of humor in the dust on the way into town?",
+      "node_id": "node41",
+      "id": "Node017"
+    },
+    {
+      "text": "You cut with the dull edge of the knife, don\u2019t ya? \u00a0You don\u2019t look like an orange peel left in the sun all day. Your skin\u2019s still soft and purty.",
+      "node_id": "node26",
+      "id": "Node014"
+    },
+    {
+      "text": "Well, they\u2019d only help us if they thought it was in their own best interest to do so. Huh. Not much chance of that happening.",
+      "node_id": "node66",
+      "id": "Node053"
+    },
+    {
+      "text": "Whatcha need, youngster?",
+      "node_id": "node10_2",
+      "id": "Node002_2"
+    },
+    {
+      "text": "Jumpin\u2019 to conclusions, youngster. That\u2019s gonna get your ass shot off someday. All of us. Saved every two-legged-shuffler on the dang planet.",
+      "node_id": "node58",
+      "id": "Node042"
+    },
+    {
+      "text": "",
+      "node_id": "node25",
+      "id": "Node999"
+    },
+    {
+      "text": "Hey, I was hoping you\u2019d show up. You won a prize for bein' the biggest jerk. There\u2019s a party in your honor ten miles north of town. Better hurry.",
+      "node_id": "node7_4",
+      "id": "Node021_4"
+    },
+    {
+      "text": "",
+      "node_id": "node8",
+      "id": "Node001"
+    },
+    {
+      "text": "Their best interest? What do you mean?",
+      "node_id": "node34",
+      "id": "Node026"
+    },
+    {
+      "text": "Well, I sure hope not. Those idjits in Vault City hate ghouls. They\u2019d cut off our ore shipments from Broken Hills in a white-hot minute. Then they\u2019d set the terms. Wouldn\u2019t be long until Gecko\u2019d be a slave camp.",
+      "node_id": "node50",
+      "id": "Node031"
+    },
+    {
+      "text": "Funny ideas? Well, you mean like skinning you alive with a rusty, dull, old knife and then grafting your still-warm, wet, glistening, oh-so-soft, skin over my crusty-rotten gook?",
+      "node_id": "node39",
+      "id": "Node013"
+    },
+    {
+      "text": "We need a Hydroelectric Magnetosphere Regulator and it needs to be installed soon or we have got some real problems.",
+      "node_id": "node37_1",
+      "id": "Node048_1"
+    },
+    {
+      "text": "There is a resemblance. Near as I can remember, anyways. You know, your ancestor saved the whole darn lot of us.",
+      "node_id": "node57",
+      "id": "Node041"
+    },
+    {
+      "text": "Another smoothskin. Had a lot of respect for that one.",
+      "node_id": "node38",
+      "id": "Node037"
+    },
+    {
+      "text": "You are somethin'. Just like the original. What can old Harold do for ya, Vault Dweller?",
+      "node_id": "node10_5",
+      "id": "Node002_5"
+    },
+    {
+      "text": "I was gonna give you some healing supplies but damn me if I didn\u2019t do that already. I tell you, gettin\u2019 old\u2019s hell on the memory.",
+      "node_id": "node62_1",
+      "id": "Node046_1"
+    },
+    {
+      "text": "Funny ideas? Well, you mean like skinning you alive with a rusty, dull, old knife and then grafting your still-warm, wet, glistening, oh-so-soft, skin over my crusty-rotten gook?",
+      "node_id": "node40",
+      "id": "Node015"
+    },
+    {
+      "text": "Heck, if it weren\u2019t for you, them damn idjits in Vault City woulda laid us out for the big dirt nap.",
+      "node_id": "node35",
+      "id": "Node009"
+    },
+    {
+      "text": "Economic data? You didn\u2019t give them that information th-that Gordon keeps flapping his yap about, did you?",
+      "node_id": "node45",
+      "id": "Node027"
+    },
+    {
+      "text": "Jealous? His name\u2019s Herbert. I talk to him when I get lonely... Heh heh. Just kiddin'... His name\u2019s Bob.",
+      "node_id": "node30",
+      "id": "Node034"
+    },
+    {
+      "text": "Well, you don\u2019t have anything to worry about....can\u2019t find my knife.",
+      "node_id": "node42",
+      "id": "Node016"
+    },
+    {
+      "text": "Nothing, huh? I\u2019m not buyin' it. You just put us in a bind. Why don\u2019t you skidaddle while I thinka what to do.",
+      "node_id": "node47",
+      "id": "Node029"
+    },
+    {
+      "text": "Well, technically... it\u2019s a thingie.",
+      "node_id": "node24",
+      "id": "Node005"
+    },
+    {
+      "text": "Well, I tell ya youngster. Nice try but yer still an idjit. Maybe this\u2019ll be the lesson you need. You are outta here.",
+      "node_id": "node44_1",
+      "id": "Node020_1"
+    },
+    {
+      "text": "We get our fuel from the Broken Hills. That\u2019s a mining community some ways south.",
+      "node_id": "node65",
+      "id": "Node051"
+    },
+    {
+      "text": "Well, look what the wind pooped in. My favorite turd. Why don\u2019tcha just squish on outta here?",
+      "node_id": "node7_2",
+      "id": "Node021_2"
+    },
+    {
+      "text": "If we don\u2019t get it, you can bet those boneheads from Vault City will shut down our power plant, permanently.",
+      "node_id": "node64",
+      "id": "Node050"
+    },
+    {
+      "text": "Just talk to my assistant, Lenny. He\u2019ll be able to fix ya right up.",
+      "node_id": "node51",
+      "id": "Node036"
+    },
+    {
+      "text": "Yep, but I\u2019m doing great for being dead! I never get tired of the looks when I tell that one.",
+      "node_id": "node32",
+      "id": "Node03a"
+    },
+    {
+      "text": "",
+      "node_id": "node6",
+      "id": "Node998"
+    },
+    {
+      "text": "Whatcha need, youngster?",
+      "node_id": "node10_6",
+      "id": "Node002_6"
+    },
+    {
+      "text": "",
+      "node_id": "node5",
+      "id": "talk_p_proc"
+    },
+    {
+      "text": "Wha-whatever it takes to keep this place together. Better job on it than me.",
+      "node_id": "node28",
+      "id": "Node003"
+    },
+    {
+      "text": "Reasonable? Reasonable! Well, I\u2019m sure people said the Master was reasonable, too. What a bonehead. Get the hell out. Now!",
+      "node_id": "node49",
+      "id": "Node032"
+    },
+    {
+      "text": "",
+      "node_id": "node17",
+      "id": "Node910"
+    },
+    {
+      "text": "No lie?",
+      "node_id": "node56",
+      "id": "Node38b"
+    },
+    {
+      "text": "Why?! Now Vault City knows just how much we need uranium ore from Broken Hills. They could cut off them shipments and we\u2019d be finished.",
+      "node_id": "node48",
+      "id": "Node030"
+    },
+    {
+      "text": "Mighty kind o' ya helping us out with the atomic power plant. We\u2019re in your debt. Now, what can this cranky-old carcass do for ya?",
+      "node_id": "node10_3",
+      "id": "Node002_3"
+    },
+    {
+      "text": "Whatcha need, youngster?",
+      "node_id": "node10_7",
+      "id": "Node002_7"
+    },
+    {
+      "text": "Take dirt naps. Vault City doesn\u2019t play nice. They\u2019ll just come up here and kill all of us if we don\u2019t get that part. Well, at least I\u2019ll have a tree for a monument.",
+      "node_id": "node67",
+      "id": "Node052"
+    },
+    {
+      "text": "I just let a big fart and it still doesn\u2019t cover your stink. Why don\u2019t you just drift outta here?",
+      "node_id": "node9",
+      "id": "Node018"
+    },
+    {
+      "text": "Well, to be honest, can\u2019t remember the name. But they wore a funny suit. Kinda like the one you\u2019re wearing.",
+      "node_id": "node53",
+      "id": "Node38a"
+    },
+    {
+      "text": "You\u2019re like that bad booger ya can\u2019t shake off your finger. But I\u2019m still shaking.... Oh look, there ya go!",
+      "node_id": "node7_1",
+      "id": "Node021_1"
+    },
+    {
+      "text": "Well. Now ya do. And what happened next? For a thank you, the damn high-and-mighty Vaulties booted the Vault Dweller out. I always wondered what happened after that.",
+      "node_id": "node59",
+      "id": "Node043"
+    }
+  ],
+  "links": [
+    {
+      "text": "What do you mean?",
+      "source": "Node004_2",
+      "target": "Node006"
+    },
+    {
+      "text": "Well, I\u2019d love to stay and chat with you but I\u2019ve got things to do and places to go. Good luck.",
+      "source": "Node004_2",
+      "target": "Node999"
+    },
+    {
+      "text": "I don\u2019t like to complete any job only half-way.",
+      "source": "Node004_2",
+      "target": "Node009"
+    },
+    {
+      "text": "Well, I didn\u2019t want to see Vault City destroy your town. Besides it was in their best interest to fix your power plant as well.",
+      "source": "Node004_2",
+      "target": "Node026"
+    },
+    {
+      "text": "Yes, it would. Right now I\u2019ve got another question.",
+      "source": "Node054",
+      "target": "Node002_2"
+    },
+    {
+      "text": "Yes, it would. Right now I\u2019ve got another question.",
+      "source": "Node054",
+      "target": "Node002_6"
+    },
+    {
+      "text": "I wonder if someone else could tell them.",
+      "source": "Node054",
+      "target": "Node048_1"
+    },
+    {
+      "text": "Yes, it would. Right now I\u2019ve got another question.",
+      "source": "Node054",
+      "target": "Node002_5"
+    },
+    {
+      "text": "Hey, you never know. I\u2019ll see you later.",
+      "source": "Node054",
+      "target": "Node999"
+    },
+    {
+      "text": "Yes, it would. Right now I\u2019ve got another question.",
+      "source": "Node054",
+      "target": "Node002_4"
+    },
+    {
+      "text": "Yes, it would. Right now I\u2019ve got another question.",
+      "source": "Node054",
+      "target": "Node002_3"
+    },
+    {
+      "text": "Yes, it would. Right now I\u2019ve got another question.",
+      "source": "Node054",
+      "target": "Node002_1"
+    },
+    {
+      "text": "Yes, it would. Right now I\u2019ve got another question.",
+      "source": "Node054",
+      "target": "Node002_7"
+    },
+    {
+      "text": "Vault City wouldn\u2019t give you the part? Even if it means that the groundwater won\u2019t be polluted anymore?",
+      "source": "Node049",
+      "target": "Node053"
+    },
+    {
+      "text": "Sounds like you\u2019ve got a lot on your mind. Goodbye.",
+      "source": "Node049",
+      "target": "Node999"
+    },
+    {
+      "text": "Maybe you don\u2019t...",
+      "source": "Node038",
+      "target": "Node38a"
+    },
+    {
+      "text": "You must know if there\u2019s something called a Garden of Eden Creation kit here.",
+      "source": "Node002_4",
+      "target": "Node035"
+    },
+    {
+      "text": "Is that a tree growing out of your head?",
+      "source": "Node002_4",
+      "target": "Node034"
+    },
+    {
+      "text": "Vault Dweller? I\u2019m not a Vault Dweller.",
+      "source": "Node002_4",
+      "target": "Node012"
+    },
+    {
+      "text": "Hello, Harold. Just passing through. Goodbye.",
+      "source": "Node002_4",
+      "target": "Node999"
+    },
+    {
+      "text": "Smoothskin? Why did you call me that?",
+      "source": "Node002_4",
+      "target": "Node014"
+    },
+    {
+      "text": "Hello, Harold. What do you do here?",
+      "source": "Node002_4",
+      "target": "Node003"
+    },
+    {
+      "text": "Is there someplace I can barter or re-supply here?",
+      "source": "Node002_4",
+      "target": "Node033"
+    },
+    {
+      "text": "That sounds bad.",
+      "source": "Node006",
+      "target": "Node007"
+    },
+    {
+      "text": "The legend of the Vault Dweller starts with the Vault casting him out into the dry Wastes.... [You tell Harold the story of your ancestor]\u2026and so that\u2019s why I\u2019m looking for Vault 13 now.",
+      "source": "Node044",
+      "target": "Node045"
+    },
+    {
+      "text": "Thanks. Let me ask you something else.",
+      "source": "Node035",
+      "target": "Node002_5"
+    },
+    {
+      "text": "Thanks. Let me ask you something else.",
+      "source": "Node035",
+      "target": "Node002_3"
+    },
+    {
+      "text": "Thanks. Let me ask you something else.",
+      "source": "Node035",
+      "target": "Node002_1"
+    },
+    {
+      "text": "Thanks. Let me ask you something else.",
+      "source": "Node035",
+      "target": "Node002_7"
+    },
+    {
+      "text": "Thanks, that\u2019s all I need to know for now. Goodbye.",
+      "source": "Node035",
+      "target": "Node999"
+    },
+    {
+      "text": "Thanks. Let me ask you something else.",
+      "source": "Node035",
+      "target": "Node002_2"
+    },
+    {
+      "text": "Thanks. Let me ask you something else.",
+      "source": "Node035",
+      "target": "Node002_6"
+    },
+    {
+      "text": "Thanks. Let me ask you something else.",
+      "source": "Node035",
+      "target": "Node002_4"
+    },
+    {
+      "text": "Hmm, sounds like a real problem all right. Let me ask you something else.",
+      "source": "Node008",
+      "target": "Node002_3"
+    },
+    {
+      "text": "What the hell is Hydra-magna-whateveraltor?",
+      "source": "Node008",
+      "target": "Node005"
+    },
+    {
+      "text": "Hmm, sounds like a real problem all right. Let me ask you something else.",
+      "source": "Node008",
+      "target": "Node002_1"
+    },
+    {
+      "text": "Hmm, sounds like a real problem all right. Let me ask you something else.",
+      "source": "Node008",
+      "target": "Node002_2"
+    },
+    {
+      "text": "Trouble? What kind of trouble?",
+      "source": "Node008",
+      "target": "Node048_1"
+    },
+    {
+      "text": "Hmm, sounds like a real problem all right. Let me ask you something else.",
+      "source": "Node008",
+      "target": "Node002_7"
+    },
+    {
+      "text": "Well, I\u2019ve taken enough of your valuable time. Goodbye.",
+      "source": "Node008",
+      "target": "Node999"
+    },
+    {
+      "text": "Hmm, sounds like a real problem all right. Let me ask you something else.",
+      "source": "Node008",
+      "target": "Node002_6"
+    },
+    {
+      "text": "Hmm, sounds like a real problem all right. Let me ask you something else.",
+      "source": "Node008",
+      "target": "Node002_4"
+    },
+    {
+      "text": "Hmm, sounds like a real problem all right. Let me ask you something else.",
+      "source": "Node008",
+      "target": "Node002_5"
+    },
+    {
+      "text": "Hello, Harold. What do you do here?",
+      "source": "Node002_1",
+      "target": "Node003"
+    },
+    {
+      "text": "Is there someplace I can barter or re-supply here?",
+      "source": "Node002_1",
+      "target": "Node033"
+    },
+    {
+      "text": "Is that a tree growing out of your head?",
+      "source": "Node002_1",
+      "target": "Node034"
+    },
+    {
+      "text": "Vault Dweller? I\u2019m not a Vault Dweller.",
+      "source": "Node002_1",
+      "target": "Node012"
+    },
+    {
+      "text": "You must know if there\u2019s something called a Garden of Eden Creation kit here.",
+      "source": "Node002_1",
+      "target": "Node035"
+    },
+    {
+      "text": "Hello, Harold. Just passing through. Goodbye.",
+      "source": "Node002_1",
+      "target": "Node999"
+    },
+    {
+      "text": "Smoothskin? Why did you call me that?",
+      "source": "Node002_1",
+      "target": "Node014"
+    },
+    {
+      "text": "Sounds like a great story. Wish I had time to hear it but I gotta go.",
+      "source": "Node028",
+      "target": "Node999"
+    },
+    {
+      "text": "Good thing you\u2019re here to help them.",
+      "source": "Node007",
+      "target": "Node008"
+    },
+    {
+      "text": "Actually, this is the suit of my ancestor, the Vault Dweller.",
+      "source": "Node040",
+      "target": "Node039"
+    },
+    {
+      "text": "What do you mean?",
+      "source": "Node004_1",
+      "target": "Node006"
+    },
+    {
+      "text": "Well, I\u2019d love to stay and chat with you but I\u2019ve got things to do and places to go. Good luck.",
+      "source": "Node004_1",
+      "target": "Node999"
+    },
+    {
+      "text": "I don\u2019t like to complete any job only half-way.",
+      "source": "Node004_1",
+      "target": "Node009"
+    },
+    {
+      "text": "Well, I didn\u2019t want to see Vault City destroy your town. Besides it was in their best interest to fix your power plant as well.",
+      "source": "Node004_1",
+      "target": "Node026"
+    },
+    {
+      "text": "Uh, well, I better be going. Goodbye.",
+      "source": "Node012",
+      "target": "Node002_2"
+    },
+    {
+      "text": "Uh, well, I better be going. Goodbye.",
+      "source": "Node012",
+      "target": "Node002_7"
+    },
+    {
+      "text": "Uh, well, I better be going. Goodbye.",
+      "source": "Node012",
+      "target": "Node002_6"
+    },
+    {
+      "text": "Uh, well, I better be going. Goodbye.",
+      "source": "Node012",
+      "target": "Node002_4"
+    },
+    {
+      "text": "You just better not be getting any funny ideas about my soft skin.",
+      "source": "Node012",
+      "target": "Node013"
+    },
+    {
+      "text": "Uh, well, I better be going. Goodbye.",
+      "source": "Node012",
+      "target": "Node002_5"
+    },
+    {
+      "text": "Uh, well, I better be going. Goodbye.",
+      "source": "Node012",
+      "target": "Node002_3"
+    },
+    {
+      "text": "Uh, well, I better be going. Goodbye.",
+      "source": "Node012",
+      "target": "Node002_1"
+    },
+    {
+      "text": "Thanks. Let me ask you something else.",
+      "source": "Node033",
+      "target": "Node002_6"
+    },
+    {
+      "text": "Thanks. Let me ask you something else.",
+      "source": "Node033",
+      "target": "Node002_4"
+    },
+    {
+      "text": "Thanks. Let me ask you something else.",
+      "source": "Node033",
+      "target": "Node002_5"
+    },
+    {
+      "text": "Thanks. Let me ask you something else.",
+      "source": "Node033",
+      "target": "Node002_3"
+    },
+    {
+      "text": "Thanks. Let me ask you something else.",
+      "source": "Node033",
+      "target": "Node002_1"
+    },
+    {
+      "text": "Thanks. Let me ask you something else.",
+      "source": "Node033",
+      "target": "Node002_2"
+    },
+    {
+      "text": "Thanks. Let me ask you something else.",
+      "source": "Node033",
+      "target": "Node002_7"
+    },
+    {
+      "text": "Thanks, that\u2019s all I need to know for now. Goodbye.",
+      "source": "Node033",
+      "target": "Node999"
+    },
+    {
+      "text": "Another smoothie? What do you mean?",
+      "source": "Node011_1",
+      "target": "Node037"
+    },
+    {
+      "text": "Got me there. I\u2019ll try to make my next question a little more worthwhile.",
+      "source": "Node011_1",
+      "target": "Node999"
+    },
+    {
+      "text": "",
+      "source": "Node997",
+      "target": "Node004_2"
+    },
+    {
+      "text": "",
+      "source": "Node997",
+      "target": "Node005"
+    },
+    {
+      "text": "",
+      "source": "Node997",
+      "target": "Node004_1"
+    },
+    {
+      "text": "We really look alike?",
+      "source": "Node039",
+      "target": "Node041"
+    },
+    {
+      "text": "I\u2019ve taken enough of your time already. I better be going. Goodbye.",
+      "source": "Node045",
+      "target": "Node999"
+    },
+    {
+      "text": "Know what?",
+      "source": "Node045",
+      "target": "Node046_1"
+    },
+    {
+      "text": "I don\u2019t know what else to say. I guess I just don\u2019t deal well with things that are new to me. I am sorry, though.",
+      "source": "Node019",
+      "target": "Node020_1"
+    },
+    {
+      "text": "Okay, how \u2018bout this? If I had jerky that looked half as bad as you do I\u2019d burn it just to keep from poisoning any scavengers that might happen upon it. Bye.",
+      "source": "Node019",
+      "target": "Node999"
+    },
+    {
+      "text": "I\u2019ve got a lot on my mind, all right? I need some more information.",
+      "source": "Node017",
+      "target": "Node002_5"
+    },
+    {
+      "text": "I\u2019ve got a lot on my mind, all right? I need some more information.",
+      "source": "Node017",
+      "target": "Node002_3"
+    },
+    {
+      "text": "I\u2019ve got a lot on my mind, all right? I need some more information.",
+      "source": "Node017",
+      "target": "Node002_1"
+    },
+    {
+      "text": "I\u2019ve got a lot on my mind, all right? I need some more information.",
+      "source": "Node017",
+      "target": "Node002_7"
+    },
+    {
+      "text": "I think I\u2019ll go look for it. Goodbye.",
+      "source": "Node017",
+      "target": "Node999"
+    },
+    {
+      "text": "I\u2019ve got a lot on my mind, all right? I need some more information.",
+      "source": "Node017",
+      "target": "Node002_2"
+    },
+    {
+      "text": "I\u2019ve got a lot on my mind, all right? I need some more information.",
+      "source": "Node017",
+      "target": "Node002_6"
+    },
+    {
+      "text": "I\u2019ve got a lot on my mind, all right? I need some more information.",
+      "source": "Node017",
+      "target": "Node002_4"
+    },
+    {
+      "text": "Got me there. I\u2019ll try to make my next question a little more worthwhile.",
+      "source": "Node014",
+      "target": "Node002_1"
+    },
+    {
+      "text": "Got me there. I\u2019ll try to make my next question a little more worthwhile.",
+      "source": "Node014",
+      "target": "Node002_2"
+    },
+    {
+      "text": "Uh, well, I better be going. Goodbye.",
+      "source": "Node014",
+      "target": "Node999"
+    },
+    {
+      "text": "Got me there. I\u2019ll try to make my next question a little more worthwhile.",
+      "source": "Node014",
+      "target": "Node002_7"
+    },
+    {
+      "text": "You just better not be getting any funny ideas about my soft skin.",
+      "source": "Node014",
+      "target": "Node015"
+    },
+    {
+      "text": "Got me there. I\u2019ll try to make my next question a little more worthwhile.",
+      "source": "Node014",
+      "target": "Node002_6"
+    },
+    {
+      "text": "Got me there. I\u2019ll try to make my next question a little more worthwhile.",
+      "source": "Node014",
+      "target": "Node002_4"
+    },
+    {
+      "text": "Got me there. I\u2019ll try to make my next question a little more worthwhile.",
+      "source": "Node014",
+      "target": "Node002_5"
+    },
+    {
+      "text": "Got me there. I\u2019ll try to make my next question a little more worthwhile.",
+      "source": "Node014",
+      "target": "Node002_3"
+    },
+    {
+      "text": "Hmm, you may be right. Still if someone could convince them that they should help you\u2026.",
+      "source": "Node053",
+      "target": "Node054"
+    },
+    {
+      "text": "Is there someplace I can barter or re-supply here?",
+      "source": "Node002_2",
+      "target": "Node033"
+    },
+    {
+      "text": "Is that a tree growing out of your head?",
+      "source": "Node002_2",
+      "target": "Node034"
+    },
+    {
+      "text": "Vault Dweller? I\u2019m not a Vault Dweller.",
+      "source": "Node002_2",
+      "target": "Node012"
+    },
+    {
+      "text": "You must know if there\u2019s something called a Garden of Eden Creation kit here.",
+      "source": "Node002_2",
+      "target": "Node035"
+    },
+    {
+      "text": "Hello, Harold. Just passing through. Goodbye.",
+      "source": "Node002_2",
+      "target": "Node999"
+    },
+    {
+      "text": "Smoothskin? Why did you call me that?",
+      "source": "Node002_2",
+      "target": "Node014"
+    },
+    {
+      "text": "Hello, Harold. What do you do here?",
+      "source": "Node002_2",
+      "target": "Node003"
+    },
+    {
+      "text": "I didn\u2019t realize that.",
+      "source": "Node042",
+      "target": "Node043"
+    },
+    {
+      "text": "I think I\u2019ve heard enough for now. Goodbye.",
+      "source": "Node042",
+      "target": "Node999"
+    },
+    {
+      "text": "Well, according to some economic data I got hold of Vault City is much better off if they help you to repair your power plant.",
+      "source": "Node026",
+      "target": "Node027"
+    },
+    {
+      "text": "I mean, it\u2019s always better to try to get along with others.",
+      "source": "Node026",
+      "target": "Node028"
+    },
+    {
+      "text": "Wow, it\u2019s much later than I thought it was. I better be going. Goodbye.",
+      "source": "Node026",
+      "target": "Node999"
+    },
+    {
+      "text": "Uh, nothing.",
+      "source": "Node026",
+      "target": "Node029"
+    },
+    {
+      "text": "Well, it\u2019s a good thing I didn\u2019t tell them anything like that then. Heh, heh. Hey, let me ask you something else.",
+      "source": "Node031",
+      "target": "Node002_7"
+    },
+    {
+      "text": "Well, shit happens. Sometimes it happens to you. Goodbye.",
+      "source": "Node031",
+      "target": "Node999"
+    },
+    {
+      "text": "Well, it\u2019s a good thing I didn\u2019t tell them anything like that then. Heh, heh. Hey, let me ask you something else.",
+      "source": "Node031",
+      "target": "Node002_2"
+    },
+    {
+      "text": "Well, it\u2019s a good thing I didn\u2019t tell them anything like that then. Heh, heh. Hey, let me ask you something else.",
+      "source": "Node031",
+      "target": "Node002_6"
+    },
+    {
+      "text": "Well, it\u2019s a good thing I didn\u2019t tell them anything like that then. Heh, heh. Hey, let me ask you something else.",
+      "source": "Node031",
+      "target": "Node002_4"
+    },
+    {
+      "text": "Well, it\u2019s a good thing I didn\u2019t tell them anything like that then. Heh, heh. Hey, let me ask you something else.",
+      "source": "Node031",
+      "target": "Node002_5"
+    },
+    {
+      "text": "Oh, I\u2019m sure they wouldn\u2019t do that. They seem pretty reasonable.",
+      "source": "Node031",
+      "target": "Node032"
+    },
+    {
+      "text": "Well, it\u2019s a good thing I didn\u2019t tell them anything like that then. Heh, heh. Hey, let me ask you something else.",
+      "source": "Node031",
+      "target": "Node002_3"
+    },
+    {
+      "text": "Well, it\u2019s a good thing I didn\u2019t tell them anything like that then. Heh, heh. Hey, let me ask you something else.",
+      "source": "Node031",
+      "target": "Node002_1"
+    },
+    {
+      "text": "Hey! You just keep the hell away from me. I\u2019m getting out of here while I still have my skin!",
+      "source": "Node013",
+      "target": "Node002_2"
+    },
+    {
+      "text": "Hey! You just keep the hell away from me. I\u2019m getting out of here while I still have my skin!",
+      "source": "Node013",
+      "target": "Node002_6"
+    },
+    {
+      "text": "Hey! You just keep the hell away from me. I\u2019m getting out of here while I still have my skin!",
+      "source": "Node013",
+      "target": "Node002_5"
+    },
+    {
+      "text": "Hey! You just keep the hell away from me. I\u2019m getting out of here while I still have my skin!",
+      "source": "Node013",
+      "target": "Node002_7"
+    },
+    {
+      "text": "Yeah, that\u2019s exactly what I meant. Good call.",
+      "source": "Node013",
+      "target": "Node999"
+    },
+    {
+      "text": "Hey! You just keep the hell away from me. I\u2019m getting out of here while I still have my skin!",
+      "source": "Node013",
+      "target": "Node002_4"
+    },
+    {
+      "text": "Hey! You just keep the hell away from me. I\u2019m getting out of here while I still have my skin!",
+      "source": "Node013",
+      "target": "Node002_3"
+    },
+    {
+      "text": "Hey! You just keep the hell away from me. I\u2019m getting out of here while I still have my skin!",
+      "source": "Node013",
+      "target": "Node002_1"
+    },
+    {
+      "text": "What happens if you don\u2019t get the part?",
+      "source": "Node048_1",
+      "target": "Node050"
+    },
+    {
+      "text": "I think I\u2019m going to have to leave you to your troubles for right now. Goodbye.",
+      "source": "Node048_1",
+      "target": "Node999"
+    },
+    {
+      "text": "Who do you buy your fuel from?",
+      "source": "Node048_1",
+      "target": "Node051"
+    },
+    {
+      "text": "Sounds bad. Where would you get a Hydro magnetosomething-or-other?",
+      "source": "Node048_1",
+      "target": "Node049"
+    },
+    {
+      "text": "The Vault Dweller saved all of the ghouls?",
+      "source": "Node041",
+      "target": "Node042"
+    },
+    {
+      "text": "Thanks. It\u2019s nice to know. Look, I have to run off for a bit. I\u2019ll see you later.",
+      "source": "Node041",
+      "target": "Node999"
+    },
+    {
+      "text": "Who was that?",
+      "source": "Node037",
+      "target": "Node038"
+    },
+    {
+      "text": "Hello, Harold. What do you do here?",
+      "source": "Node002_5",
+      "target": "Node003"
+    },
+    {
+      "text": "Is there someplace I can barter or re-supply here?",
+      "source": "Node002_5",
+      "target": "Node033"
+    },
+    {
+      "text": "Is that a tree growing out of your head?",
+      "source": "Node002_5",
+      "target": "Node034"
+    },
+    {
+      "text": "Vault Dweller? I\u2019m not a Vault Dweller.",
+      "source": "Node002_5",
+      "target": "Node012"
+    },
+    {
+      "text": "You must know if there\u2019s something called a Garden of Eden Creation kit here.",
+      "source": "Node002_5",
+      "target": "Node035"
+    },
+    {
+      "text": "Smoothskin? Why did you call me that?",
+      "source": "Node002_5",
+      "target": "Node014"
+    },
+    {
+      "text": "Hello, Harold. Just passing through. Goodbye.",
+      "source": "Node002_5",
+      "target": "Node999"
+    },
+    {
+      "text": "Thanks for everything. I better be going though. Goodbye.",
+      "source": "Node046_1",
+      "target": "Node999"
+    },
+    {
+      "text": "Hey! You just keep the hell away from me. I\u2019m getting out of here while I still have my skin!",
+      "source": "Node015",
+      "target": "Node017"
+    },
+    {
+      "text": "Yeah, that\u2019s exactly what I meant. Good call.",
+      "source": "Node015",
+      "target": "Node016"
+    },
+    {
+      "text": "Happy to help out, Harold. Let me ask you about something else, though.",
+      "source": "Node009",
+      "target": "Node002_3"
+    },
+    {
+      "text": "Happy to help out, Harold. Let me ask you about something else, though.",
+      "source": "Node009",
+      "target": "Node002_1"
+    },
+    {
+      "text": "I couldn\u2019t let Vault City kill all of you.",
+      "source": "Node009",
+      "target": "Node011_1"
+    },
+    {
+      "text": "Happy to help out, Harold. Let me ask you about something else, though.",
+      "source": "Node009",
+      "target": "Node002_7"
+    },
+    {
+      "text": "Happy to help out, Harold. Let me ask you about something else, though.",
+      "source": "Node009",
+      "target": "Node002_2"
+    },
+    {
+      "text": "Happy to help out, Harold. Let me ask you about something else, though.",
+      "source": "Node009",
+      "target": "Node002_6"
+    },
+    {
+      "text": "Happy to help out, Harold. Let me ask you about something else, though.",
+      "source": "Node009",
+      "target": "Node002_4"
+    },
+    {
+      "text": "Happy to help out, Harold. Let me ask you about something else, though.",
+      "source": "Node009",
+      "target": "Node002_5"
+    },
+    {
+      "text": "Uh, no, of course not.",
+      "source": "Node027",
+      "target": "Node999"
+    },
+    {
+      "text": "Uh, yes I did. Why?",
+      "source": "Node027",
+      "target": "Node030"
+    },
+    {
+      "text": "Right...Well, maybe you or Bob will know the answer to this.",
+      "source": "Node034",
+      "target": "Node002_3"
+    },
+    {
+      "text": "Right...Well, maybe you or Bob will know the answer to this.",
+      "source": "Node034",
+      "target": "Node002_1"
+    },
+    {
+      "text": "Right...Well, maybe you or Bob will know the answer to this.",
+      "source": "Node034",
+      "target": "Node002_2"
+    },
+    {
+      "text": "Right...Well, maybe you or Bob will know the answer to this.",
+      "source": "Node034",
+      "target": "Node002_5"
+    },
+    {
+      "text": "Right...Well, maybe you or Bob will know the answer to this.",
+      "source": "Node034",
+      "target": "Node002_7"
+    },
+    {
+      "text": "Thanks, that\u2019s way more than I need to know for now. Goodbye.",
+      "source": "Node034",
+      "target": "Node999"
+    },
+    {
+      "text": "Right...Well, maybe you or Bob will know the answer to this.",
+      "source": "Node034",
+      "target": "Node002_6"
+    },
+    {
+      "text": "Right...Well, maybe you or Bob will know the answer to this.",
+      "source": "Node034",
+      "target": "Node002_4"
+    },
+    {
+      "text": "How \u2018bout I change the subject with another question?",
+      "source": "Node016",
+      "target": "Node002_5"
+    },
+    {
+      "text": "Well, you just better keep your grubby mitts off my skin. Goodbye.",
+      "source": "Node016",
+      "target": "Node999"
+    },
+    {
+      "text": "How \u2018bout I change the subject with another question?",
+      "source": "Node016",
+      "target": "Node002_4"
+    },
+    {
+      "text": "How \u2018bout I change the subject with another question?",
+      "source": "Node016",
+      "target": "Node002_3"
+    },
+    {
+      "text": "How \u2018bout I change the subject with another question?",
+      "source": "Node016",
+      "target": "Node002_1"
+    },
+    {
+      "text": "How \u2018bout I change the subject with another question?",
+      "source": "Node016",
+      "target": "Node002_7"
+    },
+    {
+      "text": "How \u2018bout I change the subject with another question?",
+      "source": "Node016",
+      "target": "Node002_2"
+    },
+    {
+      "text": "How \u2018bout I change the subject with another question?",
+      "source": "Node016",
+      "target": "Node002_6"
+    },
+    {
+      "text": "Uh, sorry.",
+      "source": "Node029",
+      "target": "Node999"
+    },
+    {
+      "text": "Okay, what does it do?",
+      "source": "Node005",
+      "target": "Node048_1"
+    },
+    {
+      "text": "Okay, goodbye.",
+      "source": "Node020_1",
+      "target": "Node999"
+    },
+    {
+      "text": "What happens if you don\u2019t get that Hydro-part?",
+      "source": "Node051",
+      "target": "Node050"
+    },
+    {
+      "text": "Interesting. Where would you get one of those Hydro magnetosomething-or-others?",
+      "source": "Node051",
+      "target": "Node049"
+    },
+    {
+      "text": "Hmm, I think I should let you figure this out on your own. Goodbye.",
+      "source": "Node051",
+      "target": "Node999"
+    },
+    {
+      "text": "What will you do then?",
+      "source": "Node050",
+      "target": "Node052"
+    },
+    {
+      "text": "Thanks. Let me ask you something else.",
+      "source": "Node036",
+      "target": "Node002_1"
+    },
+    {
+      "text": "Thanks. Let me ask you something else.",
+      "source": "Node036",
+      "target": "Node002_2"
+    },
+    {
+      "text": "Thanks. Let me ask you something else.",
+      "source": "Node036",
+      "target": "Node002_6"
+    },
+    {
+      "text": "Thanks. Let me ask you something else.",
+      "source": "Node036",
+      "target": "Node002_5"
+    },
+    {
+      "text": "Thanks. Let me ask you something else.",
+      "source": "Node036",
+      "target": "Node002_7"
+    },
+    {
+      "text": "Thanks, that\u2019s all I need to know for now. Goodbye.",
+      "source": "Node036",
+      "target": "Node999"
+    },
+    {
+      "text": "Thanks. Let me ask you something else.",
+      "source": "Node036",
+      "target": "Node002_4"
+    },
+    {
+      "text": "Thanks. Let me ask you something else.",
+      "source": "Node036",
+      "target": "Node002_3"
+    },
+    {
+      "text": "Dead, you say? Well, in that case you\u2019re doing great. So good you can answer my next question.",
+      "source": "Node03a",
+      "target": "Node002_2"
+    },
+    {
+      "text": "Ahh, right....So you say the place is falling apart?",
+      "source": "Node03a",
+      "target": "Node004_1"
+    },
+    {
+      "text": "Dead, you say? Well, in that case you\u2019re doing great. So good you can answer my next question.",
+      "source": "Node03a",
+      "target": "Node002_7"
+    },
+    {
+      "text": "Dead, you say? Well, in that case you\u2019re doing great. So good you can answer my next question.",
+      "source": "Node03a",
+      "target": "Node002_6"
+    },
+    {
+      "text": "Dead, you say? Well, in that case you\u2019re doing great. So good you can answer my next question.",
+      "source": "Node03a",
+      "target": "Node002_4"
+    },
+    {
+      "text": "Dead, you say? Well, in that case you\u2019re doing great. So good you can answer my next question.",
+      "source": "Node03a",
+      "target": "Node002_5"
+    },
+    {
+      "text": "Ahh, right....So you say the place is falling apart?",
+      "source": "Node03a",
+      "target": "Node004_2"
+    },
+    {
+      "text": "Dead, you say? Well, in that case you\u2019re doing great. So good you can answer my next question.",
+      "source": "Node03a",
+      "target": "Node002_3"
+    },
+    {
+      "text": "Dead, you say? Well, in that case you\u2019re doing great. So good you can answer my next question.",
+      "source": "Node03a",
+      "target": "Node002_1"
+    },
+    {
+      "text": "You must know if there\u2019s something called a Garden of Eden Creation kit here.",
+      "source": "Node002_6",
+      "target": "Node035"
+    },
+    {
+      "text": "Smoothskin? Why did you call me that?",
+      "source": "Node002_6",
+      "target": "Node014"
+    },
+    {
+      "text": "Hello, Harold. What do you do here?",
+      "source": "Node002_6",
+      "target": "Node003"
+    },
+    {
+      "text": "Hello, Harold. Just passing through. Goodbye.",
+      "source": "Node002_6",
+      "target": "Node999"
+    },
+    {
+      "text": "Is there someplace I can barter or re-supply here?",
+      "source": "Node002_6",
+      "target": "Node033"
+    },
+    {
+      "text": "Is that a tree growing out of your head?",
+      "source": "Node002_6",
+      "target": "Node034"
+    },
+    {
+      "text": "Vault Dweller? I\u2019m not a Vault Dweller.",
+      "source": "Node002_6",
+      "target": "Node012"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node021_4"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node002_1"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node002_2"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node001"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node002_6"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node018"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node002_5"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node021_2"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node002_7"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node002_4"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node002_3"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node021_1"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node021_3"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node998"
+    },
+    {
+      "text": "You don\u2019t sound so good.",
+      "source": "Node003",
+      "target": "Node03a"
+    },
+    {
+      "text": "This place is coming apart?",
+      "source": "Node003",
+      "target": "Node004_2"
+    },
+    {
+      "text": "This place is coming apart?",
+      "source": "Node003",
+      "target": "Node004_1"
+    },
+    {
+      "text": "Maybe they have the right idea. Maybe it\u2019s time to put an end to freaks like you. Goodbye.",
+      "source": "Node032",
+      "target": "Node999"
+    },
+    {
+      "text": "",
+      "source": "Node910",
+      "target": "Node007"
+    },
+    {
+      "text": "",
+      "source": "Node910",
+      "target": "Node008"
+    },
+    {
+      "text": "I\u2019m wearing the Vault Suit that my ancestor wore. It\u2019s a totem of my holy quest.",
+      "source": "Node38b",
+      "target": "Node039"
+    },
+    {
+      "text": "I didn\u2019t know that was what they\u2019d use the information for. I\u2019m sorry. Goodbye.",
+      "source": "Node030",
+      "target": "Node999"
+    },
+    {
+      "text": "Oh, it can\u2019t be as bad as all that. They seemed like reasonable people to me.",
+      "source": "Node030",
+      "target": "Node032"
+    },
+    {
+      "text": "Is that a tree growing out of your head?",
+      "source": "Node002_3",
+      "target": "Node034"
+    },
+    {
+      "text": "Vault Dweller? I\u2019m not a Vault Dweller.",
+      "source": "Node002_3",
+      "target": "Node012"
+    },
+    {
+      "text": "You must know if there\u2019s something called a Garden of Eden Creation kit here.",
+      "source": "Node002_3",
+      "target": "Node035"
+    },
+    {
+      "text": "Hello, Harold. Just passing through. Goodbye.",
+      "source": "Node002_3",
+      "target": "Node999"
+    },
+    {
+      "text": "Smoothskin? Why did you call me that?",
+      "source": "Node002_3",
+      "target": "Node014"
+    },
+    {
+      "text": "Hello, Harold. What do you do here?",
+      "source": "Node002_3",
+      "target": "Node003"
+    },
+    {
+      "text": "Is there someplace I can barter or re-supply here?",
+      "source": "Node002_3",
+      "target": "Node033"
+    },
+    {
+      "text": "Hello, Harold. Just passing through. Goodbye.",
+      "source": "Node002_7",
+      "target": "Node999"
+    },
+    {
+      "text": "Smoothskin? Why did you call me that?",
+      "source": "Node002_7",
+      "target": "Node014"
+    },
+    {
+      "text": "Hello, Harold. What do you do here?",
+      "source": "Node002_7",
+      "target": "Node003"
+    },
+    {
+      "text": "Is there someplace I can barter or re-supply here?",
+      "source": "Node002_7",
+      "target": "Node033"
+    },
+    {
+      "text": "Is that a tree growing out of your head?",
+      "source": "Node002_7",
+      "target": "Node034"
+    },
+    {
+      "text": "Vault Dweller? I\u2019m not a Vault Dweller.",
+      "source": "Node002_7",
+      "target": "Node012"
+    },
+    {
+      "text": "You must know if there\u2019s something called a Garden of Eden Creation kit here.",
+      "source": "Node002_7",
+      "target": "Node035"
+    },
+    {
+      "text": "Sounds like you need that Hydro-thingy pretty badly. Let me ask you something else right now, though.",
+      "source": "Node052",
+      "target": "Node002_4"
+    },
+    {
+      "text": "Sounds like you need that Hydro-thingy pretty badly. Let me ask you something else right now, though.",
+      "source": "Node052",
+      "target": "Node002_3"
+    },
+    {
+      "text": "Sounds like you need that Hydro-thingy pretty badly. Let me ask you something else right now, though.",
+      "source": "Node052",
+      "target": "Node002_1"
+    },
+    {
+      "text": "Sounds like you need that Hydro-thingy pretty badly. Let me ask you something else right now, though.",
+      "source": "Node052",
+      "target": "Node002_2"
+    },
+    {
+      "text": "Sounds like you need that Hydro-thingy pretty badly. Let me ask you something else right now, though.",
+      "source": "Node052",
+      "target": "Node002_6"
+    },
+    {
+      "text": "What was the name of that part again?",
+      "source": "Node052",
+      "target": "Node048_1"
+    },
+    {
+      "text": "Sounds like you need that Hydro-thingy pretty badly. Let me ask you something else right now, though.",
+      "source": "Node052",
+      "target": "Node002_5"
+    },
+    {
+      "text": "Sounds like you need that Hydro-thingy pretty badly. Let me ask you something else right now, though.",
+      "source": "Node052",
+      "target": "Node002_7"
+    },
+    {
+      "text": "Sounds like trouble. I need to run off and see what I can do. Bye.",
+      "source": "Node052",
+      "target": "Node999"
+    },
+    {
+      "text": "Put a sock in it ya smelly old ghoul. Goodbye.",
+      "source": "Node018",
+      "target": "Node999"
+    },
+    {
+      "text": "Okay, but first I wanted to apologize for the way I acted earlier.",
+      "source": "Node018",
+      "target": "Node019"
+    },
+    {
+      "text": "I\u2019m wearing the Vault Suit that my ancestor wore. It\u2019s a totem of my holy quest.",
+      "source": "Node38a",
+      "target": "Node039"
+    },
+    {
+      "text": "Oh, this old thing?",
+      "source": "Node38a",
+      "target": "Node040"
+    },
+    {
+      "text": "I can tell you what happened.",
+      "source": "Node043",
+      "target": "Node044"
+    },
+    {
+      "text": "Enough reminiscing let me ask you something else.",
+      "source": "Node043",
+      "target": "Node002_1"
+    },
+    {
+      "text": "Enough reminiscing let me ask you something else.",
+      "source": "Node043",
+      "target": "Node002_2"
+    },
+    {
+      "text": "Enough reminiscing let me ask you something else.",
+      "source": "Node043",
+      "target": "Node002_6"
+    },
+    {
+      "text": "Enough reminiscing let me ask you something else.",
+      "source": "Node043",
+      "target": "Node002_5"
+    },
+    {
+      "text": "Enough reminiscing let me ask you something else.",
+      "source": "Node043",
+      "target": "Node002_7"
+    },
+    {
+      "text": "Enough reminiscing let me ask you something else.",
+      "source": "Node043",
+      "target": "Node002_4"
+    },
+    {
+      "text": "Enough reminiscing let me ask you something else.",
+      "source": "Node043",
+      "target": "Node002_3"
+    }
+  ]
+}

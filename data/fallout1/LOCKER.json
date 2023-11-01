@@ -1,0 +1,79 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "",
+      "node_id": "node4",
+      "id": "pickup_p_proc"
+    },
+    {
+      "text": "The locker is locked.",
+      "node_id": "node2",
+      "id": "look_at_p_proc"
+    },
+    {
+      "text": "",
+      "node_id": "node1",
+      "id": "start"
+    },
+    {
+      "text": "The locker is locked.",
+      "node_id": "node3",
+      "id": "use_p_proc"
+    },
+    {
+      "text": "You fail to unlock the locker.",
+      "node_id": "node5_2",
+      "id": "use_obj_on_p_proc_2"
+    },
+    {
+      "text": "You broke your lockpicks.",
+      "node_id": "node5_1",
+      "id": "use_obj_on_p_proc_1"
+    },
+    {
+      "text": "You fail to unlock the locker.",
+      "node_id": "node6_1",
+      "id": "use_skill_on_p_proc_1"
+    }
+  ],
+  "links": [
+    {
+      "text": "",
+      "source": "pickup_p_proc",
+      "target": "use_p_proc"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "use_obj_on_p_proc_1"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "pickup_p_proc"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "use_obj_on_p_proc_2"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "look_at_p_proc"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "use_skill_on_p_proc_1"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "use_p_proc"
+    }
+  ]
+}

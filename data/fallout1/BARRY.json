@@ -1,0 +1,64 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "I'm gonna get you for waking me up!",
+      "node_id": "node5",
+      "id": "mutant02"
+    },
+    {
+      "text": "You see Barry.",
+      "node_id": "node1_1",
+      "id": "start_1"
+    },
+    {
+      "text": "",
+      "node_id": "node6",
+      "id": "combat"
+    },
+    {
+      "text": "",
+      "node_id": "node2",
+      "id": "do_dialogue"
+    },
+    {
+      "text": "",
+      "node_id": "node3",
+      "id": "Critter_Action"
+    },
+    {
+      "text": "Hey! Only ghouls get a water ration.",
+      "node_id": "node4",
+      "id": "mutant01"
+    }
+  ],
+  "links": [
+    {
+      "text": "",
+      "source": "start_1",
+      "target": "do_dialogue"
+    },
+    {
+      "text": "",
+      "source": "start_1",
+      "target": "Critter_Action"
+    },
+    {
+      "text": "",
+      "source": "do_dialogue",
+      "target": "mutant01"
+    },
+    {
+      "text": "",
+      "source": "do_dialogue",
+      "target": "mutant02"
+    },
+    {
+      "text": "",
+      "source": "mutant01",
+      "target": "combat"
+    }
+  ]
+}

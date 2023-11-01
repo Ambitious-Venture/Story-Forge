@@ -1,0 +1,99 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "I don't hear nothing, I don't see nothing, and I especially don't say nothing. Now, stop bothering me about that.",
+      "node_id": "node16_1",
+      "id": "Node004_1"
+    },
+    {
+      "text": "",
+      "node_id": "node14",
+      "id": "Node999"
+    },
+    {
+      "text": "What can I get you?",
+      "node_id": "node6_1",
+      "id": "Node001_1"
+    },
+    {
+      "text": "",
+      "node_id": "node5",
+      "id": "talk_p_proc"
+    },
+    {
+      "text": "A GECK? Well, that's old history, so what the hell. You mean the old Garden of Eden Kit. We had one - I mean our grandparents had one. Used it when they came out of Vault 15. Got this place started, they say. It's all used up now.",
+      "node_id": "node19",
+      "id": "Node005"
+    },
+    {
+      "text": "Next!",
+      "node_id": "node18",
+      "id": "Node003"
+    },
+    {
+      "text": "There's mustard and onions over there.",
+      "node_id": "node17_1",
+      "id": "Node002_1"
+    },
+    {
+      "text": "",
+      "node_id": "node15",
+      "id": "Node0203a"
+    }
+  ],
+  "links": [
+    {
+      "text": "Do you have a GECK?",
+      "source": "Node004_1",
+      "target": "Node005"
+    },
+    {
+      "text": "Sorry for troubling, Christ!",
+      "source": "Node004_1",
+      "target": "Node999"
+    },
+    {
+      "text": "Goodbye.",
+      "source": "Node001_1",
+      "target": "Node999"
+    },
+    {
+      "text": "Gimme meat.",
+      "source": "Node001_1",
+      "target": "Node0203a"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node001_1"
+    },
+    {
+      "text": "Well, thanks for not much.",
+      "source": "Node005",
+      "target": "Node999"
+    },
+    {
+      "text": "I'm still hungry.",
+      "source": "Node005",
+      "target": "Node001_1"
+    },
+    {
+      "text": "Yeah, bye.",
+      "source": "Node002_1",
+      "target": "Node999"
+    },
+    {
+      "text": "",
+      "source": "Node0203a",
+      "target": "Node002_1"
+    },
+    {
+      "text": "",
+      "source": "Node0203a",
+      "target": "Node003"
+    }
+  ]
+}

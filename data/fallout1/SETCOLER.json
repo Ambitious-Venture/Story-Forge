@@ -1,0 +1,164 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "That skill won't help here.",
+      "node_id": "node3",
+      "id": "trap_stuff"
+    },
+    {
+      "text": "You accidentally set off the explosive, because you were smart enough to find it, but not smart enough to leave it alone.",
+      "node_id": "node11",
+      "id": "failure"
+    },
+    {
+      "text": "",
+      "node_id": "node5",
+      "id": "close_cooler"
+    },
+    {
+      "text": "",
+      "node_id": "node10",
+      "id": "explode"
+    },
+    {
+      "text": "You set off an explosive trap!",
+      "node_id": "node9_1",
+      "id": "find_trap_1"
+    },
+    {
+      "text": "",
+      "node_id": "node6",
+      "id": "open_cooler"
+    },
+    {
+      "text": "You did not disarm the trap.",
+      "node_id": "node7_2",
+      "id": "disarm_trap_2"
+    },
+    {
+      "text": "",
+      "node_id": "node1",
+      "id": "start"
+    },
+    {
+      "text": "You accidentally set off the explosive!",
+      "node_id": "node7_1",
+      "id": "disarm_trap_1"
+    },
+    {
+      "text": "You see Set's lockbox.",
+      "node_id": "node2",
+      "id": "see_stuff"
+    },
+    {
+      "text": "You accidentally set off the explosive!",
+      "node_id": "node8_1",
+      "id": "disarm_mech_1"
+    },
+    {
+      "text": "You set off an explosive trap!",
+      "node_id": "node4_1",
+      "id": "find_iq_1"
+    },
+    {
+      "text": "You did not disarm the trap.",
+      "node_id": "node8_2",
+      "id": "disarm_mech_2"
+    }
+  ],
+  "links": [
+    {
+      "text": "",
+      "source": "trap_stuff",
+      "target": "find_trap_1"
+    },
+    {
+      "text": "",
+      "source": "trap_stuff",
+      "target": "disarm_trap_2"
+    },
+    {
+      "text": "",
+      "source": "trap_stuff",
+      "target": "disarm_mech_2"
+    },
+    {
+      "text": "",
+      "source": "trap_stuff",
+      "target": "disarm_mech_1"
+    },
+    {
+      "text": "",
+      "source": "trap_stuff",
+      "target": "disarm_trap_1"
+    },
+    {
+      "text": "",
+      "source": "failure",
+      "target": "explode"
+    },
+    {
+      "text": "",
+      "source": "find_trap_1",
+      "target": "explode"
+    },
+    {
+      "text": "",
+      "source": "disarm_trap_2",
+      "target": "explode"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "trap_stuff"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "close_cooler"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "see_stuff"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "find_iq_1"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "open_cooler"
+    },
+    {
+      "text": "",
+      "source": "disarm_trap_1",
+      "target": "explode"
+    },
+    {
+      "text": "",
+      "source": "disarm_mech_1",
+      "target": "explode"
+    },
+    {
+      "text": "",
+      "source": "find_iq_1",
+      "target": "explode"
+    },
+    {
+      "text": "",
+      "source": "find_iq_1",
+      "target": "failure"
+    },
+    {
+      "text": "",
+      "source": "disarm_mech_2",
+      "target": "explode"
+    }
+  ]
+}

@@ -1,0 +1,594 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "",
+      "node_id": "node26",
+      "id": "Node913"
+    },
+    {
+      "text": "I know my boys have taken up with some poor sorts, but you\u2019re the worst yet. I just can\u2019t believe that you let them down. I won\u2019t have you in my place. Now, get out.",
+      "node_id": "node8",
+      "id": "Node004"
+    },
+    {
+      "text": "We don't want your kind around here.",
+      "node_id": "node5_1",
+      "id": "talk_p_proc_1"
+    },
+    {
+      "text": "",
+      "node_id": "node42",
+      "id": "Node997"
+    },
+    {
+      "text": "The special baths that we have available vary in cost by the amount of time that the gal spends with you, and any special services that you take advantage of.",
+      "node_id": "node46",
+      "id": "Node009"
+    },
+    {
+      "text": "You could use a bit of real scrubbing; don\u2019t you tribals know about soap? Oh well, that\u2019ll cost you $70 for the Brief Full Body Wash...but I\u2019m sure that you\u2019ll be happy with the results.",
+      "node_id": "node25",
+      "id": "Node015"
+    },
+    {
+      "text": "Before we go any further, you\u2019ve gotta know that the baths are for individuals, not groups. You can make your own arrangements, and then your friends can do as they please on their own.",
+      "node_id": "node9",
+      "id": "Node027"
+    },
+    {
+      "text": "My name\u2019s \u2018Big Nose\u2019 Sally Dunton and I\u2019m the owner of this here bathhouse. I\u2019m afraid that we just have girl bath attendants here. That alright with you?",
+      "node_id": "node11",
+      "id": "Node006"
+    },
+    {
+      "text": "",
+      "node_id": "node6",
+      "id": "Node998"
+    },
+    {
+      "text": "",
+      "node_id": "node32",
+      "id": "Node915"
+    },
+    {
+      "text": "",
+      "node_id": "node33",
+      "id": "Node916"
+    },
+    {
+      "text": "I\u2019m certain that one of my sons would be happy to help you out. But you might want to come back here afterwards; most gals that spend any time with my boys get a hankerin\u2019 to bathe themselves real  good.",
+      "node_id": "node49",
+      "id": "Node024"
+    },
+    {
+      "text": "I think you\u2019ll really enjoy this.",
+      "node_id": "node34",
+      "id": "Node019"
+    },
+    {
+      "text": "Hmm, I don\u2019t know if Jenny will even take you in the condition that you\u2019re in. You\u2019re going to need a thorough, no-nonsense, scrubbing first. (To herself: I wonder if Gerda is free for that?) With the cost of the pre-scrubbing, the Round-the-World Full Squeaky Clean Servicing is yours for only $185.",
+      "node_id": "node28",
+      "id": "Node017"
+    },
+    {
+      "text": "I think any of our girls would be happy to give you a full body wash; I just better watch the time to make sure it\u2019s a brief one (chuckle). The Brief Full Body Wash will cost you $55.",
+      "node_id": "node24",
+      "id": "Node014"
+    },
+    {
+      "text": "Well I\u2019m sure that your Round-the\u2013World trip Servicing with beautiful Jenny will be an experience that you\u2019ll savor for quite a while. A real bargain at only $125.",
+      "node_id": "node27",
+      "id": "Node016"
+    },
+    {
+      "text": "If you just want an unattended bath, you might try the Golden Gecko or the Buckner House. But I doubt that you\u2019ll find that as enjoyable.",
+      "node_id": "node47",
+      "id": "Node008"
+    },
+    {
+      "text": "My name\u2019s Sally Dunton, but mostly they call me Big Nose Sally. I\u2019m the owner of this here bathhouse. We have a whole hassleful of special, attended baths for you to pick from.",
+      "node_id": "node10",
+      "id": "Node005"
+    },
+    {
+      "text": "I know you\u2019re a tribal and all, but this is a bathhouse, not an outhouse. Git out afore I have  you thrown out!",
+      "node_id": "node45",
+      "id": "Node003"
+    },
+    {
+      "text": "We don\u2019t handle that sort of thing here. Try talking to my sons, Chuck and Buck Dunton. I understand that their brahmin are pretty darn popular with a certain set.",
+      "node_id": "node53",
+      "id": "Node021"
+    },
+    {
+      "text": "",
+      "node_id": "node39",
+      "id": "Node919"
+    },
+    {
+      "text": "",
+      "node_id": "node23",
+      "id": "Node912"
+    },
+    {
+      "text": "",
+      "node_id": "node19",
+      "id": "Node910"
+    },
+    {
+      "text": "",
+      "node_id": "node43",
+      "id": "Node999"
+    },
+    {
+      "text": "It seems as though your eyes are bigger than your budget. Perhaps you\u2019d like to try a cheaper  washing.",
+      "node_id": "node35",
+      "id": "Node023"
+    },
+    {
+      "text": "",
+      "node_id": "node29",
+      "id": "Node914"
+    },
+    {
+      "text": "Hello there, my name\u2019s Sally Dunton. Hmm, did you catch that?",
+      "node_id": "node7",
+      "id": "Node001"
+    },
+    {
+      "text": "",
+      "node_id": "node36",
+      "id": "Node917"
+    },
+    {
+      "text": "I think that you\u2019ll enjoy Jenny bathing you more than any bath you\u2019ve ever had.",
+      "node_id": "node38",
+      "id": "Node020"
+    },
+    {
+      "text": "I\u2019m sorry that we couldn\u2019t help you out. Come on back later, though.",
+      "node_id": "node48",
+      "id": "Node007"
+    },
+    {
+      "text": "Well now, it wouldn\u2019t be fair to discount any of our services. My gals are well worth what they  charge.",
+      "node_id": "node52",
+      "id": "Node026"
+    },
+    {
+      "text": "The baths that we have available are: a Wash Cloth Hand Wipe, a brief Full Body Wash, and, lastly, the Round-the-World Full Squeaky Clean Servicing, offered by the beautiful and talented Jenny, recently trained at the finest house in the Den.",
+      "node_id": "node50",
+      "id": "Node010"
+    },
+    {
+      "text": "No, you have to choose one at a time, but you can always come back for more -- usually  after a brief rest.",
+      "node_id": "node51",
+      "id": "Node011"
+    },
+    {
+      "text": "Well, that\u2019s a right nice try for an idjit. But I ain\u2019t having none of your kind in here. Now,  git out. Shoo, shoo.",
+      "node_id": "node44",
+      "id": "Node002"
+    },
+    {
+      "text": "That\u2019s a great choice, if you don\u2019t have a lot of time or money.",
+      "node_id": "node30",
+      "id": "Node018"
+    },
+    {
+      "text": "Well, for an attractive individual like yourself that would only cost $25.",
+      "node_id": "node21",
+      "id": "Node012"
+    },
+    {
+      "text": "Hmm, you look as though you need a real bath first; that\u2019ll make the price $35.",
+      "node_id": "node22",
+      "id": "Node013"
+    },
+    {
+      "text": "",
+      "node_id": "node20",
+      "id": "Node911"
+    },
+    {
+      "text": "You don\u2019t have enough money. Come back when you\u2019re able to pay.",
+      "node_id": "node31",
+      "id": "Node022"
+    },
+    {
+      "text": "Back again, huh? A lot of folks just can\u2019t seem to get clean enough.",
+      "node_id": "node12",
+      "id": "Node025"
+    },
+    {
+      "text": "",
+      "node_id": "node37",
+      "id": "Node918"
+    }
+  ],
+  "links": [
+    {
+      "text": "",
+      "source": "Node913",
+      "target": "Node017"
+    },
+    {
+      "text": "",
+      "source": "Node913",
+      "target": "Node016"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc_1",
+      "target": "Node004"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc_1",
+      "target": "Node005"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc_1",
+      "target": "Node006"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc_1",
+      "target": "Node001"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc_1",
+      "target": "Node027"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc_1",
+      "target": "Node998"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc_1",
+      "target": "Node025"
+    },
+    {
+      "text": "",
+      "source": "Node997",
+      "target": "Node004"
+    },
+    {
+      "text": "",
+      "source": "Node997",
+      "target": "Node005"
+    },
+    {
+      "text": "You mean I get to be with a real-live girl? Sign me up!",
+      "source": "Node009",
+      "target": "Node010"
+    },
+    {
+      "text": "I don\u2019t think I\u2019m ready for this; I better go.",
+      "source": "Node009",
+      "target": "Node007"
+    },
+    {
+      "text": "I don\u2019t think that I want to pay for a bath after all.",
+      "source": "Node015",
+      "target": "Node007"
+    },
+    {
+      "text": "Wow, $70! That seems like a lot. But I bet it\u2019s worth it. I\u2019ll try it.",
+      "source": "Node015",
+      "target": "Node917"
+    },
+    {
+      "text": "What were the other bathing options?",
+      "source": "Node015",
+      "target": "Node010"
+    },
+    {
+      "text": "Ok.",
+      "source": "Node027",
+      "target": "Node910"
+    },
+    {
+      "text": "I don\u2019t think this is what I was looking for.",
+      "source": "Node006",
+      "target": "Node007"
+    },
+    {
+      "text": "I\u2019m just here for a bath.",
+      "source": "Node006",
+      "target": "Node008"
+    },
+    {
+      "text": "Gee, I was really looking for a male attendant.",
+      "source": "Node006",
+      "target": "Node024"
+    },
+    {
+      "text": "Women suit me just fine.",
+      "source": "Node006",
+      "target": "Node009"
+    },
+    {
+      "text": "",
+      "source": "Node915",
+      "target": "Node022"
+    },
+    {
+      "text": "",
+      "source": "Node915",
+      "target": "Node018"
+    },
+    {
+      "text": "",
+      "source": "Node916",
+      "target": "Node019"
+    },
+    {
+      "text": "",
+      "source": "Node916",
+      "target": "Node023"
+    },
+    {
+      "text": "Is Gerda that larger, mustachioed woman? I better hear the other choices again.",
+      "source": "Node017",
+      "target": "Node010"
+    },
+    {
+      "text": "I get both Gerda and Jenny? What a bargain! Here\u2019s my $185.",
+      "source": "Node017",
+      "target": "Node919"
+    },
+    {
+      "text": "I don\u2019t think that I can afford this right now. I think I\u2019m going to leave.",
+      "source": "Node017",
+      "target": "Node007"
+    },
+    {
+      "text": "Hmm, what are the other choices again?",
+      "source": "Node014",
+      "target": "Node010"
+    },
+    {
+      "text": "That sounds like fun. Here\u2019s my $55.",
+      "source": "Node014",
+      "target": "Node916"
+    },
+    {
+      "text": "Thanks, but I think that I\u2019ll save my money for now.",
+      "source": "Node014",
+      "target": "Node007"
+    },
+    {
+      "text": "I don\u2019t think that I\u2019ll ever need $125 worth of cleaning. I\u2019m going to leave before I get  myself into trouble.",
+      "source": "Node016",
+      "target": "Node007"
+    },
+    {
+      "text": "I can\u2019t wait to enjoy Jenny\u2019s special talents. Here\u2019s my $125.",
+      "source": "Node016",
+      "target": "Node918"
+    },
+    {
+      "text": "Maybe I should hear about the other bath choices again.",
+      "source": "Node016",
+      "target": "Node010"
+    },
+    {
+      "text": "I was just kidding; I\u2019d like a special bath.",
+      "source": "Node008",
+      "target": "Node009"
+    },
+    {
+      "text": "Thanks, Miss Big Nose. I\u2019ll try that instead. Good-bye.",
+      "source": "Node008",
+      "target": "Node999"
+    },
+    {
+      "text": "I think I\u2019ve changed my mind; I may try back later.",
+      "source": "Node005",
+      "target": "Node007"
+    },
+    {
+      "text": "What kind of special, attended baths do you have here?",
+      "source": "Node005",
+      "target": "Node009"
+    },
+    {
+      "text": "Gee, Miss Sally, I just wanted a regular bath. You don\u2019t have a bubble bath, do you?",
+      "source": "Node005",
+      "target": "Node008"
+    },
+    {
+      "text": "",
+      "source": "Node919",
+      "target": "Node023"
+    },
+    {
+      "text": "",
+      "source": "Node919",
+      "target": "Node020"
+    },
+    {
+      "text": "",
+      "source": "Node912",
+      "target": "Node014"
+    },
+    {
+      "text": "",
+      "source": "Node912",
+      "target": "Node015"
+    },
+    {
+      "text": "",
+      "source": "Node910",
+      "target": "Node025"
+    },
+    {
+      "text": "",
+      "source": "Node910",
+      "target": "Node006"
+    },
+    {
+      "text": "",
+      "source": "Node910",
+      "target": "Node005"
+    },
+    {
+      "text": "",
+      "source": "Node914",
+      "target": "Node022"
+    },
+    {
+      "text": "",
+      "source": "Node914",
+      "target": "Node018"
+    },
+    {
+      "text": "Ally Onion? Gurk?",
+      "source": "Node001",
+      "target": "Node002"
+    },
+    {
+      "text": "I gotta pee-ee",
+      "source": "Node001",
+      "target": "Node003"
+    },
+    {
+      "text": "",
+      "source": "Node917",
+      "target": "Node019"
+    },
+    {
+      "text": "",
+      "source": "Node917",
+      "target": "Node023"
+    },
+    {
+      "text": "I guess that\u2019s fair enough. Tell me what baths you have available.",
+      "source": "Node026",
+      "target": "Node010"
+    },
+    {
+      "text": "Well, if I can\u2019t get a discount, I\u2019m leaving.",
+      "source": "Node026",
+      "target": "Node007"
+    },
+    {
+      "text": "What about getting a discount on those baths?",
+      "source": "Node010",
+      "target": "Node026"
+    },
+    {
+      "text": "I like the idea of a Full Body Wash; what\u2019s that going to cost?",
+      "source": "Node010",
+      "target": "Node912"
+    },
+    {
+      "text": "I think I can get by with the Hand Wipe; how much is that?",
+      "source": "Node010",
+      "target": "Node911"
+    },
+    {
+      "text": "Can I mix and match the different types of baths?",
+      "source": "Node010",
+      "target": "Node011"
+    },
+    {
+      "text": "Beautiful and talented? I\u2019ve got to hear more about the Round-the-World Full Squeaky Clean Wash.",
+      "source": "Node010",
+      "target": "Node913"
+    },
+    {
+      "text": "I don\u2019t think I\u2019m ready to take a bath with someone else watching; I\u2019m going to leave.",
+      "source": "Node010",
+      "target": "Node007"
+    },
+    {
+      "text": "Tell me the different types of bath again.",
+      "source": "Node011",
+      "target": "Node010"
+    },
+    {
+      "text": "If I can\u2019t make my own combinations, I don\u2019t even want a bath; I\u2019m outta here.",
+      "source": "Node011",
+      "target": "Node007"
+    },
+    {
+      "text": "Maybe I don\u2019t need this right now. I\u2019m leaving.",
+      "source": "Node012",
+      "target": "Node007"
+    },
+    {
+      "text": "$25? That\u2019s a bargain; I\u2019ll take it.",
+      "source": "Node012",
+      "target": "Node914"
+    },
+    {
+      "text": "Hmm, tell me about the other types of baths again.",
+      "source": "Node012",
+      "target": "Node010"
+    },
+    {
+      "text": "What are the other choices again?",
+      "source": "Node013",
+      "target": "Node010"
+    },
+    {
+      "text": "$35? That seems kind of steep -- but I guess I am a bit scruffy. I\u2019ll take it.",
+      "source": "Node013",
+      "target": "Node915"
+    },
+    {
+      "text": "$35 seems kind of expensive; got any cute brahmin, instead?",
+      "source": "Node013",
+      "target": "Node021"
+    },
+    {
+      "text": "Thanks, but I think I\u2019ll look elsewhere.",
+      "source": "Node013",
+      "target": "Node007"
+    },
+    {
+      "text": "",
+      "source": "Node911",
+      "target": "Node012"
+    },
+    {
+      "text": "",
+      "source": "Node911",
+      "target": "Node013"
+    },
+    {
+      "text": "I\u2019m just looking around this time; I don\u2019t need a bath.",
+      "source": "Node025",
+      "target": "Node007"
+    },
+    {
+      "text": "Do I get a return customer discount?",
+      "source": "Node025",
+      "target": "Node026"
+    },
+    {
+      "text": "Tell me the types of bath that you have again.",
+      "source": "Node025",
+      "target": "Node010"
+    },
+    {
+      "text": "",
+      "source": "Node918",
+      "target": "Node023"
+    },
+    {
+      "text": "",
+      "source": "Node918",
+      "target": "Node020"
+    }
+  ]
+}

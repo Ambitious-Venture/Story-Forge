@@ -1,0 +1,129 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "It's a little blunt, but it does get the point across.",
+      "node_id": "node17_1",
+      "id": "Node006_1"
+    },
+    {
+      "text": "Looks like they're trying to create a respectable, decent community for people to live in.",
+      "node_id": "node15_1",
+      "id": "Node004_1"
+    },
+    {
+      "text": "Good, there won't be any drunks or junkies pestering you for fix money.",
+      "node_id": "node14_1",
+      "id": "Node003_1"
+    },
+    {
+      "text": "",
+      "node_id": "node18",
+      "id": "Node999"
+    },
+    {
+      "text": "",
+      "node_id": "node11",
+      "id": "talk_p_proc"
+    },
+    {
+      "text": "Welcome to the New California Republic! Before entering our fair city please take a moment to familiarize yourself with the following rules and regulations.",
+      "node_id": "node12",
+      "id": "Node001"
+    },
+    {
+      "text": "Equality before the law is a good thing.",
+      "node_id": "node16_1",
+      "id": "Node005_1"
+    },
+    {
+      "text": "Obeying the law is good citizenship.",
+      "node_id": "node13_1",
+      "id": "Node002_1"
+    }
+  ],
+  "links": [
+    {
+      "text": "Back",
+      "source": "Node006_1",
+      "target": "Node001"
+    },
+    {
+      "text": "I've read enough of this.",
+      "source": "Node006_1",
+      "target": "Node999"
+    },
+    {
+      "text": "Back",
+      "source": "Node004_1",
+      "target": "Node001"
+    },
+    {
+      "text": "I've read enough of this.",
+      "source": "Node004_1",
+      "target": "Node999"
+    },
+    {
+      "text": "Back",
+      "source": "Node003_1",
+      "target": "Node001"
+    },
+    {
+      "text": "I've read enough of this.",
+      "source": "Node003_1",
+      "target": "Node999"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node001"
+    },
+    {
+      "text": "If you can't live by these laws - then get the hell out!",
+      "source": "Node001",
+      "target": "Node006_1"
+    },
+    {
+      "text": "Persons found under the influence of alcohol or chems will be arrested.",
+      "source": "Node001",
+      "target": "Node003_1"
+    },
+    {
+      "text": "Slavery, gambling, and prostitution are not permitted within city limits.",
+      "source": "Node001",
+      "target": "Node004_1"
+    },
+    {
+      "text": "Ignorance of the law is no excuse. A dumbass will get his butt kicked just as fast as a smartass.",
+      "source": "Node001",
+      "target": "Node005_1"
+    },
+    {
+      "text": "No weapons may be openly carried inside the city limits.",
+      "source": "Node001",
+      "target": "Node002_1"
+    },
+    {
+      "text": "Back",
+      "source": "Node005_1",
+      "target": "Node001"
+    },
+    {
+      "text": "I've read enough of this.",
+      "source": "Node005_1",
+      "target": "Node999"
+    },
+    {
+      "text": "Back",
+      "source": "Node002_1",
+      "target": "Node001"
+    },
+    {
+      "text": "I've read enough of this.",
+      "source": "Node002_1",
+      "target": "Node999"
+    }
+  ]
+}

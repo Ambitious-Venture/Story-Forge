@@ -1,0 +1,124 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "Death! Death! Death!",
+      "node_id": "node4_3",
+      "id": "generic01_3"
+    },
+    {
+      "text": "Hi.",
+      "node_id": "node5_4",
+      "id": "generic00_4"
+    },
+    {
+      "text": "",
+      "node_id": "node1",
+      "id": "start"
+    },
+    {
+      "text": "",
+      "node_id": "node2",
+      "id": "timeforwhat"
+    },
+    {
+      "text": "",
+      "node_id": "node3",
+      "id": "do_dialogue"
+    },
+    {
+      "text": "Hello.",
+      "node_id": "node9_2",
+      "id": "generic03_2"
+    },
+    {
+      "text": "What?",
+      "node_id": "node5_2",
+      "id": "generic00_2"
+    },
+    {
+      "text": "Grrrrr!",
+      "node_id": "node4_1",
+      "id": "generic01_1"
+    },
+    {
+      "text": "I'm gonna gnaw your bones!",
+      "node_id": "node4_2",
+      "id": "generic01_2"
+    },
+    {
+      "text": "There's enough water to go around for everyone. Set makes sure of that.",
+      "node_id": "node8_2",
+      "id": "generic02_2"
+    },
+    {
+      "text": "Set's dead. Set's dead. Set's dead . . .",
+      "node_id": "node8_1",
+      "id": "generic02_1"
+    },
+    {
+      "text": "Ever since the mutants left, it's been better.",
+      "node_id": "node9_1",
+      "id": "generic03_1"
+    },
+    {
+      "text": "Hey, you gonna eat that dead rat?",
+      "node_id": "node5_1",
+      "id": "generic00_1"
+    },
+    {
+      "text": "Have you seen my dog, Elvis? He's around here somewhere.",
+      "node_id": "node5_3",
+      "id": "generic00_3"
+    }
+  ],
+  "links": [
+    {
+      "text": "",
+      "source": "start",
+      "target": "timeforwhat"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "do_dialogue"
+    },
+    {
+      "text": "",
+      "source": "do_dialogue",
+      "target": "generic01_3"
+    },
+    {
+      "text": "",
+      "source": "do_dialogue",
+      "target": "generic00_1"
+    },
+    {
+      "text": "",
+      "source": "do_dialogue",
+      "target": "generic01_1"
+    },
+    {
+      "text": "",
+      "source": "do_dialogue",
+      "target": "generic00_2"
+    },
+    {
+      "text": "",
+      "source": "do_dialogue",
+      "target": "generic01_2"
+    },
+    {
+      "text": "",
+      "source": "do_dialogue",
+      "target": "generic00_3"
+    },
+    {
+      "text": "",
+      "source": "do_dialogue",
+      "target": "generic00_4"
+    }
+  ]
+}

@@ -1,0 +1,199 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "",
+      "node_id": "node3",
+      "id": "pre_dialogue"
+    },
+    {
+      "text": "Whatta you doing here?",
+      "node_id": "node5",
+      "id": "ghoul00"
+    },
+    {
+      "text": "That's what I thought you say. Getta outta my house.",
+      "node_id": "node12",
+      "id": "ghoul02"
+    },
+    {
+      "text": "",
+      "node_id": "node7",
+      "id": "ghoulend"
+    },
+    {
+      "text": "You no biggie to order me like dat. Take some of dis and shove it!",
+      "node_id": "node14",
+      "id": "ghoul07"
+    },
+    {
+      "text": "You see the Ghoul Manager.",
+      "node_id": "node1",
+      "id": "start"
+    },
+    {
+      "text": "Whad' you say?",
+      "node_id": "node9",
+      "id": "ghoul01"
+    },
+    {
+      "text": "Ack! Donna you be exploring any my stuff.  Getta out! I mean it.",
+      "node_id": "node10",
+      "id": "ghoul04"
+    },
+    {
+      "text": "I don wanna talk to you.",
+      "node_id": "node6",
+      "id": "ghoul08"
+    },
+    {
+      "text": "Oh, nonna dat around here. Maybe uppa da temple or atta water place. Getta going.",
+      "node_id": "node13",
+      "id": "ghoul03"
+    },
+    {
+      "text": "Ack! OK, I concede. I leave.",
+      "node_id": "node16",
+      "id": "ghoul06"
+    },
+    {
+      "text": "",
+      "node_id": "node2",
+      "id": "timeforwhat"
+    },
+    {
+      "text": "",
+      "node_id": "node4",
+      "id": "do_dialogue"
+    },
+    {
+      "text": "",
+      "node_id": "node8",
+      "id": "ghoulcbt"
+    },
+    {
+      "text": "Donna be in my face likka dat. I runna dis show.",
+      "node_id": "node11",
+      "id": "ghoul05"
+    },
+    {
+      "text": "",
+      "node_id": "node15",
+      "id": "ghoul05a"
+    }
+  ],
+  "links": [
+    {
+      "text": "",
+      "source": "pre_dialogue",
+      "target": "do_dialogue"
+    },
+    {
+      "text": "",
+      "source": "pre_dialogue",
+      "target": "ghoul08"
+    },
+    {
+      "text": "Dug-duh.",
+      "source": "ghoul00",
+      "target": "ghoulend"
+    },
+    {
+      "text": "I'm an explorer.",
+      "source": "ghoul00",
+      "target": "ghoul04"
+    },
+    {
+      "text": "Searching for the remains of the future past.",
+      "source": "ghoul00",
+      "target": "ghoul01"
+    },
+    {
+      "text": "What's it to you, wormface?",
+      "source": "ghoul00",
+      "target": "ghoul05"
+    },
+    {
+      "text": "",
+      "source": "ghoul02",
+      "target": "ghoulend"
+    },
+    {
+      "text": "",
+      "source": "ghoul07",
+      "target": "ghoulcbt"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "pre_dialogue"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "timeforwhat"
+    },
+    {
+      "text": "I'm looking for lost technology.",
+      "source": "ghoul01",
+      "target": "ghoul03"
+    },
+    {
+      "text": "Nothing.",
+      "source": "ghoul01",
+      "target": "ghoul02"
+    },
+    {
+      "text": "",
+      "source": "ghoul04",
+      "target": "ghoulend"
+    },
+    {
+      "text": "",
+      "source": "ghoul08",
+      "target": "ghoulend"
+    },
+    {
+      "text": "",
+      "source": "ghoul03",
+      "target": "ghoulend"
+    },
+    {
+      "text": "",
+      "source": "ghoul06",
+      "target": "ghoulend"
+    },
+    {
+      "text": "",
+      "source": "do_dialogue",
+      "target": "ghoul00"
+    },
+    {
+      "text": "I'm gonna take that face of yours and shove it up yer . . .",
+      "source": "ghoul05",
+      "target": "ghoul05a"
+    },
+    {
+      "text": "",
+      "source": "ghoul05",
+      "target": "ghoulend"
+    },
+    {
+      "text": "Oh, yeah.",
+      "source": "ghoul05",
+      "target": "ghoul07"
+    },
+    {
+      "text": "",
+      "source": "ghoul05a",
+      "target": "ghoul06"
+    },
+    {
+      "text": "",
+      "source": "ghoul05a",
+      "target": "ghoul07"
+    }
+  ]
+}

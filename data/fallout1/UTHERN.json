@@ -1,0 +1,294 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "It's a wonder your race survived as long as it has. I will start with you in the cleansing.",
+      "node_id": "node9",
+      "id": "uthern1"
+    },
+    {
+      "text": "What? I think I can generalize this much -- you are coming with me now.",
+      "node_id": "node13",
+      "id": "uthern13"
+    },
+    {
+      "text": "How nice to see you again. I was told that you were roaming around here. I have orders to bring you in.",
+      "node_id": "node7",
+      "id": "uthern14"
+    },
+    {
+      "text": "",
+      "node_id": "node1",
+      "id": "start"
+    },
+    {
+      "text": "Good. Would you like a chance at gaining greater powers?",
+      "node_id": "node18",
+      "id": "uthern8"
+    },
+    {
+      "text": "He does indeed, for death shall be your saving grace.",
+      "node_id": "node17",
+      "id": "uthern6"
+    },
+    {
+      "text": "It almost seems a pity. No matter, this won't take long.",
+      "node_id": "node21",
+      "id": "uthern10"
+    },
+    {
+      "text": "The simplest of proofs for you. I am smarter, stronger, and quicker than you are. Would you care  for a test of my skills?",
+      "node_id": "node12",
+      "id": "uthern7"
+    },
+    {
+      "text": "",
+      "node_id": "node11",
+      "id": "combat"
+    },
+    {
+      "text": "You only prove my point by using inane comments as such. I personally would not wish you in my sight, but my master would have words with you.",
+      "node_id": "node10",
+      "id": "uthern2"
+    },
+    {
+      "text": "",
+      "node_id": "node3",
+      "id": "destroy_p_proc"
+    },
+    {
+      "text": "With pleasure.",
+      "node_id": "node14",
+      "id": "uthern3"
+    },
+    {
+      "text": "I begin to think you may have a bit of superior blood in you yet. Let me find out for certain.",
+      "node_id": "node16",
+      "id": "uthern5"
+    },
+    {
+      "text": "Normie! How dare you enter the confines of your betters?",
+      "node_id": "node8",
+      "id": "uthern0"
+    },
+    {
+      "text": "You see before you Uthern, leader of the Super Mutants.",
+      "node_id": "node4",
+      "id": "look_at_p_proc"
+    },
+    {
+      "text": "Offered all the power in the world and still frightened. I will help you with your decision.",
+      "node_id": "node22",
+      "id": "uthern11"
+    },
+    {
+      "text": "Are you claiming that talk will solve nothing? You are more foolish than I thought.",
+      "node_id": "node15",
+      "id": "uthern4"
+    },
+    {
+      "text": "",
+      "node_id": "node2",
+      "id": "critter_p_proc"
+    },
+    {
+      "text": "",
+      "node_id": "node5",
+      "id": "pickup_p_proc"
+    },
+    {
+      "text": "Then i will take you to my master.",
+      "node_id": "node20",
+      "id": "uthern9"
+    },
+    {
+      "text": "Comments such as those only prove how much more intelligent i am than you. Now, you shall pay for your insolence!",
+      "node_id": "node19",
+      "id": "uthern12"
+    },
+    {
+      "text": "",
+      "node_id": "node6",
+      "id": "talk_p_proc"
+    }
+  ],
+  "links": [
+    {
+      "text": "",
+      "source": "uthern1",
+      "target": "combat"
+    },
+    {
+      "text": "",
+      "source": "uthern13",
+      "target": "combat"
+    },
+    {
+      "text": "",
+      "source": "uthern14",
+      "target": "combat"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "pickup_p_proc"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "look_at_p_proc"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "destroy_p_proc"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "talk_p_proc"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "critter_p_proc"
+    },
+    {
+      "text": "No way!",
+      "source": "uthern8",
+      "target": "uthern10"
+    },
+    {
+      "text": "You bet!",
+      "source": "uthern8",
+      "target": "uthern9"
+    },
+    {
+      "text": "I'm not sure about this.",
+      "source": "uthern8",
+      "target": "uthern11"
+    },
+    {
+      "text": "Die!",
+      "source": "uthern8",
+      "target": "combat"
+    },
+    {
+      "text": "",
+      "source": "uthern6",
+      "target": "combat"
+    },
+    {
+      "text": "",
+      "source": "uthern10",
+      "target": "combat"
+    },
+    {
+      "text": "No, thanks. I believe you.",
+      "source": "uthern7",
+      "target": "uthern8"
+    },
+    {
+      "text": "You forgot arrogant, stupid and ugly.",
+      "source": "uthern7",
+      "target": "uthern12"
+    },
+    {
+      "text": "Sure. Let's see what you can do.",
+      "source": "uthern7",
+      "target": "combat"
+    },
+    {
+      "text": "Surely one of your intellect can see that such things will solve nothing.",
+      "source": "uthern2",
+      "target": "uthern4"
+    },
+    {
+      "text": "Try these words -- Drop dead!",
+      "source": "uthern2",
+      "target": "combat"
+    },
+    {
+      "text": "Show me your master.",
+      "source": "uthern2",
+      "target": "uthern3"
+    },
+    {
+      "text": "",
+      "source": "uthern3",
+      "target": "combat"
+    },
+    {
+      "text": "",
+      "source": "uthern5",
+      "target": "combat"
+    },
+    {
+      "text": "Scum like you could never be better than humans!",
+      "source": "uthern0",
+      "target": "uthern2"
+    },
+    {
+      "text": "If you consider yourself one better than the rest, you run into the fallacy of over generalization.",
+      "source": "uthern0",
+      "target": "uthern13"
+    },
+    {
+      "text": "Huh?",
+      "source": "uthern0",
+      "target": "uthern1"
+    },
+    {
+      "text": "Really? You claim yourself better, but what proof do you have?",
+      "source": "uthern0",
+      "target": "uthern7"
+    },
+    {
+      "text": "Die Mutie!!",
+      "source": "uthern0",
+      "target": "combat"
+    },
+    {
+      "text": "",
+      "source": "uthern11",
+      "target": "combat"
+    },
+    {
+      "text": "Though you are foolish, I was referring to your manner of delivering words.",
+      "source": "uthern4",
+      "target": "uthern5"
+    },
+    {
+      "text": "Ah, the fool finally realizes something.",
+      "source": "uthern4",
+      "target": "uthern6"
+    },
+    {
+      "text": "Words will only do so much. This will solve more.",
+      "source": "uthern4",
+      "target": "combat"
+    },
+    {
+      "text": "",
+      "source": "uthern9",
+      "target": "combat"
+    },
+    {
+      "text": "Do you accept credit cards, or only caps?",
+      "source": "uthern12",
+      "target": "combat"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "uthern14"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "uthern0"
+    }
+  ]
+}

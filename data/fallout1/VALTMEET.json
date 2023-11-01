@@ -1,0 +1,24 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "",
+      "node_id": "node1",
+      "id": "start"
+    },
+    {
+      "text": "This is the Vault meeting room. This is a good gathering place for the Vault dwellers. Oddly, it does not hold your attention like it did in the past.",
+      "node_id": "node2",
+      "id": "spatial_p_proc"
+    }
+  ],
+  "links": [
+    {
+      "text": "",
+      "source": "start",
+      "target": "spatial_p_proc"
+    }
+  ]
+}

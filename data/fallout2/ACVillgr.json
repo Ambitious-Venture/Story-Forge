@@ -1,0 +1,279 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "Oh, it's not my place to deal with the traders. Talk to Mynoc, the guardian of the great bridge. He sees them all.",
+      "node_id": "node22",
+      "id": "Node004"
+    },
+    {
+      "text": "",
+      "node_id": "node7",
+      "id": "Node997"
+    },
+    {
+      "text": "",
+      "node_id": "node6",
+      "id": "Node009"
+    },
+    {
+      "text": "Of course, what is it?",
+      "node_id": "node24",
+      "id": "Node006"
+    },
+    {
+      "text": "A kindly member of your village.",
+      "node_id": "node20",
+      "id": "Node000"
+    },
+    {
+      "text": "Hello! I hear you are the Chosen One. Now, perhaps, our village can be saved.",
+      "node_id": "node17_4",
+      "id": "Node001_4"
+    },
+    {
+      "text": "Hello, Chosen One. Nice to see you again. I pray that your holy quest is going well. Is there something I can help you with?",
+      "node_id": "node17_3",
+      "id": "Node001_3"
+    },
+    {
+      "text": "",
+      "node_id": "node5",
+      "id": "talk_p_proc"
+    },
+    {
+      "text": "Have a safe journey.",
+      "node_id": "node27",
+      "id": "Node008"
+    },
+    {
+      "text": "Good joke, Chosen One! You know where it is. That way -- to the south.",
+      "node_id": "node25",
+      "id": "Node005"
+    },
+    {
+      "text": "Go see Hakunin in the north corner of the village. \u00a0He can help you.",
+      "node_id": "node21",
+      "id": "Node003"
+    },
+    {
+      "text": "",
+      "node_id": "node19",
+      "id": "Node999"
+    },
+    {
+      "text": "Chosen One, our people are dying. You must hurry your search for the holy GECK. What may I do to aid you in this most holy of quests?",
+      "node_id": "node17_2",
+      "id": "Node001_2"
+    },
+    {
+      "text": "Oh gods -- may the spirit of the Founder guide you. If you're the Chosen One, we're  going to need it.",
+      "node_id": "node16",
+      "id": "Node007"
+    },
+    {
+      "text": "They come to our village from the east, but their goods are poor.",
+      "node_id": "node26",
+      "id": "Node010"
+    },
+    {
+      "text": "Gods protect you on your journey.",
+      "node_id": "node23",
+      "id": "Node002"
+    },
+    {
+      "text": "We are running out of time, Chosen One. Please, finish your holy quest soon. We can not afford to wait much longer. If there's anythying I can do to help you to save us, let me know.",
+      "node_id": "node17_1",
+      "id": "Node001_1"
+    }
+  ],
+  "links": [
+    {
+      "text": "Could you tell me where the great bridge is located?",
+      "source": "Node004",
+      "target": "Node005"
+    },
+    {
+      "text": "One more question, if I may.",
+      "source": "Node004",
+      "target": "Node006"
+    },
+    {
+      "text": "Thank you. \u00a0Goodbye.",
+      "source": "Node004",
+      "target": "Node999"
+    },
+    {
+      "text": "",
+      "source": "Node997",
+      "target": "Node001_2"
+    },
+    {
+      "text": "",
+      "source": "Node997",
+      "target": "Node001_1"
+    },
+    {
+      "text": "",
+      "source": "Node997",
+      "target": "Node001_3"
+    },
+    {
+      "text": "",
+      "source": "Node997",
+      "target": "Node007"
+    },
+    {
+      "text": "",
+      "source": "Node997",
+      "target": "Node001_4"
+    },
+    {
+      "text": "Could you tell me where I can find some healing herbs?",
+      "source": "Node006",
+      "target": "Node003"
+    },
+    {
+      "text": "What can you tell me of the traders who trade with us?",
+      "source": "Node006",
+      "target": "Node010"
+    },
+    {
+      "text": "Never mind.",
+      "source": "Node006",
+      "target": "Node999"
+    },
+    {
+      "text": "[TALK]",
+      "source": "Node000",
+      "target": "Node997"
+    },
+    {
+      "text": "What can you tell me of the traders who trade with us?",
+      "source": "Node001_4",
+      "target": "Node004"
+    },
+    {
+      "text": "Can you tell me where I can find more healing powder?",
+      "source": "Node001_4",
+      "target": "Node003"
+    },
+    {
+      "text": "It is good to see you, but I must be going.",
+      "source": "Node001_4",
+      "target": "Node999"
+    },
+    {
+      "text": "Can you tell me where I can find more healing powder?",
+      "source": "Node001_3",
+      "target": "Node003"
+    },
+    {
+      "text": "It is good to see you, but I must be going.",
+      "source": "Node001_3",
+      "target": "Node999"
+    },
+    {
+      "text": "What can you tell me of the traders who trade with us?",
+      "source": "Node001_3",
+      "target": "Node004"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node997"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node009"
+    },
+    {
+      "text": "????",
+      "source": "Node008",
+      "target": "Node999"
+    },
+    {
+      "text": "One more question, if I may.",
+      "source": "Node005",
+      "target": "Node006"
+    },
+    {
+      "text": "Thank you. \u00a0Goodbye.",
+      "source": "Node005",
+      "target": "Node999"
+    },
+    {
+      "text": "One more question, if I may.",
+      "source": "Node003",
+      "target": "Node006"
+    },
+    {
+      "text": "Thank you. \u00a0Goodbye.",
+      "source": "Node003",
+      "target": "Node999"
+    },
+    {
+      "text": "It is good to see you, but I must be going.",
+      "source": "Node001_2",
+      "target": "Node999"
+    },
+    {
+      "text": "What can you tell me of the traders who trade with us?",
+      "source": "Node001_2",
+      "target": "Node004"
+    },
+    {
+      "text": "Can you tell me where I can find more healing powder?",
+      "source": "Node001_2",
+      "target": "Node003"
+    },
+    {
+      "text": "Uun Ga.",
+      "source": "Node007",
+      "target": "Node008"
+    },
+    {
+      "text": "One more question, if I may.",
+      "source": "Node010",
+      "target": "Node006"
+    },
+    {
+      "text": "Could you tell me where I can find some healing herbs?",
+      "source": "Node010",
+      "target": "Node003"
+    },
+    {
+      "text": "Thank you. Goodbye.",
+      "source": "Node010",
+      "target": "Node999"
+    },
+    {
+      "text": "I do have a question for you.",
+      "source": "Node002",
+      "target": "Node004"
+    },
+    {
+      "text": "Goodbye, my friend.",
+      "source": "Node002",
+      "target": "Node999"
+    },
+    {
+      "text": "It is good to see you, but I must be going.",
+      "source": "Node001_1",
+      "target": "Node999"
+    },
+    {
+      "text": "What can you tell me of the traders who trade with us?",
+      "source": "Node001_1",
+      "target": "Node004"
+    },
+    {
+      "text": "Can you tell me where I can find more healing powder?",
+      "source": "Node001_1",
+      "target": "Node003"
+    }
+  ]
+}

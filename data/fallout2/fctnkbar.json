@@ -1,0 +1,144 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "That it for you?",
+      "node_id": "node23",
+      "id": "Node004"
+    },
+    {
+      "text": "",
+      "node_id": "node18",
+      "id": "Node999"
+    },
+    {
+      "text": "Information huh? Well I ain't no library and this ain't no computer room. Drink up or get out. Want some booze or not?",
+      "node_id": "node19",
+      "id": "Node002"
+    },
+    {
+      "text": "",
+      "node_id": "node22",
+      "id": "NodeBarter"
+    },
+    {
+      "text": "",
+      "node_id": "node5",
+      "id": "talk_p_proc"
+    },
+    {
+      "text": "I'm Slim. What'll you have?",
+      "node_id": "node8",
+      "id": "Node001"
+    },
+    {
+      "text": "I'm not open to you. Get out of my shop!",
+      "node_id": "node6",
+      "id": "Node008"
+    },
+    {
+      "text": "Welcome back. Need more booze?",
+      "node_id": "node9",
+      "id": "Node006"
+    },
+    {
+      "text": "Later then.",
+      "node_id": "node21",
+      "id": "Node005"
+    },
+    {
+      "text": "Fine. If this shit don't kill you, nothing will.",
+      "node_id": "node20",
+      "id": "Node003"
+    },
+    {
+      "text": "I'm closed. Go away.",
+      "node_id": "node7",
+      "id": "Node007"
+    }
+  ],
+  "links": [
+    {
+      "text": "No.",
+      "source": "Node004",
+      "target": "Node005"
+    },
+    {
+      "text": "Yes.",
+      "source": "Node004",
+      "target": "Node003"
+    },
+    {
+      "text": "No.",
+      "source": "Node002",
+      "target": "Node005"
+    },
+    {
+      "text": "Yes.",
+      "source": "Node002",
+      "target": "Node003"
+    },
+    {
+      "text": "",
+      "source": "NodeBarter",
+      "target": "Node004"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node001"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node006"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node008"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node007"
+    },
+    {
+      "text": "What you got?",
+      "source": "Node001",
+      "target": "Node003"
+    },
+    {
+      "text": "No, me go.",
+      "source": "Node001",
+      "target": "Node999"
+    },
+    {
+      "text": "Me want information.",
+      "source": "Node001",
+      "target": "Node002"
+    },
+    {
+      "text": "No.",
+      "source": "Node006",
+      "target": "Node005"
+    },
+    {
+      "text": "Yes.",
+      "source": "Node006",
+      "target": "Node003"
+    },
+    {
+      "text": "Ok.",
+      "source": "Node005",
+      "target": "Node999"
+    },
+    {
+      "text": "Ok.",
+      "source": "Node003",
+      "target": "NodeBarter"
+    }
+  ]
+}

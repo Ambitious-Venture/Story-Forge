@@ -1,0 +1,24 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "",
+      "node_id": "node1",
+      "id": "start"
+    },
+    {
+      "text": "These parts could probably be used by Miles to fix the hydroponics farms.",
+      "node_id": "node2_1",
+      "id": "description_p_proc_1"
+    }
+  ],
+  "links": [
+    {
+      "text": "",
+      "source": "start",
+      "target": "description_p_proc_1"
+    }
+  ]
+}

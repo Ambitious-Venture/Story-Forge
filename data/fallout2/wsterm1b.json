@@ -1,0 +1,169 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "Error 29 Unable to contact server Please reboot",
+      "node_id": "node4",
+      "id": "Node004"
+    },
+    {
+      "text": "",
+      "node_id": "node16",
+      "id": "Node001a"
+    },
+    {
+      "text": "Unauthorized Access Initiating Security Lockout of remote terminal User Access to this Terminal is TERMINATED",
+      "node_id": "node18",
+      "id": "Node015"
+    },
+    {
+      "text": "",
+      "node_id": "node19",
+      "id": "Node002a"
+    },
+    {
+      "text": "The screen saver is active.",
+      "node_id": "node17_1",
+      "id": "Node014_1"
+    },
+    {
+      "text": "",
+      "node_id": "node3",
+      "id": "talk_p_proc"
+    },
+    {
+      "text": "Skynet Security Systems Access to this terminal is denied.",
+      "node_id": "node5",
+      "id": "Node003"
+    },
+    {
+      "text": "",
+      "node_id": "node13",
+      "id": "Node999"
+    },
+    {
+      "text": "Analyzing Command Please Wait.. Granted Terminating Alarm Systems Level 1",
+      "node_id": "node14",
+      "id": "Node010"
+    },
+    {
+      "text": "[A menu appears] To Deactivate Alarm Press - 1 For Diagnostic check Press - 2 To Exit Press - 3",
+      "node_id": "node15",
+      "id": "Node011"
+    },
+    {
+      "text": "Skynet Security Systems Intruders Detected - Outside Perimeter Automated Repairs Initiated Main Door - Malfunction Reinitializing... Main Door reports locking bolts still in place Returning to power save mode",
+      "node_id": "node7",
+      "id": "Node002"
+    },
+    {
+      "text": "Warning! This program works best if you shut down all programs. Do you wish to do so now?",
+      "node_id": "node20",
+      "id": "Node012"
+    },
+    {
+      "text": "Shutting down all programs Shutting down Skynet Security Program - Level 1 Last time system was diagnosed Oct. 15 1990 Analyzing System... Estimated time to completion 99:24:60:60",
+      "node_id": "node21",
+      "id": "Node013"
+    }
+  ],
+  "links": [
+    {
+      "text": "Exit",
+      "source": "Node004",
+      "target": "Node999"
+    },
+    {
+      "text": "",
+      "source": "Node001a",
+      "target": "Node014_1"
+    },
+    {
+      "text": "",
+      "source": "Node001a",
+      "target": "Node015"
+    },
+    {
+      "text": "Exit",
+      "source": "Node015",
+      "target": "Node999"
+    },
+    {
+      "text": "Exit",
+      "source": "Node014_1",
+      "target": "Node999"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node002"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node004"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node003"
+    },
+    {
+      "text": "Exit",
+      "source": "Node003",
+      "target": "Node999"
+    },
+    {
+      "text": "[With security as shoddy as this, it's no wonder they blew themselves up.] Exit",
+      "source": "Node010",
+      "target": "Node999"
+    },
+    {
+      "text": "Press 2",
+      "source": "Node011",
+      "target": "Node012"
+    },
+    {
+      "text": "Press 1",
+      "source": "Node011",
+      "target": "Node010"
+    },
+    {
+      "text": "Run self-diagnostic program.",
+      "source": "Node002",
+      "target": "Node012"
+    },
+    {
+      "text": "Activate Alarm System Level 1",
+      "source": "Node002",
+      "target": "Node002a"
+    },
+    {
+      "text": "Exit",
+      "source": "Node002",
+      "target": "Node999"
+    },
+    {
+      "text": "Yes",
+      "source": "Node012",
+      "target": "Node013"
+    },
+    {
+      "text": "Exit",
+      "source": "Node012",
+      "target": "Node999"
+    },
+    {
+      "text": "No",
+      "source": "Node012",
+      "target": "Node014_1"
+    },
+    {
+      "text": "[You don't think this is going to be done any time soon.] Exit.",
+      "source": "Node013",
+      "target": "Node999"
+    }
+  ]
+}

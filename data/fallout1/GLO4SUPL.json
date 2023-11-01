@@ -1,0 +1,104 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "You can't seem to pick the lock.",
+      "node_id": "node3_2",
+      "id": "pick_lock_2"
+    },
+    {
+      "text": "You manage to pick the lock.",
+      "node_id": "node3_1",
+      "id": "pick_lock_1"
+    },
+    {
+      "text": "You have tripped an alarm on the supply doors.",
+      "node_id": "node6",
+      "id": "arm_doors"
+    },
+    {
+      "text": "",
+      "node_id": "node1",
+      "id": "start"
+    },
+    {
+      "text": "The electronic security system shocks you!",
+      "node_id": "node5",
+      "id": "shock"
+    },
+    {
+      "text": "The door has a physical lock that will need to be picked.",
+      "node_id": "node2",
+      "id": "open_door"
+    },
+    {
+      "text": "You disarm the electronic security.",
+      "node_id": "node4_1",
+      "id": "disarm_electronics_1"
+    }
+  ],
+  "links": [
+    {
+      "text": "",
+      "source": "pick_lock_2",
+      "target": "arm_doors"
+    },
+    {
+      "text": "",
+      "source": "pick_lock_2",
+      "target": "shock"
+    },
+    {
+      "text": "",
+      "source": "pick_lock_1",
+      "target": "shock"
+    },
+    {
+      "text": "",
+      "source": "pick_lock_1",
+      "target": "arm_doors"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "disarm_electronics_1"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "pick_lock_2"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "pick_lock_1"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "open_door"
+    },
+    {
+      "text": "",
+      "source": "open_door",
+      "target": "arm_doors"
+    },
+    {
+      "text": "",
+      "source": "open_door",
+      "target": "shock"
+    },
+    {
+      "text": "",
+      "source": "disarm_electronics_1",
+      "target": "shock"
+    },
+    {
+      "text": "",
+      "source": "disarm_electronics_1",
+      "target": "arm_doors"
+    }
+  ]
+}

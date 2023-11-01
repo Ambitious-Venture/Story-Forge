@@ -1,0 +1,294 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "",
+      "node_id": "node31",
+      "id": "NodeWarpB"
+    },
+    {
+      "text": "You killed him! I mean, did you have to kill him? Wasn't there some other way?",
+      "node_id": "node11",
+      "id": "Node015"
+    },
+    {
+      "text": "",
+      "node_id": "node3",
+      "id": "critter_p_proc"
+    },
+    {
+      "text": "Damn! Then stand back. Unless I'm real lucky, the whole thing's going to blow. Let's go, Toto.",
+      "node_id": "node36",
+      "id": "Node009"
+    },
+    {
+      "text": "Crap! He's damaged the core unit. It's got to be fixed before things really go to hell. You any good at repairing things?",
+      "node_id": "node10",
+      "id": "Node006"
+    },
+    {
+      "text": "It's terrible. I wonder what made him do it? The town owes you its thanks. Look, it's not much, but here's some manuals I've been collecting. Maybe you can sell them or something.",
+      "node_id": "node40",
+      "id": "Node017"
+    },
+    {
+      "text": "You should have tried it then, instead of just killing him. Get out of here, you monster!",
+      "node_id": "node39",
+      "id": "Node016"
+    },
+    {
+      "text": "Look, I don't blame you for what happened, but I'm not in a real chatty mood.",
+      "node_id": "node12_1",
+      "id": "Node014_1"
+    },
+    {
+      "text": "",
+      "node_id": "node6",
+      "id": "talk_p_proc"
+    },
+    {
+      "text": "Look, do what you can with the generator. I've got to stablize the core. You've got about 30 seconds, I think. After that it'll be too late. Come on, Toto.",
+      "node_id": "node35",
+      "id": "Node008"
+    },
+    {
+      "text": "Oh, god, it's Jack. He's threatening to blow up the power plant. There's no time, you have to stop him for me. You can do that, can't you?",
+      "node_id": "node29",
+      "id": "Node003"
+    },
+    {
+      "text": "Crap! I got one word of advice-RUN!",
+      "node_id": "node14",
+      "id": "Node021"
+    },
+    {
+      "text": "You talked him out of it? That's amazing! The town owes you big, mister. Look, it's not much, but here's some manuals I've been collecting. Maybe you can sell them or something.",
+      "node_id": "node7_1",
+      "id": "Node020_1"
+    },
+    {
+      "text": "Just get out of here, brahmin dung.",
+      "node_id": "node9",
+      "id": "Node023"
+    },
+    {
+      "text": "You talked him out of it? That's amazing! The town owes you big, sister. Look, it's not much, but here's some manuals I've been collecting. Maybe you can sell them or something.",
+      "node_id": "node7_2",
+      "id": "Node020_2"
+    },
+    {
+      "text": "",
+      "node_id": "node4",
+      "id": "walkToPos"
+    },
+    {
+      "text": "Oh my god, somebody's got to do something! What do I do? I need some help quick.",
+      "node_id": "node17",
+      "id": "Node001"
+    },
+    {
+      "text": "You don't have an illudium Q-38 space modulator, do you? Didn't think so.",
+      "node_id": "node18_1",
+      "id": "Node019_1"
+    },
+    {
+      "text": "",
+      "node_id": "node42",
+      "id": "timed_event_p_proc"
+    },
+    {
+      "text": "What was I thinking?",
+      "node_id": "node34",
+      "id": "Node007"
+    },
+    {
+      "text": "",
+      "node_id": "node30",
+      "id": "NodeWarpA"
+    },
+    {
+      "text": "You fixed it? Without any parts? That's amazing! Where'd you learn to do that?",
+      "node_id": "node13",
+      "id": "Node010"
+    },
+    {
+      "text": "I get it. You're one of those moron types - what do they call them? Idiot savants. Well look, idiot or not, you've earned a reward. RE-WARD - you. I give you pretty books. You see. Get money. Good... Not like you can read, after all.",
+      "node_id": "node37",
+      "id": "Node011"
+    },
+    {
+      "text": "You come. Stop bad man. Stop him no break machine. Okay?",
+      "node_id": "node28",
+      "id": "Node002"
+    },
+    {
+      "text": "Don't talk to me, you murdering swine.",
+      "node_id": "node16",
+      "id": "Node018"
+    },
+    {
+      "text": "Look, it's not much, but I've got some books - old tech manuals. They're yours. Take them.",
+      "node_id": "node38",
+      "id": "Node012"
+    },
+    {
+      "text": "Hey look, Toto. It's the stranger who helped us out. Thanks again, miss.",
+      "node_id": "node15_1",
+      "id": "Node013_1"
+    },
+    {
+      "text": "Don't waste time! He's serious.",
+      "node_id": "node8",
+      "id": "Node022"
+    }
+  ],
+  "links": [
+    {
+      "text": "Yes.",
+      "source": "Node015",
+      "target": "Node016"
+    },
+    {
+      "text": "No.",
+      "source": "Node015",
+      "target": "Node017"
+    },
+    {
+      "text": "",
+      "source": "critter_p_proc",
+      "target": "walkToPos"
+    },
+    {
+      "text": "No",
+      "source": "Node006",
+      "target": "Node009"
+    },
+    {
+      "text": "Urrgh.",
+      "source": "Node006",
+      "target": "Node007"
+    },
+    {
+      "text": "Yes.",
+      "source": "Node006",
+      "target": "Node008"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node010"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node020_2"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node001"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node023"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node014_1"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node021"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "walkToPos"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node015"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node019_1"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node018"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node020_1"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node022"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node006"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node013_1"
+    },
+    {
+      "text": "Not my job. Go find somebody else.",
+      "source": "Node003",
+      "target": "NodeWarpB"
+    },
+    {
+      "text": "Stop wasting time. Lead on.",
+      "source": "Node003",
+      "target": "NodeWarpA"
+    },
+    {
+      "text": "What's going on?",
+      "source": "Node001",
+      "target": "Node003"
+    },
+    {
+      "text": "Huh? Gug?",
+      "source": "Node001",
+      "target": "Node002"
+    },
+    {
+      "text": "",
+      "source": "timed_event_p_proc",
+      "target": "walkToPos"
+    },
+    {
+      "text": "Huh-huh!",
+      "source": "Node010",
+      "target": "Node011"
+    },
+    {
+      "text": "Just handy that's all.",
+      "source": "Node010",
+      "target": "Node012"
+    },
+    {
+      "text": "No, no come.",
+      "source": "Node002",
+      "target": "NodeWarpB"
+    },
+    {
+      "text": "Okay.",
+      "source": "Node002",
+      "target": "NodeWarpA"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "There is nothing on this nuclear warhead that needs repairing.",
+      "node_id": "node2_1",
+      "id": "skills_1"
+    },
+    {
+      "text": "This is a very big trap that cannot be disarmed or armed from here.",
+      "node_id": "node2_3",
+      "id": "skills_3"
+    },
+    {
+      "text": "This is a nuclear warhead.",
+      "node_id": "node1",
+      "id": "start"
+    },
+    {
+      "text": "There is nothing on this nuclear warhead that can be lockpicked.",
+      "node_id": "node2_2",
+      "id": "skills_2"
+    },
+    {
+      "text": "That doesn't seem to be working.",
+      "node_id": "node2_4",
+      "id": "skills_4"
+    }
+  ],
+  "links": [
+    {
+      "text": "",
+      "source": "start",
+      "target": "skills_1"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "skills_3"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "skills_4"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "skills_2"
+    }
+  ]
+}

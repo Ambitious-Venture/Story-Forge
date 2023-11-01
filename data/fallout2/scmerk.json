@@ -1,0 +1,24 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "I know Lenny's death ain't no accident, you bastard.",
+      "node_id": "node3",
+      "id": "critter_p_proc"
+    },
+    {
+      "text": "",
+      "node_id": "node4",
+      "id": "EndFight"
+    }
+  ],
+  "links": [
+    {
+      "text": "",
+      "source": "critter_p_proc",
+      "target": "EndFight"
+    }
+  ]
+}

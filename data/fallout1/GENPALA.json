@@ -1,0 +1,104 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "Hold! If you have not spoken with our Captain yet, do so and then go!",
+      "node_id": "node6_4",
+      "id": "talk_p_proc_4"
+    },
+    {
+      "text": "",
+      "node_id": "node3",
+      "id": "critter_p_proc"
+    },
+    {
+      "text": "",
+      "node_id": "node5",
+      "id": "pickup_p_proc"
+    },
+    {
+      "text": "",
+      "node_id": "node1",
+      "id": "start"
+    },
+    {
+      "text": "",
+      "node_id": "node7",
+      "id": "flee_dude"
+    },
+    {
+      "text": "Hail, Initiate! I hope your patrols have fared well.",
+      "node_id": "node6_2",
+      "id": "talk_p_proc_2"
+    },
+    {
+      "text": "",
+      "node_id": "node2",
+      "id": "combat_p_proc"
+    },
+    {
+      "text": "Hold! I recognize you and I do not trust you. I give you fair warning: if you make trouble for us, you will be shot dead. Now move!",
+      "node_id": "node6_3",
+      "id": "talk_p_proc_3"
+    },
+    {
+      "text": "",
+      "node_id": "node4",
+      "id": "destroy_p_proc"
+    },
+    {
+      "text": "Die, you dog!",
+      "node_id": "node6_1",
+      "id": "talk_p_proc_1"
+    }
+  ],
+  "links": [
+    {
+      "text": "",
+      "source": "critter_p_proc",
+      "target": "flee_dude"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "talk_p_proc_1"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "talk_p_proc_3"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "pickup_p_proc"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "combat_p_proc"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "talk_p_proc_2"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "destroy_p_proc"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "critter_p_proc"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "talk_p_proc_4"
+    }
+  ]
+}

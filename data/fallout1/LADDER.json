@@ -1,0 +1,104 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "You fall to the ground.",
+      "node_id": "node6_4",
+      "id": "ladder01a_4"
+    },
+    {
+      "text": "",
+      "node_id": "node3",
+      "id": "ladder00"
+    },
+    {
+      "text": "",
+      "node_id": "node1",
+      "id": "start"
+    },
+    {
+      "text": "You nearly slip off the ladder.",
+      "node_id": "node6_3",
+      "id": "ladder01a_3"
+    },
+    {
+      "text": "",
+      "node_id": "node4",
+      "id": "ladder01"
+    },
+    {
+      "text": "You cannot budge the manhole cover.",
+      "node_id": "node6_2",
+      "id": "ladder01a_2"
+    },
+    {
+      "text": "",
+      "node_id": "node2",
+      "id": "do_stuff"
+    },
+    {
+      "text": "You strain your shoulders on the manhole cover, and then slip off the ladder.",
+      "node_id": "node6_1",
+      "id": "ladder01a_1"
+    }
+  ],
+  "links": [
+    {
+      "text": "",
+      "source": "ladder01a_4",
+      "target": "ladder00"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "do_stuff"
+    },
+    {
+      "text": "",
+      "source": "ladder01a_3",
+      "target": "ladder00"
+    },
+    {
+      "text": "",
+      "source": "ladder01",
+      "target": "ladder01a_2"
+    },
+    {
+      "text": "",
+      "source": "ladder01",
+      "target": "ladder01a_1"
+    },
+    {
+      "text": "",
+      "source": "ladder01",
+      "target": "ladder01a_3"
+    },
+    {
+      "text": "",
+      "source": "ladder01",
+      "target": "ladder01a_4"
+    },
+    {
+      "text": "",
+      "source": "ladder01a_2",
+      "target": "ladder00"
+    },
+    {
+      "text": "",
+      "source": "do_stuff",
+      "target": "ladder00"
+    },
+    {
+      "text": "",
+      "source": "do_stuff",
+      "target": "ladder01"
+    },
+    {
+      "text": "",
+      "source": "ladder01a_1",
+      "target": "ladder00"
+    }
+  ]
+}

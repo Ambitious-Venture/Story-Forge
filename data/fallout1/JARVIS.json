@@ -1,0 +1,239 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "You see Jarvis, the younger brother of Seth.",
+      "node_id": "node5_1",
+      "id": "look_at_p_proc_1"
+    },
+    {
+      "text": "",
+      "node_id": "node1",
+      "id": "start"
+    },
+    {
+      "text": "",
+      "node_id": "node9",
+      "id": "combat_p_proc"
+    },
+    {
+      "text": "Seth's a very good fighter. He's very determined. A little too much, sometimes. Still, he's devoted to the welfare of our village.",
+      "node_id": "node17",
+      "id": "Jarvis05"
+    },
+    {
+      "text": "You can't figure out what is affecting this man.",
+      "node_id": "node10_3",
+      "id": "use_skill_on_p_proc_3"
+    },
+    {
+      "text": "",
+      "node_id": "node19",
+      "id": "Jarvisend"
+    },
+    {
+      "text": "Hello. I'm sorry, but I'm not feeling too well right now. Please, if you can help find a way to fight the radscorpions, talk to my brother, Seth.",
+      "node_id": "node13",
+      "id": "Jarvis01"
+    },
+    {
+      "text": "This man is suffering from radscorpion venom.",
+      "node_id": "node10_2",
+      "id": "use_skill_on_p_proc_2"
+    },
+    {
+      "text": "",
+      "node_id": "node8",
+      "id": "destroy_p_proc"
+    },
+    {
+      "text": "",
+      "node_id": "node3",
+      "id": "map_exit_p_proc"
+    },
+    {
+      "text": "That skill won't help here.",
+      "node_id": "node10_4",
+      "id": "use_skill_on_p_proc_4"
+    },
+    {
+      "text": "Oohhh . . .",
+      "node_id": "node12_1",
+      "id": "timed_event_p_proc_1"
+    },
+    {
+      "text": "Thank you so much for helping me. My name is Jarvis, and I'm Seth's younger brother. Please, if there's anything you need to  know, just ask.",
+      "node_id": "node14",
+      "id": "Jarvis02"
+    },
+    {
+      "text": "",
+      "node_id": "node16",
+      "id": "Jarvis04"
+    },
+    {
+      "text": "You gain 400 experience points for curing Jarvis of his poisoning.",
+      "node_id": "node6_1",
+      "id": "use_obj_on_p_proc_1"
+    },
+    {
+      "text": "",
+      "node_id": "node4",
+      "id": "map_enter_p_proc"
+    },
+    {
+      "text": "",
+      "node_id": "node11",
+      "id": "critter_p_proc"
+    },
+    {
+      "text": "",
+      "node_id": "node7",
+      "id": "pickup_p_proc"
+    },
+    {
+      "text": "You can't figure out what is affecting this man.",
+      "node_id": "node10_1",
+      "id": "use_skill_on_p_proc_1"
+    },
+    {
+      "text": "",
+      "node_id": "node2",
+      "id": "talk_p_proc"
+    },
+    {
+      "text": "Well, Shady Sands was founded by a great ancestor of our current leader, Aradesh. He could tell you more of the story. We have a well and irrigation, so we do well for ourselves.",
+      "node_id": "node18",
+      "id": "Jarvis06"
+    },
+    {
+      "text": "Hello again. Can I help you with something?",
+      "node_id": "node15",
+      "id": "Jarvis03"
+    }
+  ],
+  "links": [
+    {
+      "text": "",
+      "source": "start",
+      "target": "map_exit_p_proc"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "pickup_p_proc"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "combat_p_proc"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "use_skill_on_p_proc_4"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "use_skill_on_p_proc_3"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "timed_event_p_proc_1"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "use_skill_on_p_proc_2"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "look_at_p_proc_1"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "destroy_p_proc"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "talk_p_proc"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "map_enter_p_proc"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "critter_p_proc"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "use_skill_on_p_proc_1"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "use_obj_on_p_proc_1"
+    },
+    {
+      "text": "",
+      "source": "Jarvis05",
+      "target": "Jarvis04"
+    },
+    {
+      "text": "",
+      "source": "Jarvis02",
+      "target": "Jarvis04"
+    },
+    {
+      "text": "Just chatting, thanks.",
+      "source": "Jarvis04",
+      "target": "Jarvisend"
+    },
+    {
+      "text": "Tell me a bit about the town.",
+      "source": "Jarvis04",
+      "target": "Jarvis06"
+    },
+    {
+      "text": "Can you tell me more about your brother?",
+      "source": "Jarvis04",
+      "target": "Jarvis05"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Jarvis02"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Jarvis03"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Jarvis01"
+    },
+    {
+      "text": "",
+      "source": "Jarvis06",
+      "target": "Jarvis04"
+    },
+    {
+      "text": "",
+      "source": "Jarvis03",
+      "target": "Jarvis04"
+    }
+  ]
+}

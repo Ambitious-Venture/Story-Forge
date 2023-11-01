@@ -1,0 +1,34 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "All right, I'll lower the prices.",
+      "node_id": "node18",
+      "id": "NodeFleeing"
+    },
+    {
+      "text": "Not a smart move.",
+      "node_id": "node19",
+      "id": "NodeFighting"
+    },
+    {
+      "text": "",
+      "node_id": "node17",
+      "id": "combat_p_proc"
+    }
+  ],
+  "links": [
+    {
+      "text": "",
+      "source": "combat_p_proc",
+      "target": "NodeFleeing"
+    },
+    {
+      "text": "",
+      "source": "combat_p_proc",
+      "target": "NodeFighting"
+    }
+  ]
+}

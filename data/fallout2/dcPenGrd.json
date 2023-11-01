@@ -1,0 +1,74 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "",
+      "node_id": "node8",
+      "id": "Node002"
+    },
+    {
+      "text": "Touch that again and you'll loose a limb.",
+      "node_id": "node17_1",
+      "id": "Node001_1"
+    },
+    {
+      "text": "",
+      "node_id": "node5",
+      "id": "Node998"
+    },
+    {
+      "text": "",
+      "node_id": "node6",
+      "id": "talk_p_proc"
+    },
+    {
+      "text": "",
+      "node_id": "node16",
+      "id": "timed_event_p_proc"
+    },
+    {
+      "text": "",
+      "node_id": "node7",
+      "id": "Node003"
+    },
+    {
+      "text": "",
+      "node_id": "node4",
+      "id": "pickup_p_proc"
+    }
+  ],
+  "links": [
+    {
+      "text": "",
+      "source": "Node001_1",
+      "target": "Node998"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node998"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node002"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node003"
+    },
+    {
+      "text": "",
+      "source": "timed_event_p_proc",
+      "target": "Node001_1"
+    },
+    {
+      "text": "",
+      "source": "pickup_p_proc",
+      "target": "Node998"
+    }
+  ]
+}

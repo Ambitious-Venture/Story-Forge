@@ -1,0 +1,434 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "Get away!",
+      "node_id": "node6_1",
+      "id": "talk_p_proc_1"
+    },
+    {
+      "text": "Ah, Rose. The proprietor of Rose's Bed and Breakfast. Now, you didn\u2019t hear it from me, but have you ever wondered why her \u2018coop\u2019 is so well protected? She says it\u2019s to protect her chickens from predators, but if you look closely it looks as if she\u2019s trying to keep something in rather than out. Plus, whoever heard of chickens laying twelve pound  eggs?",
+      "node_id": "node26",
+      "id": "Node015"
+    },
+    {
+      "text": "Yup! That\u2019s what I thought. It\u2019s funny how Neanderthal and civilized speech crosses roads on this subject. [You don\u2019t even see it coming. But you\u2019re sure the red hand print on your face will  disappear some day.]",
+      "node_id": "node39",
+      "id": "Node027"
+    },
+    {
+      "text": "We need to talk about the distance between us.",
+      "node_id": "node7_1",
+      "id": "Node100_1"
+    },
+    {
+      "text": "",
+      "node_id": "node5",
+      "id": "Node998"
+    },
+    {
+      "text": "",
+      "node_id": "node4",
+      "id": "pickup_p_proc"
+    },
+    {
+      "text": "[She blushes] Stop, you\u2019re embarrassing me. You are just the sweetest thing. Why don\u2019t come  over here and sit by me.",
+      "node_id": "node32",
+      "id": "Node024"
+    },
+    {
+      "text": "He\u2019s family; I don\u2019t spread rumors about my own family.",
+      "node_id": "node28",
+      "id": "Node017"
+    },
+    {
+      "text": "Why, hello there, stranger. I\u2019m Miria.",
+      "node_id": "node8",
+      "id": "Node000"
+    },
+    {
+      "text": "That\u2019s just sick!",
+      "node_id": "node6_4",
+      "id": "talk_p_proc_4"
+    },
+    {
+      "text": "Have you come to the right place! This town is so boring, there\u2019s nothing else to do but gossip and\u2026 [She keeps talking for awhile and sometime later you\u2019re able to get a word in.]",
+      "node_id": "node20",
+      "id": "Node014"
+    },
+    {
+      "text": "It\u2019s really strange, but I hear some ranchers say that every once in a while a brahmin will give birth to a calf with only one head. Talk about weird!",
+      "node_id": "node27",
+      "id": "Node016"
+    },
+    {
+      "text": "Bitch!",
+      "node_id": "node6_2",
+      "id": "talk_p_proc_2"
+    },
+    {
+      "text": "How dare you call me a slut! Let me tell you, I am very picky about the people I sleep with. Why, I have only slept with 10 or 20 people this month! I think this conversation is over!",
+      "node_id": "node31",
+      "id": "Node021"
+    },
+    {
+      "text": "",
+      "node_id": "node38",
+      "id": "Node995"
+    },
+    {
+      "text": "",
+      "node_id": "node34",
+      "id": "Node999"
+    },
+    {
+      "text": "No. I don\u2019t think so. I\u2019m tired of this conversation. Good bye.",
+      "node_id": "node36",
+      "id": "Node023"
+    },
+    {
+      "text": "Great, I guess this means I have to run this dump now.",
+      "node_id": "node6_3",
+      "id": "talk_p_proc_3"
+    },
+    {
+      "text": "You know, I\u2019m just a normal guy like everyone else. Why, my friends say, \" you\u2019re just so cool because you\u2019re normal just like everyone else.\" Yep, normal that\u2019s me.",
+      "node_id": "node29_1",
+      "id": "Node019_1"
+    },
+    {
+      "text": "Want what? Just what are you implying?",
+      "node_id": "node30",
+      "id": "Node020"
+    },
+    {
+      "text": "That better not mean what I think that means.",
+      "node_id": "node21",
+      "id": "Node026"
+    },
+    {
+      "text": "",
+      "node_id": "node13",
+      "id": "damage_p_proc"
+    },
+    {
+      "text": "Rumor has it that Farrel stole the watch.",
+      "node_id": "node23",
+      "id": "Node010"
+    },
+    {
+      "text": "Because poor people tend to steal to make ends meet. Farrel definitely falls in the poor category, and that would explain the new tools he bought soon after Cornelius\u2019s watch disappeared.",
+      "node_id": "node24",
+      "id": "Node011"
+    },
+    {
+      "text": "If I weren\u2019t so bored, I\u2019d say no. So ask away.",
+      "node_id": "node22",
+      "id": "Node002"
+    },
+    {
+      "text": "Who, me? I do odd jobs here and there. Surely nothing worth talking about. [She flutters her  eyes at you.]",
+      "node_id": "node18",
+      "id": "Node018"
+    },
+    {
+      "text": "Yes, they were thick as thieves, those two. Which is why I think Farrel stole the watch. Who else but Farrel would have the access and the opportunity to steal Cornelius\u2019s watch?",
+      "node_id": "node25",
+      "id": "Node012"
+    },
+    {
+      "text": "",
+      "node_id": "node33",
+      "id": "Node996"
+    },
+    {
+      "text": "Nothing to tell. My family runs the slaughterhouse. People from all around bring their brahmin here for slaughter. After they are slaughtered and the meat treated, it is sold to traders who in turn sell it to merchants in various towns. All very boring, if you ask me.",
+      "node_id": "node19",
+      "id": "Node013"
+    },
+    {
+      "text": "How disappointing. You are just like everyone else, aren\u2019t you?",
+      "node_id": "node35",
+      "id": "Node022"
+    },
+    {
+      "text": "I can\u2019t take this anymore! You\u2019re perfect. [She rips off her clothes, your clothes, and then\u2026]",
+      "node_id": "node37",
+      "id": "Node025"
+    }
+  ],
+  "links": [
+    {
+      "text": "",
+      "source": "talk_p_proc_1",
+      "target": "Node998"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc_1",
+      "target": "Node000"
+    },
+    {
+      "text": "Tell me more rumors.",
+      "source": "Node015",
+      "target": "Node014"
+    },
+    {
+      "text": "Let\u2019s talk about something else.",
+      "source": "Node015",
+      "target": "Node002"
+    },
+    {
+      "text": "",
+      "source": "pickup_p_proc",
+      "target": "Node998"
+    },
+    {
+      "text": "I think this going too far. Can\u2019t we just talk?",
+      "source": "Node024",
+      "target": "Node025"
+    },
+    {
+      "text": "I thought you\u2019d never ask. Why don\u2019t we get a little more comfortable.",
+      "source": "Node024",
+      "target": "Node022"
+    },
+    {
+      "text": "All right! You know what I want, baby!",
+      "source": "Node024",
+      "target": "Node020"
+    },
+    {
+      "text": "You are a slut, aren\u2019t you!",
+      "source": "Node024",
+      "target": "Node021"
+    },
+    {
+      "text": "Tell me more rumors.",
+      "source": "Node017",
+      "target": "Node014"
+    },
+    {
+      "text": "Let\u2019s talk about something else.",
+      "source": "Node017",
+      "target": "Node002"
+    },
+    {
+      "text": "Hubba! Hubba!",
+      "source": "Node000",
+      "target": "Node026"
+    },
+    {
+      "text": "What can you tell me about the slaughterhouse?",
+      "source": "Node000",
+      "target": "Node013"
+    },
+    {
+      "text": "Heard any good rumors?",
+      "source": "Node000",
+      "target": "Node014"
+    },
+    {
+      "text": "What do you do around here?",
+      "source": "Node000",
+      "target": "Node018"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc_4",
+      "target": "Node998"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc_4",
+      "target": "Node000"
+    },
+    {
+      "text": "What\u2019s this about a mutated brahmin?",
+      "source": "Node014",
+      "target": "Node016"
+    },
+    {
+      "text": "What do you know about the Cornelius\u2019s missing watch?",
+      "source": "Node014",
+      "target": "Node010"
+    },
+    {
+      "text": "Let\u2019s talk about something else.",
+      "source": "Node014",
+      "target": "Node002"
+    },
+    {
+      "text": "Tell me about Davin.",
+      "source": "Node014",
+      "target": "Node017"
+    },
+    {
+      "text": "You mentioned something about Rose?",
+      "source": "Node014",
+      "target": "Node015"
+    },
+    {
+      "text": "Let\u2019s talk about something else.",
+      "source": "Node016",
+      "target": "Node002"
+    },
+    {
+      "text": "Tell me more rumors.",
+      "source": "Node016",
+      "target": "Node014"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc_2",
+      "target": "Node998"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc_2",
+      "target": "Node000"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc_3",
+      "target": "Node998"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc_3",
+      "target": "Node000"
+    },
+    {
+      "text": "Can I ask you a few more questions?",
+      "source": "Node019_1",
+      "target": "Node002"
+    },
+    {
+      "text": "You slut! I thought you were special for a moment.",
+      "source": "Node019_1",
+      "target": "Node021"
+    },
+    {
+      "text": "Well, I\u2019ve never known anyone as interesting as you are.",
+      "source": "Node019_1",
+      "target": "Node024"
+    },
+    {
+      "text": "I think you know what I\u2019m talking about, baby. You know this is what you want. [You smile and  start to undress.]",
+      "source": "Node020",
+      "target": "Node996"
+    },
+    {
+      "text": "Forget it; I\u2019m sorry. I didn\u2019t mean to imply anything.",
+      "source": "Node020",
+      "target": "Node999"
+    },
+    {
+      "text": "Urg?",
+      "source": "Node026",
+      "target": "Node999"
+    },
+    {
+      "text": "Aoooga!",
+      "source": "Node026",
+      "target": "Node027"
+    },
+    {
+      "text": "",
+      "source": "damage_p_proc",
+      "target": "Node998"
+    },
+    {
+      "text": "Tell me some more rumors.",
+      "source": "Node010",
+      "target": "Node014"
+    },
+    {
+      "text": "Why would Farrel steal the watch?",
+      "source": "Node010",
+      "target": "Node011"
+    },
+    {
+      "text": "Isn\u2019t Farrel Cornelius\u2019s best friend?",
+      "source": "Node010",
+      "target": "Node012"
+    },
+    {
+      "text": "Tell me more rumors.",
+      "source": "Node011",
+      "target": "Node014"
+    },
+    {
+      "text": "Isn\u2019t Farrel Cornelius\u2019s best friend?",
+      "source": "Node011",
+      "target": "Node012"
+    },
+    {
+      "text": "Can I ask you a few more questions?",
+      "source": "Node011",
+      "target": "Node002"
+    },
+    {
+      "text": "Heard any good rumors?",
+      "source": "Node002",
+      "target": "Node014"
+    },
+    {
+      "text": "What do you do around here?",
+      "source": "Node002",
+      "target": "Node018"
+    },
+    {
+      "text": "What can you tell me about the slaughterhouse?",
+      "source": "Node002",
+      "target": "Node013"
+    },
+    {
+      "text": "I really would like to know more about you.",
+      "source": "Node018",
+      "target": "Node019_1"
+    },
+    {
+      "text": "Can I ask you a few more questions?",
+      "source": "Node018",
+      "target": "Node002"
+    },
+    {
+      "text": "You're right, enough talk. Let's get it on! You know you want it.",
+      "source": "Node018",
+      "target": "Node020"
+    },
+    {
+      "text": "Can I ask you a few more questions?",
+      "source": "Node012",
+      "target": "Node002"
+    },
+    {
+      "text": "Why would Farrel steal the watch?",
+      "source": "Node012",
+      "target": "Node011"
+    },
+    {
+      "text": "Tell me more rumors.",
+      "source": "Node012",
+      "target": "Node014"
+    },
+    {
+      "text": "Can I ask you a few more questions?",
+      "source": "Node013",
+      "target": "Node002"
+    },
+    {
+      "text": "Can I ask you a few more questions?",
+      "source": "Node022",
+      "target": "Node023"
+    },
+    {
+      "text": "[Your world will never be the same again.]",
+      "source": "Node025",
+      "target": "Node995"
+    }
+  ]
+}

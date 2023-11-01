@@ -1,0 +1,84 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "Own weapons and ammo required for all jobs. Inquire with Rutger at the Far Go Traders office.",
+      "node_id": "node8",
+      "id": "bull04"
+    },
+    {
+      "text": "You see a Bulletin Board.",
+      "node_id": "node2",
+      "id": "look_at_p_proc"
+    },
+    {
+      "text": "",
+      "node_id": "node1",
+      "id": "start"
+    },
+    {
+      "text": "",
+      "node_id": "node3",
+      "id": "use_p_proc"
+    },
+    {
+      "text": "NEED WORK? \u00a0The Far Go Traders are currently filling the following positions:",
+      "node_id": "node5",
+      "id": "bull01"
+    },
+    {
+      "text": "",
+      "node_id": "node4",
+      "id": "talk_p_proc"
+    },
+    {
+      "text": "1. Caravan Guards. \u00a0Must be in good physical condition and dependable.",
+      "node_id": "node6",
+      "id": "bull02"
+    },
+    {
+      "text": "2. Special Position. Must be observant and willing to travel in dangerous territory.",
+      "node_id": "node7",
+      "id": "bull03"
+    }
+  ],
+  "links": [
+    {
+      "text": "",
+      "source": "start",
+      "target": "talk_p_proc"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "look_at_p_proc"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "use_p_proc"
+    },
+    {
+      "text": "[More]",
+      "source": "bull01",
+      "target": "bull02"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "bull01"
+    },
+    {
+      "text": "[More]",
+      "source": "bull02",
+      "target": "bull03"
+    },
+    {
+      "text": "[More]",
+      "source": "bull03",
+      "target": "bull04"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "You rolled before rolling your point. You lose.",
+      "node_id": "node2_4",
+      "id": "point_run_4"
+    },
+    {
+      "text": "You rolled . You lose.",
+      "node_id": "node2_3",
+      "id": "point_run_3"
+    },
+    {
+      "text": "You see before you the low stakes Craps table. It costs $20 to play.",
+      "node_id": "node1",
+      "id": "start"
+    },
+    {
+      "text": "You roll snake eyes. You lose.",
+      "node_id": "node2_1",
+      "id": "point_run_1"
+    },
+    {
+      "text": "You rolled your point. You win.",
+      "node_id": "node2_5",
+      "id": "point_run_5"
+    },
+    {
+      "text": "You rolled ! You win!!",
+      "node_id": "node2_2",
+      "id": "point_run_2"
+    },
+    {
+      "text": "You rolled . This is your point. Rolling again.",
+      "node_id": "node2_6",
+      "id": "point_run_6"
+    }
+  ],
+  "links": [
+    {
+      "text": "",
+      "source": "start",
+      "target": "point_run_2"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "point_run_3"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "point_run_4"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "point_run_6"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "point_run_1"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "point_run_5"
+    }
+  ]
+}

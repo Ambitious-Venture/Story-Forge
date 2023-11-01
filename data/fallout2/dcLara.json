@@ -1,0 +1,1184 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "You see Lara.",
+      "node_id": "node38_2",
+      "id": "Node008_2"
+    },
+    {
+      "text": "",
+      "node_id": "node14",
+      "id": "Node038"
+    },
+    {
+      "text": "You see Lara.",
+      "node_id": "node55_6",
+      "id": "Node027_6"
+    },
+    {
+      "text": "Well it depends on what you're good at. There is something I'm curious about. If you can find out, I'll pay you a bit.",
+      "node_id": "node33",
+      "id": "Node006"
+    },
+    {
+      "text": "We'll give you $150. There's no way we can get close enough to find out by ourselves.",
+      "node_id": "node54",
+      "id": "Node024"
+    },
+    {
+      "text": "You see Lara.",
+      "node_id": "node50_1",
+      "id": "Node023_1"
+    },
+    {
+      "text": "You see Lara.",
+      "node_id": "node50_4",
+      "id": "Node023_4"
+    },
+    {
+      "text": "Thanks. Here's your money and $100 extra.",
+      "node_id": "node11",
+      "id": "Node035"
+    },
+    {
+      "text": "The name's Lara; I run this gang. You better not be here to cause trouble or you're in for a world of hurt.",
+      "node_id": "node38_3",
+      "id": "Node008_3"
+    },
+    {
+      "text": "The name's Lara; I run this gang. You better not be here to cause trouble or you're in for a world of hurt.",
+      "node_id": "node47_3",
+      "id": "Node016_3"
+    },
+    {
+      "text": "I don't think so. You'll have to come with us if you want your money. You won't have to fight but just to be sure it's not a trap. We'll give you $300 total.",
+      "node_id": "node16",
+      "id": "Node028"
+    },
+    {
+      "text": "You see Lara.",
+      "node_id": "node55_4",
+      "id": "Node027_4"
+    },
+    {
+      "text": "Let me know if you change your mind.",
+      "node_id": "node39",
+      "id": "Node007"
+    },
+    {
+      "text": "You see Lara.",
+      "node_id": "node56_5",
+      "id": "Node990_5"
+    },
+    {
+      "text": "Did you kill Tyler and his guards? How are we supposed to prove ourselves to Metzger? He'll never hire us now. That was our only chance.",
+      "node_id": "node15_1",
+      "id": "Node036_1"
+    },
+    {
+      "text": "I told you to find a weakness, not kill them! Since no one was there to watch the place, it got ransacked and now Metzger's madder than hell.",
+      "node_id": "node59_1",
+      "id": "Node037_1"
+    },
+    {
+      "text": "I've seen caravan's from Vault City come in and then some of it gets picked up by caravans from New Reno.",
+      "node_id": "node43",
+      "id": "Node012"
+    },
+    {
+      "text": "",
+      "node_id": "node8",
+      "id": "Node033"
+    },
+    {
+      "text": "What's that?",
+      "node_id": "node58_4",
+      "id": "Node989_4"
+    },
+    {
+      "text": "Damn it! I told you to ask Metzger not to kill them! Since no one was there to watch the place, it got ransacked and now Metzger's madder than hell.",
+      "node_id": "node59_2",
+      "id": "Node037_2"
+    },
+    {
+      "text": "I don't know. That's why I'm asking you to help.",
+      "node_id": "node53",
+      "id": "Node025"
+    },
+    {
+      "text": "If you didn't come to the Den for a specific reason you should probably leave. It's not very safe around here.",
+      "node_id": "node34",
+      "id": "Node004"
+    },
+    {
+      "text": "Alright! Let's go! Everyone follow me!",
+      "node_id": "node9",
+      "id": "Node039"
+    },
+    {
+      "text": "You see Lara.",
+      "node_id": "node58_5",
+      "id": "Node989_5"
+    },
+    {
+      "text": "So did you talk to him yet? What did he say?",
+      "node_id": "node18",
+      "id": "Node019"
+    },
+    {
+      "text": "Because I don't want Tyler to see any of my people going into or out of Metzger's place. I don't want to tip our hand.",
+      "node_id": "node48",
+      "id": "Node017"
+    },
+    {
+      "text": "You see Lara.",
+      "node_id": "node56_1",
+      "id": "Node990_1"
+    },
+    {
+      "text": "What's that?",
+      "node_id": "node50_5",
+      "id": "Node023_5"
+    },
+    {
+      "text": "Not sure exactly. Some where to the south I think. I've never been there, I just see their caravans stop buy once in a while - once in a long while.",
+      "node_id": "node46",
+      "id": "Node014"
+    },
+    {
+      "text": "",
+      "node_id": "node32",
+      "id": "Node999"
+    },
+    {
+      "text": "You see Lara.",
+      "node_id": "node55_1",
+      "id": "Node027_1"
+    },
+    {
+      "text": "You see Lara.",
+      "node_id": "node47_4",
+      "id": "Node016_4"
+    },
+    {
+      "text": "The name's Lara; I run this gang. You better not be here to cause trouble or you're in for a world of hurt.",
+      "node_id": "node20",
+      "id": "Node001"
+    },
+    {
+      "text": "Did you find anything?",
+      "node_id": "node17",
+      "id": "Node026"
+    },
+    {
+      "text": "",
+      "node_id": "node12",
+      "id": "Node031"
+    },
+    {
+      "text": "What's that?",
+      "node_id": "node55_5",
+      "id": "Node027_5"
+    },
+    {
+      "text": "What's that?",
+      "node_id": "node40",
+      "id": "Node010"
+    },
+    {
+      "text": "That makes sense actually. Thanks. Here's your money.",
+      "node_id": "node42",
+      "id": "Node011"
+    },
+    {
+      "text": "We don't have any doctors in town and I can't help you.",
+      "node_id": "node36",
+      "id": "Node002"
+    },
+    {
+      "text": "The name's Lara; I run this gang. You better not be here to cause trouble or you're in for a world of hurt.",
+      "node_id": "node58_2",
+      "id": "Node989_2"
+    },
+    {
+      "text": "New Reno is the chem capital around here. They have to get the raw materials to make there chems from somewhere, right? It seems like they're getting some, or all of it, from Vault City.",
+      "node_id": "node45",
+      "id": "Node013"
+    },
+    {
+      "text": "You see Lara.",
+      "node_id": "node58_3",
+      "id": "Node989_3"
+    },
+    {
+      "text": "You see Lara.",
+      "node_id": "node55_2",
+      "id": "Node027_2"
+    },
+    {
+      "text": "You see Lara.",
+      "node_id": "node56_3",
+      "id": "Node990_3"
+    },
+    {
+      "text": "You looking for some more quick and easy cash? $50. Easy money.",
+      "node_id": "node44",
+      "id": "Node015"
+    },
+    {
+      "text": "Thanks. Don't get in a fight\u2026 yet. I have a plan.",
+      "node_id": "node41",
+      "id": "Node009"
+    },
+    {
+      "text": "Damn it! I told you not to attack them! Since no one was there to watch the place, it got ransacked and now Metzger's madder than hell.",
+      "node_id": "node59_3",
+      "id": "Node037_3"
+    },
+    {
+      "text": "You see Lara.",
+      "node_id": "node47_2",
+      "id": "Node016_2"
+    },
+    {
+      "text": "Bastard!",
+      "node_id": "node7",
+      "id": "Node034"
+    },
+    {
+      "text": "The name's Lara; I run this gang. You better not be here to cause trouble or you're in for a world of hurt.",
+      "node_id": "node50_3",
+      "id": "Node023_3"
+    },
+    {
+      "text": "What's that?",
+      "node_id": "node47_5",
+      "id": "Node016_5"
+    },
+    {
+      "text": "You see Lara.",
+      "node_id": "node50_2",
+      "id": "Node023_2"
+    },
+    {
+      "text": "Okay, but we've got to act soon so don't take to long or we'll ruin our chance.",
+      "node_id": "node57",
+      "id": "Node029"
+    },
+    {
+      "text": "No doubt. Otherwise you probably wouldn't have made it here alive.",
+      "node_id": "node37",
+      "id": "Node005"
+    },
+    {
+      "text": "You see Lara.",
+      "node_id": "node38_6",
+      "id": "Node008_6"
+    },
+    {
+      "text": "I'm sure you can figure something out.",
+      "node_id": "node52",
+      "id": "Node022"
+    },
+    {
+      "text": "You see Lara.",
+      "node_id": "node38_4",
+      "id": "Node008_4"
+    },
+    {
+      "text": "The name's Lara; I run this gang. You better not be here to cause trouble or you're in for a world of hurt.",
+      "node_id": "node55_3",
+      "id": "Node027_3"
+    },
+    {
+      "text": "The name's Lara; I run this gang. You better not be here to cause trouble or you're in for a world of hurt.",
+      "node_id": "node56_2",
+      "id": "Node990_2"
+    },
+    {
+      "text": "",
+      "node_id": "node5",
+      "id": "Node998"
+    },
+    {
+      "text": "",
+      "node_id": "node4",
+      "id": "pickup_p_proc"
+    },
+    {
+      "text": "What's that?",
+      "node_id": "node38_5",
+      "id": "Node008_5"
+    },
+    {
+      "text": "",
+      "node_id": "node6",
+      "id": "talk_p_proc"
+    },
+    {
+      "text": "The name doesn't ring a bell, but then again I don't keep track of who comes in and out of town. Check with Becky. Everyone ends up going through there. She might know.",
+      "node_id": "node35",
+      "id": "Node003"
+    },
+    {
+      "text": "I have one more job for you. I'm not sure how you'll do it, but since you were able to get inside maybe they trust you.",
+      "node_id": "node51",
+      "id": "Node021"
+    },
+    {
+      "text": "",
+      "node_id": "node10",
+      "id": "Node032"
+    },
+    {
+      "text": "You see Lara.",
+      "node_id": "node38_1",
+      "id": "Node008_1"
+    },
+    {
+      "text": "You see Lara.",
+      "node_id": "node58_1",
+      "id": "Node989_1"
+    },
+    {
+      "text": "You don't have to fight. Easy money.",
+      "node_id": "node13",
+      "id": "Node030"
+    },
+    {
+      "text": "You see Lara.",
+      "node_id": "node47_1",
+      "id": "Node016_1"
+    },
+    {
+      "text": "Great. I was hoping as much. I hear he's been complaining about them lately. Here's your money.",
+      "node_id": "node49",
+      "id": "Node020"
+    },
+    {
+      "text": "You see Lara.",
+      "node_id": "node50_6",
+      "id": "Node023_6"
+    },
+    {
+      "text": "So did you find out what's in there?",
+      "node_id": "node19",
+      "id": "Node018"
+    },
+    {
+      "text": "You see Lara.",
+      "node_id": "node47_6",
+      "id": "Node016_6"
+    },
+    {
+      "text": "What's that?",
+      "node_id": "node56_4",
+      "id": "Node990_4"
+    }
+  ],
+  "links": [
+    {
+      "text": "That was easy. I already know.",
+      "source": "Node008_2",
+      "target": "Node010"
+    },
+    {
+      "text": "Sure.",
+      "source": "Node008_2",
+      "target": "Node009"
+    },
+    {
+      "text": "And my money?",
+      "source": "Node027_6",
+      "target": "Node028"
+    },
+    {
+      "text": "Sure what's that?",
+      "source": "Node006",
+      "target": "Node008_6"
+    },
+    {
+      "text": "Maybe later.",
+      "source": "Node006",
+      "target": "Node007"
+    },
+    {
+      "text": "Sure what's that?",
+      "source": "Node006",
+      "target": "Node008_5"
+    },
+    {
+      "text": "Sure what's that?",
+      "source": "Node006",
+      "target": "Node008_4"
+    },
+    {
+      "text": "Sure what's that?",
+      "source": "Node006",
+      "target": "Node008_1"
+    },
+    {
+      "text": "Sure what's that?",
+      "source": "Node006",
+      "target": "Node008_3"
+    },
+    {
+      "text": "Sure what's that?",
+      "source": "Node006",
+      "target": "Node008_2"
+    },
+    {
+      "text": "If I get around to it.",
+      "source": "Node024",
+      "target": "Node999"
+    },
+    {
+      "text": "Huh? Find a weakness? How am I supposed to do that?",
+      "source": "Node023_1",
+      "target": "Node025"
+    },
+    {
+      "text": "Consider it done.",
+      "source": "Node023_1",
+      "target": "Node999"
+    },
+    {
+      "text": "How much?",
+      "source": "Node023_1",
+      "target": "Node024"
+    },
+    {
+      "text": "Consider it done.",
+      "source": "Node023_4",
+      "target": "Node999"
+    },
+    {
+      "text": "Huh? Find a weakness? How am I supposed to do that?",
+      "source": "Node023_4",
+      "target": "Node025"
+    },
+    {
+      "text": "How much?",
+      "source": "Node023_4",
+      "target": "Node024"
+    },
+    {
+      "text": "That was easy. I already know.",
+      "source": "Node008_3",
+      "target": "Node010"
+    },
+    {
+      "text": "Sure.",
+      "source": "Node008_3",
+      "target": "Node009"
+    },
+    {
+      "text": "Why do you want me to ask?",
+      "source": "Node016_3",
+      "target": "Node017"
+    },
+    {
+      "text": "If I get a chance",
+      "source": "Node016_3",
+      "target": "Node999"
+    },
+    {
+      "text": "Okay, let's do it.",
+      "source": "Node028",
+      "target": "Node990_5"
+    },
+    {
+      "text": "Give me a bit to get ready.",
+      "source": "Node028",
+      "target": "Node029"
+    },
+    {
+      "text": "No way. Keep your money!",
+      "source": "Node028",
+      "target": "Node030"
+    },
+    {
+      "text": "Okay, let's do it.",
+      "source": "Node028",
+      "target": "Node990_2"
+    },
+    {
+      "text": "Okay, let's do it.",
+      "source": "Node028",
+      "target": "Node990_3"
+    },
+    {
+      "text": "Okay, let's do it.",
+      "source": "Node028",
+      "target": "Node990_1"
+    },
+    {
+      "text": "Okay, let's do it.",
+      "source": "Node028",
+      "target": "Node990_4"
+    },
+    {
+      "text": "And my money?",
+      "source": "Node027_4",
+      "target": "Node028"
+    },
+    {
+      "text": "All right.",
+      "source": "Node007",
+      "target": "Node999"
+    },
+    {
+      "text": "Oh. Okay, bye.",
+      "source": "Node036_1",
+      "target": "Node999"
+    },
+    {
+      "text": "That was me, and you're next.",
+      "source": "Node036_1",
+      "target": "Node998"
+    },
+    {
+      "text": "Oh, well, I've got to go.",
+      "source": "Node037_1",
+      "target": "Node999"
+    },
+    {
+      "text": "You're next, bitch.",
+      "source": "Node037_1",
+      "target": "Node998"
+    },
+    {
+      "text": "So? Why does that make sense?",
+      "source": "Node012",
+      "target": "Node013"
+    },
+    {
+      "text": "Oh.",
+      "source": "Node012",
+      "target": "Node015"
+    },
+    {
+      "text": "Oh, well, I've got to go.",
+      "source": "Node037_2",
+      "target": "Node999"
+    },
+    {
+      "text": "You're next, bitch.",
+      "source": "Node037_2",
+      "target": "Node998"
+    },
+    {
+      "text": "I'll try.",
+      "source": "Node025",
+      "target": "Node999"
+    },
+    {
+      "text": "I can handle myself.",
+      "source": "Node004",
+      "target": "Node005"
+    },
+    {
+      "text": "Got any work?",
+      "source": "Node004",
+      "target": "Node006"
+    },
+    {
+      "text": "Okay, thanks.",
+      "source": "Node004",
+      "target": "Node999"
+    },
+    {
+      "text": "Na.",
+      "source": "Node019",
+      "target": "Node999"
+    },
+    {
+      "text": "He said yes. If you win, you can have their job, like before.",
+      "source": "Node019",
+      "target": "Node020"
+    },
+    {
+      "text": "We'll see.",
+      "source": "Node017",
+      "target": "Node999"
+    },
+    {
+      "text": "Huh? Find a weakness? How am I supposed to do that?",
+      "source": "Node023_5",
+      "target": "Node025"
+    },
+    {
+      "text": "How much?",
+      "source": "Node023_5",
+      "target": "Node024"
+    },
+    {
+      "text": "Consider it done.",
+      "source": "Node023_5",
+      "target": "Node999"
+    },
+    {
+      "text": "Oh, okay. Thanks.",
+      "source": "Node014",
+      "target": "Node015"
+    },
+    {
+      "text": "And my money?",
+      "source": "Node027_1",
+      "target": "Node028"
+    },
+    {
+      "text": "If I get a chance",
+      "source": "Node016_4",
+      "target": "Node999"
+    },
+    {
+      "text": "Why do you want me to ask?",
+      "source": "Node016_4",
+      "target": "Node017"
+    },
+    {
+      "text": "Just looking around.",
+      "source": "Node001",
+      "target": "Node004"
+    },
+    {
+      "text": "Got any work?",
+      "source": "Node001",
+      "target": "Node006"
+    },
+    {
+      "text": "Aruh.",
+      "source": "Node001",
+      "target": "Node002"
+    },
+    {
+      "text": "I'm looking for a merchant named Vic.",
+      "source": "Node001",
+      "target": "Node003"
+    },
+    {
+      "text": "Yes. They're having a party tonight.",
+      "source": "Node026",
+      "target": "Node027_5"
+    },
+    {
+      "text": "Yes. They're having a party tonight.",
+      "source": "Node026",
+      "target": "Node027_6"
+    },
+    {
+      "text": "Yes. They're having a party tonight.",
+      "source": "Node026",
+      "target": "Node027_2"
+    },
+    {
+      "text": "Yes. They're having a party tonight.",
+      "source": "Node026",
+      "target": "Node027_4"
+    },
+    {
+      "text": "Yes. They're having a party tonight.",
+      "source": "Node026",
+      "target": "Node027_3"
+    },
+    {
+      "text": "Yes. They're having a party tonight.",
+      "source": "Node026",
+      "target": "Node027_1"
+    },
+    {
+      "text": "Not yet. I'll let you know.",
+      "source": "Node026",
+      "target": "Node999"
+    },
+    {
+      "text": "Gra.",
+      "source": "Node026",
+      "target": "Node002"
+    },
+    {
+      "text": "And my money?",
+      "source": "Node027_5",
+      "target": "Node028"
+    },
+    {
+      "text": "Let me check again.",
+      "source": "Node010",
+      "target": "Node999"
+    },
+    {
+      "text": "Why is that?",
+      "source": "Node011",
+      "target": "Node012"
+    },
+    {
+      "text": "No problem. Bye.",
+      "source": "Node011",
+      "target": "Node015"
+    },
+    {
+      "text": "Ack.",
+      "source": "Node002",
+      "target": "Node999"
+    },
+    {
+      "text": "Where's New Reno?",
+      "source": "Node013",
+      "target": "Node014"
+    },
+    {
+      "text": "Okay, thanks.",
+      "source": "Node013",
+      "target": "Node015"
+    },
+    {
+      "text": "And my money?",
+      "source": "Node027_2",
+      "target": "Node028"
+    },
+    {
+      "text": "Sure.",
+      "source": "Node015",
+      "target": "Node016_6"
+    },
+    {
+      "text": "Sure.",
+      "source": "Node015",
+      "target": "Node016_4"
+    },
+    {
+      "text": "Sure.",
+      "source": "Node015",
+      "target": "Node016_1"
+    },
+    {
+      "text": "Sure.",
+      "source": "Node015",
+      "target": "Node016_3"
+    },
+    {
+      "text": "Sure.",
+      "source": "Node015",
+      "target": "Node016_2"
+    },
+    {
+      "text": "Sure.",
+      "source": "Node015",
+      "target": "Node016_5"
+    },
+    {
+      "text": "No problem.",
+      "source": "Node009",
+      "target": "Node999"
+    },
+    {
+      "text": "Oh, well, I've got to go.",
+      "source": "Node037_3",
+      "target": "Node999"
+    },
+    {
+      "text": "You're next, bitch.",
+      "source": "Node037_3",
+      "target": "Node998"
+    },
+    {
+      "text": "If I get a chance",
+      "source": "Node016_2",
+      "target": "Node999"
+    },
+    {
+      "text": "Why do you want me to ask?",
+      "source": "Node016_2",
+      "target": "Node017"
+    },
+    {
+      "text": "Huh? Find a weakness? How am I supposed to do that?",
+      "source": "Node023_3",
+      "target": "Node025"
+    },
+    {
+      "text": "How much?",
+      "source": "Node023_3",
+      "target": "Node024"
+    },
+    {
+      "text": "Consider it done.",
+      "source": "Node023_3",
+      "target": "Node999"
+    },
+    {
+      "text": "If I get a chance",
+      "source": "Node016_5",
+      "target": "Node999"
+    },
+    {
+      "text": "Why do you want me to ask?",
+      "source": "Node016_5",
+      "target": "Node017"
+    },
+    {
+      "text": "Consider it done.",
+      "source": "Node023_2",
+      "target": "Node999"
+    },
+    {
+      "text": "How much?",
+      "source": "Node023_2",
+      "target": "Node024"
+    },
+    {
+      "text": "Huh? Find a weakness? How am I supposed to do that?",
+      "source": "Node023_2",
+      "target": "Node025"
+    },
+    {
+      "text": "Okay.",
+      "source": "Node029",
+      "target": "Node999"
+    },
+    {
+      "text": "Got any work?",
+      "source": "Node005",
+      "target": "Node006"
+    },
+    {
+      "text": "Okay, thanks.",
+      "source": "Node005",
+      "target": "Node999"
+    },
+    {
+      "text": "Sure.",
+      "source": "Node008_6",
+      "target": "Node009"
+    },
+    {
+      "text": "That was easy. I already know.",
+      "source": "Node008_6",
+      "target": "Node010"
+    },
+    {
+      "text": "Okay, what is it?",
+      "source": "Node022",
+      "target": "Node023_1"
+    },
+    {
+      "text": "Okay, what is it?",
+      "source": "Node022",
+      "target": "Node023_3"
+    },
+    {
+      "text": "Okay, what is it?",
+      "source": "Node022",
+      "target": "Node023_5"
+    },
+    {
+      "text": "Okay, what is it?",
+      "source": "Node022",
+      "target": "Node023_2"
+    },
+    {
+      "text": "Okay, what is it?",
+      "source": "Node022",
+      "target": "Node023_4"
+    },
+    {
+      "text": "Okay, what is it?",
+      "source": "Node022",
+      "target": "Node023_6"
+    },
+    {
+      "text": "That was easy. I already know.",
+      "source": "Node008_4",
+      "target": "Node010"
+    },
+    {
+      "text": "Sure.",
+      "source": "Node008_4",
+      "target": "Node009"
+    },
+    {
+      "text": "And my money?",
+      "source": "Node027_3",
+      "target": "Node028"
+    },
+    {
+      "text": "",
+      "source": "pickup_p_proc",
+      "target": "Node998"
+    },
+    {
+      "text": "That was easy. I already know.",
+      "source": "Node008_5",
+      "target": "Node010"
+    },
+    {
+      "text": "Sure.",
+      "source": "Node008_5",
+      "target": "Node009"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node028"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node019"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node036_1"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node031"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node034"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node030"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node026"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node039"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node033"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node001"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node038"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node032"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node035"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node018"
+    },
+    {
+      "text": "Got any work?",
+      "source": "Node003",
+      "target": "Node006"
+    },
+    {
+      "text": "Thanks. Bye.",
+      "source": "Node003",
+      "target": "Node999"
+    },
+    {
+      "text": "What is it?",
+      "source": "Node021",
+      "target": "Node023_5"
+    },
+    {
+      "text": "What is it?",
+      "source": "Node021",
+      "target": "Node023_2"
+    },
+    {
+      "text": "What is it?",
+      "source": "Node021",
+      "target": "Node023_4"
+    },
+    {
+      "text": "What is it?",
+      "source": "Node021",
+      "target": "Node023_1"
+    },
+    {
+      "text": "What is it?",
+      "source": "Node021",
+      "target": "Node023_3"
+    },
+    {
+      "text": "I snuck inside.",
+      "source": "Node021",
+      "target": "Node022"
+    },
+    {
+      "text": "What is it?",
+      "source": "Node021",
+      "target": "Node023_6"
+    },
+    {
+      "text": "That was easy. I already know.",
+      "source": "Node008_1",
+      "target": "Node010"
+    },
+    {
+      "text": "Sure.",
+      "source": "Node008_1",
+      "target": "Node009"
+    },
+    {
+      "text": "No.",
+      "source": "Node030",
+      "target": "Node989_3"
+    },
+    {
+      "text": "No.",
+      "source": "Node030",
+      "target": "Node989_4"
+    },
+    {
+      "text": "Let's go. I'm ready.",
+      "source": "Node030",
+      "target": "Node990_5"
+    },
+    {
+      "text": "Okay, I'll be right back.",
+      "source": "Node030",
+      "target": "Node029"
+    },
+    {
+      "text": "Uk",
+      "source": "Node030",
+      "target": "Node002"
+    },
+    {
+      "text": "No.",
+      "source": "Node030",
+      "target": "Node989_1"
+    },
+    {
+      "text": "Let's go. I'm ready.",
+      "source": "Node030",
+      "target": "Node990_4"
+    },
+    {
+      "text": "Let's go. I'm ready.",
+      "source": "Node030",
+      "target": "Node990_2"
+    },
+    {
+      "text": "Let's go. I'm ready.",
+      "source": "Node030",
+      "target": "Node990_3"
+    },
+    {
+      "text": "Let's go. I'm ready.",
+      "source": "Node030",
+      "target": "Node990_1"
+    },
+    {
+      "text": "No.",
+      "source": "Node030",
+      "target": "Node989_2"
+    },
+    {
+      "text": "No.",
+      "source": "Node030",
+      "target": "Node989_5"
+    },
+    {
+      "text": "If I get a chance",
+      "source": "Node016_1",
+      "target": "Node999"
+    },
+    {
+      "text": "Why do you want me to ask?",
+      "source": "Node016_1",
+      "target": "Node017"
+    },
+    {
+      "text": "I assume there's something else now?",
+      "source": "Node020",
+      "target": "Node023_6"
+    },
+    {
+      "text": "I assume there's something else now?",
+      "source": "Node020",
+      "target": "Node023_1"
+    },
+    {
+      "text": "I assume there's something else now?",
+      "source": "Node020",
+      "target": "Node023_3"
+    },
+    {
+      "text": "Thanks. Bye.",
+      "source": "Node020",
+      "target": "Node021"
+    },
+    {
+      "text": "I assume there's something else now?",
+      "source": "Node020",
+      "target": "Node023_5"
+    },
+    {
+      "text": "I assume there's something else now?",
+      "source": "Node020",
+      "target": "Node023_2"
+    },
+    {
+      "text": "I assume there's something else now?",
+      "source": "Node020",
+      "target": "Node023_4"
+    },
+    {
+      "text": "Huh? Find a weakness? How am I supposed to do that?",
+      "source": "Node023_6",
+      "target": "Node025"
+    },
+    {
+      "text": "Consider it done.",
+      "source": "Node023_6",
+      "target": "Node999"
+    },
+    {
+      "text": "How much?",
+      "source": "Node023_6",
+      "target": "Node024"
+    },
+    {
+      "text": "Not yet.",
+      "source": "Node018",
+      "target": "Node999"
+    },
+    {
+      "text": "If I get a chance",
+      "source": "Node016_6",
+      "target": "Node999"
+    },
+    {
+      "text": "Why do you want me to ask?",
+      "source": "Node016_6",
+      "target": "Node017"
+    }
+  ]
+}

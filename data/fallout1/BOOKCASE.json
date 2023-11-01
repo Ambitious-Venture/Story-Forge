@@ -1,0 +1,94 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "That does nothing.",
+      "node_id": "node3_5",
+      "id": "use_skill_on_p_proc_5"
+    },
+    {
+      "text": "",
+      "node_id": "node5",
+      "id": "pickup_p_proc"
+    },
+    {
+      "text": "You find a hidden latch.",
+      "node_id": "node3_2",
+      "id": "use_skill_on_p_proc_2"
+    },
+    {
+      "text": "",
+      "node_id": "node1",
+      "id": "start"
+    },
+    {
+      "text": "You fumble with the bookcase for a moment but you fail to accomplish anything.",
+      "node_id": "node3_1",
+      "id": "use_skill_on_p_proc_1"
+    },
+    {
+      "text": "You fumble with the bookcase for a moment but you fail to accomplish anything.",
+      "node_id": "node3_3",
+      "id": "use_skill_on_p_proc_3"
+    },
+    {
+      "text": "You take a book down, examine it and quickly replace it on the shelf. The shelf itself seems very sturdy.",
+      "node_id": "node4_1",
+      "id": "use_p_proc_1"
+    },
+    {
+      "text": "That does nothing.",
+      "node_id": "node3_4",
+      "id": "use_skill_on_p_proc_4"
+    },
+    {
+      "text": "The bookshelf is filled with religious and philosophy books.",
+      "node_id": "node2",
+      "id": "description_p_proc"
+    }
+  ],
+  "links": [
+    {
+      "text": "",
+      "source": "start",
+      "target": "use_skill_on_p_proc_5"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "use_p_proc_1"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "pickup_p_proc"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "use_skill_on_p_proc_4"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "description_p_proc"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "use_skill_on_p_proc_3"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "use_skill_on_p_proc_1"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "use_skill_on_p_proc_2"
+    }
+  ]
+}

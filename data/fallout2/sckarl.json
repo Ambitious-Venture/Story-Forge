@@ -1,0 +1,349 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "So did I when I was a kid. Let me know if you find it!",
+      "node_id": "node20",
+      "id": "Node004"
+    },
+    {
+      "text": "Yeah. He's a real bad one. Killed two of our men and hasn't said a thing.",
+      "node_id": "node24",
+      "id": "Node009"
+    },
+    {
+      "text": "",
+      "node_id": "node3",
+      "id": "critter_p_proc"
+    },
+    {
+      "text": "Sure, for what good it will do you.",
+      "node_id": "node31",
+      "id": "Node015"
+    },
+    {
+      "text": "",
+      "node_id": "node4",
+      "id": "anim_end_call"
+    },
+    {
+      "text": "",
+      "node_id": "node17",
+      "id": "walkBack"
+    },
+    {
+      "text": "No problem. Next five minutes, maybe I won't hear a thing. Follow me.",
+      "node_id": "node30",
+      "id": "Node014"
+    },
+    {
+      "text": "Well, a couple of years ago he had a stroke and now Doc Jubilee's got him on some kind of medicine. What's it to you, anyway?",
+      "node_id": "node32",
+      "id": "Node016"
+    },
+    {
+      "text": "",
+      "node_id": "node6",
+      "id": "talk_p_proc"
+    },
+    {
+      "text": "That SOB? He's got a spread just outside town. Just take the road past Stockmen's.",
+      "node_id": "node23",
+      "id": "Node008"
+    },
+    {
+      "text": "",
+      "node_id": "node8",
+      "id": "walkUnLock"
+    },
+    {
+      "text": "His name's Oswald. That's all we could get out of him. He's supposed to be a squatter, from vault 15, but... I doubt it. He's a bit too tough. You know what I mean?",
+      "node_id": "node21",
+      "id": "Node005"
+    },
+    {
+      "text": "This is NCR, capitol of the New California Republic. Population 3000 and growing. No slavery, no gambling, no chems. President is Mrs. Tandi, my boss is Sheriff Dumont. That answer your questions?",
+      "node_id": "node19",
+      "id": "Node003"
+    },
+    {
+      "text": "Look, take my advice - get your friends to take you home so you can sleep it off. Drunk in public's a crime here.",
+      "node_id": "node18_1",
+      "id": "Node002_1"
+    },
+    {
+      "text": "Work? The Stockmen's Association is looking for guards. Raiders been hitting the cattle drives hard again. And I heard that President Tandi's been looking for somebody \"resourceful,\" as she puts it. That help?",
+      "node_id": "node26_1",
+      "id": "Node006_1"
+    },
+    {
+      "text": "",
+      "node_id": "node16",
+      "id": "Node999"
+    },
+    {
+      "text": "My name's . I'm in need of some honest work.",
+      "node_id": "node7_2",
+      "id": "Node001_2"
+    },
+    {
+      "text": "",
+      "node_id": "node33",
+      "id": "timed_event_p_proc"
+    },
+    {
+      "text": "That's Officer Jack, stranger. One of our men. You haven't been talking to Mira, have you?",
+      "node_id": "node22",
+      "id": "Node007"
+    },
+    {
+      "text": "Hang the bastard, I hope. Him and his buddies killed two good men. Won't be any pain for me to see him dead.",
+      "node_id": "node25",
+      "id": "Node010"
+    },
+    {
+      "text": "She and Jack used to be married, you know. Had themselves a really messy divorce. I wouldn't believe spit from her, not about Jack. Do yourself a favor, stay out of it. Jack's a good man, it's just this stuff's got him a little high-strung.",
+      "node_id": "node27",
+      "id": "Node011"
+    },
+    {
+      "text": "His ex, that's all. If he's not here, he might be over at the powerplant. He's been moonlighting over there for Dorothy.",
+      "node_id": "node28",
+      "id": "Node012"
+    },
+    {
+      "text": "Such as?",
+      "node_id": "node7_1",
+      "id": "Node001_1"
+    },
+    {
+      "text": "Guess I'm pretty obvious. Lot of folks look up to him because he's a councilman, but not me. He thinks he's a big man, like the law don't always apply to him. I'd like to take him down a notch or two someday.",
+      "node_id": "node29",
+      "id": "Node013"
+    }
+  ],
+  "links": [
+    {
+      "text": "Gee, thanks.",
+      "source": "Node004",
+      "target": "Node999"
+    },
+    {
+      "text": "Well, I've got some other questions.",
+      "source": "Node004",
+      "target": "Node001_2"
+    },
+    {
+      "text": "Well, I've got some other questions.",
+      "source": "Node004",
+      "target": "Node001_1"
+    },
+    {
+      "text": "Give me a little time alone with him. Maybe I can convince him to be cooperative.",
+      "source": "Node009",
+      "target": "Node014"
+    },
+    {
+      "text": "Can I see him now?",
+      "source": "Node009",
+      "target": "Node015"
+    },
+    {
+      "text": "",
+      "source": "critter_p_proc",
+      "target": "anim_end_call"
+    },
+    {
+      "text": "",
+      "source": "anim_end_call",
+      "target": "walkBack"
+    },
+    {
+      "text": "Nothing, just talk. I'll quit wasting your time.",
+      "source": "Node016",
+      "target": "Node999"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "walkUnLock"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node001_2"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node001_1"
+    },
+    {
+      "text": "You don't like him much.",
+      "source": "Node008",
+      "target": "Node013"
+    },
+    {
+      "text": "Thanks.",
+      "source": "Node008",
+      "target": "Node999"
+    },
+    {
+      "text": "Well, I've got some other questions.",
+      "source": "Node008",
+      "target": "Node001_2"
+    },
+    {
+      "text": "Well, I've got some other questions.",
+      "source": "Node008",
+      "target": "Node001_1"
+    },
+    {
+      "text": "What're you going to do to him?",
+      "source": "Node005",
+      "target": "Node010"
+    },
+    {
+      "text": "Tough guy, huh?",
+      "source": "Node005",
+      "target": "Node009"
+    },
+    {
+      "text": "Yeah, that's all.",
+      "source": "Node003",
+      "target": "Node999"
+    },
+    {
+      "text": "Well, I've got some other questions.",
+      "source": "Node003",
+      "target": "Node001_2"
+    },
+    {
+      "text": "Well, I've got some other questions.",
+      "source": "Node003",
+      "target": "Node001_1"
+    },
+    {
+      "text": "Some. Thanks.",
+      "source": "Node006_1",
+      "target": "Node999"
+    },
+    {
+      "text": "Where can I find Roger Westin?",
+      "source": "Node001_2",
+      "target": "Node008"
+    },
+    {
+      "text": "Well, I'm looking for Vault 13.",
+      "source": "Node001_2",
+      "target": "Node004"
+    },
+    {
+      "text": "President Tandi sent me over to talk to some prisoner you've got.",
+      "source": "Node001_2",
+      "target": "Node005"
+    },
+    {
+      "text": "I'm looking for a guy named Jack. Some folks call him Whack Jack.",
+      "source": "Node001_2",
+      "target": "Node007"
+    },
+    {
+      "text": "I'm new to NCR. What can you tell me about your town?",
+      "source": "Node001_2",
+      "target": "Node003"
+    },
+    {
+      "text": "",
+      "source": "timed_event_p_proc",
+      "target": "walkBack"
+    },
+    {
+      "text": "",
+      "source": "timed_event_p_proc",
+      "target": "walkUnLock"
+    },
+    {
+      "text": "Yes.",
+      "source": "Node007",
+      "target": "Node011"
+    },
+    {
+      "text": "Mira who?",
+      "source": "Node007",
+      "target": "Node012"
+    },
+    {
+      "text": "Can I see him now?",
+      "source": "Node010",
+      "target": "Node015"
+    },
+    {
+      "text": "Okay, let's move on to other topics.",
+      "source": "Node011",
+      "target": "Node001_1"
+    },
+    {
+      "text": "Well, thank you kindly for that advice, deputy.",
+      "source": "Node011",
+      "target": "Node999"
+    },
+    {
+      "text": "Okay, let's move on to other topics.",
+      "source": "Node011",
+      "target": "Node001_2"
+    },
+    {
+      "text": "Thanks.",
+      "source": "Node012",
+      "target": "Node999"
+    },
+    {
+      "text": "Well, I've got some other questions.",
+      "source": "Node012",
+      "target": "Node001_2"
+    },
+    {
+      "text": "Well, I've got some other questions.",
+      "source": "Node012",
+      "target": "Node001_1"
+    },
+    {
+      "text": "Where can I find Roger Westin?",
+      "source": "Node001_1",
+      "target": "Node008"
+    },
+    {
+      "text": "Well, I'm looking for Vault 13.",
+      "source": "Node001_1",
+      "target": "Node004"
+    },
+    {
+      "text": "President Tandi sent me over to talk to some prisoner you've got.",
+      "source": "Node001_1",
+      "target": "Node005"
+    },
+    {
+      "text": "I'm looking for a guy named Jack. Some folks call him Whack Jack.",
+      "source": "Node001_1",
+      "target": "Node007"
+    },
+    {
+      "text": "I'm new to NCR. What can you tell me about your town?",
+      "source": "Node001_1",
+      "target": "Node003"
+    },
+    {
+      "text": "Stranger things have happened. What can you tell me about him?",
+      "source": "Node013",
+      "target": "Node016"
+    },
+    {
+      "text": "I've got to go. Just outside of town, you say?",
+      "source": "Node013",
+      "target": "Node999"
+    }
+  ]
+}

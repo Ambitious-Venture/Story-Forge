@@ -1,0 +1,24 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "",
+      "node_id": "node5",
+      "id": "talk_p_proc"
+    },
+    {
+      "text": "Treat our people with respect.",
+      "node_id": "node6",
+      "id": "Node001"
+    }
+  ],
+  "links": [
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node001"
+    }
+  ]
+}

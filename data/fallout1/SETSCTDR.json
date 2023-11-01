@@ -1,0 +1,119 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "",
+      "node_id": "node5",
+      "id": "trap_stuff"
+    },
+    {
+      "text": "You accidentally set off the explosive, because you were smart enough to find it, but not smart enough to leave it alone.",
+      "node_id": "node3",
+      "id": "failure"
+    },
+    {
+      "text": "",
+      "node_id": "node9",
+      "id": "explode"
+    },
+    {
+      "text": "You accidentally set off the explosive!",
+      "node_id": "node8_1",
+      "id": "find_trap_1"
+    },
+    {
+      "text": "You did not disarm the trap.",
+      "node_id": "node6_2",
+      "id": "disarm_trap_2"
+    },
+    {
+      "text": "You accidentally set off the explosive!",
+      "node_id": "node6_1",
+      "id": "disarm_trap_1"
+    },
+    {
+      "text": "",
+      "node_id": "node2",
+      "id": "use_door"
+    },
+    {
+      "text": "You accidentally set off the explosive!",
+      "node_id": "node7_1",
+      "id": "disarm_mech_1"
+    },
+    {
+      "text": "You accidentally set off the explosive!",
+      "node_id": "node4_1",
+      "id": "find_iq_1"
+    },
+    {
+      "text": "You did not disarm the trap.",
+      "node_id": "node7_2",
+      "id": "disarm_mech_2"
+    }
+  ],
+  "links": [
+    {
+      "text": "",
+      "source": "trap_stuff",
+      "target": "find_trap_1"
+    },
+    {
+      "text": "",
+      "source": "trap_stuff",
+      "target": "disarm_trap_2"
+    },
+    {
+      "text": "",
+      "source": "trap_stuff",
+      "target": "disarm_mech_2"
+    },
+    {
+      "text": "",
+      "source": "trap_stuff",
+      "target": "disarm_mech_1"
+    },
+    {
+      "text": "",
+      "source": "trap_stuff",
+      "target": "disarm_trap_1"
+    },
+    {
+      "text": "",
+      "source": "failure",
+      "target": "explode"
+    },
+    {
+      "text": "",
+      "source": "find_trap_1",
+      "target": "explode"
+    },
+    {
+      "text": "",
+      "source": "disarm_trap_2",
+      "target": "explode"
+    },
+    {
+      "text": "",
+      "source": "disarm_trap_1",
+      "target": "explode"
+    },
+    {
+      "text": "",
+      "source": "disarm_mech_1",
+      "target": "explode"
+    },
+    {
+      "text": "",
+      "source": "find_iq_1",
+      "target": "explode"
+    },
+    {
+      "text": "",
+      "source": "disarm_mech_2",
+      "target": "explode"
+    }
+  ]
+}

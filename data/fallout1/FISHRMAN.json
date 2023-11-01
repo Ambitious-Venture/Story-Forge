@@ -1,0 +1,609 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "I'm sorry friend, I don't think I can help you.",
+      "node_id": "node27",
+      "id": "FishrMan18"
+    },
+    {
+      "text": "Howdy ma'am. I don't often see strangers in this spot. Is there something I can do for you?",
+      "node_id": "node13_1",
+      "id": "FishrMan01_1"
+    },
+    {
+      "text": "Do I look like a scavenger to you? Well, maybe I do, but that's because I spend a lot of time in the Wastes trying to teach my boy to fish and be a man.",
+      "node_id": "node14",
+      "id": "FishrMan04"
+    },
+    {
+      "text": "You'll forgive me if I ain't more appreciative, but I think you should  just leave.",
+      "node_id": "node36",
+      "id": "FishrMan22"
+    },
+    {
+      "text": "That's down on the coast. I hear stories about gangs running amok and all sorts of things that I don't want the boy to see, so I'm staying away from that  place!",
+      "node_id": "node48",
+      "id": "FishrMan24"
+    },
+    {
+      "text": "",
+      "node_id": "node1",
+      "id": "start"
+    },
+    {
+      "text": "",
+      "node_id": "node8",
+      "id": "get_reaction"
+    },
+    {
+      "text": "Anyhow, I need quiet for my fishing, so I'd appreciate it if you'd keep quiet and let me get back to work before me and my boy starve.",
+      "node_id": "node30",
+      "id": "FishrManEnd1"
+    },
+    {
+      "text": "",
+      "node_id": "node49",
+      "id": "FishrManEnd"
+    },
+    {
+      "text": "Well, I've fished this place for the last five years and it keeps getting worse and worse. I think it's Skunk, the three-eyed giant catfish, that keeps scaring everything away from my spot.",
+      "node_id": "node17",
+      "id": "FishrMan07"
+    },
+    {
+      "text": "",
+      "node_id": "node45",
+      "id": "FishrManBarter"
+    },
+    {
+      "text": "Try some of . . . oh damn, where did I put it . . .",
+      "node_id": "node39_1",
+      "id": "FishrMan09a_1"
+    },
+    {
+      "text": "",
+      "node_id": "node53",
+      "id": "DownReact"
+    },
+    {
+      "text": "I hate to be inhospitable, but I need quiet for my fishing, so I'd appreciate it if you'd keep quiet and let me get back to work before me and my boy starve. And good luck killing those varmints.",
+      "node_id": "node41",
+      "id": "FishrManEnd2"
+    },
+    {
+      "text": "",
+      "node_id": "node33",
+      "id": "DownReactLevel"
+    },
+    {
+      "text": "",
+      "node_id": "node3",
+      "id": "damage_p_proc"
+    },
+    {
+      "text": "Now put that thing away before you hurt someone. A man can't have a civil conversation when there are weapons drawn.",
+      "node_id": "node10",
+      "id": "FishrMan25"
+    },
+    {
+      "text": "Well, I heard about a big Vault way to the East, and reports of a secret Vault somewhere down south. And there may be some chips in Junktown and the Hub.  Hope that helps.",
+      "node_id": "node40",
+      "id": "FishrMan10"
+    },
+    {
+      "text": "I try to avoid them if I can. Their patrols can be pretty nasty if they decide not to take a liking to you.",
+      "node_id": "node47",
+      "id": "FishrMan23"
+    },
+    {
+      "text": "What a minute, aren't you that filly who wanders the wastes and kicks the monsters' butts? Can I help you?",
+      "node_id": "node12_1",
+      "id": "FishrMan02_1"
+    },
+    {
+      "text": "No man's ever called me inhospitable, and I don't want to repeat what women call me, but I am trying to fish and I need absolute quiet to catch the damn things, so please try to keep quiet.",
+      "node_id": "node11",
+      "id": "FishrMan03"
+    },
+    {
+      "text": "Yeah you are. But what the hell does 'runk' mean? Whatever it is, I  hope it's friendly.",
+      "node_id": "node21",
+      "id": "FishrMan14"
+    },
+    {
+      "text": "Sir, I've heard about you, and I'd appreciate it if you left me and my  boy in peace.",
+      "node_id": "node9",
+      "id": "FishrMan00"
+    },
+    {
+      "text": "",
+      "node_id": "node4",
+      "id": "destroy_p_proc"
+    },
+    {
+      "text": "Now that's rather personal information there. I've killed men for asking less, just ask the boy. But I think you look like an honest person, so I'll let it slide this time.",
+      "node_id": "node16",
+      "id": "FishrMan06"
+    },
+    {
+      "text": "Mutant armies? Just plain armies would be bad enough. I heard tell that someone's been harassing the ghouls over in Necropolis, but that was a while  ago.",
+      "node_id": "node42",
+      "id": "FishrMan11"
+    },
+    {
+      "text": "",
+      "node_id": "node56",
+      "id": "BigUpReact"
+    },
+    {
+      "text": "Now you'll probably kill me, but if I don't stand up to you, I'll be setting a bad example for the boy. See my dilemma? Why don't you just walk away and make it easier for both of us!",
+      "node_id": "node18",
+      "id": "FishrMan08"
+    },
+    {
+      "text": "",
+      "node_id": "node58",
+      "id": "UpReactLevel"
+    },
+    {
+      "text": "You see a weary fisherman.",
+      "node_id": "node5",
+      "id": "look_at_p_proc"
+    },
+    {
+      "text": "I do know where some caches are stored, but that's my secret.",
+      "node_id": "node44",
+      "id": "FishrMan12a"
+    },
+    {
+      "text": "",
+      "node_id": "node35",
+      "id": "FishrManCombat"
+    },
+    {
+      "text": "Anyhow, why don't you just get outta here. Git!",
+      "node_id": "node46",
+      "id": "FishrMan15a"
+    },
+    {
+      "text": "Now I'm hurt. Here I go, out of my way to be neighborly, and you accuse me of rambling! Well! I don't offend easy, but you just gone and made me mad  enough to nuke someone.",
+      "node_id": "node22",
+      "id": "FishrMan15"
+    },
+    {
+      "text": "But I'm gonna get that fish, just you wait. It's getting personal between us, and only one of us is gonna walk away, believe me. I'm more serious than the Brotherhood of Steel about this.",
+      "node_id": "node32",
+      "id": "FishrMan07a"
+    },
+    {
+      "text": "I haven't done any scavenging in six years. Too many Rad Scorpions. A fella could get killed out there with all them varmints running around.",
+      "node_id": "node28",
+      "id": "FishrMan04a"
+    },
+    {
+      "text": "What do you want to talk about?",
+      "node_id": "node26",
+      "id": "FishrMan17"
+    },
+    {
+      "text": "",
+      "node_id": "node2",
+      "id": "critter_p_proc"
+    },
+    {
+      "text": "Now that's a personal question. My mother's womb, of course, but that's a little too flip. I don't have a home no more. Me and my boy just wander and  try to survive.",
+      "node_id": "node43",
+      "id": "FishrMan12"
+    },
+    {
+      "text": "",
+      "node_id": "node24",
+      "id": "FishrMan03a"
+    },
+    {
+      "text": "Well, it's kill or be killed - the Law of the Wastes - out here, but I'll tell you what. You keep killing monsters and I'll give you some supplies.",
+      "node_id": "node20",
+      "id": "FishrMan13"
+    },
+    {
+      "text": "",
+      "node_id": "node34",
+      "id": "FishrMan08a"
+    },
+    {
+      "text": "Thank you kindly.",
+      "node_id": "node23",
+      "id": "FishrMan16"
+    },
+    {
+      "text": "",
+      "node_id": "node52",
+      "id": "UpReact"
+    },
+    {
+      "text": "'Runk' ain't the same as keeping quiet. Now shut yer yap and get outta here.",
+      "node_id": "node25",
+      "id": "FishrMan19"
+    },
+    {
+      "text": "About eight years ago, I sold some chips in Junktown. I don't know what they did. One of them could have been a water chip, though I wouldn't bet on it.",
+      "node_id": "node29",
+      "id": "FishrMan04b"
+    },
+    {
+      "text": "Mutant armies? Not in this spot. Just regular armies would be bad enough,  heh heh.",
+      "node_id": "node15",
+      "id": "FishrMan05"
+    },
+    {
+      "text": "",
+      "node_id": "node50",
+      "id": "ReactToLevel"
+    },
+    {
+      "text": "Fine. Take what you want and get out.",
+      "node_id": "node37",
+      "id": "FishrMan20"
+    },
+    {
+      "text": "You really aren't very friendly, are you?",
+      "node_id": "node38",
+      "id": "FishrMan21"
+    },
+    {
+      "text": "Sir, I've heard about you, and I'd appreciate it if you left me and my  boy in peace.",
+      "node_id": "node6",
+      "id": "talk_p_proc"
+    },
+    {
+      "text": "Son, I think you've been wandering the wastes a little too long.",
+      "node_id": "node19",
+      "id": "FishrMan09"
+    },
+    {
+      "text": "",
+      "node_id": "node57",
+      "id": "BigDownReact"
+    },
+    {
+      "text": "You know there's too much politics in the world. I keep telling my boy that these politicians can't wait to blow up the world again. That's why I'm living off the land, to avoid the politicians! Only way to live.",
+      "node_id": "node31",
+      "id": "FishrMan05a"
+    },
+    {
+      "text": "",
+      "node_id": "node51",
+      "id": "LevelToReact"
+    }
+  ],
+  "links": [
+    {
+      "text": "Where do you come from?",
+      "source": "FishrMan01_1",
+      "target": "FishrMan06"
+    },
+    {
+      "text": "Runk!",
+      "source": "FishrMan01_1",
+      "target": "FishrMan09"
+    },
+    {
+      "text": "You wouldn't happen to know where I could find a water chip, would you?",
+      "source": "FishrMan01_1",
+      "target": "FishrMan04"
+    },
+    {
+      "text": "You wouldn't know anything about mutant armies, would you?",
+      "source": "FishrMan01_1",
+      "target": "FishrMan05"
+    },
+    {
+      "text": "Give me everything you've got or I'll kill you!",
+      "source": "FishrMan01_1",
+      "target": "FishrMan08"
+    },
+    {
+      "text": "How's the fishing?",
+      "source": "FishrMan01_1",
+      "target": "FishrMan07"
+    },
+    {
+      "text": "You wouldn't know anything about mutant armies, would you?",
+      "source": "FishrMan04",
+      "target": "FishrMan04a"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "destroy_p_proc"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "critter_p_proc"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "look_at_p_proc"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "damage_p_proc"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "talk_p_proc"
+    },
+    {
+      "text": "",
+      "source": "get_reaction",
+      "target": "ReactToLevel"
+    },
+    {
+      "text": "You wouldn't know anything about mutant armies, would you?",
+      "source": "FishrMan07",
+      "target": "FishrMan07a"
+    },
+    {
+      "text": "You see a weary fisherman.",
+      "source": "FishrManBarter",
+      "target": "FishrManEnd"
+    },
+    {
+      "text": "",
+      "source": "DownReact",
+      "target": "ReactToLevel"
+    },
+    {
+      "text": "",
+      "source": "DownReactLevel",
+      "target": "LevelToReact"
+    },
+    {
+      "text": "You wouldn't know anything about mutant armies, would you?",
+      "source": "FishrMan10",
+      "target": "FishrManEnd2"
+    },
+    {
+      "text": "Runk!",
+      "source": "FishrMan02_1",
+      "target": "FishrMan14"
+    },
+    {
+      "text": "How's the fishing?",
+      "source": "FishrMan02_1",
+      "target": "FishrMan07"
+    },
+    {
+      "text": "I'm running a little low on supplies . . .",
+      "source": "FishrMan02_1",
+      "target": "FishrMan13"
+    },
+    {
+      "text": "You wouldn't know anything about mutant armies, would you?",
+      "source": "FishrMan02_1",
+      "target": "FishrMan05"
+    },
+    {
+      "text": "You wouldn't happen to know where I could find a water chip, would you?",
+      "source": "FishrMan02_1",
+      "target": "FishrMan04"
+    },
+    {
+      "text": "Runk!",
+      "source": "FishrMan03",
+      "target": "FishrMan19"
+    },
+    {
+      "text": "Okay.",
+      "source": "FishrMan03",
+      "target": "FishrMan16"
+    },
+    {
+      "text": "Has anyone ever told you that you ramble on?",
+      "source": "FishrMan03",
+      "target": "FishrMan15"
+    },
+    {
+      "text": "I'm looking for information.",
+      "source": "FishrMan03",
+      "target": "FishrMan03a"
+    },
+    {
+      "text": "You wouldn't know anything about mutant armies, would you?",
+      "source": "FishrMan14",
+      "target": "FishrManEnd2"
+    },
+    {
+      "text": "You wouldn't know anything about mutant armies, would you?",
+      "source": "FishrMan06",
+      "target": "FishrManEnd1"
+    },
+    {
+      "text": "You wouldn't know anything about mutant armies, would you?",
+      "source": "FishrMan11",
+      "target": "FishrManEnd2"
+    },
+    {
+      "text": "",
+      "source": "BigUpReact",
+      "target": "ReactToLevel"
+    },
+    {
+      "text": "Shut up and die!",
+      "source": "FishrMan08",
+      "target": "FishrManCombat"
+    },
+    {
+      "text": "Fine. I'll leave you in peace.",
+      "source": "FishrMan08",
+      "target": "FishrMan22"
+    },
+    {
+      "text": "",
+      "source": "FishrMan08",
+      "target": "DownReactLevel"
+    },
+    {
+      "text": "I'm not walking away, and you won't be walking at all unless you do  what I say.",
+      "source": "FishrMan08",
+      "target": "FishrMan08a"
+    },
+    {
+      "text": "",
+      "source": "UpReactLevel",
+      "target": "LevelToReact"
+    },
+    {
+      "text": "You wouldn't know anything about mutant armies, would you?",
+      "source": "FishrMan12a",
+      "target": "FishrManEnd2"
+    },
+    {
+      "text": "You wouldn't know anything about mutant armies, would you?",
+      "source": "FishrMan15",
+      "target": "FishrMan15a"
+    },
+    {
+      "text": "You wouldn't know anything about mutant armies, would you?",
+      "source": "FishrMan07a",
+      "target": "FishrManEnd1"
+    },
+    {
+      "text": "You wouldn't know anything about mutant armies, would you?",
+      "source": "FishrMan04a",
+      "target": "FishrMan04b"
+    },
+    {
+      "text": "What can you tell me about the Brotherhood?",
+      "source": "FishrMan17",
+      "target": "FishrMan23"
+    },
+    {
+      "text": "I'm trying to find out about some mutant armies.",
+      "source": "FishrMan17",
+      "target": "FishrMan11"
+    },
+    {
+      "text": "I'm trying to find a water chip.",
+      "source": "FishrMan17",
+      "target": "FishrMan04"
+    },
+    {
+      "text": "How's the fishing?",
+      "source": "FishrMan17",
+      "target": "FishrMan07"
+    },
+    {
+      "text": "What can you tell me about the Boneyard?",
+      "source": "FishrMan17",
+      "target": "FishrMan24"
+    },
+    {
+      "text": "You wouldn't know anything about mutant armies, would you?",
+      "source": "FishrMan12",
+      "target": "FishrMan12a"
+    },
+    {
+      "text": "",
+      "source": "FishrMan03a",
+      "target": "FishrMan18"
+    },
+    {
+      "text": "",
+      "source": "FishrMan03a",
+      "target": "FishrMan17"
+    },
+    {
+      "text": "",
+      "source": "FishrMan13",
+      "target": "FishrManBarter"
+    },
+    {
+      "text": "",
+      "source": "FishrMan08a",
+      "target": "FishrMan21"
+    },
+    {
+      "text": "",
+      "source": "FishrMan08a",
+      "target": "FishrMan20"
+    },
+    {
+      "text": "",
+      "source": "UpReact",
+      "target": "ReactToLevel"
+    },
+    {
+      "text": "You wouldn't know anything about mutant armies, would you?",
+      "source": "FishrMan04b",
+      "target": "FishrManEnd1"
+    },
+    {
+      "text": "You wouldn't know anything about mutant armies, would you?",
+      "source": "FishrMan05",
+      "target": "FishrMan05a"
+    },
+    {
+      "text": "",
+      "source": "FishrMan20",
+      "target": "FishrManBarter"
+    },
+    {
+      "text": "",
+      "source": "FishrMan21",
+      "target": "FishrManCombat"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "FishrMan01_1"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "FishrMan25"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "FishrMan02_1"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "get_reaction"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "FishrMan03"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "FishrMan00"
+    },
+    {
+      "text": "You wouldn't know anything about mutant armies, would you?",
+      "source": "FishrMan09",
+      "target": "FishrMan09a_1"
+    },
+    {
+      "text": "",
+      "source": "BigDownReact",
+      "target": "ReactToLevel"
+    },
+    {
+      "text": "You wouldn't know anything about mutant armies, would you?",
+      "source": "FishrMan05a",
+      "target": "FishrManEnd1"
+    }
+  ]
+}

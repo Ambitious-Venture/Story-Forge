@@ -1,0 +1,159 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "",
+      "node_id": "node10",
+      "id": "Nightkin05a"
+    },
+    {
+      "text": "It is unwise to play games with the Nightkin. Get out of here!",
+      "node_id": "node7",
+      "id": "Nightkin02"
+    },
+    {
+      "text": "Do you not listen? It is unwise to ignore the Nightkin.",
+      "node_id": "node5",
+      "id": "Nightkin05"
+    },
+    {
+      "text": "",
+      "node_id": "node9",
+      "id": "Combat"
+    },
+    {
+      "text": "Die!",
+      "node_id": "node1_1",
+      "id": "start_1"
+    },
+    {
+      "text": "Go upstairs. Others of my kind will judge the worth of your message.",
+      "node_id": "node12",
+      "id": "Nightkin06"
+    },
+    {
+      "text": "Leave me or die!",
+      "node_id": "node2",
+      "id": "Nightkin01"
+    },
+    {
+      "text": "I do not think so.",
+      "node_id": "node8",
+      "id": "Nightkin03"
+    },
+    {
+      "text": "",
+      "node_id": "node6",
+      "id": "Nightkinend"
+    },
+    {
+      "text": "",
+      "node_id": "node3",
+      "id": "Nightkin01a"
+    },
+    {
+      "text": "I shall enjoy watching you die!",
+      "node_id": "node4",
+      "id": "Nightkin04"
+    },
+    {
+      "text": "This is your last warning!",
+      "node_id": "node11",
+      "id": "Nightkin07"
+    }
+  ],
+  "links": [
+    {
+      "text": "",
+      "source": "Nightkin05a",
+      "target": "Nightkin03"
+    },
+    {
+      "text": "",
+      "source": "Nightkin05a",
+      "target": "Nightkin06"
+    },
+    {
+      "text": "I must talk with you. It's urgent!",
+      "source": "Nightkin05",
+      "target": "Nightkin05a"
+    },
+    {
+      "text": "Nobody's ever accused me of being wise!",
+      "source": "Nightkin05",
+      "target": "Nightkin04"
+    },
+    {
+      "text": "I just want to speak with the man in charge!",
+      "source": "Nightkin05",
+      "target": "Nightkin07"
+    },
+    {
+      "text": "I'm sorry! Have a good day.",
+      "source": "Nightkin05",
+      "target": "Nightkinend"
+    },
+    {
+      "text": "",
+      "source": "start_1",
+      "target": "Nightkin01"
+    },
+    {
+      "text": "Okay. Me leave.",
+      "source": "Nightkin01",
+      "target": "Nightkinend"
+    },
+    {
+      "text": "I just wanted to compliment you on the great looking hump on your back. Your breath could use some work, though . . .",
+      "source": "Nightkin01",
+      "target": "Nightkin04"
+    },
+    {
+      "text": "I don't like your tone. If my message does not get to the Master, I will see to it that your death is slow and painful.",
+      "source": "Nightkin01",
+      "target": "Nightkin01a"
+    },
+    {
+      "text": "Could you direct me to the man in charge?",
+      "source": "Nightkin01",
+      "target": "Nightkin05"
+    },
+    {
+      "text": "",
+      "source": "Nightkin03",
+      "target": "Combat"
+    },
+    {
+      "text": "",
+      "source": "Nightkin01a",
+      "target": "Nightkin03"
+    },
+    {
+      "text": "",
+      "source": "Nightkin01a",
+      "target": "Nightkin02"
+    },
+    {
+      "text": "",
+      "source": "Nightkin04",
+      "target": "Combat"
+    },
+    {
+      "text": "You know what your mistake is? You give warnings. I don't. Die!",
+      "source": "Nightkin07",
+      "target": "Combat"
+    },
+    {
+      "text": "Okay! Okay! I'm sorry! Have a good day.",
+      "source": "Nightkin07",
+      "target": "Nightkinend"
+    },
+    {
+      "text": "Sure it is! Big deal . . .",
+      "source": "Nightkin07",
+      "target": "Nightkin04"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "Click... (The door unlocks.)",
+      "node_id": "node14",
+      "id": "Node002"
+    },
+    {
+      "text": "Sorry, we don't need any of that.",
+      "node_id": "node13",
+      "id": "Node003"
+    },
+    {
+      "text": "",
+      "node_id": "node11",
+      "id": "talk_p_proc"
+    },
+    {
+      "text": "(You notice a small hole in the door where sound seems to be coming from.) Hello?",
+      "node_id": "node12",
+      "id": "Node001"
+    }
+  ],
+  "links": [
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node001"
+    },
+    {
+      "text": "Uhh, hello?",
+      "source": "Node001",
+      "target": "Node003"
+    },
+    {
+      "text": "GANG PROBLEM LIMB.",
+      "source": "Node001",
+      "target": "Node002"
+    }
+  ]
+}

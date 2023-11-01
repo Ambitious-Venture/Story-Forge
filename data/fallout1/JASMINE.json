@@ -1,0 +1,24 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "",
+      "node_id": "node7",
+      "id": "combat"
+    },
+    {
+      "text": "Let me get this straight; you're shooting my boss and my friends, and you want to talk? Get bent!",
+      "node_id": "node15",
+      "id": "Jasmine00"
+    }
+  ],
+  "links": [
+    {
+      "text": "",
+      "source": "Jasmine00",
+      "target": "combat"
+    }
+  ]
+}

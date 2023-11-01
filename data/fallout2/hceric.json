@@ -1,0 +1,454 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "Sorry. I'm just a little on edge. All these damn flies and no air conditioning. If I just had a little more power I'd be able to shake 'em... but I don't.",
+      "node_id": "node20",
+      "id": "Node004"
+    },
+    {
+      "text": "",
+      "node_id": "node33",
+      "id": "Node016a"
+    },
+    {
+      "text": "He said that, did he? Well, you tell him that the generator is uranium powered and that the miniscule amount of energy I require would barely register on the generator. And tell him I want my power!",
+      "node_id": "node29",
+      "id": "Node015"
+    },
+    {
+      "text": "I could scrape a little something together for you if you did it. I can't promise much, but then, it's not too huge a favor, either.",
+      "node_id": "node25",
+      "id": "Node009"
+    },
+    {
+      "text": "",
+      "node_id": "node30",
+      "id": "Node008a"
+    },
+    {
+      "text": "They come here because for some odd reason I exude fly nutrients. My body is rich with food for them, and this sweating just makes it worse.",
+      "node_id": "node23",
+      "id": "Node006"
+    },
+    {
+      "text": "",
+      "node_id": "node17",
+      "id": "Node998"
+    },
+    {
+      "text": "Do you think you can help me with my fly problem? I'd be very grateful.",
+      "node_id": "node9",
+      "id": "Node019"
+    },
+    {
+      "text": "Francis the mutant has a power fist. He keeps betting it in arm-wrestling contests. The problem is being stronger than him. If you're interested, I can give you some pills that should give you the edge over him.",
+      "node_id": "node35",
+      "id": "Node017"
+    },
+    {
+      "text": "You're done with the generator? Thank you so, so much. I can't even begin to describe how grateful I am.",
+      "node_id": "node7",
+      "id": "Node016"
+    },
+    {
+      "text": "I'm Eric. I used to run the hotel in town, but I had to sell it because of my fly problem. I also ran the tavern, but had to get out of that, too, for the same reason. Finally, I used to run the generator, but flies kept getting into it.",
+      "node_id": "node21",
+      "id": "Node014"
+    },
+    {
+      "text": "",
+      "node_id": "node5",
+      "id": "talk_p_proc"
+    },
+    {
+      "text": "Yes?",
+      "node_id": "node8",
+      "id": "Node008"
+    },
+    {
+      "text": "There's a power generating station downtown that controls the power to the city. If you could just go there and get permission to give me a little more energy for my air conditioning, I'd be grateful.",
+      "node_id": "node22",
+      "id": "Node005"
+    },
+    {
+      "text": "Close the door! Please! Go away and take those damn flies with you!",
+      "node_id": "node19",
+      "id": "Node003"
+    },
+    {
+      "text": "Then I'm doubly grateful. Oh... I hear you're looking for a GECK. Try asking around in NCR. It's to the south.",
+      "node_id": "node34",
+      "id": "Node021"
+    },
+    {
+      "text": "",
+      "node_id": "node18",
+      "id": "Node999"
+    },
+    {
+      "text": "Like this town needed any more hard luck. Like *I* needed any more.",
+      "node_id": "node6",
+      "id": "Node001"
+    },
+    {
+      "text": "Here's all the money I have... $150. Thank you.",
+      "node_id": "node36",
+      "id": "Node020"
+    },
+    {
+      "text": "I've tried that. I've tried everything. The only thing that keeps the flies off me is not to sweat... and when I don't have enough power to keep cool, I can't.",
+      "node_id": "node24",
+      "id": "Node007"
+    },
+    {
+      "text": "I can't tell you how grateful I am to you. Please let me know as soon as you're done so I can turn up the air conditioning and take a bath.",
+      "node_id": "node26",
+      "id": "Node010"
+    },
+    {
+      "text": "Please don't wait too long for this... I'm getting really sick of all these flies.",
+      "node_id": "node27",
+      "id": "Node011"
+    },
+    {
+      "text": "Come in already! Close the door behind you! Don't let in the flies!",
+      "node_id": "node10",
+      "id": "Node002"
+    },
+    {
+      "text": "These pills are called buffouts. They'll increase your strength, but your mind will suffer for a little bit. Don't take too many or you might get hooked. Good luck with the fist!",
+      "node_id": "node37",
+      "id": "Node018"
+    },
+    {
+      "text": "Thanks ever so much for your compassion. That's sarcasm, by the way, in case you hadn't noticed. Get the hell out of my house.",
+      "node_id": "node28",
+      "id": "Node012"
+    },
+    {
+      "text": "The power generator's on your left as you come into Broken Hills from the outside world. It's run by a guy named Brian, a lazy son of a bitch who does as little work as possible.",
+      "node_id": "node32",
+      "id": "Node013"
+    },
+    {
+      "text": "Oh yes. The flies have lessened, the air is cool, and I'm less sweaty. Better deal for everyone all around!",
+      "node_id": "node31",
+      "id": "Node022"
+    }
+  ],
+  "links": [
+    {
+      "text": "Who are you?",
+      "source": "Node004",
+      "target": "Node014"
+    },
+    {
+      "text": "How do you get the power?",
+      "source": "Node004",
+      "target": "Node005"
+    },
+    {
+      "text": "You could try bathing, you know.",
+      "source": "Node004",
+      "target": "Node007"
+    },
+    {
+      "text": "Why are the flies coming here?",
+      "source": "Node004",
+      "target": "Node006"
+    },
+    {
+      "text": "Tough luck for you, pal. So long.",
+      "source": "Node004",
+      "target": "Node999"
+    },
+    {
+      "text": "",
+      "source": "Node016a",
+      "target": "Node020"
+    },
+    {
+      "text": "",
+      "source": "Node016a",
+      "target": "Node017"
+    },
+    {
+      "text": "Will do! Nice speech!",
+      "source": "Node015",
+      "target": "Node999"
+    },
+    {
+      "text": "I'll tell him. I have other questions.",
+      "source": "Node015",
+      "target": "Node008"
+    },
+    {
+      "text": "Forget it. I don't want to do it.",
+      "source": "Node009",
+      "target": "Node012"
+    },
+    {
+      "text": "You've got a deal. Just make sure to have something for me when I get your power for you.",
+      "source": "Node009",
+      "target": "Node010"
+    },
+    {
+      "text": "Let me think about it.",
+      "source": "Node009",
+      "target": "Node011"
+    },
+    {
+      "text": "",
+      "source": "Node008a",
+      "target": "Node005"
+    },
+    {
+      "text": "",
+      "source": "Node008a",
+      "target": "Node013"
+    },
+    {
+      "text": "That's just plain nasty. Why not take a bath or something?",
+      "source": "Node006",
+      "target": "Node007"
+    },
+    {
+      "text": "I see. That's more than I needed to know. Goodbye.",
+      "source": "Node006",
+      "target": "Node999"
+    },
+    {
+      "text": "Then I'll be doing you a favor by killing you.",
+      "source": "Node006",
+      "target": "Node998"
+    },
+    {
+      "text": "How grateful?",
+      "source": "Node019",
+      "target": "Node009"
+    },
+    {
+      "text": "No way in hell.",
+      "source": "Node019",
+      "target": "Node012"
+    },
+    {
+      "text": "Sure thing.",
+      "source": "Node019",
+      "target": "Node010"
+    },
+    {
+      "text": "Let me think about it.",
+      "source": "Node019",
+      "target": "Node011"
+    },
+    {
+      "text": "I'd rather have cash, if you have it.",
+      "source": "Node017",
+      "target": "Node020"
+    },
+    {
+      "text": "I don't want a reward.",
+      "source": "Node017",
+      "target": "Node021"
+    },
+    {
+      "text": "Sure thing.",
+      "source": "Node017",
+      "target": "Node018"
+    },
+    {
+      "text": "The common way to express thanks is through gifts of money or equipment.",
+      "source": "Node016",
+      "target": "Node016a"
+    },
+    {
+      "text": "Don't, then. I'm fine with your thanks.",
+      "source": "Node016",
+      "target": "Node021"
+    },
+    {
+      "text": "I see. So long!",
+      "source": "Node014",
+      "target": "Node999"
+    },
+    {
+      "text": "That's an awful lot of jobs. I have more questions.",
+      "source": "Node014",
+      "target": "Node008"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node001"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node002"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node008"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node019"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node016"
+    },
+    {
+      "text": "Have you tried bathing?",
+      "source": "Node008",
+      "target": "Node007"
+    },
+    {
+      "text": "It's much nicer in here. Comfy?",
+      "source": "Node008",
+      "target": "Node022"
+    },
+    {
+      "text": "Where do the flies come from?",
+      "source": "Node008",
+      "target": "Node006"
+    },
+    {
+      "text": "Nothing. Forget it.",
+      "source": "Node008",
+      "target": "Node999"
+    },
+    {
+      "text": "Where's the power generator?",
+      "source": "Node008",
+      "target": "Node008a"
+    },
+    {
+      "text": "I talked to Brian and he said the power rations are so tight that he can't possibly allow you to increase your share.",
+      "source": "Node008",
+      "target": "Node015"
+    },
+    {
+      "text": "Who are you?",
+      "source": "Node008",
+      "target": "Node014"
+    },
+    {
+      "text": "Are you nuts? No way. Maybe you'll get so miserable you die. Do the world a favor.",
+      "source": "Node005",
+      "target": "Node012"
+    },
+    {
+      "text": "Yeah, I'll do it for you.",
+      "source": "Node005",
+      "target": "Node010"
+    },
+    {
+      "text": "I haven't got time. Maybe later.",
+      "source": "Node005",
+      "target": "Node011"
+    },
+    {
+      "text": "How grateful? Cash or equipment?",
+      "source": "Node005",
+      "target": "Node009"
+    },
+    {
+      "text": "D'okay!",
+      "source": "Node003",
+      "target": "Node999"
+    },
+    {
+      "text": "Thanks! Bye!",
+      "source": "Node021",
+      "target": "Node999"
+    },
+    {
+      "text": "No, thank you. So long.",
+      "source": "Node020",
+      "target": "Node999"
+    },
+    {
+      "text": "I see. Goodbye.",
+      "source": "Node007",
+      "target": "Node999"
+    },
+    {
+      "text": "I see. I have more questions.",
+      "source": "Node007",
+      "target": "Node008"
+    },
+    {
+      "text": "Will do. So long.",
+      "source": "Node010",
+      "target": "Node999"
+    },
+    {
+      "text": "Will do. I had some other questions.",
+      "source": "Node010",
+      "target": "Node008"
+    },
+    {
+      "text": "Sure. I'll let you know.",
+      "source": "Node011",
+      "target": "Node999"
+    },
+    {
+      "text": "Sure. I had some other questions.",
+      "source": "Node011",
+      "target": "Node008"
+    },
+    {
+      "text": "All right, all right. No need to shout.",
+      "source": "Node002",
+      "target": "Node004"
+    },
+    {
+      "text": "Dries? F-f-f!",
+      "source": "Node002",
+      "target": "Node003"
+    },
+    {
+      "text": "I'll let in all the damn flies I want. Loser.",
+      "source": "Node002",
+      "target": "Node999"
+    },
+    {
+      "text": "Thanks! So long!",
+      "source": "Node018",
+      "target": "Node999"
+    },
+    {
+      "text": "So long, fly boy!",
+      "source": "Node012",
+      "target": "Node999"
+    },
+    {
+      "text": "Why not go to hell and die?",
+      "source": "Node012",
+      "target": "Node998"
+    },
+    {
+      "text": "I see. Well, that's all for now.",
+      "source": "Node013",
+      "target": "Node999"
+    },
+    {
+      "text": "Sounds like a real piece of work. Thanks. I have more questions.",
+      "source": "Node013",
+      "target": "Node008"
+    },
+    {
+      "text": "I'll say. Well, that's all. So long!",
+      "source": "Node022",
+      "target": "Node999"
+    }
+  ]
+}

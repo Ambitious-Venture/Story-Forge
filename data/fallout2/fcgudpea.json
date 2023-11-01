@@ -1,0 +1,94 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "Long live the Emperor!",
+      "node_id": "node7",
+      "id": "Node004"
+    },
+    {
+      "text": "I don't think I like you.",
+      "node_id": "node9",
+      "id": "Node002"
+    },
+    {
+      "text": "",
+      "node_id": "node5",
+      "id": "talk_p_proc"
+    },
+    {
+      "text": "You're not a spy, are you?",
+      "node_id": "node12",
+      "id": "Node001"
+    },
+    {
+      "text": "",
+      "node_id": "node19",
+      "id": "timed_event_p_proc"
+    },
+    {
+      "text": "Son of a pig! Die!",
+      "node_id": "node6",
+      "id": "Node008"
+    },
+    {
+      "text": "Let us teach our children to be like the Dragon.",
+      "node_id": "node11",
+      "id": "Node005"
+    },
+    {
+      "text": "Ha ha! That bastard Lo Pan is dead!",
+      "node_id": "node8",
+      "id": "Node003"
+    },
+    {
+      "text": "You killed AHS-9? Good job!",
+      "node_id": "node10",
+      "id": "Node007"
+    }
+  ],
+  "links": [
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node001"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node003"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node002"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node008"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node005"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node004"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node007"
+    },
+    {
+      "text": "",
+      "source": "timed_event_p_proc",
+      "target": "talk_p_proc"
+    }
+  ]
+}

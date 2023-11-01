@@ -1,0 +1,144 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "You hear some sounds coming from within the caves.",
+      "node_id": "node6",
+      "id": "map_enter_p_proc"
+    },
+    {
+      "text": "",
+      "node_id": "node3",
+      "id": "Choose_Pid"
+    },
+    {
+      "text": "",
+      "node_id": "node11",
+      "id": "LoadCritterPos"
+    },
+    {
+      "text": "placeCritter(choose_enc_pid, choose_enc_sid, 24506)",
+      "node_id": "node17",
+      "id": "placeCritter(choose_enc_pid, choose_enc_sid, 24506)"
+    },
+    {
+      "text": "placeCritter(choose_enc_pid, choose_enc_sid, 14300)",
+      "node_id": "node19",
+      "id": "placeCritter(choose_enc_pid, choose_enc_sid, 14300)"
+    },
+    {
+      "text": "",
+      "node_id": "node8",
+      "id": "LoadChests"
+    },
+    {
+      "text": "placeCritter(choose_enc_pid, choose_enc_sid, 20266)",
+      "node_id": "node14",
+      "id": "placeCritter(choose_enc_pid, choose_enc_sid, 20266)"
+    },
+    {
+      "text": "placeCritter(choose_enc_pid, choose_enc_sid, 12666)",
+      "node_id": "node12",
+      "id": "placeCritter(choose_enc_pid, choose_enc_sid, 12666)"
+    },
+    {
+      "text": "",
+      "node_id": "node7",
+      "id": "LoadCritters"
+    },
+    {
+      "text": "",
+      "node_id": "node2",
+      "id": "Choose_Encounter"
+    },
+    {
+      "text": "placeCritter(choose_enc_pid, choose_enc_sid, 20326)",
+      "node_id": "node18",
+      "id": "placeCritter(choose_enc_pid, choose_enc_sid, 20326)"
+    },
+    {
+      "text": "placeCritter(choose_enc_pid, choose_enc_sid, 28901)",
+      "node_id": "node16",
+      "id": "placeCritter(choose_enc_pid, choose_enc_sid, 28901)"
+    },
+    {
+      "text": "placeCritter(choose_enc_pid, choose_enc_sid, 16067)",
+      "node_id": "node13",
+      "id": "placeCritter(choose_enc_pid, choose_enc_sid, 16067)"
+    },
+    {
+      "text": "placeCritter(choose_enc_pid, choose_enc_sid, 21888)",
+      "node_id": "node15",
+      "id": "placeCritter(choose_enc_pid, choose_enc_sid, 21888)"
+    }
+  ],
+  "links": [
+    {
+      "text": "",
+      "source": "map_enter_p_proc",
+      "target": "LoadChests"
+    },
+    {
+      "text": "",
+      "source": "map_enter_p_proc",
+      "target": "LoadCritters"
+    },
+    {
+      "text": "",
+      "source": "LoadCritterPos",
+      "target": "placeCritter(choose_enc_pid, choose_enc_sid, 16067)"
+    },
+    {
+      "text": "",
+      "source": "LoadCritterPos",
+      "target": "placeCritter(choose_enc_pid, choose_enc_sid, 20326)"
+    },
+    {
+      "text": "",
+      "source": "LoadCritterPos",
+      "target": "placeCritter(choose_enc_pid, choose_enc_sid, 14300)"
+    },
+    {
+      "text": "",
+      "source": "LoadCritterPos",
+      "target": "placeCritter(choose_enc_pid, choose_enc_sid, 24506)"
+    },
+    {
+      "text": "",
+      "source": "LoadCritterPos",
+      "target": "Choose_Pid"
+    },
+    {
+      "text": "",
+      "source": "LoadCritterPos",
+      "target": "placeCritter(choose_enc_pid, choose_enc_sid, 12666)"
+    },
+    {
+      "text": "",
+      "source": "LoadCritterPos",
+      "target": "placeCritter(choose_enc_pid, choose_enc_sid, 20266)"
+    },
+    {
+      "text": "",
+      "source": "LoadCritterPos",
+      "target": "placeCritter(choose_enc_pid, choose_enc_sid, 21888)"
+    },
+    {
+      "text": "",
+      "source": "LoadCritterPos",
+      "target": "placeCritter(choose_enc_pid, choose_enc_sid, 28901)"
+    },
+    {
+      "text": "",
+      "source": "LoadCritters",
+      "target": "LoadCritterPos"
+    },
+    {
+      "text": "",
+      "source": "LoadCritters",
+      "target": "Choose_Encounter"
+    }
+  ]
+}

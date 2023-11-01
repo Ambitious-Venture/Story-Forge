@@ -1,0 +1,144 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "Waaaaaah!",
+      "node_id": "node6",
+      "id": "Node004"
+    },
+    {
+      "text": "Is that your mommy?",
+      "node_id": "node8_8",
+      "id": "Node002_8"
+    },
+    {
+      "text": "Cute doggy! Good boy!",
+      "node_id": "node8_5",
+      "id": "Node002_5"
+    },
+    {
+      "text": "Eeeek! A zombie!",
+      "node_id": "node8_4",
+      "id": "Node002_4"
+    },
+    {
+      "text": "Eeeee! A monster!",
+      "node_id": "node8_6",
+      "id": "Node002_6"
+    },
+    {
+      "text": "",
+      "node_id": "node5",
+      "id": "talk_p_proc"
+    },
+    {
+      "text": "Help! There's a robot coming after me!",
+      "node_id": "node7",
+      "id": "Node003"
+    },
+    {
+      "text": "Ha ha! Four eyes! ::the kid's eyes widen as Marcus marches past::",
+      "node_id": "node8_1",
+      "id": "Node002_1"
+    },
+    {
+      "text": "Why is that man wearing a skirt?",
+      "node_id": "node8_2",
+      "id": "Node002_2"
+    },
+    {
+      "text": "Eeek! Tribal!",
+      "node_id": "node8_3",
+      "id": "Node002_3"
+    },
+    {
+      "text": "You look mean.",
+      "node_id": "node9",
+      "id": "Node001"
+    },
+    {
+      "text": "Lookit the dorky tagalong!",
+      "node_id": "node8_7",
+      "id": "Node002_7"
+    },
+    {
+      "text": "",
+      "node_id": "node16",
+      "id": "timed_event_p_proc"
+    },
+    {
+      "text": "Help! There's a robot coming after me!",
+      "node_id": "node8_9",
+      "id": "Node002_9"
+    }
+  ],
+  "links": [
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node002_1"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node002_8"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node001"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node003"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node002_4"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node002_7"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node002_2"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node002_5"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node002_6"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node004"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node002_9"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node002_3"
+    },
+    {
+      "text": "",
+      "source": "timed_event_p_proc",
+      "target": "talk_p_proc"
+    }
+  ]
+}

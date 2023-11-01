@@ -1,0 +1,54 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "",
+      "node_id": "node1",
+      "id": "start"
+    },
+    {
+      "text": "You flip some switches but can't get the radio channel selectors to change.",
+      "node_id": "node3_2",
+      "id": "use_p_proc_2"
+    },
+    {
+      "text": "You switch the radio channels off.",
+      "node_id": "node3_1",
+      "id": "use_p_proc_1"
+    },
+    {
+      "text": "It looks like the radio channels have been shut down.",
+      "node_id": "node2_1",
+      "id": "description_p_proc_1"
+    },
+    {
+      "text": "Radio channel control seems to be on.",
+      "node_id": "node2_2",
+      "id": "description_p_proc_2"
+    }
+  ],
+  "links": [
+    {
+      "text": "",
+      "source": "start",
+      "target": "use_p_proc_2"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "use_p_proc_1"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "description_p_proc_2"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "description_p_proc_1"
+    }
+  ]
+}

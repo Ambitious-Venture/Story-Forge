@@ -1,0 +1,34 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "We should take her to Harry. He has plans for all the women.",
+      "node_id": "node3_1",
+      "id": "do_dialogue_1"
+    },
+    {
+      "text": "It's some kind of huge super mutant creature! And it has a very large gun!",
+      "node_id": "node1",
+      "id": "start"
+    },
+    {
+      "text": "",
+      "node_id": "node2",
+      "id": "timeforwhat"
+    }
+  ],
+  "links": [
+    {
+      "text": "",
+      "source": "start",
+      "target": "do_dialogue_1"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "timeforwhat"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "You see an invading super mutant.",
+      "node_id": "node1",
+      "id": "start"
+    },
+    {
+      "text": "",
+      "node_id": "node5",
+      "id": "combat"
+    },
+    {
+      "text": "",
+      "node_id": "node2",
+      "id": "timetomove"
+    },
+    {
+      "text": "",
+      "node_id": "node4",
+      "id": "Critter_Action"
+    },
+    {
+      "text": "Stop!",
+      "node_id": "node3_1",
+      "id": "mutant00_1"
+    }
+  ],
+  "links": [
+    {
+      "text": "",
+      "source": "start",
+      "target": "Critter_Action"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "timetomove"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "mutant00_1"
+    },
+    {
+      "text": "",
+      "source": "Critter_Action",
+      "target": "mutant00_1"
+    },
+    {
+      "text": "",
+      "source": "mutant00_1",
+      "target": "combat"
+    }
+  ]
+}

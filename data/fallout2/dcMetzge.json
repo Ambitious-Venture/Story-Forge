@@ -1,0 +1,64 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "Damn girl, was that your first time?",
+      "node_id": "node20_4",
+      "id": "Node029_4"
+    },
+    {
+      "text": "Damn bitch, was that your first time? There's no way that was not your first time.",
+      "node_id": "node20_5",
+      "id": "Node029_5"
+    },
+    {
+      "text": "Very nice, maybe we can do it again sometime.",
+      "node_id": "node20_2",
+      "id": "Node029_2"
+    },
+    {
+      "text": "Damn! That was... very well spent money.",
+      "node_id": "node20_1",
+      "id": "Node029_1"
+    },
+    {
+      "text": "",
+      "node_id": "node19",
+      "id": "timed_event_p_proc"
+    },
+    {
+      "text": "Pretty good, I guess.",
+      "node_id": "node20_3",
+      "id": "Node029_3"
+    }
+  ],
+  "links": [
+    {
+      "text": "",
+      "source": "timed_event_p_proc",
+      "target": "Node029_1"
+    },
+    {
+      "text": "",
+      "source": "timed_event_p_proc",
+      "target": "Node029_4"
+    },
+    {
+      "text": "",
+      "source": "timed_event_p_proc",
+      "target": "Node029_5"
+    },
+    {
+      "text": "",
+      "source": "timed_event_p_proc",
+      "target": "Node029_3"
+    },
+    {
+      "text": "",
+      "source": "timed_event_p_proc",
+      "target": "Node029_2"
+    }
+  ]
+}

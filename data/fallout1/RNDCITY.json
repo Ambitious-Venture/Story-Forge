@@ -1,0 +1,179 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "",
+      "node_id": "node9",
+      "id": "Lighting"
+    },
+    {
+      "text": "A group of hostile gangers bursts forth!",
+      "node_id": "node6",
+      "id": "City5"
+    },
+    {
+      "text": "A large group of rats comes scurrying down the streets!",
+      "node_id": "node5",
+      "id": "City4"
+    },
+    {
+      "text": "",
+      "node_id": "node1",
+      "id": "start"
+    },
+    {
+      "text": "Looks like you've stumbled into a gang war!",
+      "node_id": "node3",
+      "id": "City2"
+    },
+    {
+      "text": "You have stumbled into a super mutant ambush!",
+      "node_id": "node2",
+      "id": "City1"
+    },
+    {
+      "text": "A group of hostile raiders bursts forth!",
+      "node_id": "node4",
+      "id": "City3"
+    },
+    {
+      "text": "",
+      "node_id": "node8",
+      "id": "hunters"
+    },
+    {
+      "text": "",
+      "node_id": "node11",
+      "id": "Place_critter"
+    },
+    {
+      "text": "You are suddenly attacked by rats!",
+      "node_id": "node7",
+      "id": "City6"
+    },
+    {
+      "text": "",
+      "node_id": "node10",
+      "id": "stranger"
+    }
+  ],
+  "links": [
+    {
+      "text": "",
+      "source": "City5",
+      "target": "Place_critter"
+    },
+    {
+      "text": "",
+      "source": "City5",
+      "target": "stranger"
+    },
+    {
+      "text": "",
+      "source": "City4",
+      "target": "Place_critter"
+    },
+    {
+      "text": "",
+      "source": "City4",
+      "target": "stranger"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "City1"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "City2"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "City5"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "hunters"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "Lighting"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "City6"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "City4"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "City3"
+    },
+    {
+      "text": "",
+      "source": "City2",
+      "target": "stranger"
+    },
+    {
+      "text": "",
+      "source": "City2",
+      "target": "Place_critter"
+    },
+    {
+      "text": "",
+      "source": "City1",
+      "target": "Place_critter"
+    },
+    {
+      "text": "",
+      "source": "City1",
+      "target": "stranger"
+    },
+    {
+      "text": "",
+      "source": "City3",
+      "target": "Place_critter"
+    },
+    {
+      "text": "",
+      "source": "City3",
+      "target": "stranger"
+    },
+    {
+      "text": "",
+      "source": "hunters",
+      "target": "Place_critter"
+    },
+    {
+      "text": "",
+      "source": "hunters",
+      "target": "stranger"
+    },
+    {
+      "text": "",
+      "source": "City6",
+      "target": "Place_critter"
+    },
+    {
+      "text": "",
+      "source": "City6",
+      "target": "stranger"
+    },
+    {
+      "text": "",
+      "source": "stranger",
+      "target": "Place_critter"
+    }
+  ]
+}

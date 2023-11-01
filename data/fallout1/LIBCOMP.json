@@ -1,0 +1,64 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "You spend some time researching some important information.",
+      "node_id": "node4_2",
+      "id": "use_skill_on_p_proc_2"
+    },
+    {
+      "text": "",
+      "node_id": "node1",
+      "id": "start"
+    },
+    {
+      "text": "You fiddle with the computer a bit, but it takes some scientific skill to actually get anything useful out of the terminal.",
+      "node_id": "node3",
+      "id": "use_p_proc"
+    },
+    {
+      "text": "You spend some time on the Vault computer teaching system but learn nothing of importance. The outside world is your teacher now.",
+      "node_id": "node4_1",
+      "id": "use_skill_on_p_proc_1"
+    },
+    {
+      "text": "You spend some time on the interweb doing nothing of importance.",
+      "node_id": "node4_3",
+      "id": "use_skill_on_p_proc_3"
+    },
+    {
+      "text": "This computer contains a great amount of information preserved from before the Great War.",
+      "node_id": "node2",
+      "id": "description_p_proc"
+    }
+  ],
+  "links": [
+    {
+      "text": "",
+      "source": "start",
+      "target": "description_p_proc"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "use_skill_on_p_proc_3"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "use_skill_on_p_proc_1"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "use_p_proc"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "use_skill_on_p_proc_2"
+    }
+  ]
+}

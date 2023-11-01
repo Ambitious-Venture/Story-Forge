@@ -1,0 +1,394 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "I don't want anything that belongs to a coward, including your life! Get  out of my sight!",
+      "node_id": "node17",
+      "id": "LoneRaid10"
+    },
+    {
+      "text": "",
+      "node_id": "node1",
+      "id": "start"
+    },
+    {
+      "text": "You are too strong for me, and I am tired by many days in the wastes. I do not wish to die. Though it shames me, I surrender.",
+      "node_id": "node20",
+      "id": "LoneRaid08"
+    },
+    {
+      "text": "I shall enjoy hearing them. Farewell, brother!",
+      "node_id": "node22",
+      "id": "LoneRaid13"
+    },
+    {
+      "text": "I am tired and weary from a journey many days longer than I expected. Rad scorpions killed my companions. I long for the comforts of the camp and the healing caress of our women.",
+      "node_id": "node24",
+      "id": "LoneRaid16"
+    },
+    {
+      "text": "",
+      "node_id": "node21",
+      "id": "LoneRaidCombat"
+    },
+    {
+      "text": "That is good. I long to avenge our dead, and even the dead of Shady Sands. Any mutant that crosses my path will die! Go forth, friend! Go forth and kill!  Death to the mutants!",
+      "node_id": "node31",
+      "id": "LoneRaid21"
+    },
+    {
+      "text": "No, but it is hard to tell. I have heard that they cloak themselves in night, that they cloud men's minds, and take the form of beautiful women!  We are all doomed!",
+      "node_id": "node30",
+      "id": "LoneRaid20"
+    },
+    {
+      "text": "",
+      "node_id": "node33",
+      "id": "LoneRaidLoot"
+    },
+    {
+      "text": "Hail brother Khan! How goes the hunt? Have many weaklings died today?",
+      "node_id": "node12",
+      "id": "LoneRaid04"
+    },
+    {
+      "text": "I don't know who you are, but I'll give you a fair warning: anyone who messes with the Khans, dies messy.",
+      "node_id": "node13",
+      "id": "LoneRaid03"
+    },
+    {
+      "text": "I agree. I give my word that you may go in peace, provided that you do not provoke me. Do not trouble me again.",
+      "node_id": "node16",
+      "id": "LoneRaid09"
+    },
+    {
+      "text": "You've beaten me! What more do you want, dammit!",
+      "node_id": "node7",
+      "id": "LoneRaid01"
+    },
+    {
+      "text": "",
+      "node_id": "node6",
+      "id": "flee_dude"
+    },
+    {
+      "text": "May fortune again find favor with you. Farewell, my brother.",
+      "node_id": "node25",
+      "id": "LoneRaid17"
+    },
+    {
+      "text": "",
+      "node_id": "node3",
+      "id": "destroy_p_proc"
+    },
+    {
+      "text": "You stupid animal. I shall enjoy killing you.",
+      "node_id": "node18",
+      "id": "LoneRaid11"
+    },
+    {
+      "text": "You are an enemy of the Khans! You attack our warriors and take our women! Give me a reason why I shouldn't cut out your heart!",
+      "node_id": "node11",
+      "id": "LoneRaid05"
+    },
+    {
+      "text": "I don't got nothing to say! Talk is for the weak!",
+      "node_id": "node9",
+      "id": "LoneRaid02"
+    },
+    {
+      "text": "Yes, I have heard that fortune heavily favors you. It is for that reason alone that I do not challenge you for your spoils. Farewell, my brother! May we next meet side by side in battle.",
+      "node_id": "node27",
+      "id": "LoneRaid15"
+    },
+    {
+      "text": "Really? Then I must have it for my own!",
+      "node_id": "node26",
+      "id": "LoneRaid14"
+    },
+    {
+      "text": "I shall enjoy hearing them. Farewell, brother!",
+      "node_id": "node19",
+      "id": "LoneRaid12"
+    },
+    {
+      "text": "Just because you've got a weapon drawn doesn't mean that I'm gonna give  you what you want . . .",
+      "node_id": "node8",
+      "id": "LoneRaid00"
+    },
+    {
+      "text": "You will die for those words!",
+      "node_id": "node32",
+      "id": "LoneRaid22"
+    },
+    {
+      "text": "",
+      "node_id": "node2",
+      "id": "critter_p_proc"
+    },
+    {
+      "text": "Are you one of them? One of the mutants?",
+      "node_id": "node10",
+      "id": "LoneRaid06"
+    },
+    {
+      "text": "",
+      "node_id": "node4",
+      "id": "pickup_p_proc"
+    },
+    {
+      "text": "",
+      "node_id": "node23",
+      "id": "LoneRaid04a"
+    },
+    {
+      "text": "They have destroyed Shady Sands. They kill anyone in their path. I never dreamt such ferocity existed. We are all doomed . . .",
+      "node_id": "node28",
+      "id": "LoneRaid18"
+    },
+    {
+      "text": "",
+      "node_id": "node15",
+      "id": "LoneRaid03a"
+    },
+    {
+      "text": "",
+      "node_id": "node5",
+      "id": "talk_p_proc"
+    },
+    {
+      "text": "Murdering dog!",
+      "node_id": "node29",
+      "id": "LoneRaid19"
+    },
+    {
+      "text": "Perhaps. If you wish to fight, I'll fight. If you wish to go in peace, you have my word as a Khan that I will not attack.",
+      "node_id": "node14",
+      "id": "LoneRaid07"
+    },
+    {
+      "text": "",
+      "node_id": "node34",
+      "id": "LoneRaidEnd"
+    }
+  ],
+  "links": [
+    {
+      "text": "",
+      "source": "start",
+      "target": "pickup_p_proc"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "destroy_p_proc"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "talk_p_proc"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "critter_p_proc"
+    },
+    {
+      "text": "Fine. Let's not mess with each other, and we'll be happy.",
+      "source": "LoneRaid08",
+      "target": "LoneRaidLoot"
+    },
+    {
+      "text": "I don't know who you are, but I'll give you a fair warning: anyone who messes with the Khans, dies messy.",
+      "source": "LoneRaidLoot",
+      "target": "LoneRaidEnd"
+    },
+    {
+      "text": "I've done better . . .",
+      "source": "LoneRaid04",
+      "target": "LoneRaid17"
+    },
+    {
+      "text": "I will save my boasts for the campfire, but I have many tales to tell!",
+      "source": "LoneRaid04",
+      "target": "LoneRaid13"
+    },
+    {
+      "text": "I have seen much blood and taken much plunder.",
+      "source": "LoneRaid04",
+      "target": "LoneRaid04a"
+    },
+    {
+      "text": "Not bad. How about you?",
+      "source": "LoneRaid04",
+      "target": "LoneRaid16"
+    },
+    {
+      "text": "Huh?",
+      "source": "LoneRaid04",
+      "target": "LoneRaid12"
+    },
+    {
+      "text": "Hngrrr!",
+      "source": "LoneRaid03",
+      "target": "LoneRaid11"
+    },
+    {
+      "text": "Too bad. I'm messing with you!",
+      "source": "LoneRaid03",
+      "target": "LoneRaid03a"
+    },
+    {
+      "text": "I surrender. Please don't kill me!",
+      "source": "LoneRaid03",
+      "target": "LoneRaid10"
+    },
+    {
+      "text": "You know, if you really thought you were stronger, you'd kill me.",
+      "source": "LoneRaid03",
+      "target": "LoneRaid07"
+    },
+    {
+      "text": "Fine. Let's not mess with each other, and we'll be happy.",
+      "source": "LoneRaid03",
+      "target": "LoneRaid09"
+    },
+    {
+      "text": "Huh?",
+      "source": "LoneRaid03",
+      "target": "LoneRaid12"
+    },
+    {
+      "text": "Cut the bravado. Where's Tandi? Tell me, or you die!",
+      "source": "LoneRaid05",
+      "target": "LoneRaid18"
+    },
+    {
+      "text": "Hngrrr!",
+      "source": "LoneRaid05",
+      "target": "LoneRaid11"
+    },
+    {
+      "text": "I'm in no condition to fight. I surrender.",
+      "source": "LoneRaid05",
+      "target": "LoneRaid10"
+    },
+    {
+      "text": "Can't think of anything. Let's fight!",
+      "source": "LoneRaid05",
+      "target": "LoneRaid03a"
+    },
+    {
+      "text": "Because we'll both live if you don't try.",
+      "source": "LoneRaid05",
+      "target": "LoneRaid09"
+    },
+    {
+      "text": "Huh?",
+      "source": "LoneRaid05",
+      "target": "LoneRaid12"
+    },
+    {
+      "text": "",
+      "source": "critter_p_proc",
+      "target": "flee_dude"
+    },
+    {
+      "text": "Huh?",
+      "source": "LoneRaid06",
+      "target": "LoneRaid12"
+    },
+    {
+      "text": "Yeah, I'm a mutant!",
+      "source": "LoneRaid06",
+      "target": "LoneRaid19"
+    },
+    {
+      "text": "What do you know about mutants?",
+      "source": "LoneRaid06",
+      "target": "LoneRaid18"
+    },
+    {
+      "text": "No.",
+      "source": "LoneRaid06",
+      "target": "LoneRaid21"
+    },
+    {
+      "text": "Do I look like a mutant to you?",
+      "source": "LoneRaid06",
+      "target": "LoneRaid20"
+    },
+    {
+      "text": "",
+      "source": "LoneRaid04a",
+      "target": "LoneRaid15"
+    },
+    {
+      "text": "",
+      "source": "LoneRaid04a",
+      "target": "LoneRaid14"
+    },
+    {
+      "text": "",
+      "source": "LoneRaid03a",
+      "target": "LoneRaid08"
+    },
+    {
+      "text": "",
+      "source": "LoneRaid03a",
+      "target": "LoneRaidCombat"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "LoneRaid04"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "LoneRaid05"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "LoneRaid02"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "LoneRaid00"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "LoneRaid03"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "LoneRaid06"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "LoneRaid01"
+    },
+    {
+      "text": "Let's fight.",
+      "source": "LoneRaid07",
+      "target": "LoneRaid03a"
+    },
+    {
+      "text": "Let's not fight.",
+      "source": "LoneRaid07",
+      "target": "LoneRaid09"
+    },
+    {
+      "text": "Word of a Khan? What a joke!",
+      "source": "LoneRaid07",
+      "target": "LoneRaid22"
+    }
+  ]
+}

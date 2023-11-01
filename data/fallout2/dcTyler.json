@@ -1,0 +1,1314 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "Hey, what's up? Almost time for that party.",
+      "node_id": "node12",
+      "id": "Node024"
+    },
+    {
+      "text": "You see Tyler.",
+      "node_id": "node39_1",
+      "id": "Node009_1"
+    },
+    {
+      "text": "You see Tyler, the leader of this gang.",
+      "node_id": "node41_5",
+      "id": "Node011_5"
+    },
+    {
+      "text": "You see Tyler.",
+      "node_id": "node43_5",
+      "id": "Node015_5"
+    },
+    {
+      "text": "Sure he did. I've never seen you around here before. Now, beat it.",
+      "node_id": "node36",
+      "id": "Node008"
+    },
+    {
+      "text": "You see Tyler.",
+      "node_id": "node48_3",
+      "id": "Node020_3"
+    },
+    {
+      "text": "You see Tyler.",
+      "node_id": "node45_1",
+      "id": "Node017_1"
+    },
+    {
+      "text": "You see Tyler.",
+      "node_id": "node41_4",
+      "id": "Node011_4"
+    },
+    {
+      "text": "Yeah, fuck you. It depends on what it is. You tell me, then I'll decide if I pay you anything for it.",
+      "node_id": "node53",
+      "id": "Node028"
+    },
+    {
+      "text": "You see Tyler, the leader of this gang.",
+      "node_id": "node40_6",
+      "id": "Node010_6"
+    },
+    {
+      "text": "You see Tyler, the leader of this gang.",
+      "node_id": "node48_4",
+      "id": "Node020_4"
+    },
+    {
+      "text": "",
+      "node_id": "node34",
+      "id": "Node990"
+    },
+    {
+      "text": "You see Tyler, the leader of this gang.",
+      "node_id": "node45_2",
+      "id": "Node017_2"
+    },
+    {
+      "text": "You see Tyler, the leader of this gang.",
+      "node_id": "node43_6",
+      "id": "Node015_6"
+    },
+    {
+      "text": "You see Tyler.",
+      "node_id": "node43_3",
+      "id": "Node015_3"
+    },
+    {
+      "text": "Beat it.",
+      "node_id": "node15",
+      "id": "Node012"
+    },
+    {
+      "text": "Beat it, bitch. Metzger wouldn't have sent a woman anyhow, so take a hike.",
+      "node_id": "node41_1",
+      "id": "Node011_1"
+    },
+    {
+      "text": "You see Tyler, the leader of this gang.",
+      "node_id": "node48_7",
+      "id": "Node020_7"
+    },
+    {
+      "text": "You see Tyler, the leader of this gang.",
+      "node_id": "node39_4",
+      "id": "Node009_4"
+    },
+    {
+      "text": "",
+      "node_id": "node10",
+      "id": "Node004"
+    },
+    {
+      "text": "",
+      "node_id": "node35",
+      "id": "Node989"
+    },
+    {
+      "text": "You see Tyler, the leader of this gang.",
+      "node_id": "node45_4",
+      "id": "Node017_4"
+    },
+    {
+      "text": "What now?",
+      "node_id": "node13_2",
+      "id": "Node018_2"
+    },
+    {
+      "text": "",
+      "node_id": "node38",
+      "id": "Node987"
+    },
+    {
+      "text": "Actually, great! Almost forgot - a buddy of mine won it big at the tables and he's sharing the wealth, if you know what I mean.",
+      "node_id": "node47",
+      "id": "Node019"
+    },
+    {
+      "text": "Beat it, freak.",
+      "node_id": "node33",
+      "id": "Node014"
+    },
+    {
+      "text": "You see Tyler.",
+      "node_id": "node39_5",
+      "id": "Node009_5"
+    },
+    {
+      "text": "You see Tyler, the leader of this gang.",
+      "node_id": "node41_7",
+      "id": "Node011_7"
+    },
+    {
+      "text": "You see Tyler.",
+      "node_id": "node43_1",
+      "id": "Node015_1"
+    },
+    {
+      "text": "Hey, don't touch the fucking door.",
+      "node_id": "node48_5",
+      "id": "Node020_5"
+    },
+    {
+      "text": "You see Tyler, the leader of this gang.",
+      "node_id": "node45_6",
+      "id": "Node017_6"
+    },
+    {
+      "text": "",
+      "node_id": "node30",
+      "id": "Node999"
+    },
+    {
+      "text": "You see Tyler.",
+      "node_id": "node41_2",
+      "id": "Node011_2"
+    },
+    {
+      "text": "You see Tyler.",
+      "node_id": "node48_6",
+      "id": "Node020_6"
+    },
+    {
+      "text": "You see Tyler.",
+      "node_id": "node40_1",
+      "id": "Node010_1"
+    },
+    {
+      "text": "Oh, yeah? What's that?",
+      "node_id": "node51",
+      "id": "Node026"
+    },
+    {
+      "text": "Look, I don't give a rat's ass what you are. I'm not giving you a dollar until after they show. We'll do the fighting, but you better be sure they show.",
+      "node_id": "node56",
+      "id": "Node031"
+    },
+    {
+      "text": "Damn, what the hell's wrong with you today? Lay off the chems.",
+      "node_id": "node52_1",
+      "id": "Node025_1"
+    },
+    {
+      "text": "Now we finish it.",
+      "node_id": "node7",
+      "id": "Node002"
+    },
+    {
+      "text": "That's nice. Me Tyler. Me go bye bye.",
+      "node_id": "node42",
+      "id": "Node013"
+    },
+    {
+      "text": "You see Tyler, the leader of this gang.",
+      "node_id": "node40_4",
+      "id": "Node010_4"
+    },
+    {
+      "text": "You see Tyler.",
+      "node_id": "node41_6",
+      "id": "Node011_6"
+    },
+    {
+      "text": "You see Tyler, the leader of this gang.",
+      "node_id": "node40_2",
+      "id": "Node010_2"
+    },
+    {
+      "text": "You see Tyler, the leader of this gang.",
+      "node_id": "node41_3",
+      "id": "Node011_3"
+    },
+    {
+      "text": "You fucking earned this. Here's your money. I've been wanting to finish them off  for a while.",
+      "node_id": "node9",
+      "id": "Node027"
+    },
+    {
+      "text": "Beat it, tough guy, before I get angry on Your face.",
+      "node_id": "node48_8",
+      "id": "Node020_8"
+    },
+    {
+      "text": "You see Tyler.",
+      "node_id": "node39_3",
+      "id": "Node009_3"
+    },
+    {
+      "text": "Yeah, I bet you are. Who sent you?",
+      "node_id": "node32",
+      "id": "Node016"
+    },
+    {
+      "text": "Oh really? So that bitch has got some balls after all? Well, that's worth a $100.",
+      "node_id": "node54",
+      "id": "Node029"
+    },
+    {
+      "text": "",
+      "node_id": "node11",
+      "id": "Node005"
+    },
+    {
+      "text": "You see Tyler.",
+      "node_id": "node48_9",
+      "id": "Node020_9"
+    },
+    {
+      "text": "You see Tyler.",
+      "node_id": "node48_1",
+      "id": "Node020_1"
+    },
+    {
+      "text": "Me !",
+      "node_id": "node17_1",
+      "id": "Node006_1"
+    },
+    {
+      "text": "You see Tyler.",
+      "node_id": "node40_3",
+      "id": "Node010_3"
+    },
+    {
+      "text": "You see Tyler, the leader of this gang.",
+      "node_id": "node48_2",
+      "id": "Node020_2"
+    },
+    {
+      "text": "",
+      "node_id": "node37",
+      "id": "Node988"
+    },
+    {
+      "text": "You see Tyler, the leader of this gang.",
+      "node_id": "node39_6",
+      "id": "Node009_6"
+    },
+    {
+      "text": "What the hell for? His stuff's not going anywhere.",
+      "node_id": "node31_1",
+      "id": "Node007_1"
+    },
+    {
+      "text": "You see Tyler, the leader of this gang.",
+      "node_id": "node43_4",
+      "id": "Node015_4"
+    },
+    {
+      "text": "Moron.",
+      "node_id": "node26_1",
+      "id": "Node001_1"
+    },
+    {
+      "text": "",
+      "node_id": "node50",
+      "id": "Node022"
+    },
+    {
+      "text": "",
+      "node_id": "node5",
+      "id": "Node998"
+    },
+    {
+      "text": "You see Tyler, the leader of this gang.",
+      "node_id": "node48_10",
+      "id": "Node020_10"
+    },
+    {
+      "text": "",
+      "node_id": "node4",
+      "id": "pickup_p_proc"
+    },
+    {
+      "text": "",
+      "node_id": "node6",
+      "id": "talk_p_proc"
+    },
+    {
+      "text": "",
+      "node_id": "node8",
+      "id": "Node003"
+    },
+    {
+      "text": "You better believe it! We're going to drink until we drop!",
+      "node_id": "node49",
+      "id": "Node021"
+    },
+    {
+      "text": "",
+      "node_id": "node16",
+      "id": "Node032"
+    },
+    {
+      "text": "",
+      "node_id": "node14",
+      "id": "Node023"
+    },
+    {
+      "text": "You see Tyler.",
+      "node_id": "node45_5",
+      "id": "Node017_5"
+    },
+    {
+      "text": "Not so fast, slick. Just to be sure, we'll wait until after they show. You could be lying to me for all I know. You just be sure they show, and I'll pay you after.",
+      "node_id": "node55",
+      "id": "Node030"
+    },
+    {
+      "text": "",
+      "node_id": "node25",
+      "id": "timed_event_p_proc"
+    },
+    {
+      "text": "You see Tyler.",
+      "node_id": "node45_3",
+      "id": "Node017_3"
+    },
+    {
+      "text": "",
+      "node_id": "node46",
+      "id": "Node985"
+    },
+    {
+      "text": "You see Tyler, the leader of this gang.",
+      "node_id": "node43_2",
+      "id": "Node015_2"
+    },
+    {
+      "text": "You see Tyler, the leader of this gang.",
+      "node_id": "node39_2",
+      "id": "Node009_2"
+    },
+    {
+      "text": "",
+      "node_id": "node44",
+      "id": "Node986"
+    },
+    {
+      "text": "Yes?",
+      "node_id": "node13_1",
+      "id": "Node018_1"
+    },
+    {
+      "text": "You see Tyler.",
+      "node_id": "node40_5",
+      "id": "Node010_5"
+    }
+  ],
+  "links": [
+    {
+      "text": "Uhg.",
+      "source": "Node024",
+      "target": "Node025_1"
+    },
+    {
+      "text": "I have some information you might be interested in.",
+      "source": "Node024",
+      "target": "Node026"
+    },
+    {
+      "text": "Nothing.",
+      "source": "Node024",
+      "target": "Node999"
+    },
+    {
+      "text": "Bye.",
+      "source": "Node009_1",
+      "target": "Node999"
+    },
+    {
+      "text": "[Leave]",
+      "source": "Node011_5",
+      "target": "Node999"
+    },
+    {
+      "text": "Bitch? I'll show you what this bitch can do.",
+      "source": "Node011_5",
+      "target": "Node998"
+    },
+    {
+      "text": "Okay.",
+      "source": "Node015_5",
+      "target": "Node999"
+    },
+    {
+      "text": "Okay.",
+      "source": "Node008",
+      "target": "Node999"
+    },
+    {
+      "text": "Look, he had me come into town just to inspect his damn stuff. I could care less.",
+      "source": "Node008",
+      "target": "Node987"
+    },
+    {
+      "text": "Let me in there now, before I have to get angry on your face!",
+      "source": "Node008",
+      "target": "Node988"
+    },
+    {
+      "text": "Down a few brews for me.",
+      "source": "Node020_3",
+      "target": "Node021"
+    },
+    {
+      "text": "See ya.",
+      "source": "Node020_3",
+      "target": "Node999"
+    },
+    {
+      "text": "But...",
+      "source": "Node017_1",
+      "target": "Node999"
+    },
+    {
+      "text": "Bitch? I'll show you what this bitch can do.",
+      "source": "Node011_4",
+      "target": "Node998"
+    },
+    {
+      "text": "[Leave]",
+      "source": "Node011_4",
+      "target": "Node999"
+    },
+    {
+      "text": "Lara's planning on hitting this place tonight.",
+      "source": "Node028",
+      "target": "Node029"
+    },
+    {
+      "text": "No, sorry.",
+      "source": "Node028",
+      "target": "Node999"
+    },
+    {
+      "text": "Grrrr.",
+      "source": "Node010_6",
+      "target": "Node999"
+    },
+    {
+      "text": "Down a few brews for me.",
+      "source": "Node020_4",
+      "target": "Node021"
+    },
+    {
+      "text": "See ya.",
+      "source": "Node020_4",
+      "target": "Node999"
+    },
+    {
+      "text": "",
+      "source": "Node990",
+      "target": "Node009_3"
+    },
+    {
+      "text": "",
+      "source": "Node990",
+      "target": "Node009_6"
+    },
+    {
+      "text": "",
+      "source": "Node990",
+      "target": "Node008"
+    },
+    {
+      "text": "",
+      "source": "Node990",
+      "target": "Node009_4"
+    },
+    {
+      "text": "",
+      "source": "Node990",
+      "target": "Node009_2"
+    },
+    {
+      "text": "",
+      "source": "Node990",
+      "target": "Node009_5"
+    },
+    {
+      "text": "",
+      "source": "Node990",
+      "target": "Node009_1"
+    },
+    {
+      "text": "But...",
+      "source": "Node017_2",
+      "target": "Node999"
+    },
+    {
+      "text": "Okay.",
+      "source": "Node015_6",
+      "target": "Node999"
+    },
+    {
+      "text": "Okay.",
+      "source": "Node015_3",
+      "target": "Node999"
+    },
+    {
+      "text": "Bitch? I'll show you what this bitch can do.",
+      "source": "Node011_1",
+      "target": "Node998"
+    },
+    {
+      "text": "[Leave]",
+      "source": "Node011_1",
+      "target": "Node999"
+    },
+    {
+      "text": "Down a few brews for me.",
+      "source": "Node020_7",
+      "target": "Node021"
+    },
+    {
+      "text": "See ya.",
+      "source": "Node020_7",
+      "target": "Node999"
+    },
+    {
+      "text": "Bye.",
+      "source": "Node009_4",
+      "target": "Node999"
+    },
+    {
+      "text": "",
+      "source": "Node989",
+      "target": "Node009_1"
+    },
+    {
+      "text": "",
+      "source": "Node989",
+      "target": "Node009_6"
+    },
+    {
+      "text": "",
+      "source": "Node989",
+      "target": "Node008"
+    },
+    {
+      "text": "",
+      "source": "Node989",
+      "target": "Node009_3"
+    },
+    {
+      "text": "",
+      "source": "Node989",
+      "target": "Node009_4"
+    },
+    {
+      "text": "",
+      "source": "Node989",
+      "target": "Node009_2"
+    },
+    {
+      "text": "",
+      "source": "Node989",
+      "target": "Node009_5"
+    },
+    {
+      "text": "But...",
+      "source": "Node017_4",
+      "target": "Node999"
+    },
+    {
+      "text": "Sorry, gotta go.",
+      "source": "Node018_2",
+      "target": "Node999"
+    },
+    {
+      "text": "How's it going?",
+      "source": "Node018_2",
+      "target": "Node985"
+    },
+    {
+      "text": "Lub?",
+      "source": "Node018_2",
+      "target": "Node014"
+    },
+    {
+      "text": "",
+      "source": "Node987",
+      "target": "Node015_6"
+    },
+    {
+      "text": "",
+      "source": "Node987",
+      "target": "Node009_3"
+    },
+    {
+      "text": "",
+      "source": "Node987",
+      "target": "Node015_4"
+    },
+    {
+      "text": "",
+      "source": "Node987",
+      "target": "Node015_3"
+    },
+    {
+      "text": "",
+      "source": "Node987",
+      "target": "Node009_6"
+    },
+    {
+      "text": "",
+      "source": "Node987",
+      "target": "Node015_2"
+    },
+    {
+      "text": "",
+      "source": "Node987",
+      "target": "Node009_4"
+    },
+    {
+      "text": "",
+      "source": "Node987",
+      "target": "Node015_5"
+    },
+    {
+      "text": "",
+      "source": "Node987",
+      "target": "Node009_2"
+    },
+    {
+      "text": "",
+      "source": "Node987",
+      "target": "Node009_5"
+    },
+    {
+      "text": "",
+      "source": "Node987",
+      "target": "Node009_1"
+    },
+    {
+      "text": "",
+      "source": "Node987",
+      "target": "Node015_1"
+    },
+    {
+      "text": "Big plans, then?",
+      "source": "Node019",
+      "target": "Node020_9"
+    },
+    {
+      "text": "Big plans, then?",
+      "source": "Node019",
+      "target": "Node020_10"
+    },
+    {
+      "text": "Big plans, then?",
+      "source": "Node019",
+      "target": "Node020_4"
+    },
+    {
+      "text": "Big plans, then?",
+      "source": "Node019",
+      "target": "Node020_6"
+    },
+    {
+      "text": "Big plans, then?",
+      "source": "Node019",
+      "target": "Node020_8"
+    },
+    {
+      "text": "Big plans, then?",
+      "source": "Node019",
+      "target": "Node020_7"
+    },
+    {
+      "text": "Big plans, then?",
+      "source": "Node019",
+      "target": "Node020_1"
+    },
+    {
+      "text": "Big plans, then?",
+      "source": "Node019",
+      "target": "Node020_2"
+    },
+    {
+      "text": "Big plans, then?",
+      "source": "Node019",
+      "target": "Node020_3"
+    },
+    {
+      "text": "Big plans, then?",
+      "source": "Node019",
+      "target": "Node020_5"
+    },
+    {
+      "text": "Sukyu!",
+      "source": "Node014",
+      "target": "Node999"
+    },
+    {
+      "text": "Bye.",
+      "source": "Node009_5",
+      "target": "Node999"
+    },
+    {
+      "text": "[Leave]",
+      "source": "Node011_7",
+      "target": "Node999"
+    },
+    {
+      "text": "Bitch? I'll show you what this bitch can do.",
+      "source": "Node011_7",
+      "target": "Node998"
+    },
+    {
+      "text": "Okay.",
+      "source": "Node015_1",
+      "target": "Node999"
+    },
+    {
+      "text": "See ya.",
+      "source": "Node020_5",
+      "target": "Node999"
+    },
+    {
+      "text": "Down a few brews for me.",
+      "source": "Node020_5",
+      "target": "Node021"
+    },
+    {
+      "text": "But...",
+      "source": "Node017_6",
+      "target": "Node999"
+    },
+    {
+      "text": "[Leave]",
+      "source": "Node011_2",
+      "target": "Node999"
+    },
+    {
+      "text": "Bitch? I'll show you what this bitch can do.",
+      "source": "Node011_2",
+      "target": "Node998"
+    },
+    {
+      "text": "Down a few brews for me.",
+      "source": "Node020_6",
+      "target": "Node021"
+    },
+    {
+      "text": "See ya.",
+      "source": "Node020_6",
+      "target": "Node999"
+    },
+    {
+      "text": "Grrrr.",
+      "source": "Node010_1",
+      "target": "Node999"
+    },
+    {
+      "text": "It'll cost you.",
+      "source": "Node026",
+      "target": "Node028"
+    },
+    {
+      "text": "Lara's planning on hitting this place tonight.",
+      "source": "Node026",
+      "target": "Node029"
+    },
+    {
+      "text": "Wait a minute.",
+      "source": "Node026",
+      "target": "Node999"
+    },
+    {
+      "text": "Okay.",
+      "source": "Node031",
+      "target": "Node999"
+    },
+    {
+      "text": "[Grunt]",
+      "source": "Node025_1",
+      "target": "Node999"
+    },
+    {
+      "text": "Ur.",
+      "source": "Node013",
+      "target": "Node999"
+    },
+    {
+      "text": "Grrrr.",
+      "source": "Node010_4",
+      "target": "Node999"
+    },
+    {
+      "text": "[Leave]",
+      "source": "Node011_6",
+      "target": "Node999"
+    },
+    {
+      "text": "Bitch? I'll show you what this bitch can do.",
+      "source": "Node011_6",
+      "target": "Node998"
+    },
+    {
+      "text": "Grrrr.",
+      "source": "Node010_2",
+      "target": "Node999"
+    },
+    {
+      "text": "[Leave]",
+      "source": "Node011_3",
+      "target": "Node999"
+    },
+    {
+      "text": "Bitch? I'll show you what this bitch can do.",
+      "source": "Node011_3",
+      "target": "Node998"
+    },
+    {
+      "text": "See ya.",
+      "source": "Node020_8",
+      "target": "Node999"
+    },
+    {
+      "text": "Down a few brews for me.",
+      "source": "Node020_8",
+      "target": "Node021"
+    },
+    {
+      "text": "Bye.",
+      "source": "Node009_3",
+      "target": "Node999"
+    },
+    {
+      "text": "The pink panther.",
+      "source": "Node016",
+      "target": "Node017_6"
+    },
+    {
+      "text": "The pink panther.",
+      "source": "Node016",
+      "target": "Node017_3"
+    },
+    {
+      "text": "The pink panther.",
+      "source": "Node016",
+      "target": "Node017_1"
+    },
+    {
+      "text": "Okay, you'll regret that.",
+      "source": "Node016",
+      "target": "Node999"
+    },
+    {
+      "text": "The pink panther.",
+      "source": "Node016",
+      "target": "Node017_2"
+    },
+    {
+      "text": "The pink panther.",
+      "source": "Node016",
+      "target": "Node017_4"
+    },
+    {
+      "text": "The pink panther.",
+      "source": "Node016",
+      "target": "Node017_5"
+    },
+    {
+      "text": "Who do you think, moron? Now stop dicking around and let me in.",
+      "source": "Node016",
+      "target": "Node986"
+    },
+    {
+      "text": "Thanks.",
+      "source": "Node029",
+      "target": "Node030"
+    },
+    {
+      "text": "Down a few brews for me.",
+      "source": "Node020_9",
+      "target": "Node021"
+    },
+    {
+      "text": "See ya.",
+      "source": "Node020_9",
+      "target": "Node999"
+    },
+    {
+      "text": "Down a few brews for me.",
+      "source": "Node020_1",
+      "target": "Node021"
+    },
+    {
+      "text": "See ya.",
+      "source": "Node020_1",
+      "target": "Node999"
+    },
+    {
+      "text": "I'm here to inspect the church.",
+      "source": "Node006_1",
+      "target": "Node016"
+    },
+    {
+      "text": "I'll be back.",
+      "source": "Node006_1",
+      "target": "Node999"
+    },
+    {
+      "text": "Aruwa?",
+      "source": "Node006_1",
+      "target": "Node014"
+    },
+    {
+      "text": "Grrrr.",
+      "source": "Node010_3",
+      "target": "Node999"
+    },
+    {
+      "text": "Down a few brews for me.",
+      "source": "Node020_2",
+      "target": "Node021"
+    },
+    {
+      "text": "See ya.",
+      "source": "Node020_2",
+      "target": "Node999"
+    },
+    {
+      "text": "",
+      "source": "Node988",
+      "target": "Node009_1"
+    },
+    {
+      "text": "",
+      "source": "Node988",
+      "target": "Node011_3"
+    },
+    {
+      "text": "",
+      "source": "Node988",
+      "target": "Node010_6"
+    },
+    {
+      "text": "",
+      "source": "Node988",
+      "target": "Node011_6"
+    },
+    {
+      "text": "",
+      "source": "Node988",
+      "target": "Node011_7"
+    },
+    {
+      "text": "",
+      "source": "Node988",
+      "target": "Node011_2"
+    },
+    {
+      "text": "",
+      "source": "Node988",
+      "target": "Node009_3"
+    },
+    {
+      "text": "",
+      "source": "Node988",
+      "target": "Node009_6"
+    },
+    {
+      "text": "",
+      "source": "Node988",
+      "target": "Node010_2"
+    },
+    {
+      "text": "",
+      "source": "Node988",
+      "target": "Node009_2"
+    },
+    {
+      "text": "",
+      "source": "Node988",
+      "target": "Node009_4"
+    },
+    {
+      "text": "",
+      "source": "Node988",
+      "target": "Node011_4"
+    },
+    {
+      "text": "",
+      "source": "Node988",
+      "target": "Node010_5"
+    },
+    {
+      "text": "",
+      "source": "Node988",
+      "target": "Node011_1"
+    },
+    {
+      "text": "",
+      "source": "Node988",
+      "target": "Node010_3"
+    },
+    {
+      "text": "",
+      "source": "Node988",
+      "target": "Node009_5"
+    },
+    {
+      "text": "",
+      "source": "Node988",
+      "target": "Node010_1"
+    },
+    {
+      "text": "",
+      "source": "Node988",
+      "target": "Node010_4"
+    },
+    {
+      "text": "",
+      "source": "Node988",
+      "target": "Node011_5"
+    },
+    {
+      "text": "Bye.",
+      "source": "Node009_6",
+      "target": "Node999"
+    },
+    {
+      "text": "Never mind.",
+      "source": "Node007_1",
+      "target": "Node999"
+    },
+    {
+      "text": "Well, he wants to be sure.",
+      "source": "Node007_1",
+      "target": "Node989"
+    },
+    {
+      "text": "He wanted me to check it for him.",
+      "source": "Node007_1",
+      "target": "Node990"
+    },
+    {
+      "text": "Okay.",
+      "source": "Node015_4",
+      "target": "Node999"
+    },
+    {
+      "text": "",
+      "source": "Node001_1",
+      "target": "Node998"
+    },
+    {
+      "text": "Oh.",
+      "source": "Node022",
+      "target": "Node999"
+    },
+    {
+      "text": "Down a few brews for me.",
+      "source": "Node020_10",
+      "target": "Node021"
+    },
+    {
+      "text": "See ya.",
+      "source": "Node020_10",
+      "target": "Node999"
+    },
+    {
+      "text": "",
+      "source": "pickup_p_proc",
+      "target": "Node998"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node024"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node004"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node005"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node012"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node002"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node003"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node018_1"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node018_2"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node023"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node006_1"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node032"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node027"
+    },
+    {
+      "text": "Bye",
+      "source": "Node021",
+      "target": "Node999"
+    },
+    {
+      "text": "But...",
+      "source": "Node017_5",
+      "target": "Node999"
+    },
+    {
+      "text": "Sounds good.",
+      "source": "Node030",
+      "target": "Node999"
+    },
+    {
+      "text": "But I'm a lover, not a fighter.",
+      "source": "Node030",
+      "target": "Node031"
+    },
+    {
+      "text": "",
+      "source": "timed_event_p_proc",
+      "target": "Node001_1"
+    },
+    {
+      "text": "But...",
+      "source": "Node017_3",
+      "target": "Node999"
+    },
+    {
+      "text": "",
+      "source": "Node985",
+      "target": "Node022"
+    },
+    {
+      "text": "",
+      "source": "Node985",
+      "target": "Node019"
+    },
+    {
+      "text": "Okay.",
+      "source": "Node015_2",
+      "target": "Node999"
+    },
+    {
+      "text": "Bye.",
+      "source": "Node009_2",
+      "target": "Node999"
+    },
+    {
+      "text": "",
+      "source": "Node986",
+      "target": "Node015_6"
+    },
+    {
+      "text": "",
+      "source": "Node986",
+      "target": "Node009_3"
+    },
+    {
+      "text": "",
+      "source": "Node986",
+      "target": "Node015_4"
+    },
+    {
+      "text": "",
+      "source": "Node986",
+      "target": "Node015_3"
+    },
+    {
+      "text": "",
+      "source": "Node986",
+      "target": "Node009_6"
+    },
+    {
+      "text": "",
+      "source": "Node986",
+      "target": "Node015_2"
+    },
+    {
+      "text": "",
+      "source": "Node986",
+      "target": "Node015_5"
+    },
+    {
+      "text": "",
+      "source": "Node986",
+      "target": "Node009_4"
+    },
+    {
+      "text": "",
+      "source": "Node986",
+      "target": "Node009_2"
+    },
+    {
+      "text": "",
+      "source": "Node986",
+      "target": "Node009_5"
+    },
+    {
+      "text": "",
+      "source": "Node986",
+      "target": "Node009_1"
+    },
+    {
+      "text": "",
+      "source": "Node986",
+      "target": "Node015_1"
+    },
+    {
+      "text": "Sorry, gotta go.",
+      "source": "Node018_1",
+      "target": "Node999"
+    },
+    {
+      "text": "How's it going?",
+      "source": "Node018_1",
+      "target": "Node985"
+    },
+    {
+      "text": "Lub?",
+      "source": "Node018_1",
+      "target": "Node014"
+    },
+    {
+      "text": "Grrrr.",
+      "source": "Node010_5",
+      "target": "Node999"
+    }
+  ]
+}

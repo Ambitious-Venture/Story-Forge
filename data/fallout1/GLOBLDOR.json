@@ -1,0 +1,1344 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "You see a door with red paint on it.",
+      "node_id": "node18_1",
+      "id": "Display_Locked_1"
+    },
+    {
+      "text": "You see a locked door with a high voltage security system armed upon it.",
+      "node_id": "node15_59",
+      "id": "Display_Armed_And_Locked_59"
+    },
+    {
+      "text": "You utterly fail in trying to pick this lock and destroy your picks.",
+      "node_id": "node13_4",
+      "id": "Locked_Door_4"
+    },
+    {
+      "text": "You see a door with a high voltage security system armed upon it.",
+      "node_id": "node15_7",
+      "id": "Display_Armed_And_Locked_7"
+    },
+    {
+      "text": "",
+      "node_id": "node1",
+      "id": "start"
+    },
+    {
+      "text": "The lock on this blue door seems to need a special passkey.",
+      "node_id": "node18_11",
+      "id": "Display_Locked_11"
+    },
+    {
+      "text": "You utterly fail in trying to pick this lock and destroy your picks.",
+      "node_id": "node5_3",
+      "id": "use_obj_on_p_proc_3"
+    },
+    {
+      "text": "The door is locked.",
+      "node_id": "node2_2",
+      "id": "use_p_proc_2"
+    },
+    {
+      "text": "You see a high voltage security system on this blue door.",
+      "node_id": "node16_14",
+      "id": "Display_Trapped_14"
+    },
+    {
+      "text": "You see a high voltage security system on this blue door.",
+      "node_id": "node16_10",
+      "id": "Display_Trapped_10"
+    },
+    {
+      "text": "You see an unlocked door with blue paint on it.",
+      "node_id": "node15_32",
+      "id": "Display_Armed_And_Locked_32"
+    },
+    {
+      "text": "You fail to pick this lock.",
+      "node_id": "node5_5",
+      "id": "use_obj_on_p_proc_5"
+    },
+    {
+      "text": "The lock on this door seems to need a special passkey. Additionally, you notice a shimmering blue field before the door.",
+      "node_id": "node15_46",
+      "id": "Display_Armed_And_Locked_46"
+    },
+    {
+      "text": "You see an unlocked door with a high voltage security system armed upon it.",
+      "node_id": "node15_35",
+      "id": "Display_Armed_And_Locked_35"
+    },
+    {
+      "text": "You see a door with a moving blue field in front of it.",
+      "node_id": "node16_13",
+      "id": "Display_Trapped_13"
+    },
+    {
+      "text": "",
+      "node_id": "node14",
+      "id": "Skill_Checks"
+    },
+    {
+      "text": "You see a door with a high voltage security system armed upon it.",
+      "node_id": "node15_55",
+      "id": "Display_Armed_And_Locked_55"
+    },
+    {
+      "text": "You intesified the power of the electric field.",
+      "node_id": "node12_3",
+      "id": "Trapped_Door_3"
+    },
+    {
+      "text": "You notice there is a trap on this door.",
+      "node_id": "node2_1",
+      "id": "use_p_proc_1"
+    },
+    {
+      "text": "You see an unlocked door with blue paint on it.",
+      "node_id": "node15_49",
+      "id": "Display_Armed_And_Locked_49"
+    },
+    {
+      "text": "You see a door with a moving red field in front of it.",
+      "node_id": "node16_1",
+      "id": "Display_Trapped_1"
+    },
+    {
+      "text": "You see a door with blue paint on it.",
+      "node_id": "node15_53",
+      "id": "Display_Armed_And_Locked_53"
+    },
+    {
+      "text": "The lock on this door seems to need a special passkey. Additionally, you notice a shimmering blue field before the door.",
+      "node_id": "node15_62",
+      "id": "Display_Armed_And_Locked_62"
+    },
+    {
+      "text": "The lock on this door seems to need a special blue passkey. Additionally, you notice a high voltage security system armed upon it.",
+      "node_id": "node15_63",
+      "id": "Display_Armed_And_Locked_63"
+    },
+    {
+      "text": "",
+      "node_id": "node4",
+      "id": "map_update_p_proc"
+    },
+    {
+      "text": "You see a sturdy, rusted door.",
+      "node_id": "node6",
+      "id": "look_at_p_proc"
+    },
+    {
+      "text": "You see a locked door with a moving red field in front of it.",
+      "node_id": "node15_10",
+      "id": "Display_Armed_And_Locked_10"
+    },
+    {
+      "text": "You pick the lock on the security door. points of damage.",
+      "node_id": "node5_1",
+      "id": "use_obj_on_p_proc_1"
+    },
+    {
+      "text": "You see an unlocked door with a moving field in front of it.",
+      "node_id": "node15_18",
+      "id": "Display_Armed_And_Locked_18"
+    },
+    {
+      "text": "You see a locked door with a moving field in front of it.",
+      "node_id": "node15_26",
+      "id": "Display_Armed_And_Locked_26"
+    },
+    {
+      "text": "You see a door with a moving blue field in front of it.",
+      "node_id": "node15_54",
+      "id": "Display_Armed_And_Locked_54"
+    },
+    {
+      "text": "You see a door.",
+      "node_id": "node15_21",
+      "id": "Display_Armed_And_Locked_21"
+    },
+    {
+      "text": "You see an unlocked door with a moving blue field in front of it.",
+      "node_id": "node15_50",
+      "id": "Display_Armed_And_Locked_50"
+    },
+    {
+      "text": "",
+      "node_id": "node8",
+      "id": "use_skill_on_p_proc"
+    },
+    {
+      "text": "You see a high voltage security system on this blue door. You wonder if there is a passkey to bypass it.",
+      "node_id": "node16_11",
+      "id": "Display_Trapped_11"
+    },
+    {
+      "text": "The lock on this door seems to need a special passkey. Additionally, you notice a high voltage security system armed upon it.",
+      "node_id": "node15_31",
+      "id": "Display_Armed_And_Locked_31"
+    },
+    {
+      "text": "The lock on this red door seems to need a special passkey.",
+      "node_id": "node18_3",
+      "id": "Display_Locked_3"
+    },
+    {
+      "text": "You disarm the electric field security system on the door. points of damage.",
+      "node_id": "node11_7",
+      "id": "Trapped_And_Locked_7"
+    },
+    {
+      "text": "You pick the lock on the door without setting off the security system. points of damage.",
+      "node_id": "node13_1",
+      "id": "Locked_Door_1"
+    },
+    {
+      "text": "You see a locked door.",
+      "node_id": "node15_24",
+      "id": "Display_Armed_And_Locked_24"
+    },
+    {
+      "text": "You see a high voltage security system on this blue door. You wonder if there is a passkey to bypass it.",
+      "node_id": "node16_15",
+      "id": "Display_Trapped_15"
+    },
+    {
+      "text": "You fail to disarm the electric field.",
+      "node_id": "node12_4",
+      "id": "Trapped_Door_4"
+    },
+    {
+      "text": "You see a locked door.",
+      "node_id": "node18_6",
+      "id": "Display_Locked_6"
+    },
+    {
+      "text": "You see an unlocked door with blue paint on it.",
+      "node_id": "node15_48",
+      "id": "Display_Armed_And_Locked_48"
+    },
+    {
+      "text": "You see a door with blue paint on it.",
+      "node_id": "node15_37",
+      "id": "Display_Armed_And_Locked_37"
+    },
+    {
+      "text": "You see a locked door with red paint on it.",
+      "node_id": "node18_2",
+      "id": "Display_Locked_2"
+    },
+    {
+      "text": "You see an unlocked door with blue paint on it.",
+      "node_id": "node15_33",
+      "id": "Display_Armed_And_Locked_33"
+    },
+    {
+      "text": "You force the door open.",
+      "node_id": "node5_2",
+      "id": "use_obj_on_p_proc_2"
+    },
+    {
+      "text": "There seems to be some type of security measure on this door.",
+      "node_id": "node13_3",
+      "id": "Locked_Door_3"
+    },
+    {
+      "text": "You see an unlocked door with blue paint on it.",
+      "node_id": "node18_8",
+      "id": "Display_Locked_8"
+    },
+    {
+      "text": "The lock on this blue door seems to need a special passkey.",
+      "node_id": "node15_45",
+      "id": "Display_Armed_And_Locked_45"
+    },
+    {
+      "text": "You see a locked door with blue paint on it.",
+      "node_id": "node15_57",
+      "id": "Display_Armed_And_Locked_57"
+    },
+    {
+      "text": "The lock on this door seems to need a special passkey.",
+      "node_id": "node15_29",
+      "id": "Display_Armed_And_Locked_29"
+    },
+    {
+      "text": "There seems to be some type of security measure on this door.",
+      "node_id": "node5_4",
+      "id": "use_obj_on_p_proc_4"
+    },
+    {
+      "text": "You see a locked door with blue paint on it.",
+      "node_id": "node18_14",
+      "id": "Display_Locked_14"
+    },
+    {
+      "text": "You see a door.",
+      "node_id": "node18_5",
+      "id": "Display_Locked_5"
+    },
+    {
+      "text": "You see a door with blue paint on it.",
+      "node_id": "node15_52",
+      "id": "Display_Armed_And_Locked_52"
+    },
+    {
+      "text": "You disarm the electric field security system on the door. points of damage.",
+      "node_id": "node11_1",
+      "id": "Trapped_And_Locked_1"
+    },
+    {
+      "text": "You see a locked door with a high voltage security system armed upon it.",
+      "node_id": "node15_27",
+      "id": "Display_Armed_And_Locked_27"
+    },
+    {
+      "text": "You see an unlocked door with a moving blue field in front of it.",
+      "node_id": "node15_34",
+      "id": "Display_Armed_And_Locked_34"
+    },
+    {
+      "text": "You see a door with a moving red field in front of it.",
+      "node_id": "node15_6",
+      "id": "Display_Armed_And_Locked_6"
+    },
+    {
+      "text": "",
+      "node_id": "node17",
+      "id": "Locks_Check"
+    },
+    {
+      "text": "You intesified the power of the electric field.",
+      "node_id": "node11_3",
+      "id": "Trapped_And_Locked_3"
+    },
+    {
+      "text": "You see a door with blue paint on it.",
+      "node_id": "node18_9",
+      "id": "Display_Locked_9"
+    },
+    {
+      "text": "You see an unlocked door with a high voltage security system armed upon it.",
+      "node_id": "node15_3",
+      "id": "Display_Armed_And_Locked_3"
+    },
+    {
+      "text": "You see a door with a moving blue field in front of it.",
+      "node_id": "node16_9",
+      "id": "Display_Trapped_9"
+    },
+    {
+      "text": "You see a locked door.",
+      "node_id": "node15_25",
+      "id": "Display_Armed_And_Locked_25"
+    },
+    {
+      "text": "You see an unlocked door with red paint on it.",
+      "node_id": "node15_1",
+      "id": "Display_Armed_And_Locked_1"
+    },
+    {
+      "text": "The lock on this door seems to need a special red passkey. Additionally, you notice a high voltage security system armed upon it.",
+      "node_id": "node15_15",
+      "id": "Display_Armed_And_Locked_15"
+    },
+    {
+      "text": "The lock on this door seems to need a special passkey. Additionally, you notice a shimmering field before the door.",
+      "node_id": "node15_30",
+      "id": "Display_Armed_And_Locked_30"
+    },
+    {
+      "text": "The lock on this blue door seems to need a special passkey.",
+      "node_id": "node15_44",
+      "id": "Display_Armed_And_Locked_44"
+    },
+    {
+      "text": "You disarm the electric field security system on the door. points of damage.",
+      "node_id": "node12_1",
+      "id": "Trapped_Door_1"
+    },
+    {
+      "text": "You see a door with red paint on it.",
+      "node_id": "node15_4",
+      "id": "Display_Armed_And_Locked_4"
+    },
+    {
+      "text": "You see a sturdy, rusted door.",
+      "node_id": "node7",
+      "id": "description_p_proc"
+    },
+    {
+      "text": "The lock on this door seems to need a special passkey. Additionally, you notice a shimmering red field before the door.",
+      "node_id": "node15_14",
+      "id": "Display_Armed_And_Locked_14"
+    },
+    {
+      "text": "",
+      "node_id": "node19",
+      "id": "Stat_Checks"
+    },
+    {
+      "text": "You force the door open.",
+      "node_id": "node11_8",
+      "id": "Trapped_And_Locked_8"
+    },
+    {
+      "text": "You force the door open.",
+      "node_id": "node12_2",
+      "id": "Trapped_Door_2"
+    },
+    {
+      "text": "You pick the lock on the door without setting off the security system.",
+      "node_id": "node11_6",
+      "id": "Trapped_And_Locked_6"
+    },
+    {
+      "text": "There seems to be some type of security measure on this door.",
+      "node_id": "node11_4",
+      "id": "Trapped_And_Locked_4"
+    },
+    {
+      "text": "You see an unlocked door with blue paint on it.",
+      "node_id": "node18_12",
+      "id": "Display_Locked_12"
+    },
+    {
+      "text": "You are shocked by the security system and lose concentration to pick the lock.",
+      "node_id": "node11_13",
+      "id": "Trapped_And_Locked_13"
+    },
+    {
+      "text": "You see an unlocked door with a high voltage security system armed upon it.",
+      "node_id": "node15_51",
+      "id": "Display_Armed_And_Locked_51"
+    },
+    {
+      "text": "The lock on this red door seems to need a special passkey.",
+      "node_id": "node15_13",
+      "id": "Display_Armed_And_Locked_13"
+    },
+    {
+      "text": "",
+      "node_id": "node9",
+      "id": "damage_p_proc"
+    },
+    {
+      "text": "You see a door with blue paint on it.",
+      "node_id": "node16_12",
+      "id": "Display_Trapped_12"
+    },
+    {
+      "text": "You see a door with red paint on it.",
+      "node_id": "node15_5",
+      "id": "Display_Armed_And_Locked_5"
+    },
+    {
+      "text": "You see a high voltage security system on this red door.",
+      "node_id": "node16_2",
+      "id": "Display_Trapped_2"
+    },
+    {
+      "text": "You see a locked door with a high voltage security system armed upon it.",
+      "node_id": "node15_11",
+      "id": "Display_Armed_And_Locked_11"
+    },
+    {
+      "text": "You see a door.",
+      "node_id": "node16_4",
+      "id": "Display_Trapped_4"
+    },
+    {
+      "text": "The lock on this door seems to need a special passkey.",
+      "node_id": "node18_7",
+      "id": "Display_Locked_7"
+    },
+    {
+      "text": "You fail to pick the lock and take damage from the security system.",
+      "node_id": "node11_11",
+      "id": "Trapped_And_Locked_11"
+    },
+    {
+      "text": "You fail to disarm the electric field.",
+      "node_id": "node11_5",
+      "id": "Trapped_And_Locked_5"
+    },
+    {
+      "text": "You see a door with blue paint on it.",
+      "node_id": "node18_13",
+      "id": "Display_Locked_13"
+    },
+    {
+      "text": "You get a strong shock from the electric field on the door. You sustain points of damage.",
+      "node_id": "node10_1",
+      "id": "Damage_Dude_1"
+    },
+    {
+      "text": "You see a door with blue paint on it.",
+      "node_id": "node15_36",
+      "id": "Display_Armed_And_Locked_36"
+    },
+    {
+      "text": "",
+      "node_id": "node3",
+      "id": "map_enter_p_proc"
+    },
+    {
+      "text": "You see a door with a high voltage security system armed upon it.",
+      "node_id": "node15_39",
+      "id": "Display_Armed_And_Locked_39"
+    },
+    {
+      "text": "You see a high voltage security system on this door.",
+      "node_id": "node16_6",
+      "id": "Display_Trapped_6"
+    },
+    {
+      "text": "You take and intense shock from the security system and lose concentration to pick the lock.",
+      "node_id": "node11_12",
+      "id": "Trapped_And_Locked_12"
+    },
+    {
+      "text": "You see an unlocked door with a high voltage security system armed upon it.",
+      "node_id": "node15_19",
+      "id": "Display_Armed_And_Locked_19"
+    },
+    {
+      "text": "You see a locked door with blue paint on it.",
+      "node_id": "node15_40",
+      "id": "Display_Armed_And_Locked_40"
+    },
+    {
+      "text": "You see an unlocked door with a moving red field in front of it.",
+      "node_id": "node15_2",
+      "id": "Display_Armed_And_Locked_2"
+    },
+    {
+      "text": "You see an unlocked door.",
+      "node_id": "node15_17",
+      "id": "Display_Armed_And_Locked_17"
+    },
+    {
+      "text": "Authorization granted. Now disarming electric field.",
+      "node_id": "node5_6",
+      "id": "use_obj_on_p_proc_6"
+    },
+    {
+      "text": "You see a locked door with a moving blue field in front of it.",
+      "node_id": "node15_42",
+      "id": "Display_Armed_And_Locked_42"
+    },
+    {
+      "text": "You see a locked door with red paint on it.",
+      "node_id": "node15_9",
+      "id": "Display_Armed_And_Locked_9"
+    },
+    {
+      "text": "You see a high voltage security system on this red door. You wonder if there is a passkey to bypass it.",
+      "node_id": "node16_3",
+      "id": "Display_Trapped_3"
+    },
+    {
+      "text": "The lock on this door seems to need a special passkey.",
+      "node_id": "node15_28",
+      "id": "Display_Armed_And_Locked_28"
+    },
+    {
+      "text": "The lock on this blue door seems to need a special passkey.",
+      "node_id": "node15_60",
+      "id": "Display_Armed_And_Locked_60"
+    },
+    {
+      "text": "You see a locked door with blue paint on it.",
+      "node_id": "node18_10",
+      "id": "Display_Locked_10"
+    },
+    {
+      "text": "You see a locked door with blue paint on it.",
+      "node_id": "node15_41",
+      "id": "Display_Armed_And_Locked_41"
+    },
+    {
+      "text": "The lock on this red door seems to need a special passkey.",
+      "node_id": "node15_12",
+      "id": "Display_Armed_And_Locked_12"
+    },
+    {
+      "text": "You see a door with a high voltage security system armed upon it.",
+      "node_id": "node15_23",
+      "id": "Display_Armed_And_Locked_23"
+    },
+    {
+      "text": "You see a door with a moving field in front of it.",
+      "node_id": "node16_5",
+      "id": "Display_Trapped_5"
+    },
+    {
+      "text": "You see an unlocked door.",
+      "node_id": "node15_16",
+      "id": "Display_Armed_And_Locked_16"
+    },
+    {
+      "text": "You see a door with blue paint on it.",
+      "node_id": "node16_8",
+      "id": "Display_Trapped_8"
+    },
+    {
+      "text": "You see a locked door with blue paint on it.",
+      "node_id": "node15_56",
+      "id": "Display_Armed_And_Locked_56"
+    },
+    {
+      "text": "The lock on this blue door seems to need a special passkey.",
+      "node_id": "node15_61",
+      "id": "Display_Armed_And_Locked_61"
+    },
+    {
+      "text": "You see a high voltage security system on this door. You wonder if there is a passkey to bypass it.",
+      "node_id": "node16_7",
+      "id": "Display_Trapped_7"
+    },
+    {
+      "text": "You see a door with a moving blue field in front of it.",
+      "node_id": "node15_38",
+      "id": "Display_Armed_And_Locked_38"
+    },
+    {
+      "text": "You force the door open.",
+      "node_id": "node13_2",
+      "id": "Locked_Door_2"
+    },
+    {
+      "text": "The lock on this door seems to need a special passkey. Additionally, you notice a high voltage security system armed upon it.",
+      "node_id": "node15_47",
+      "id": "Display_Armed_And_Locked_47"
+    },
+    {
+      "text": "You force the door open.",
+      "node_id": "node11_2",
+      "id": "Trapped_And_Locked_2"
+    },
+    {
+      "text": "You see a locked door with a moving blue field in front of it.",
+      "node_id": "node15_58",
+      "id": "Display_Armed_And_Locked_58"
+    },
+    {
+      "text": "You see an unlocked door.",
+      "node_id": "node18_4",
+      "id": "Display_Locked_4"
+    },
+    {
+      "text": "The lock on this blue door seems to need a special passkey.",
+      "node_id": "node18_15",
+      "id": "Display_Locked_15"
+    },
+    {
+      "text": "You see a locked door with red paint on it.",
+      "node_id": "node15_8",
+      "id": "Display_Armed_And_Locked_8"
+    },
+    {
+      "text": "You fail to pick this lock.",
+      "node_id": "node13_5",
+      "id": "Locked_Door_5"
+    },
+    {
+      "text": "You see a door with a moving field in front of it.",
+      "node_id": "node15_22",
+      "id": "Display_Armed_And_Locked_22"
+    },
+    {
+      "text": "You see a door.",
+      "node_id": "node15_20",
+      "id": "Display_Armed_And_Locked_20"
+    },
+    {
+      "text": "You fail to pick the lock and take serious damage from the security system.",
+      "node_id": "node11_10",
+      "id": "Trapped_And_Locked_10"
+    },
+    {
+      "text": "You see a locked door with a high voltage security system armed upon it.",
+      "node_id": "node15_43",
+      "id": "Display_Armed_And_Locked_43"
+    },
+    {
+      "text": "There seems to be some type of security measure on this door.",
+      "node_id": "node11_9",
+      "id": "Trapped_And_Locked_9"
+    }
+  ],
+  "links": [
+    {
+      "text": "",
+      "source": "start",
+      "target": "use_obj_on_p_proc_6"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "use_obj_on_p_proc_4"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "map_update_p_proc"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "use_obj_on_p_proc_3"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "map_enter_p_proc"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "description_p_proc"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "use_obj_on_p_proc_2"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "look_at_p_proc"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "use_p_proc_2"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "damage_p_proc"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "use_p_proc_1"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "use_skill_on_p_proc"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "use_obj_on_p_proc_5"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "use_obj_on_p_proc_1"
+    },
+    {
+      "text": "",
+      "source": "Skill_Checks",
+      "target": "Locks_Check"
+    },
+    {
+      "text": "",
+      "source": "use_skill_on_p_proc",
+      "target": "Trapped_And_Locked_8"
+    },
+    {
+      "text": "",
+      "source": "use_skill_on_p_proc",
+      "target": "Trapped_Door_4"
+    },
+    {
+      "text": "",
+      "source": "use_skill_on_p_proc",
+      "target": "Trapped_And_Locked_4"
+    },
+    {
+      "text": "",
+      "source": "use_skill_on_p_proc",
+      "target": "Locked_Door_3"
+    },
+    {
+      "text": "",
+      "source": "use_skill_on_p_proc",
+      "target": "Trapped_Door_3"
+    },
+    {
+      "text": "",
+      "source": "use_skill_on_p_proc",
+      "target": "Trapped_And_Locked_11"
+    },
+    {
+      "text": "",
+      "source": "use_skill_on_p_proc",
+      "target": "Locked_Door_1"
+    },
+    {
+      "text": "",
+      "source": "use_skill_on_p_proc",
+      "target": "Trapped_And_Locked_13"
+    },
+    {
+      "text": "",
+      "source": "use_skill_on_p_proc",
+      "target": "Trapped_And_Locked_7"
+    },
+    {
+      "text": "",
+      "source": "use_skill_on_p_proc",
+      "target": "Trapped_And_Locked_5"
+    },
+    {
+      "text": "",
+      "source": "use_skill_on_p_proc",
+      "target": "Trapped_And_Locked_10"
+    },
+    {
+      "text": "",
+      "source": "use_skill_on_p_proc",
+      "target": "Trapped_And_Locked_3"
+    },
+    {
+      "text": "",
+      "source": "use_skill_on_p_proc",
+      "target": "Trapped_And_Locked_1"
+    },
+    {
+      "text": "",
+      "source": "use_skill_on_p_proc",
+      "target": "Locked_Door_4"
+    },
+    {
+      "text": "",
+      "source": "use_skill_on_p_proc",
+      "target": "Trapped_And_Locked_12"
+    },
+    {
+      "text": "",
+      "source": "use_skill_on_p_proc",
+      "target": "Locked_Door_5"
+    },
+    {
+      "text": "",
+      "source": "use_skill_on_p_proc",
+      "target": "Locked_Door_2"
+    },
+    {
+      "text": "",
+      "source": "use_skill_on_p_proc",
+      "target": "Trapped_Door_2"
+    },
+    {
+      "text": "",
+      "source": "use_skill_on_p_proc",
+      "target": "Trapped_And_Locked_2"
+    },
+    {
+      "text": "",
+      "source": "use_skill_on_p_proc",
+      "target": "Trapped_And_Locked_6"
+    },
+    {
+      "text": "",
+      "source": "use_skill_on_p_proc",
+      "target": "Trapped_Door_1"
+    },
+    {
+      "text": "",
+      "source": "use_skill_on_p_proc",
+      "target": "Trapped_And_Locked_9"
+    },
+    {
+      "text": "",
+      "source": "Locks_Check",
+      "target": "Stat_Checks"
+    },
+    {
+      "text": "",
+      "source": "description_p_proc",
+      "target": "Display_Armed_And_Locked_4"
+    },
+    {
+      "text": "",
+      "source": "description_p_proc",
+      "target": "Display_Armed_And_Locked_53"
+    },
+    {
+      "text": "",
+      "source": "description_p_proc",
+      "target": "Display_Armed_And_Locked_42"
+    },
+    {
+      "text": "",
+      "source": "description_p_proc",
+      "target": "Display_Armed_And_Locked_44"
+    },
+    {
+      "text": "",
+      "source": "description_p_proc",
+      "target": "Display_Armed_And_Locked_12"
+    },
+    {
+      "text": "",
+      "source": "description_p_proc",
+      "target": "Display_Trapped_11"
+    },
+    {
+      "text": "",
+      "source": "description_p_proc",
+      "target": "Display_Armed_And_Locked_26"
+    },
+    {
+      "text": "",
+      "source": "description_p_proc",
+      "target": "Display_Locked_3"
+    },
+    {
+      "text": "",
+      "source": "description_p_proc",
+      "target": "Display_Locked_2"
+    },
+    {
+      "text": "",
+      "source": "description_p_proc",
+      "target": "Display_Armed_And_Locked_43"
+    },
+    {
+      "text": "",
+      "source": "description_p_proc",
+      "target": "Display_Armed_And_Locked_33"
+    },
+    {
+      "text": "",
+      "source": "description_p_proc",
+      "target": "Display_Armed_And_Locked_40"
+    },
+    {
+      "text": "",
+      "source": "description_p_proc",
+      "target": "Display_Armed_And_Locked_20"
+    },
+    {
+      "text": "",
+      "source": "description_p_proc",
+      "target": "Display_Armed_And_Locked_18"
+    },
+    {
+      "text": "",
+      "source": "description_p_proc",
+      "target": "Display_Armed_And_Locked_54"
+    },
+    {
+      "text": "",
+      "source": "description_p_proc",
+      "target": "Display_Armed_And_Locked_23"
+    },
+    {
+      "text": "",
+      "source": "description_p_proc",
+      "target": "Display_Armed_And_Locked_37"
+    },
+    {
+      "text": "",
+      "source": "description_p_proc",
+      "target": "Display_Trapped_2"
+    },
+    {
+      "text": "",
+      "source": "description_p_proc",
+      "target": "Display_Trapped_14"
+    },
+    {
+      "text": "",
+      "source": "description_p_proc",
+      "target": "Display_Armed_And_Locked_13"
+    },
+    {
+      "text": "",
+      "source": "description_p_proc",
+      "target": "Display_Armed_And_Locked_27"
+    },
+    {
+      "text": "",
+      "source": "description_p_proc",
+      "target": "Display_Armed_And_Locked_21"
+    },
+    {
+      "text": "",
+      "source": "description_p_proc",
+      "target": "Display_Armed_And_Locked_25"
+    },
+    {
+      "text": "",
+      "source": "description_p_proc",
+      "target": "Display_Trapped_1"
+    },
+    {
+      "text": "",
+      "source": "description_p_proc",
+      "target": "Display_Armed_And_Locked_38"
+    },
+    {
+      "text": "",
+      "source": "description_p_proc",
+      "target": "Display_Armed_And_Locked_55"
+    },
+    {
+      "text": "",
+      "source": "description_p_proc",
+      "target": "Skill_Checks"
+    },
+    {
+      "text": "",
+      "source": "description_p_proc",
+      "target": "Display_Armed_And_Locked_45"
+    },
+    {
+      "text": "",
+      "source": "description_p_proc",
+      "target": "Display_Armed_And_Locked_15"
+    },
+    {
+      "text": "",
+      "source": "description_p_proc",
+      "target": "Display_Armed_And_Locked_6"
+    },
+    {
+      "text": "",
+      "source": "description_p_proc",
+      "target": "Display_Armed_And_Locked_51"
+    },
+    {
+      "text": "",
+      "source": "description_p_proc",
+      "target": "Display_Armed_And_Locked_19"
+    },
+    {
+      "text": "",
+      "source": "description_p_proc",
+      "target": "Display_Locked_5"
+    },
+    {
+      "text": "",
+      "source": "description_p_proc",
+      "target": "Display_Armed_And_Locked_56"
+    },
+    {
+      "text": "",
+      "source": "description_p_proc",
+      "target": "Display_Locked_9"
+    },
+    {
+      "text": "",
+      "source": "description_p_proc",
+      "target": "Display_Locked_12"
+    },
+    {
+      "text": "",
+      "source": "description_p_proc",
+      "target": "Display_Armed_And_Locked_5"
+    },
+    {
+      "text": "",
+      "source": "description_p_proc",
+      "target": "Display_Armed_And_Locked_30"
+    },
+    {
+      "text": "",
+      "source": "description_p_proc",
+      "target": "Display_Armed_And_Locked_62"
+    },
+    {
+      "text": "",
+      "source": "description_p_proc",
+      "target": "Display_Trapped_5"
+    },
+    {
+      "text": "",
+      "source": "description_p_proc",
+      "target": "Display_Trapped_8"
+    },
+    {
+      "text": "",
+      "source": "description_p_proc",
+      "target": "Display_Armed_And_Locked_11"
+    },
+    {
+      "text": "",
+      "source": "description_p_proc",
+      "target": "Display_Armed_And_Locked_46"
+    },
+    {
+      "text": "",
+      "source": "description_p_proc",
+      "target": "Display_Armed_And_Locked_31"
+    },
+    {
+      "text": "",
+      "source": "description_p_proc",
+      "target": "Locks_Check"
+    },
+    {
+      "text": "",
+      "source": "description_p_proc",
+      "target": "Display_Armed_And_Locked_61"
+    },
+    {
+      "text": "",
+      "source": "description_p_proc",
+      "target": "Display_Trapped_12"
+    },
+    {
+      "text": "",
+      "source": "description_p_proc",
+      "target": "Display_Armed_And_Locked_39"
+    },
+    {
+      "text": "",
+      "source": "description_p_proc",
+      "target": "Display_Trapped_6"
+    },
+    {
+      "text": "",
+      "source": "description_p_proc",
+      "target": "Display_Armed_And_Locked_10"
+    },
+    {
+      "text": "",
+      "source": "description_p_proc",
+      "target": "Display_Armed_And_Locked_52"
+    },
+    {
+      "text": "",
+      "source": "description_p_proc",
+      "target": "Display_Armed_And_Locked_17"
+    },
+    {
+      "text": "",
+      "source": "description_p_proc",
+      "target": "Display_Armed_And_Locked_63"
+    },
+    {
+      "text": "",
+      "source": "description_p_proc",
+      "target": "Display_Armed_And_Locked_32"
+    },
+    {
+      "text": "",
+      "source": "description_p_proc",
+      "target": "Display_Armed_And_Locked_49"
+    },
+    {
+      "text": "",
+      "source": "description_p_proc",
+      "target": "Display_Trapped_4"
+    },
+    {
+      "text": "",
+      "source": "description_p_proc",
+      "target": "Display_Armed_And_Locked_28"
+    },
+    {
+      "text": "",
+      "source": "description_p_proc",
+      "target": "Display_Armed_And_Locked_48"
+    },
+    {
+      "text": "",
+      "source": "description_p_proc",
+      "target": "Display_Armed_And_Locked_3"
+    },
+    {
+      "text": "",
+      "source": "description_p_proc",
+      "target": "Display_Armed_And_Locked_36"
+    },
+    {
+      "text": "",
+      "source": "description_p_proc",
+      "target": "Display_Armed_And_Locked_29"
+    },
+    {
+      "text": "",
+      "source": "description_p_proc",
+      "target": "Display_Trapped_7"
+    },
+    {
+      "text": "",
+      "source": "description_p_proc",
+      "target": "Display_Locked_4"
+    },
+    {
+      "text": "",
+      "source": "description_p_proc",
+      "target": "Display_Armed_And_Locked_1"
+    },
+    {
+      "text": "",
+      "source": "description_p_proc",
+      "target": "Display_Armed_And_Locked_60"
+    },
+    {
+      "text": "",
+      "source": "description_p_proc",
+      "target": "Display_Locked_10"
+    },
+    {
+      "text": "",
+      "source": "description_p_proc",
+      "target": "Display_Armed_And_Locked_2"
+    },
+    {
+      "text": "",
+      "source": "description_p_proc",
+      "target": "Display_Armed_And_Locked_7"
+    },
+    {
+      "text": "",
+      "source": "description_p_proc",
+      "target": "Display_Trapped_13"
+    },
+    {
+      "text": "",
+      "source": "description_p_proc",
+      "target": "Display_Armed_And_Locked_8"
+    },
+    {
+      "text": "",
+      "source": "description_p_proc",
+      "target": "Display_Locked_11"
+    },
+    {
+      "text": "",
+      "source": "description_p_proc",
+      "target": "Display_Armed_And_Locked_9"
+    },
+    {
+      "text": "",
+      "source": "description_p_proc",
+      "target": "Display_Armed_And_Locked_34"
+    },
+    {
+      "text": "",
+      "source": "description_p_proc",
+      "target": "Display_Locked_8"
+    },
+    {
+      "text": "",
+      "source": "description_p_proc",
+      "target": "Display_Armed_And_Locked_22"
+    },
+    {
+      "text": "",
+      "source": "description_p_proc",
+      "target": "Display_Trapped_10"
+    },
+    {
+      "text": "",
+      "source": "description_p_proc",
+      "target": "Display_Trapped_3"
+    },
+    {
+      "text": "",
+      "source": "description_p_proc",
+      "target": "Display_Armed_And_Locked_16"
+    },
+    {
+      "text": "",
+      "source": "description_p_proc",
+      "target": "Display_Locked_13"
+    },
+    {
+      "text": "",
+      "source": "description_p_proc",
+      "target": "Display_Armed_And_Locked_57"
+    },
+    {
+      "text": "",
+      "source": "description_p_proc",
+      "target": "Display_Locked_6"
+    },
+    {
+      "text": "",
+      "source": "description_p_proc",
+      "target": "Display_Locked_15"
+    },
+    {
+      "text": "",
+      "source": "description_p_proc",
+      "target": "Display_Armed_And_Locked_50"
+    },
+    {
+      "text": "",
+      "source": "description_p_proc",
+      "target": "Display_Armed_And_Locked_41"
+    },
+    {
+      "text": "",
+      "source": "description_p_proc",
+      "target": "Display_Trapped_15"
+    },
+    {
+      "text": "",
+      "source": "description_p_proc",
+      "target": "Display_Locked_1"
+    },
+    {
+      "text": "",
+      "source": "description_p_proc",
+      "target": "Display_Armed_And_Locked_14"
+    },
+    {
+      "text": "",
+      "source": "description_p_proc",
+      "target": "Display_Locked_14"
+    },
+    {
+      "text": "",
+      "source": "description_p_proc",
+      "target": "Display_Armed_And_Locked_47"
+    },
+    {
+      "text": "",
+      "source": "description_p_proc",
+      "target": "Display_Trapped_9"
+    },
+    {
+      "text": "",
+      "source": "description_p_proc",
+      "target": "Display_Armed_And_Locked_59"
+    },
+    {
+      "text": "",
+      "source": "description_p_proc",
+      "target": "Display_Armed_And_Locked_24"
+    },
+    {
+      "text": "",
+      "source": "description_p_proc",
+      "target": "Display_Armed_And_Locked_58"
+    },
+    {
+      "text": "",
+      "source": "description_p_proc",
+      "target": "Display_Armed_And_Locked_35"
+    },
+    {
+      "text": "",
+      "source": "description_p_proc",
+      "target": "Display_Locked_7"
+    }
+  ]
+}

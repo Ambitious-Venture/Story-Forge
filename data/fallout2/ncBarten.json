@@ -1,0 +1,44 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "Hey! ! Way to kick the Enclave's ass! Want a drink?",
+      "node_id": "node25_1",
+      "id": "Node001_1"
+    },
+    {
+      "text": "",
+      "node_id": "node24",
+      "id": "timed_event_p_proc"
+    },
+    {
+      "text": "",
+      "node_id": "node27",
+      "id": "Node003"
+    },
+    {
+      "text": "Hey! ! What's up?!",
+      "node_id": "node26_1",
+      "id": "Node002_1"
+    }
+  ],
+  "links": [
+    {
+      "text": "",
+      "source": "timed_event_p_proc",
+      "target": "Node001_1"
+    },
+    {
+      "text": "",
+      "source": "timed_event_p_proc",
+      "target": "Node002_1"
+    },
+    {
+      "text": "",
+      "source": "timed_event_p_proc",
+      "target": "Node003"
+    }
+  ]
+}

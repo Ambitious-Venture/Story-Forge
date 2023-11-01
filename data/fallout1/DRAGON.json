@@ -1,0 +1,234 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "",
+      "node_id": "node15",
+      "id": "DragonCombat"
+    },
+    {
+      "text": "",
+      "node_id": "node7",
+      "id": "show_false_name"
+    },
+    {
+      "text": "Yo, homie! Nice job you did on the Rippers!",
+      "node_id": "node11",
+      "id": "Dragon11"
+    },
+    {
+      "text": "",
+      "node_id": "node1",
+      "id": "start"
+    },
+    {
+      "text": "Fat chance. Now, get out of here before I send the night  guard after you.",
+      "node_id": "node17",
+      "id": "Dragon04"
+    },
+    {
+      "text": "What are ya doing roaming around out here?",
+      "node_id": "node12",
+      "id": "Dragon01"
+    },
+    {
+      "text": "My, you don't enjoy life much. I'll help you end it.",
+      "node_id": "node18",
+      "id": "Dragon05"
+    },
+    {
+      "text": "Don't lie to me. Get out!",
+      "node_id": "node22",
+      "id": "Dragon09"
+    },
+    {
+      "text": "You see a member of the Blades.",
+      "node_id": "node6_1",
+      "id": "show_true_name_1"
+    },
+    {
+      "text": "",
+      "node_id": "node3",
+      "id": "destroy_p_proc"
+    },
+    {
+      "text": "Get lost! Can't you tell I'm trying to get some rest!",
+      "node_id": "node9",
+      "id": "Dragon00"
+    },
+    {
+      "text": "Great. Go take it to Razor.",
+      "node_id": "node20",
+      "id": "Dragon08"
+    },
+    {
+      "text": "",
+      "node_id": "node4",
+      "id": "look_at_p_proc"
+    },
+    {
+      "text": "",
+      "node_id": "node19",
+      "id": "DragonEnd"
+    },
+    {
+      "text": "",
+      "node_id": "node2",
+      "id": "critter_p_proc"
+    },
+    {
+      "text": "Then get your butt out of here and can the bastard!",
+      "node_id": "node21",
+      "id": "Dragon10"
+    },
+    {
+      "text": "Your looking's cost you dearly. What's the story? Tell me the truth, and you may live.",
+      "node_id": "node13",
+      "id": "Dragon02"
+    },
+    {
+      "text": "I think I'd be sorry about that, but I don't pay heed to  dead people.",
+      "node_id": "node16",
+      "id": "Dragon03"
+    },
+    {
+      "text": "You found me. Now, walk or die!",
+      "node_id": "node14",
+      "id": "Dragon06"
+    },
+    {
+      "text": "",
+      "node_id": "node5",
+      "id": "talk_p_proc"
+    },
+    {
+      "text": "What's the word on the Rippers?",
+      "node_id": "node10",
+      "id": "Dragon07"
+    }
+  ],
+  "links": [
+    {
+      "text": "",
+      "source": "start",
+      "target": "look_at_p_proc"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "destroy_p_proc"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "talk_p_proc"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "critter_p_proc"
+    },
+    {
+      "text": "Just looking at the stars.",
+      "source": "Dragon01",
+      "target": "Dragon02"
+    },
+    {
+      "text": "Hunting.",
+      "source": "Dragon01",
+      "target": "DragonCombat"
+    },
+    {
+      "text": "Out looking for you.",
+      "source": "Dragon01",
+      "target": "Dragon06"
+    },
+    {
+      "text": "",
+      "source": "Dragon05",
+      "target": "DragonCombat"
+    },
+    {
+      "text": "",
+      "source": "Dragon08",
+      "target": "Dragon09"
+    },
+    {
+      "text": "",
+      "source": "look_at_p_proc",
+      "target": "show_true_name_1"
+    },
+    {
+      "text": "",
+      "source": "look_at_p_proc",
+      "target": "show_false_name"
+    },
+    {
+      "text": "I want to end the gang wars.",
+      "source": "Dragon02",
+      "target": "Dragon04"
+    },
+    {
+      "text": "Just looking for home. It's right there. The moon.",
+      "source": "Dragon02",
+      "target": "Dragon05"
+    },
+    {
+      "text": "I'm really here to kill you.",
+      "source": "Dragon02",
+      "target": "Dragon03"
+    },
+    {
+      "text": "",
+      "source": "Dragon03",
+      "target": "DragonCombat"
+    },
+    {
+      "text": "I'd rather live.",
+      "source": "Dragon06",
+      "target": "DragonCombat"
+    },
+    {
+      "text": "I think I'll walk.",
+      "source": "Dragon06",
+      "target": "DragonEnd"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Dragon00"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Dragon11"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Dragon01"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Dragon07"
+    },
+    {
+      "text": "Nothing yet.",
+      "source": "Dragon07",
+      "target": "Dragon10"
+    },
+    {
+      "text": "They're gonna kill ya!",
+      "source": "Dragon07",
+      "target": "DragonCombat"
+    },
+    {
+      "text": "They're dead. See?",
+      "source": "Dragon07",
+      "target": "Dragon08"
+    }
+  ]
+}

@@ -1,0 +1,424 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "You see a man in studded leather armor with an odd assortment of knick-knacks.",
+      "node_id": "node4_1",
+      "id": "look_at_p_proc_1"
+    },
+    {
+      "text": "Junktown? A small trading city. Strange place until you get used to it. They are run by mayor Killian Darkwater, a hard but fair man.",
+      "node_id": "node22_3",
+      "id": "Patrick11_3"
+    },
+    {
+      "text": "It's not junk! It's trade goods!",
+      "node_id": "node11",
+      "id": "Patrick03"
+    },
+    {
+      "text": "",
+      "node_id": "node1",
+      "id": "start"
+    },
+    {
+      "text": "Oh, mostly old folk songs and some Celtic music. It's a change of pace.",
+      "node_id": "node19",
+      "id": "Patrick09"
+    },
+    {
+      "text": "",
+      "node_id": "node14",
+      "id": "PatrickEnd"
+    },
+    {
+      "text": "[Patrick sings songs and the two of you reminisce for several hours. You  feel invigorated.]",
+      "node_id": "node27",
+      "id": "Patrick16"
+    },
+    {
+      "text": "Greetings, traveler. What brings you out this far?",
+      "node_id": "node9",
+      "id": "Patrick01"
+    },
+    {
+      "text": "Shady Sands is a small farming community. They were led by a good man named Aradesh, but I've heard he's gone. It's a pity. Without him I don't know if they'll survive.",
+      "node_id": "node21_1",
+      "id": "Patrick10_1"
+    },
+    {
+      "text": "Shady Sands is a small, self-sufficient community led by Aradesh, a kind man and strong leader. They are peaceful and hard-working. They are probably the best chance for a new civilization here.",
+      "node_id": "node21_2",
+      "id": "Patrick10_2"
+    },
+    {
+      "text": "Why, certainly. Would you like to hear it?",
+      "node_id": "node25",
+      "id": "Patrick15"
+    },
+    {
+      "text": "",
+      "node_id": "node7",
+      "id": "flee_dude"
+    },
+    {
+      "text": "",
+      "node_id": "node3",
+      "id": "destroy_p_proc"
+    },
+    {
+      "text": "Junktown? A small trading city. Not too remarkable.",
+      "node_id": "node22_1",
+      "id": "Patrick11_1"
+    },
+    {
+      "text": "",
+      "node_id": "node20",
+      "id": "Patrick06a"
+    },
+    {
+      "text": "Hmm. Haven't seen one of those before. What seems to be the trouble?",
+      "node_id": "node12",
+      "id": "Patrick04"
+    },
+    {
+      "text": "",
+      "node_id": "node13",
+      "id": "PatrickCombat"
+    },
+    {
+      "text": "Hello again. Can I help you?",
+      "node_id": "node8",
+      "id": "Patrick17"
+    },
+    {
+      "text": "The Hub is a major trading center. It's said that you can find anything there, and I'd say that's not too far wrong.",
+      "node_id": "node23_1",
+      "id": "Patrick12_1"
+    },
+    {
+      "text": "Necropolis is the city of the dead. It's inhabited by ghouls, the descendants of humans who sought shelter in a Vault there. Story goes that the Vault failed somehow, so now the only inhabitants are carrion-eating monsters.",
+      "node_id": "node24_1",
+      "id": "Patrick13_1"
+    },
+    {
+      "text": "I see. Much like myself, then.",
+      "node_id": "node10",
+      "id": "Patrick02"
+    },
+    {
+      "text": "Using the coastline as a referent, you've got Shady Sands about a week inland, and Junktown a few days south of there. Hub's just another couple days south of Junktown. Avoid Necropolis to the east of those, though. Not worth  the trouble.",
+      "node_id": "node16",
+      "id": "Patrick06"
+    },
+    {
+      "text": "Junktown? A small trading city. Strange place until you get used to it. They are run by Gizmo, a gambling mogul and crime-lord.",
+      "node_id": "node22_2",
+      "id": "Patrick11_2"
+    },
+    {
+      "text": "",
+      "node_id": "node2",
+      "id": "critter_p_proc"
+    },
+    {
+      "text": "",
+      "node_id": "node5",
+      "id": "pickup_p_proc"
+    },
+    {
+      "text": "I don't think I could help you with that. I never had much of a chance to study pre-war Vault technology.",
+      "node_id": "node17",
+      "id": "Patrick07"
+    },
+    {
+      "text": "",
+      "node_id": "node6",
+      "id": "talk_p_proc"
+    },
+    {
+      "text": "I wander from place to place, making a living with music and a little bit  of tinkering work.",
+      "node_id": "node15",
+      "id": "Patrick05"
+    },
+    {
+      "text": "Possibly, but I for one wouldn't risk the ghouls. Latest word is they've some sort of powerful new leader.",
+      "node_id": "node26",
+      "id": "Patrick14"
+    },
+    {
+      "text": "Mostly a little electrical and mechanical tinkering. I helped Junktown with their lights and showed the people in Shady Sands a better design for their  stoves.",
+      "node_id": "node18",
+      "id": "Patrick08"
+    }
+  ],
+  "links": [
+    {
+      "text": "",
+      "source": "Patrick11_3",
+      "target": "Patrick06a"
+    },
+    {
+      "text": "Uh, right. Bye.",
+      "source": "Patrick03",
+      "target": "PatrickEnd"
+    },
+    {
+      "text": "Uh huh. So what's your story?",
+      "source": "Patrick03",
+      "target": "Patrick05"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "pickup_p_proc"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "look_at_p_proc_1"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "destroy_p_proc"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "talk_p_proc"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "critter_p_proc"
+    },
+    {
+      "text": "I see. What else do you do?",
+      "source": "Patrick09",
+      "target": "Patrick05"
+    },
+    {
+      "text": "Well, it's good to meet you. Bye.",
+      "source": "Patrick09",
+      "target": "PatrickEnd"
+    },
+    {
+      "text": "Would you happen to know \"Na Gheala Mbeadh\", as I think it's called?",
+      "source": "Patrick09",
+      "target": "Patrick15"
+    },
+    {
+      "text": "Just wandering.",
+      "source": "Patrick01",
+      "target": "Patrick02"
+    },
+    {
+      "text": "I need to find a water purification control chip.",
+      "source": "Patrick01",
+      "target": "Patrick04"
+    },
+    {
+      "text": "Lub!",
+      "source": "Patrick01",
+      "target": "PatrickEnd"
+    },
+    {
+      "text": "Um, why are you carrying all that junk?",
+      "source": "Patrick01",
+      "target": "Patrick03"
+    },
+    {
+      "text": "I'm killing everybody I can get within shooting distance of. Prepare to die.",
+      "source": "Patrick01",
+      "target": "PatrickCombat"
+    },
+    {
+      "text": "",
+      "source": "Patrick10_1",
+      "target": "Patrick06a"
+    },
+    {
+      "text": "",
+      "source": "Patrick10_2",
+      "target": "Patrick06a"
+    },
+    {
+      "text": "Sure.",
+      "source": "Patrick15",
+      "target": "Patrick16"
+    },
+    {
+      "text": "Nah.",
+      "source": "Patrick15",
+      "target": "PatrickEnd"
+    },
+    {
+      "text": "",
+      "source": "Patrick11_1",
+      "target": "Patrick06a"
+    },
+    {
+      "text": "What do you know about the Hub?",
+      "source": "Patrick06a",
+      "target": "Patrick12_1"
+    },
+    {
+      "text": "What do you know about Necropolis?",
+      "source": "Patrick06a",
+      "target": "Patrick13_1"
+    },
+    {
+      "text": "What do you know about Shady Sands?",
+      "source": "Patrick06a",
+      "target": "Patrick10_2"
+    },
+    {
+      "text": "What do you know about Junktown?",
+      "source": "Patrick06a",
+      "target": "Patrick11_1"
+    },
+    {
+      "text": "What do you know about Junktown?",
+      "source": "Patrick06a",
+      "target": "Patrick11_3"
+    },
+    {
+      "text": "What do you know about Shady Sands?",
+      "source": "Patrick06a",
+      "target": "Patrick10_1"
+    },
+    {
+      "text": "What do you know about Junktown?",
+      "source": "Patrick06a",
+      "target": "Patrick11_2"
+    },
+    {
+      "text": "You see a man in studded leather armor with an odd assortment of  knick-knacks.",
+      "source": "Patrick06a",
+      "target": "PatrickEnd"
+    },
+    {
+      "text": "This chip controls water purification for my Vault. It's blown out, though.",
+      "source": "Patrick04",
+      "target": "Patrick07"
+    },
+    {
+      "text": "Yeah, can you give me some directions?",
+      "source": "Patrick17",
+      "target": "Patrick06"
+    },
+    {
+      "text": "No, never mind, thanks.",
+      "source": "Patrick17",
+      "target": "PatrickEnd"
+    },
+    {
+      "text": "",
+      "source": "Patrick12_1",
+      "target": "Patrick06a"
+    },
+    {
+      "text": "",
+      "source": "Patrick13_1",
+      "target": "Patrick06a"
+    },
+    {
+      "text": "Do you suppose that Vault might have parts that I could salvage?",
+      "source": "Patrick13_1",
+      "target": "Patrick14"
+    },
+    {
+      "text": "Well, see ya.",
+      "source": "Patrick02",
+      "target": "PatrickEnd"
+    },
+    {
+      "text": "Oh? You're not from one of the communities out here?",
+      "source": "Patrick02",
+      "target": "Patrick05"
+    },
+    {
+      "text": "Can you direct me to a nearby settlement?",
+      "source": "Patrick02",
+      "target": "Patrick06"
+    },
+    {
+      "text": "",
+      "source": "Patrick06",
+      "target": "Patrick06a"
+    },
+    {
+      "text": "",
+      "source": "Patrick11_2",
+      "target": "Patrick06a"
+    },
+    {
+      "text": "",
+      "source": "critter_p_proc",
+      "target": "flee_dude"
+    },
+    {
+      "text": "You see a man in studded leather armor with an odd assortment of  knick-knacks.",
+      "source": "Patrick07",
+      "target": "PatrickEnd"
+    },
+    {
+      "text": "Uh huh. So what's your story?",
+      "source": "Patrick07",
+      "target": "Patrick05"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Patrick17"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Patrick01"
+    },
+    {
+      "text": "Can you direct me to a nearby settlement?",
+      "source": "Patrick05",
+      "target": "Patrick06"
+    },
+    {
+      "text": "What kind of music do you sing?",
+      "source": "Patrick05",
+      "target": "Patrick09"
+    },
+    {
+      "text": "Well, it's good to meet you. Bye.",
+      "source": "Patrick05",
+      "target": "PatrickEnd"
+    },
+    {
+      "text": "What kind of work do you do?",
+      "source": "Patrick05",
+      "target": "Patrick08"
+    },
+    {
+      "text": "",
+      "source": "Patrick14",
+      "target": "Patrick06a"
+    },
+    {
+      "text": "Well, see ya.",
+      "source": "Patrick08",
+      "target": "PatrickEnd"
+    },
+    {
+      "text": "Really? Think you could fix a water chip?",
+      "source": "Patrick08",
+      "target": "Patrick07"
+    },
+    {
+      "text": "Can you direct me to a nearby settlement?",
+      "source": "Patrick08",
+      "target": "Patrick05"
+    }
+  ]
+}

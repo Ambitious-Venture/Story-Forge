@@ -1,0 +1,34 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "That little bitch is dead.",
+      "node_id": "node8",
+      "id": "Node002"
+    },
+    {
+      "text": "",
+      "node_id": "node7",
+      "id": "talk_p_proc"
+    },
+    {
+      "text": "Talk to Phil, bitch.",
+      "node_id": "node9_1",
+      "id": "Node001_1"
+    }
+  ],
+  "links": [
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node001_1"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node002"
+    }
+  ]
+}

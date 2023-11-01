@@ -1,0 +1,64 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "You strain your muscles, but the heavy iron disc is too much for your weak physique. You can feel something pop in your back.",
+      "node_id": "node6_1",
+      "id": "cover01a_1"
+    },
+    {
+      "text": "",
+      "node_id": "node4",
+      "id": "cover01"
+    },
+    {
+      "text": "You close the manhole cover.",
+      "node_id": "node3",
+      "id": "cover00"
+    },
+    {
+      "text": "",
+      "node_id": "node1",
+      "id": "start"
+    },
+    {
+      "text": "",
+      "node_id": "node2",
+      "id": "do_stuff"
+    },
+    {
+      "text": "The manhole cover is heavy and awkward to lift.",
+      "node_id": "node6_2",
+      "id": "cover01a_2"
+    }
+  ],
+  "links": [
+    {
+      "text": "",
+      "source": "cover01",
+      "target": "cover01a_2"
+    },
+    {
+      "text": "",
+      "source": "cover01",
+      "target": "cover01a_1"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "do_stuff"
+    },
+    {
+      "text": "",
+      "source": "do_stuff",
+      "target": "cover00"
+    },
+    {
+      "text": "",
+      "source": "do_stuff",
+      "target": "cover01"
+    }
+  ]
+}

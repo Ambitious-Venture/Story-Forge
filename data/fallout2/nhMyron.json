@@ -1,0 +1,18 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "Of course you are. Have a seat on the bed. Can I get you a drink, maybe a little...Jet? go",
+      "node_id": "node134_1",
+      "id": "Node207_1"
+    },
+    {
+      "text": "I'm suuure we'll be friends. go",
+      "node_id": "node135_1",
+      "id": "Node210_1"
+    }
+  ],
+  "links": []
+}

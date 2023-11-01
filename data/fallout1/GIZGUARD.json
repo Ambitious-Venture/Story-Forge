@@ -1,0 +1,174 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "What?",
+      "node_id": "node10",
+      "id": "GizGuard02"
+    },
+    {
+      "text": "",
+      "node_id": "node1",
+      "id": "start"
+    },
+    {
+      "text": "",
+      "node_id": "node15",
+      "id": "GizGuardEnd"
+    },
+    {
+      "text": "",
+      "node_id": "node7",
+      "id": "timed_event_p_proc"
+    },
+    {
+      "text": "",
+      "node_id": "node18",
+      "id": "GizGuard06"
+    },
+    {
+      "text": "",
+      "node_id": "node8",
+      "id": "GizGuard00"
+    },
+    {
+      "text": "",
+      "node_id": "node3",
+      "id": "destroy_p_proc"
+    },
+    {
+      "text": "Gizmo's a fair man. Pay's good, work's easy. Don't make trouble and  everyone will be happy.",
+      "node_id": "node17",
+      "id": "GizGuard05"
+    },
+    {
+      "text": "",
+      "node_id": "node11",
+      "id": "GizGuard07"
+    },
+    {
+      "text": "",
+      "node_id": "node14",
+      "id": "GizGuard04"
+    },
+    {
+      "text": "",
+      "node_id": "node4",
+      "id": "map_enter_p_proc"
+    },
+    {
+      "text": "",
+      "node_id": "node9",
+      "id": "GizGuard01"
+    },
+    {
+      "text": "",
+      "node_id": "node2",
+      "id": "critter_p_proc"
+    },
+    {
+      "text": "",
+      "node_id": "node5",
+      "id": "pickup_p_proc"
+    },
+    {
+      "text": "Get outta here, you moron.",
+      "node_id": "node16",
+      "id": "GizGuard08"
+    },
+    {
+      "text": "",
+      "node_id": "node6",
+      "id": "talk_p_proc"
+    },
+    {
+      "text": "No. Go away.",
+      "node_id": "node13_1",
+      "id": "GizGuard03_1"
+    }
+  ],
+  "links": [
+    {
+      "text": "Uuuh?",
+      "source": "GizGuard02",
+      "target": "GizGuard08"
+    },
+    {
+      "text": "Can you spare a few caps?",
+      "source": "GizGuard02",
+      "target": "GizGuard04"
+    },
+    {
+      "text": "Hey, can I ask you a few questions?",
+      "source": "GizGuard02",
+      "target": "GizGuard03_1"
+    },
+    {
+      "text": "Never mind, sorry.",
+      "source": "GizGuard02",
+      "target": "GizGuardEnd"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "pickup_p_proc"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "timed_event_p_proc"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "destroy_p_proc"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "talk_p_proc"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "map_enter_p_proc"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "critter_p_proc"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "GizGuard02"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "GizGuard01"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "GizGuard00"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "GizGuard07"
+    },
+    {
+      "text": "What else is there around this town?",
+      "source": "GizGuard03_1",
+      "target": "GizGuard06"
+    },
+    {
+      "text": "Can you tell me about your boss?",
+      "source": "GizGuard03_1",
+      "target": "GizGuard05"
+    }
+  ]
+}

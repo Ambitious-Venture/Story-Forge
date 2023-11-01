@@ -1,0 +1,519 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "You see a young man with a tattoo and a bad attitude.",
+      "node_id": "node5_1",
+      "id": "look_at_p_proc_1"
+    },
+    {
+      "text": "",
+      "node_id": "node22",
+      "id": "VinnieCombat"
+    },
+    {
+      "text": "",
+      "node_id": "node1",
+      "id": "start"
+    },
+    {
+      "text": "Get out of here, you moron!",
+      "node_id": "node15",
+      "id": "Vinnie04"
+    },
+    {
+      "text": "You want to whack Killian? Man, you're crazy. Man, I don't know . . .  all right, I'm in.",
+      "node_id": "node24",
+      "id": "Vinnie09"
+    },
+    {
+      "text": "You gain 400 experience points for stealing Neal's urn. The dead shall never rest in peace.",
+      "node_id": "node7_2",
+      "id": "talk_p_proc_2"
+    },
+    {
+      "text": "It's too late for that, slick. When you're out, you're way out.",
+      "node_id": "node35",
+      "id": "Vinnie25"
+    },
+    {
+      "text": "Yeah, you bet this is the wrong room!",
+      "node_id": "node12",
+      "id": "Vinnie02"
+    },
+    {
+      "text": "Ha ha! Let that old cock suffer until we off him tonight - are you in?",
+      "node_id": "node31",
+      "id": "Vinnie20"
+    },
+    {
+      "text": "I knew you weren't Skulz material. Get the hell out of here.",
+      "node_id": "node30",
+      "id": "Vinnie18"
+    },
+    {
+      "text": "",
+      "node_id": "node14",
+      "id": "Vinnie01a"
+    },
+    {
+      "text": "You ready to take out Neal?",
+      "node_id": "node8",
+      "id": "Vinnie24"
+    },
+    {
+      "text": "[Vinnie thinks for a second.] If you want to prove you belong in the Skulz, I want you to steal that old bastard's wife's ashes. Heh. [Vinnie mumbles] Let's make Neal suffer for his last couple of hours . . .",
+      "node_id": "node25",
+      "id": "Vinnie16"
+    },
+    {
+      "text": "Soon, Neal gets his, huh?",
+      "node_id": "node7_3",
+      "id": "talk_p_proc_3"
+    },
+    {
+      "text": "That slob can't even stand up by himself. We're the muscle in this town.  We take what we want.",
+      "node_id": "node20",
+      "id": "Vinnie05"
+    },
+    {
+      "text": "",
+      "node_id": "node3",
+      "id": "destroy_p_proc"
+    },
+    {
+      "text": "We don't bother Killian and he doesn't bother us as long as we keep it  low-key. You get me?",
+      "node_id": "node21",
+      "id": "Vinnie07"
+    },
+    {
+      "text": "What?! You'll pay for that remark!",
+      "node_id": "node19",
+      "id": "Vinnie06"
+    },
+    {
+      "text": "If you're hard enough to do that, mebbe you'd make a Skul after all. Bring it here once you've got it.",
+      "node_id": "node29",
+      "id": "Vinnie17"
+    },
+    {
+      "text": "Uh, all right . . . meet us later, but don't take too long.",
+      "node_id": "node34",
+      "id": "Vinnie23"
+    },
+    {
+      "text": "You got it?",
+      "node_id": "node9",
+      "id": "Vinnie19"
+    },
+    {
+      "text": "We are the one and only Junktown gang. We have the run of the streets, and we rule the city at night.",
+      "node_id": "node13",
+      "id": "Vinnie03"
+    },
+    {
+      "text": "",
+      "node_id": "node27",
+      "id": "Vinnie15a"
+    },
+    {
+      "text": "",
+      "node_id": "node33",
+      "id": "VinnieKillNeal"
+    },
+    {
+      "text": "",
+      "node_id": "node4",
+      "id": "map_enter_p_proc"
+    },
+    {
+      "text": "What are you wasting my time for?",
+      "node_id": "node32",
+      "id": "Vinnie21"
+    },
+    {
+      "text": "[Vinnie looks at you and laughs.] I don't think so.",
+      "node_id": "node17",
+      "id": "Vinnie15"
+    },
+    {
+      "text": "You're on Skulz turf, stranger. You'd better talk quick.",
+      "node_id": "node11",
+      "id": "Vinnie01"
+    },
+    {
+      "text": "You want to join us, huh? How do we know you're tough enough to be a  Skul?",
+      "node_id": "node16",
+      "id": "Vinnie14"
+    },
+    {
+      "text": "We said we'd be back, you old fuck!",
+      "node_id": "node2",
+      "id": "critter_p_proc"
+    },
+    {
+      "text": "",
+      "node_id": "node26",
+      "id": "Vinnie14a"
+    },
+    {
+      "text": "",
+      "node_id": "node6",
+      "id": "pickup_p_proc"
+    },
+    {
+      "text": "That'll show that old fuck. Thanks for taking care of him for us. [Vinnie gets a tear in his eye.] You're a Skul, now.",
+      "node_id": "node28",
+      "id": "Vinnie22"
+    },
+    {
+      "text": "",
+      "node_id": "node18",
+      "id": "VinnieEnd"
+    },
+    {
+      "text": "What do you want now?",
+      "node_id": "node10",
+      "id": "Vinnie10"
+    },
+    {
+      "text": "We rule this town.",
+      "node_id": "node7_1",
+      "id": "talk_p_proc_1"
+    },
+    {
+      "text": "We don't take that from anybody, least of all Killian! Just because he thinks he's a glorified sheriff doesn't mean that he controls the Skulz!",
+      "node_id": "node23",
+      "id": "Vinnie08"
+    }
+  ],
+  "links": [
+    {
+      "text": "",
+      "source": "start",
+      "target": "pickup_p_proc"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "look_at_p_proc_1"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "destroy_p_proc"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "map_enter_p_proc"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "critter_p_proc"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "talk_p_proc_1"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "talk_p_proc_3"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "talk_p_proc_2"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc_2",
+      "target": "Vinnie10"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc_2",
+      "target": "Vinnie01"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc_2",
+      "target": "Vinnie24"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc_2",
+      "target": "Vinnie19"
+    },
+    {
+      "text": "",
+      "source": "Vinnie25",
+      "target": "VinnieCombat"
+    },
+    {
+      "text": "I decided I'd rather not have anything to do with scabs like you.",
+      "source": "Vinnie20",
+      "target": "Vinnie06"
+    },
+    {
+      "text": "I've got some other shit to do before then - I'll meet you there.",
+      "source": "Vinnie20",
+      "target": "Vinnie23"
+    },
+    {
+      "text": "",
+      "source": "Vinnie20",
+      "target": "Vinnie22"
+    },
+    {
+      "text": "Let's crush him.",
+      "source": "Vinnie20",
+      "target": "VinnieKillNeal"
+    },
+    {
+      "text": "",
+      "source": "Vinnie01a",
+      "target": "Vinnie15"
+    },
+    {
+      "text": "",
+      "source": "Vinnie01a",
+      "target": "Vinnie14"
+    },
+    {
+      "text": "Yeah, let's ice the bastard.",
+      "source": "Vinnie24",
+      "target": "VinnieKillNeal"
+    },
+    {
+      "text": "No way. I want out.",
+      "source": "Vinnie24",
+      "target": "Vinnie25"
+    },
+    {
+      "text": "Nah, I got some more stuff to do.",
+      "source": "Vinnie24",
+      "target": "Vinnie23"
+    },
+    {
+      "text": "All right, I'll do it.",
+      "source": "Vinnie16",
+      "target": "Vinnie17"
+    },
+    {
+      "text": "Uh, I don't think I could do that.",
+      "source": "Vinnie16",
+      "target": "Vinnie04"
+    },
+    {
+      "text": "That won't be as tough as you might think. I already killed the bastard.",
+      "source": "Vinnie16",
+      "target": "Vinnie22"
+    },
+    {
+      "text": "No way.",
+      "source": "Vinnie16",
+      "target": "Vinnie18"
+    },
+    {
+      "text": "I already stole it.",
+      "source": "Vinnie16",
+      "target": "Vinnie19"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc_3",
+      "target": "Vinnie24"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc_3",
+      "target": "Vinnie19"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc_3",
+      "target": "Vinnie10"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc_3",
+      "target": "Vinnie01"
+    },
+    {
+      "text": "You have some sort of deal with Killian?",
+      "source": "Vinnie05",
+      "target": "Vinnie07"
+    },
+    {
+      "text": "I see.",
+      "source": "Vinnie05",
+      "target": "VinnieEnd"
+    },
+    {
+      "text": "Yeah. Bye.",
+      "source": "Vinnie07",
+      "target": "VinnieEnd"
+    },
+    {
+      "text": "I get it, all right. You have to hide out from him.",
+      "source": "Vinnie07",
+      "target": "Vinnie08"
+    },
+    {
+      "text": "",
+      "source": "Vinnie06",
+      "target": "VinnieCombat"
+    },
+    {
+      "text": "Yep.",
+      "source": "Vinnie19",
+      "target": "Vinnie20"
+    },
+    {
+      "text": "No.",
+      "source": "Vinnie19",
+      "target": "Vinnie21"
+    },
+    {
+      "text": "I had to kill Neal to get it. He cried like a little girl.",
+      "source": "Vinnie19",
+      "target": "Vinnie22"
+    },
+    {
+      "text": "You couldn't run the schoolyard, Chromo.",
+      "source": "Vinnie03",
+      "target": "Vinnie06"
+    },
+    {
+      "text": "Oh. Sorry. Bye.",
+      "source": "Vinnie03",
+      "target": "VinnieEnd"
+    },
+    {
+      "text": "I thought this city was run by Gizmo after hours.",
+      "source": "Vinnie03",
+      "target": "Vinnie05"
+    },
+    {
+      "text": "",
+      "source": "Vinnie15a",
+      "target": "Vinnie04"
+    },
+    {
+      "text": "",
+      "source": "Vinnie15a",
+      "target": "Vinnie16"
+    },
+    {
+      "text": "I'll prove it to you.",
+      "source": "Vinnie15",
+      "target": "Vinnie15a"
+    },
+    {
+      "text": "What makes the Skulz so tough?",
+      "source": "Vinnie15",
+      "target": "Vinnie03"
+    },
+    {
+      "text": "You're right, I'll be leaving now.",
+      "source": "Vinnie15",
+      "target": "VinnieEnd"
+    },
+    {
+      "text": "That's it. Time for you to die.",
+      "source": "Vinnie15",
+      "target": "VinnieCombat"
+    },
+    {
+      "text": "I'd like to join you guys.",
+      "source": "Vinnie01",
+      "target": "Vinnie01a"
+    },
+    {
+      "text": "Sorry, wrong room.",
+      "source": "Vinnie01",
+      "target": "Vinnie02"
+    },
+    {
+      "text": "Skulz? Who are you guys?",
+      "source": "Vinnie01",
+      "target": "Vinnie03"
+    },
+    {
+      "text": "Urgh?",
+      "source": "Vinnie01",
+      "target": "Vinnie04"
+    },
+    {
+      "text": "Trust me, I'm tough enough.",
+      "source": "Vinnie14",
+      "target": "Vinnie14a"
+    },
+    {
+      "text": "Let me prove myself to you.",
+      "source": "Vinnie14",
+      "target": "Vinnie16"
+    },
+    {
+      "text": "I'll show you tough enough, you son of a bitch!",
+      "source": "Vinnie14",
+      "target": "VinnieCombat"
+    },
+    {
+      "text": "",
+      "source": "Vinnie14a",
+      "target": "Vinnie16"
+    },
+    {
+      "text": "",
+      "source": "Vinnie14a",
+      "target": "Vinnie15"
+    },
+    {
+      "text": "I'd like to join you guys.",
+      "source": "Vinnie10",
+      "target": "Vinnie01a"
+    },
+    {
+      "text": "Nothing. Sorry.",
+      "source": "Vinnie10",
+      "target": "VinnieEnd"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc_1",
+      "target": "Vinnie24"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc_1",
+      "target": "Vinnie19"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc_1",
+      "target": "Vinnie10"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc_1",
+      "target": "Vinnie01"
+    },
+    {
+      "text": "Sorry, didn't mean to get you all riled up.",
+      "source": "Vinnie08",
+      "target": "VinnieEnd"
+    },
+    {
+      "text": "So, he cramps your style, eh? Mine, too. In fact, I'm thinking of whacking him. You want in?",
+      "source": "Vinnie08",
+      "target": "Vinnie09"
+    }
+  ]
+}

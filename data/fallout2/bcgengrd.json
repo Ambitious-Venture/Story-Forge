@@ -1,0 +1,24 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "",
+      "node_id": "node16",
+      "id": "timed_event_p_proc"
+    },
+    {
+      "text": "Man, Darion doesn't pay me enough to stand around here and do nothing.",
+      "node_id": "node17_1",
+      "id": "NodeIdleTalk_1"
+    }
+  ],
+  "links": [
+    {
+      "text": "",
+      "source": "timed_event_p_proc",
+      "target": "NodeIdleTalk_1"
+    }
+  ]
+}

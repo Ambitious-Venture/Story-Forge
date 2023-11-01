@@ -1,0 +1,49 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "Your attempt to re-wire the field emitter fails.",
+      "node_id": "node2",
+      "id": "use_obj_on_p_proc"
+    },
+    {
+      "text": "",
+      "node_id": "node1",
+      "id": "start"
+    },
+    {
+      "text": "Your attempt to re-wire the field emitter fails.",
+      "node_id": "node3",
+      "id": "use_skill_on_p_proc"
+    },
+    {
+      "text": "You turn off the field emitter.",
+      "node_id": "node4",
+      "id": "turn_field_off"
+    }
+  ],
+  "links": [
+    {
+      "text": "",
+      "source": "use_obj_on_p_proc",
+      "target": "turn_field_off"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "use_obj_on_p_proc"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "use_skill_on_p_proc"
+    },
+    {
+      "text": "",
+      "source": "use_skill_on_p_proc",
+      "target": "turn_field_off"
+    }
+  ]
+}

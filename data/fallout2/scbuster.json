@@ -1,0 +1,404 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "Sure, stranger, what do you want to know?",
+      "node_id": "node23",
+      "id": "Node004"
+    },
+    {
+      "text": "",
+      "node_id": "node31",
+      "id": "Node001a"
+    },
+    {
+      "text": "Here is what I have on this shelf. If you need anything else make sure to check out the other shelves also.",
+      "node_id": "node9",
+      "id": "NodeBarter"
+    },
+    {
+      "text": "Frank Westin? You mean that Congress guy? Got himself a spread out west of town. \u00a0Brahmin man - big wheel in the Stockman's Association. He's always looking for hands, if you're wanting work.",
+      "node_id": "node27",
+      "id": "Node009"
+    },
+    {
+      "text": "",
+      "node_id": "node3",
+      "id": "critter_p_proc"
+    },
+    {
+      "text": "Look, just get out or Mr. .45 is gonna get unhappy!",
+      "node_id": "node4",
+      "id": "Node014"
+    },
+    {
+      "text": "Anything else?",
+      "node_id": "node8_3",
+      "id": "Node001_3"
+    },
+    {
+      "text": "",
+      "node_id": "node6",
+      "id": "talk_p_proc"
+    },
+    {
+      "text": "I don't mess with Mr. Merk and it don't pay to go gossiping about him. You got questions, go ask about him at the Rawhide.",
+      "node_id": "node25",
+      "id": "Node008"
+    },
+    {
+      "text": "That's nice stranger, but I ain't no charity.",
+      "node_id": "node29",
+      "id": "Node005"
+    },
+    {
+      "text": "Well, you got yourself a steal there, partner.",
+      "node_id": "node21_1",
+      "id": "Node002_1"
+    },
+    {
+      "text": "",
+      "node_id": "node18",
+      "id": "doBarter"
+    },
+    {
+      "text": "Hey, you already cleaned me out.",
+      "node_id": "node19_1",
+      "id": "Node006_1"
+    },
+    {
+      "text": "",
+      "node_id": "node17",
+      "id": "Node999"
+    },
+    {
+      "text": "",
+      "node_id": "node30",
+      "id": "tryModify"
+    },
+    {
+      "text": "Hey, back again? What can I do for you?",
+      "node_id": "node8_2",
+      "id": "Node001_2"
+    },
+    {
+      "text": "",
+      "node_id": "node7",
+      "id": "do_swap"
+    },
+    {
+      "text": "",
+      "node_id": "node20",
+      "id": "Node0405a"
+    },
+    {
+      "text": "New California Republic - that's what it is. President Tandi and the bunch say they're trying to rebuild the old days; I figure they're just trying to grab whatever they can. Hell, I got no complaint with them - the old days is all before my time. They're kind of a prissy bunch, though - don't like slaves, gambling, whatnot. That's why I set up out here. Don't like rules - never have.",
+      "node_id": "node24",
+      "id": "Node007"
+    },
+    {
+      "text": "Funny you go asking that after what happened to Frank Westin. Not that I'd know, but there's a fellow - Merk - down at the Rawhide who might be able to help you.",
+      "node_id": "node26",
+      "id": "Node010"
+    },
+    {
+      "text": "That one of them pre-war imports? Let me guess, 14mm ammo? Nope, ain't got one.",
+      "node_id": "node28",
+      "id": "Node011"
+    },
+    {
+      "text": "Look, I can't do this on anything but a hunting rifle. It's the way the mount's built, understand?",
+      "node_id": "node32",
+      "id": "Node012"
+    },
+    {
+      "text": "Anything else?",
+      "node_id": "node8_1",
+      "id": "Node001_1"
+    }
+  ],
+  "links": [
+    {
+      "text": "Do you have a GECK?",
+      "source": "Node004",
+      "target": "Node011"
+    },
+    {
+      "text": "I'm looking for a meeting with Old Man Carlson. Know anybody who could help me?",
+      "source": "Node004",
+      "target": "Node009"
+    },
+    {
+      "text": "Tell me about NCR",
+      "source": "Node004",
+      "target": "Node007"
+    },
+    {
+      "text": "What can you tell me about Frank Westin?",
+      "source": "Node004",
+      "target": "Node010"
+    },
+    {
+      "text": "What's the deal with Merk?",
+      "source": "Node004",
+      "target": "Node008"
+    },
+    {
+      "text": "",
+      "source": "Node001a",
+      "target": "Node001_3"
+    },
+    {
+      "text": "",
+      "source": "Node001a",
+      "target": "Node001_2"
+    },
+    {
+      "text": "",
+      "source": "Node001a",
+      "target": "Node001_1"
+    },
+    {
+      "text": "I see.",
+      "source": "Node009",
+      "target": "Node001_3"
+    },
+    {
+      "text": "Goodbye.",
+      "source": "Node009",
+      "target": "Node999"
+    },
+    {
+      "text": "I see.",
+      "source": "Node009",
+      "target": "Node001_2"
+    },
+    {
+      "text": "I see.",
+      "source": "Node009",
+      "target": "Node001_1"
+    },
+    {
+      "text": "",
+      "source": "critter_p_proc",
+      "target": "Node014"
+    },
+    {
+      "text": "Want gun.",
+      "source": "Node001_3",
+      "target": "doBarter"
+    },
+    {
+      "text": "Goodbye.",
+      "source": "Node001_3",
+      "target": "Node999"
+    },
+    {
+      "text": "I've got some questions",
+      "source": "Node001_3",
+      "target": "Node0405a"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node001_2"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "do_swap"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node001_1"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "NodeBarter"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node014"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node001_3"
+    },
+    {
+      "text": "Goodbye.",
+      "source": "Node008",
+      "target": "Node999"
+    },
+    {
+      "text": "I see.",
+      "source": "Node008",
+      "target": "Node001_2"
+    },
+    {
+      "text": "I see.",
+      "source": "Node008",
+      "target": "Node001_1"
+    },
+    {
+      "text": "I see.",
+      "source": "Node008",
+      "target": "Node001_3"
+    },
+    {
+      "text": "Sure, it's a deal",
+      "source": "Node006_1",
+      "target": "tryModify"
+    },
+    {
+      "text": "No, thanks.",
+      "source": "Node006_1",
+      "target": "Node001a"
+    },
+    {
+      "text": "",
+      "source": "Node999",
+      "target": "do_swap"
+    },
+    {
+      "text": "",
+      "source": "tryModify",
+      "target": "Node005"
+    },
+    {
+      "text": "",
+      "source": "tryModify",
+      "target": "Node012"
+    },
+    {
+      "text": "",
+      "source": "tryModify",
+      "target": "Node002_1"
+    },
+    {
+      "text": "Goodbye.",
+      "source": "Node001_2",
+      "target": "Node999"
+    },
+    {
+      "text": "I've got some questions",
+      "source": "Node001_2",
+      "target": "Node0405a"
+    },
+    {
+      "text": "Want gun.",
+      "source": "Node001_2",
+      "target": "doBarter"
+    },
+    {
+      "text": "",
+      "source": "Node0405a",
+      "target": "Node004"
+    },
+    {
+      "text": "",
+      "source": "Node0405a",
+      "target": "Node005"
+    },
+    {
+      "text": "Goodbye.",
+      "source": "Node007",
+      "target": "Node999"
+    },
+    {
+      "text": "I see.",
+      "source": "Node007",
+      "target": "Node001_2"
+    },
+    {
+      "text": "I see.",
+      "source": "Node007",
+      "target": "Node001_1"
+    },
+    {
+      "text": "I see.",
+      "source": "Node007",
+      "target": "Node001_3"
+    },
+    {
+      "text": "I see.",
+      "source": "Node010",
+      "target": "Node001_2"
+    },
+    {
+      "text": "I see.",
+      "source": "Node010",
+      "target": "Node001_1"
+    },
+    {
+      "text": "I see.",
+      "source": "Node010",
+      "target": "Node001_3"
+    },
+    {
+      "text": "Goodbye",
+      "source": "Node010",
+      "target": "Node999"
+    },
+    {
+      "text": "I see.",
+      "source": "Node011",
+      "target": "Node001_3"
+    },
+    {
+      "text": "Goodbye",
+      "source": "Node011",
+      "target": "Node999"
+    },
+    {
+      "text": "I see.",
+      "source": "Node011",
+      "target": "Node001_2"
+    },
+    {
+      "text": "I see.",
+      "source": "Node011",
+      "target": "Node001_1"
+    },
+    {
+      "text": "Goodbye.",
+      "source": "Node012",
+      "target": "Node999"
+    },
+    {
+      "text": "I see.",
+      "source": "Node012",
+      "target": "Node001_2"
+    },
+    {
+      "text": "I see.",
+      "source": "Node012",
+      "target": "Node001_1"
+    },
+    {
+      "text": "I see.",
+      "source": "Node012",
+      "target": "Node001_3"
+    },
+    {
+      "text": "Goodbye.",
+      "source": "Node001_1",
+      "target": "Node999"
+    },
+    {
+      "text": "I've got some questions",
+      "source": "Node001_1",
+      "target": "Node0405a"
+    },
+    {
+      "text": "Want gun.",
+      "source": "Node001_1",
+      "target": "doBarter"
+    }
+  ]
+}

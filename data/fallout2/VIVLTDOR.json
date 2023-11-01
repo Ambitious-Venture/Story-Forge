@@ -1,0 +1,94 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "Even with the crowbar, you still aren't strong enough to force the door.",
+      "node_id": "node13_1",
+      "id": "Node003_1"
+    },
+    {
+      "text": "",
+      "node_id": "node19",
+      "id": "NodeOpen"
+    },
+    {
+      "text": "",
+      "node_id": "node9",
+      "id": "use_skill_on_p_proc"
+    },
+    {
+      "text": "",
+      "node_id": "node11",
+      "id": "use_obj_on_p_proc"
+    },
+    {
+      "text": "Using your raw physical strength, you force open the door.",
+      "node_id": "node6_1",
+      "id": "Node005_1"
+    },
+    {
+      "text": "The door won't close. It's jammed.",
+      "node_id": "node4_1",
+      "id": "Node008_1"
+    },
+    {
+      "text": "",
+      "node_id": "node3",
+      "id": "use_p_proc"
+    },
+    {
+      "text": "",
+      "node_id": "node15",
+      "id": "damage_p_proc"
+    },
+    {
+      "text": "With the help of the crowbar, you force open the door.",
+      "node_id": "node12_1",
+      "id": "Node004_1"
+    }
+  ],
+  "links": [
+    {
+      "text": "",
+      "source": "use_skill_on_p_proc",
+      "target": "Node008_1"
+    },
+    {
+      "text": "",
+      "source": "use_obj_on_p_proc",
+      "target": "Node003_1"
+    },
+    {
+      "text": "",
+      "source": "use_obj_on_p_proc",
+      "target": "Node004_1"
+    },
+    {
+      "text": "",
+      "source": "use_obj_on_p_proc",
+      "target": "Node008_1"
+    },
+    {
+      "text": "",
+      "source": "Node005_1",
+      "target": "NodeOpen"
+    },
+    {
+      "text": "",
+      "source": "use_p_proc",
+      "target": "Node008_1"
+    },
+    {
+      "text": "",
+      "source": "use_p_proc",
+      "target": "Node005_1"
+    },
+    {
+      "text": "",
+      "source": "Node004_1",
+      "target": "NodeOpen"
+    }
+  ]
+}

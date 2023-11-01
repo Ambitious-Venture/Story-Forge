@@ -1,0 +1,24 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "",
+      "node_id": "node1",
+      "id": "start"
+    },
+    {
+      "text": "After destroying the Master and his lab which he was creating his army of Super Mutants, you return home, only to discover that you are thrown out of your vault for being too destructive. Thank you  for playing Fallout.",
+      "node_id": "node2",
+      "id": "timed_event_p_proc"
+    }
+  ],
+  "links": [
+    {
+      "text": "",
+      "source": "start",
+      "target": "timed_event_p_proc"
+    }
+  ]
+}

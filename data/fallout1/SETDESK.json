@@ -1,0 +1,24 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "You find a note from someone called the Lieutenant to Set. It orders him to watch for pure-strain humans.",
+      "node_id": "node2_1",
+      "id": "do_stuff_1"
+    },
+    {
+      "text": "",
+      "node_id": "node1",
+      "id": "start"
+    }
+  ],
+  "links": [
+    {
+      "text": "",
+      "source": "start",
+      "target": "do_stuff_1"
+    }
+  ]
+}

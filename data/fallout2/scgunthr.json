@@ -1,0 +1,504 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "It's Gunther, aide to President Tandi. At least that's what the sign on the door said.",
+      "node_id": "node38_1",
+      "id": "Node999b_1"
+    },
+    {
+      "text": "Let me make myself clear. The President is not going to see you - now or ever. You've been paid. Now just leave.",
+      "node_id": "node9_1",
+      "id": "Node022_1"
+    },
+    {
+      "text": "You can't take the president's job!",
+      "node_id": "node26",
+      "id": "Node004"
+    },
+    {
+      "text": "Let's see. Contract says $500. Here you are.",
+      "node_id": "node36_2",
+      "id": "Node019_2"
+    },
+    {
+      "text": "Well, I'm sorry, but Madam President is very busy. Why don't you come back when the job is done?",
+      "node_id": "node34",
+      "id": "Node015"
+    },
+    {
+      "text": "Then I suggest you read the plaque on the statue outside. Now, good day.",
+      "node_id": "node31",
+      "id": "Node009"
+    },
+    {
+      "text": "NO! You are dumb. President must be smart, talk in two-syllable words! You no president.",
+      "node_id": "node28",
+      "id": "Node006"
+    },
+    {
+      "text": "Here to report the outcome of Vault 15?",
+      "node_id": "node8",
+      "id": "Node014"
+    },
+    {
+      "text": "Excellent! I'll buzz you right in.",
+      "node_id": "node33",
+      "id": "Node016"
+    },
+    {
+      "text": "",
+      "node_id": "node5",
+      "id": "talk_p_proc"
+    },
+    {
+      "text": "It's Gunther, aide to President Tandi. At least that's what the sign on the door said.",
+      "node_id": "node36_4",
+      "id": "Node019_4"
+    },
+    {
+      "text": "Madam President no longer grants interviews regarding Vault 13. I'm sorry. She's too busy to see every prospector who comes through.",
+      "node_id": "node29",
+      "id": "Node008"
+    },
+    {
+      "text": "Right. I'm not sure that's what she's looking for. Oh well, she said send them all in. You go. Talk Tandi now.",
+      "node_id": "node27",
+      "id": "Node005"
+    },
+    {
+      "text": "What you do?",
+      "node_id": "node25",
+      "id": "Node003"
+    },
+    {
+      "text": "Damn. Looks solid. Look, we'll take care of this. Here's $4000 for the info.",
+      "node_id": "node37",
+      "id": "Node021"
+    },
+    {
+      "text": "Let's try this again. You help Tandi? Do job for Tandi?",
+      "node_id": "node20_1",
+      "id": "Node002_1"
+    },
+    {
+      "text": "",
+      "node_id": "node19",
+      "id": "Node999"
+    },
+    {
+      "text": "It's Gunther, aide to President Tandi. At least that's what the sign on the door said.",
+      "node_id": "node36_6",
+      "id": "Node019_6"
+    },
+    {
+      "text": "Of course, she just buzzed me about it. A reward of $6000 and NCR thanks you, she said. Now, there is work to be done. Goodbye.",
+      "node_id": "node36_1",
+      "id": "Node019_1"
+    },
+    {
+      "text": "Feargus? I don't believe it!",
+      "node_id": "node23",
+      "id": "Node020"
+    },
+    {
+      "text": "My name is Gunther, personal assistant to President Tandi. Now, what can I do for you?",
+      "node_id": "node21",
+      "id": "Node007"
+    },
+    {
+      "text": "It's Gunther, aide to President Tandi. At least that's what the sign on the door said.",
+      "node_id": "node41_1",
+      "id": "Node999a_1"
+    },
+    {
+      "text": "You see a slender young man wearing glasses.",
+      "node_id": "node36_7",
+      "id": "Node019_7"
+    },
+    {
+      "text": "",
+      "node_id": "node24",
+      "id": "Node011a"
+    },
+    {
+      "text": "I have no idea what you are talking about. Do you have real question?",
+      "node_id": "node30",
+      "id": "Node010"
+    },
+    {
+      "text": "Ah yes. Well, she's instructed me to send in anyone asking about it. You're buzzed in. It's the door to my right.",
+      "node_id": "node22",
+      "id": "Node011"
+    },
+    {
+      "text": "",
+      "node_id": "node40",
+      "id": "takeHolo"
+    },
+    {
+      "text": "Back so soon! Now what?",
+      "node_id": "node6",
+      "id": "Node018"
+    },
+    {
+      "text": "Madam President is finished with you? How did things go?",
+      "node_id": "node7",
+      "id": "Node012"
+    },
+    {
+      "text": "You again?",
+      "node_id": "node10_1",
+      "id": "Node001_1"
+    },
+    {
+      "text": "You see a slender young man wearing glasses.",
+      "node_id": "node36_3",
+      "id": "Node019_3"
+    },
+    {
+      "text": "You see a slender young man wearing glasses.",
+      "node_id": "node36_5",
+      "id": "Node019_5"
+    },
+    {
+      "text": "It's Gunther, aide to President Tandi. At least that's what the sign on the door said.",
+      "node_id": "node36_8",
+      "id": "Node019_8"
+    }
+  ],
+  "links": [
+    {
+      "text": "",
+      "source": "Node999b_1",
+      "target": "takeHolo"
+    },
+    {
+      "text": "",
+      "source": "Node999b_1",
+      "target": "Node999"
+    },
+    {
+      "text": "You should know there's a spy in your house - somebody named F.",
+      "source": "Node022_1",
+      "target": "Node020"
+    },
+    {
+      "text": "No?",
+      "source": "Node004",
+      "target": "Node006"
+    },
+    {
+      "text": "Oh. Okay.",
+      "source": "Node004",
+      "target": "Node999"
+    },
+    {
+      "text": "Your president said you should know there's a spy in your house - somebody named Feargus.",
+      "source": "Node019_2",
+      "target": "Node020"
+    },
+    {
+      "text": "Goodbye.",
+      "source": "Node019_2",
+      "target": "Node999"
+    },
+    {
+      "text": "Okay.",
+      "source": "Node015",
+      "target": "Node999"
+    },
+    {
+      "text": "Me no like you. You yell. Bad man.",
+      "source": "Node006",
+      "target": "Node999"
+    },
+    {
+      "text": "Oh. What me do?",
+      "source": "Node006",
+      "target": "Node002_1"
+    },
+    {
+      "text": "Yes.",
+      "source": "Node014",
+      "target": "Node016"
+    },
+    {
+      "text": "No.",
+      "source": "Node014",
+      "target": "Node015"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node001_1"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node012"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node014"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node022_1"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node018"
+    },
+    {
+      "text": "Goodbye.",
+      "source": "Node019_4",
+      "target": "Node999"
+    },
+    {
+      "text": "Your president said you should know there's a spy in your house - somebody named Feargus.",
+      "source": "Node019_4",
+      "target": "Node020"
+    },
+    {
+      "text": "Huh? I don't get it.",
+      "source": "Node008",
+      "target": "Node009"
+    },
+    {
+      "text": "You're useless. I'm going.",
+      "source": "Node008",
+      "target": "Node999"
+    },
+    {
+      "text": "What about a GECK. She might know something about that?",
+      "source": "Node008",
+      "target": "Node010"
+    },
+    {
+      "text": "There was some talk about a job.",
+      "source": "Node008",
+      "target": "Node011"
+    },
+    {
+      "text": "Uhhhh...me kill, me kill big!",
+      "source": "Node003",
+      "target": "Node005"
+    },
+    {
+      "text": "Thanks. Have a nice day.",
+      "source": "Node021",
+      "target": "Node999b_1"
+    },
+    {
+      "text": "Yesyesyesyes!",
+      "source": "Node002_1",
+      "target": "Node003"
+    },
+    {
+      "text": "Tandi job. Me want.",
+      "source": "Node002_1",
+      "target": "Node004"
+    },
+    {
+      "text": "Your president said you should know there's a spy in your house - somebody named Feargus.",
+      "source": "Node019_6",
+      "target": "Node020"
+    },
+    {
+      "text": "Goodbye.",
+      "source": "Node019_6",
+      "target": "Node999"
+    },
+    {
+      "text": "Your president said you should know there's a spy in your house - somebody named Feargus.",
+      "source": "Node019_1",
+      "target": "Node020"
+    },
+    {
+      "text": "Goodbye.",
+      "source": "Node019_1",
+      "target": "Node999"
+    },
+    {
+      "text": "Whatever. I'm out of here.",
+      "source": "Node020",
+      "target": "Node999"
+    },
+    {
+      "text": "Take a look at this disk.",
+      "source": "Node020",
+      "target": "Node021"
+    },
+    {
+      "text": "I understand the president has a job to be done.",
+      "source": "Node007",
+      "target": "Node011"
+    },
+    {
+      "text": "I'm searching for Vault 13.",
+      "source": "Node007",
+      "target": "Node008"
+    },
+    {
+      "text": "Absolutely nothing.",
+      "source": "Node007",
+      "target": "Node999"
+    },
+    {
+      "text": "I'm looking for the GECK.",
+      "source": "Node007",
+      "target": "Node010"
+    },
+    {
+      "text": "",
+      "source": "Node999a_1",
+      "target": "takeHolo"
+    },
+    {
+      "text": "",
+      "source": "Node999a_1",
+      "target": "Node999"
+    },
+    {
+      "text": "Your president said you should know there's a spy in your house - somebody named Feargus.",
+      "source": "Node019_7",
+      "target": "Node020"
+    },
+    {
+      "text": "Goodbye.",
+      "source": "Node019_7",
+      "target": "Node999"
+    },
+    {
+      "text": "",
+      "source": "Node011a",
+      "target": "Node011"
+    },
+    {
+      "text": "Never mind.",
+      "source": "Node010",
+      "target": "Node999"
+    },
+    {
+      "text": "I understand the president has a job to be done.",
+      "source": "Node010",
+      "target": "Node011"
+    },
+    {
+      "text": "I'm searching for Vault 13.",
+      "source": "Node010",
+      "target": "Node008"
+    },
+    {
+      "text": "Re-ward.",
+      "source": "Node018",
+      "target": "Node019_6"
+    },
+    {
+      "text": "Re-ward.",
+      "source": "Node018",
+      "target": "Node019_4"
+    },
+    {
+      "text": "Re-ward.",
+      "source": "Node018",
+      "target": "Node019_3"
+    },
+    {
+      "text": "Re-ward.",
+      "source": "Node018",
+      "target": "Node019_1"
+    },
+    {
+      "text": "Re-ward.",
+      "source": "Node018",
+      "target": "Node019_7"
+    },
+    {
+      "text": "Re-ward.",
+      "source": "Node018",
+      "target": "Node019_5"
+    },
+    {
+      "text": "Nothing.",
+      "source": "Node018",
+      "target": "Node999"
+    },
+    {
+      "text": "Re-ward.",
+      "source": "Node018",
+      "target": "Node019_2"
+    },
+    {
+      "text": "Re-ward.",
+      "source": "Node018",
+      "target": "Node019_8"
+    },
+    {
+      "text": "Good. Me bye-bye.",
+      "source": "Node012",
+      "target": "Node999"
+    },
+    {
+      "text": "Sorry, wrong office.",
+      "source": "Node001_1",
+      "target": "Node999"
+    },
+    {
+      "text": "You should know there's a spy in your house - somebody named F.",
+      "source": "Node001_1",
+      "target": "Node020"
+    },
+    {
+      "text": "I'm here to see President Tandi about a job.",
+      "source": "Node001_1",
+      "target": "Node011"
+    },
+    {
+      "text": "Who are you?",
+      "source": "Node001_1",
+      "target": "Node007"
+    },
+    {
+      "text": "I've been to Vault 15 and I need to talk to your boss about it.",
+      "source": "Node001_1",
+      "target": "Node011a"
+    },
+    {
+      "text": "Your president said you should know there's a spy in your house - somebody named Feargus.",
+      "source": "Node019_3",
+      "target": "Node020"
+    },
+    {
+      "text": "Goodbye.",
+      "source": "Node019_3",
+      "target": "Node999"
+    },
+    {
+      "text": "Your president said you should know there's a spy in your house - somebody named Feargus.",
+      "source": "Node019_5",
+      "target": "Node020"
+    },
+    {
+      "text": "Goodbye.",
+      "source": "Node019_5",
+      "target": "Node999"
+    },
+    {
+      "text": "Your president said you should know there's a spy in your house - somebody named Feargus.",
+      "source": "Node019_8",
+      "target": "Node020"
+    },
+    {
+      "text": "Goodbye.",
+      "source": "Node019_8",
+      "target": "Node999"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "There's a sign on the fridge.",
+      "node_id": "node3",
+      "id": "look_at_p_proc"
+    },
+    {
+      "text": "",
+      "node_id": "node1",
+      "id": "start"
+    },
+    {
+      "text": "",
+      "node_id": "node4",
+      "id": "use_p_proc"
+    },
+    {
+      "text": "The sign reads: \"For tenants only\".",
+      "node_id": "node2",
+      "id": "description_p_proc"
+    },
+    {
+      "text": "",
+      "node_id": "node5",
+      "id": "use_skill_on_p_proc"
+    }
+  ],
+  "links": [
+    {
+      "text": "",
+      "source": "start",
+      "target": "use_skill_on_p_proc"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "use_p_proc"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "description_p_proc"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "look_at_p_proc"
+    }
+  ]
+}

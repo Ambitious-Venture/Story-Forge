@@ -1,0 +1,54 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "",
+      "node_id": "node3",
+      "id": "critter_p_proc"
+    },
+    {
+      "text": "",
+      "node_id": "node4",
+      "id": "talk_p_proc"
+    },
+    {
+      "text": "Just keep moving along and there'll be no problem.",
+      "node_id": "node8",
+      "id": "Node001"
+    },
+    {
+      "text": "",
+      "node_id": "node17",
+      "id": "Node998"
+    },
+    {
+      "text": "Die, enemy of the people!",
+      "node_id": "node7",
+      "id": "Node003"
+    }
+  ],
+  "links": [
+    {
+      "text": "",
+      "source": "critter_p_proc",
+      "target": "talk_p_proc"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node001"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node003"
+    },
+    {
+      "text": "",
+      "source": "Node003",
+      "target": "Node998"
+    }
+  ]
+}

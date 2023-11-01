@@ -1,0 +1,34 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "There is no response.",
+      "node_id": "node2_2",
+      "id": "do_dialogue_2"
+    },
+    {
+      "text": "Ahhh . . .",
+      "node_id": "node2_1",
+      "id": "do_dialogue_1"
+    },
+    {
+      "text": "You see a glowing creature.",
+      "node_id": "node1",
+      "id": "start"
+    }
+  ],
+  "links": [
+    {
+      "text": "",
+      "source": "start",
+      "target": "do_dialogue_1"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "do_dialogue_2"
+    }
+  ]
+}

@@ -1,0 +1,604 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "You have stumbled upon a family of Mole Rats.",
+      "node_id": "node16",
+      "id": "North5"
+    },
+    {
+      "text": "",
+      "node_id": "node4",
+      "id": "Vault_table"
+    },
+    {
+      "text": "",
+      "node_id": "node1",
+      "id": "start"
+    },
+    {
+      "text": "You fall from a cliffside to the rocky ground below.",
+      "node_id": "node19_4",
+      "id": "South1_4"
+    },
+    {
+      "text": "You fall from a cliffside to the rocky ground below.",
+      "node_id": "node12_4",
+      "id": "North1_4"
+    },
+    {
+      "text": "",
+      "node_id": "node18",
+      "id": "hunters"
+    },
+    {
+      "text": "",
+      "node_id": "node22",
+      "id": "South4"
+    },
+    {
+      "text": "",
+      "node_id": "node9",
+      "id": "Place_critter"
+    },
+    {
+      "text": "You escape with no damage.",
+      "node_id": "node17_1",
+      "id": "North6_1"
+    },
+    {
+      "text": "Your leg is critically damaged by falling rocks.",
+      "node_id": "node24_3",
+      "id": "South6_3"
+    },
+    {
+      "text": "You find a cave with a small spring and manage to get your first good night's sleep in a long time.",
+      "node_id": "node19_2",
+      "id": "South1_2"
+    },
+    {
+      "text": "You fall over some rough terrain and scrape some flesh.",
+      "node_id": "node29_1",
+      "id": "Vault5_1"
+    },
+    {
+      "text": "",
+      "node_id": "node7",
+      "id": "remove_party"
+    },
+    {
+      "text": "The displaced rock brings with it the remains of a long-dead traveler.",
+      "node_id": "node24_2",
+      "id": "South6_2"
+    },
+    {
+      "text": "",
+      "node_id": "node5",
+      "id": "Lighting"
+    },
+    {
+      "text": "You fall from a ledge, landing on several sharp stones.",
+      "node_id": "node19_3",
+      "id": "South1_3"
+    },
+    {
+      "text": "",
+      "node_id": "node2",
+      "id": "North_table"
+    },
+    {
+      "text": "You escape with no damage.",
+      "node_id": "node24_1",
+      "id": "South6_1"
+    },
+    {
+      "text": "You nearly fall over some rough terrain. They could use some environment management out here.",
+      "node_id": "node29_2",
+      "id": "Vault5_2"
+    },
+    {
+      "text": "Tremendous molerats are nosing about here.",
+      "node_id": "node27",
+      "id": "Vault3"
+    },
+    {
+      "text": "Radscorpions!",
+      "node_id": "node13",
+      "id": "North2"
+    },
+    {
+      "text": "Your leg is critically damaged by falling rocks.",
+      "node_id": "node17_3",
+      "id": "North6_3"
+    },
+    {
+      "text": "The displaced rock brings with it the remains of a long-dead traveler.",
+      "node_id": "node17_2",
+      "id": "North6_2"
+    },
+    {
+      "text": "You see a lone radscorpion, skittering about.",
+      "node_id": "node25",
+      "id": "Vault1"
+    },
+    {
+      "text": "",
+      "node_id": "node6",
+      "id": "add_party"
+    },
+    {
+      "text": "You see several rats running towards you.",
+      "node_id": "node30",
+      "id": "Vault6"
+    },
+    {
+      "text": "Some rock shards slice your face and hands, but you escape with minimal damage.",
+      "node_id": "node24_4",
+      "id": "South6_4"
+    },
+    {
+      "text": "Fortunately, your climbing skills are up to the task.",
+      "node_id": "node19_1",
+      "id": "South1_1"
+    },
+    {
+      "text": "Some rock shards slice your face and hands, but you escape with minimal damage.",
+      "node_id": "node17_4",
+      "id": "North6_4"
+    },
+    {
+      "text": "Fortunately, your climbing skills are up to the task.",
+      "node_id": "node12_1",
+      "id": "North1_1"
+    },
+    {
+      "text": "You stumble onto a pack of hostile radscorpions.",
+      "node_id": "node20",
+      "id": "South2"
+    },
+    {
+      "text": "",
+      "node_id": "node3",
+      "id": "South_table"
+    },
+    {
+      "text": "You find several rats scavenging about here.",
+      "node_id": "node21",
+      "id": "South3"
+    },
+    {
+      "text": "Out of nowhere, a radscorpion suddenly strikes!",
+      "node_id": "node15_1",
+      "id": "North4_1"
+    },
+    {
+      "text": "You come across the bones of some long dead traveler.",
+      "node_id": "node26",
+      "id": "Vault2"
+    },
+    {
+      "text": "You see a lone traveler in the distance.",
+      "node_id": "node11",
+      "id": "Patrick"
+    },
+    {
+      "text": "",
+      "node_id": "node10",
+      "id": "choose_start"
+    },
+    {
+      "text": "You find several rats scavenging about here.",
+      "node_id": "node28",
+      "id": "Vault4"
+    },
+    {
+      "text": "You fall from a ledge, landing on several sharp stones.",
+      "node_id": "node12_3",
+      "id": "North1_3"
+    },
+    {
+      "text": "The ground ahead is littered with debris and bodies. It looks like an old battle zone.",
+      "node_id": "node23",
+      "id": "South5"
+    },
+    {
+      "text": "",
+      "node_id": "node14",
+      "id": "North3"
+    },
+    {
+      "text": "You find a cave with a small spring and manage to get your first good night's sleep in a long time.",
+      "node_id": "node12_2",
+      "id": "North1_2"
+    },
+    {
+      "text": "",
+      "node_id": "node8",
+      "id": "stranger"
+    }
+  ],
+  "links": [
+    {
+      "text": "",
+      "source": "North5",
+      "target": "Place_critter"
+    },
+    {
+      "text": "",
+      "source": "North5",
+      "target": "stranger"
+    },
+    {
+      "text": "",
+      "source": "Vault_table",
+      "target": "Vault3"
+    },
+    {
+      "text": "",
+      "source": "Vault_table",
+      "target": "Vault5_1"
+    },
+    {
+      "text": "",
+      "source": "Vault_table",
+      "target": "choose_start"
+    },
+    {
+      "text": "",
+      "source": "Vault_table",
+      "target": "Vault5_2"
+    },
+    {
+      "text": "",
+      "source": "Vault_table",
+      "target": "Vault4"
+    },
+    {
+      "text": "",
+      "source": "Vault_table",
+      "target": "Vault1"
+    },
+    {
+      "text": "",
+      "source": "Vault_table",
+      "target": "hunters"
+    },
+    {
+      "text": "",
+      "source": "Vault_table",
+      "target": "Vault2"
+    },
+    {
+      "text": "",
+      "source": "Vault_table",
+      "target": "Vault6"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "Vault_table"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "remove_party"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "South_table"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "North_table"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "add_party"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "Lighting"
+    },
+    {
+      "text": "",
+      "source": "hunters",
+      "target": "stranger"
+    },
+    {
+      "text": "",
+      "source": "hunters",
+      "target": "Place_critter"
+    },
+    {
+      "text": "",
+      "source": "South4",
+      "target": "Patrick"
+    },
+    {
+      "text": "",
+      "source": "North6_1",
+      "target": "Place_critter"
+    },
+    {
+      "text": "",
+      "source": "South6_3",
+      "target": "Place_critter"
+    },
+    {
+      "text": "",
+      "source": "South6_2",
+      "target": "Place_critter"
+    },
+    {
+      "text": "",
+      "source": "North_table",
+      "target": "choose_start"
+    },
+    {
+      "text": "",
+      "source": "North_table",
+      "target": "North6_4"
+    },
+    {
+      "text": "",
+      "source": "North_table",
+      "target": "North1_1"
+    },
+    {
+      "text": "",
+      "source": "North_table",
+      "target": "North5"
+    },
+    {
+      "text": "",
+      "source": "North_table",
+      "target": "North3"
+    },
+    {
+      "text": "",
+      "source": "North_table",
+      "target": "North6_2"
+    },
+    {
+      "text": "",
+      "source": "North_table",
+      "target": "North1_2"
+    },
+    {
+      "text": "",
+      "source": "North_table",
+      "target": "North6_1"
+    },
+    {
+      "text": "",
+      "source": "North_table",
+      "target": "North1_3"
+    },
+    {
+      "text": "",
+      "source": "North_table",
+      "target": "hunters"
+    },
+    {
+      "text": "",
+      "source": "North_table",
+      "target": "North6_3"
+    },
+    {
+      "text": "",
+      "source": "North_table",
+      "target": "North1_4"
+    },
+    {
+      "text": "",
+      "source": "North_table",
+      "target": "North4_1"
+    },
+    {
+      "text": "",
+      "source": "North_table",
+      "target": "North2"
+    },
+    {
+      "text": "",
+      "source": "South6_1",
+      "target": "Place_critter"
+    },
+    {
+      "text": "",
+      "source": "Vault3",
+      "target": "stranger"
+    },
+    {
+      "text": "",
+      "source": "Vault3",
+      "target": "Place_critter"
+    },
+    {
+      "text": "",
+      "source": "North2",
+      "target": "stranger"
+    },
+    {
+      "text": "",
+      "source": "North2",
+      "target": "Place_critter"
+    },
+    {
+      "text": "",
+      "source": "North6_3",
+      "target": "Place_critter"
+    },
+    {
+      "text": "",
+      "source": "North6_2",
+      "target": "Place_critter"
+    },
+    {
+      "text": "",
+      "source": "Vault1",
+      "target": "stranger"
+    },
+    {
+      "text": "",
+      "source": "Vault1",
+      "target": "Place_critter"
+    },
+    {
+      "text": "",
+      "source": "Vault6",
+      "target": "stranger"
+    },
+    {
+      "text": "",
+      "source": "Vault6",
+      "target": "Place_critter"
+    },
+    {
+      "text": "",
+      "source": "South6_4",
+      "target": "Place_critter"
+    },
+    {
+      "text": "",
+      "source": "North6_4",
+      "target": "Place_critter"
+    },
+    {
+      "text": "",
+      "source": "South2",
+      "target": "stranger"
+    },
+    {
+      "text": "",
+      "source": "South2",
+      "target": "Place_critter"
+    },
+    {
+      "text": "",
+      "source": "South_table",
+      "target": "South6_2"
+    },
+    {
+      "text": "",
+      "source": "South_table",
+      "target": "South2"
+    },
+    {
+      "text": "",
+      "source": "South_table",
+      "target": "South6_1"
+    },
+    {
+      "text": "",
+      "source": "South_table",
+      "target": "South5"
+    },
+    {
+      "text": "",
+      "source": "South_table",
+      "target": "choose_start"
+    },
+    {
+      "text": "",
+      "source": "South_table",
+      "target": "South6_4"
+    },
+    {
+      "text": "",
+      "source": "South_table",
+      "target": "South6_3"
+    },
+    {
+      "text": "",
+      "source": "South_table",
+      "target": "South1_4"
+    },
+    {
+      "text": "",
+      "source": "South_table",
+      "target": "South1_2"
+    },
+    {
+      "text": "",
+      "source": "South_table",
+      "target": "South4"
+    },
+    {
+      "text": "",
+      "source": "South_table",
+      "target": "South1_1"
+    },
+    {
+      "text": "",
+      "source": "South_table",
+      "target": "South3"
+    },
+    {
+      "text": "",
+      "source": "South_table",
+      "target": "South1_3"
+    },
+    {
+      "text": "",
+      "source": "South_table",
+      "target": "hunters"
+    },
+    {
+      "text": "",
+      "source": "South3",
+      "target": "stranger"
+    },
+    {
+      "text": "",
+      "source": "South3",
+      "target": "Place_critter"
+    },
+    {
+      "text": "",
+      "source": "North4_1",
+      "target": "stranger"
+    },
+    {
+      "text": "",
+      "source": "North4_1",
+      "target": "Place_critter"
+    },
+    {
+      "text": "",
+      "source": "Vault2",
+      "target": "Place_critter"
+    },
+    {
+      "text": "",
+      "source": "Vault4",
+      "target": "stranger"
+    },
+    {
+      "text": "",
+      "source": "Vault4",
+      "target": "Place_critter"
+    },
+    {
+      "text": "",
+      "source": "South5",
+      "target": "Place_critter"
+    },
+    {
+      "text": "",
+      "source": "North3",
+      "target": "Patrick"
+    },
+    {
+      "text": "",
+      "source": "stranger",
+      "target": "Place_critter"
+    }
+  ]
+}

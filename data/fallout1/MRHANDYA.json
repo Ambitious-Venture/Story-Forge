@@ -1,0 +1,54 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "",
+      "node_id": "node2",
+      "id": "critter_p_proc"
+    },
+    {
+      "text": "The repairs are beyond your skills.",
+      "node_id": "node5_1",
+      "id": "Repair_Attempt_1"
+    },
+    {
+      "text": "",
+      "node_id": "node1",
+      "id": "start"
+    },
+    {
+      "text": "You see a functional robot.",
+      "node_id": "node3_1",
+      "id": "description_p_proc_1"
+    },
+    {
+      "text": "",
+      "node_id": "node4",
+      "id": "use_skill_on_p_proc"
+    }
+  ],
+  "links": [
+    {
+      "text": "",
+      "source": "start",
+      "target": "description_p_proc_1"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "critter_p_proc"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "use_skill_on_p_proc"
+    },
+    {
+      "text": "",
+      "source": "use_skill_on_p_proc",
+      "target": "Repair_Attempt_1"
+    }
+  ]
+}

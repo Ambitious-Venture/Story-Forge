@@ -1,0 +1,94 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "That sure is a nice pooch you have there.",
+      "node_id": "node5",
+      "id": "Lenore02"
+    },
+    {
+      "text": "You see a peasant.",
+      "node_id": "node1",
+      "id": "start"
+    },
+    {
+      "text": "Thanks for dealing with that dog.",
+      "node_id": "node6",
+      "id": "Lenore04"
+    },
+    {
+      "text": "What are you doing, Phil? You're checking the tread on those sneakers, aren't you?",
+      "node_id": "node3_1",
+      "id": "Lenore00_1"
+    },
+    {
+      "text": "Man, that dog looks hungry. It sure wants to eat you alive, Phil.",
+      "node_id": "node3_2",
+      "id": "Lenore00_2"
+    },
+    {
+      "text": "",
+      "node_id": "node2",
+      "id": "do_dialogue"
+    },
+    {
+      "text": "That might be a little overkill for a poor defenseless animal, don'cha think?",
+      "node_id": "node7",
+      "id": "Lenore01"
+    },
+    {
+      "text": "",
+      "node_id": "node4",
+      "id": "go_inside"
+    },
+    {
+      "text": "I'm sure Phil would appreciate it if you were  to get rid of his dog.",
+      "node_id": "node8",
+      "id": "Lenore03"
+    }
+  ],
+  "links": [
+    {
+      "text": "",
+      "source": "start",
+      "target": "Lenore00_1"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "Lenore00_2"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "go_inside"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "do_dialogue"
+    },
+    {
+      "text": "",
+      "source": "do_dialogue",
+      "target": "Lenore04"
+    },
+    {
+      "text": "",
+      "source": "do_dialogue",
+      "target": "Lenore02"
+    },
+    {
+      "text": "",
+      "source": "do_dialogue",
+      "target": "Lenore03"
+    },
+    {
+      "text": "",
+      "source": "do_dialogue",
+      "target": "Lenore01"
+    }
+  ]
+}

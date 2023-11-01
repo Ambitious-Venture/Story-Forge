@@ -1,0 +1,49 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "Mooooooo. [That sounded like a much happier moo.]",
+      "node_id": "node17_1",
+      "id": "Node003_1"
+    },
+    {
+      "text": "Moooooo! [This poor brahmin is injured.]",
+      "node_id": "node4_1",
+      "id": "talk_p_proc_1"
+    },
+    {
+      "text": "",
+      "node_id": "node15",
+      "id": "Node999"
+    },
+    {
+      "text": "",
+      "node_id": "node16",
+      "id": "Node990"
+    },
+    {
+      "text": "Mooooooooo. [Bess lets out a low, mournful moo.]",
+      "node_id": "node5_1",
+      "id": "Node002_1"
+    }
+  ],
+  "links": [
+    {
+      "text": "Just kidding. I need the jerky more than I need you.",
+      "source": "Node003_1",
+      "target": "Node999"
+    },
+    {
+      "text": "OK, then let's get out of here.",
+      "source": "Node003_1",
+      "target": "Node990"
+    },
+    {
+      "text": "Yup! You're going to make some mighty tasty jerky. See ya.",
+      "source": "Node002_1",
+      "target": "Node999"
+    }
+  ]
+}

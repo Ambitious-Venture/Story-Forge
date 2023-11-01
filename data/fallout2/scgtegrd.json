@@ -1,0 +1,74 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "",
+      "node_id": "node8",
+      "id": "spewArmed"
+    },
+    {
+      "text": "I'd turn and walk away real fast if I were you.",
+      "node_id": "node6",
+      "id": "Node004"
+    },
+    {
+      "text": "Hey you, put your weapons away. NCR don't welcome that kind of trouble.",
+      "node_id": "node7",
+      "id": "Node002"
+    },
+    {
+      "text": "",
+      "node_id": "node3",
+      "id": "critter_p_proc"
+    },
+    {
+      "text": "",
+      "node_id": "node4",
+      "id": "talk_p_proc"
+    },
+    {
+      "text": "Welcome the NCR. Just to let you know, if you got weapons, keep 'em holstered. This ain't a gun-toting town, stranger.",
+      "node_id": "node10",
+      "id": "Node001"
+    },
+    {
+      "text": "Gate's closed for the night. If you got pressing business, take it to the guardhouse.",
+      "node_id": "node9",
+      "id": "Node003"
+    }
+  ],
+  "links": [
+    {
+      "text": "",
+      "source": "critter_p_proc",
+      "target": "talk_p_proc"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node001"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node003"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "spewArmed"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node002"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node004"
+    }
+  ]
+}

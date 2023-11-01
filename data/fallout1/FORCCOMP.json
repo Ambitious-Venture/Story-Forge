@@ -1,0 +1,34 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "This computer is marked: Force Field Controls.",
+      "node_id": "node2",
+      "id": "description_p_proc"
+    },
+    {
+      "text": "",
+      "node_id": "node1",
+      "id": "start"
+    },
+    {
+      "text": "You manipulate the computer and a moment later it sparks once  and then shuts down.",
+      "node_id": "node3",
+      "id": "use_p_proc"
+    }
+  ],
+  "links": [
+    {
+      "text": "",
+      "source": "start",
+      "target": "use_p_proc"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "description_p_proc"
+    }
+  ]
+}

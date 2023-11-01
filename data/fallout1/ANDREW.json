@@ -1,0 +1,154 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "",
+      "node_id": "node7",
+      "id": "timed_event_p_proc"
+    },
+    {
+      "text": "",
+      "node_id": "node5",
+      "id": "pickup_p_proc"
+    },
+    {
+      "text": "Can I help you?",
+      "node_id": "node8",
+      "id": "Andrew01"
+    },
+    {
+      "text": "You see Andrew, the jail guard.",
+      "node_id": "node4",
+      "id": "look_at_p_proc"
+    },
+    {
+      "text": "",
+      "node_id": "node1",
+      "id": "start"
+    },
+    {
+      "text": "I'm guarding the jail. I make sure that miscreants don't get  in or out.",
+      "node_id": "node12",
+      "id": "Andrew03"
+    },
+    {
+      "text": "Someone might leave something to help a prisoner escape. Or someone might get locked inside, and stuck until we could get the keys.",
+      "node_id": "node15",
+      "id": "Andrew05"
+    },
+    {
+      "text": "",
+      "node_id": "node2",
+      "id": "combat_p_proc"
+    },
+    {
+      "text": "You have a good day. And stay out of trouble.",
+      "node_id": "node13",
+      "id": "Andrew04"
+    },
+    {
+      "text": "Move along, miss.",
+      "node_id": "node14_1",
+      "id": "Andrew06_1"
+    },
+    {
+      "text": "Hey! You! Stop!",
+      "node_id": "node6",
+      "id": "talk_p_proc"
+    },
+    {
+      "text": "Hey! Knock it off!",
+      "node_id": "node3_1",
+      "id": "critter_p_proc_1"
+    },
+    {
+      "text": "I'm Andrew. My job is to guard the jail.",
+      "node_id": "node11",
+      "id": "Andrew02"
+    }
+  ],
+  "links": [
+    {
+      "text": "Who are you?",
+      "source": "Andrew01",
+      "target": "Andrew02"
+    },
+    {
+      "text": "What are you doing?",
+      "source": "Andrew01",
+      "target": "Andrew03"
+    },
+    {
+      "text": "No thanks.",
+      "source": "Andrew01",
+      "target": "Andrew04"
+    },
+    {
+      "text": "Eergh!",
+      "source": "Andrew01",
+      "target": "Andrew06_1"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "critter_p_proc_1"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "pickup_p_proc"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "combat_p_proc"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "talk_p_proc"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "timed_event_p_proc"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "look_at_p_proc"
+    },
+    {
+      "text": "Oh.",
+      "source": "Andrew03",
+      "target": "Andrew04"
+    },
+    {
+      "text": "Why would you keep people from getting in the jail?",
+      "source": "Andrew03",
+      "target": "Andrew05"
+    },
+    {
+      "text": "Oh.",
+      "source": "Andrew05",
+      "target": "Andrew04"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Andrew01"
+    },
+    {
+      "text": "What are you doing?",
+      "source": "Andrew02",
+      "target": "Andrew03"
+    },
+    {
+      "text": "No thanks.",
+      "source": "Andrew02",
+      "target": "Andrew04"
+    }
+  ]
+}

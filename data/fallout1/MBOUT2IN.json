@@ -1,0 +1,169 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "The explosion is powerful, but did not even dent or mark the  security door.",
+      "node_id": "node7",
+      "id": "damage_p_proc"
+    },
+    {
+      "text": "",
+      "node_id": "node6",
+      "id": "alert"
+    },
+    {
+      "text": "You are unable to unlock the door.",
+      "node_id": "node4_4",
+      "id": "use_obj_on_p_proc_4"
+    },
+    {
+      "text": "You bypass the security code and unlock the door.",
+      "node_id": "node5_2",
+      "id": "use_skill_on_p_proc_2"
+    },
+    {
+      "text": "",
+      "node_id": "node2",
+      "id": "look_at_p_proc"
+    },
+    {
+      "text": "",
+      "node_id": "node1",
+      "id": "start"
+    },
+    {
+      "text": "You bypass the security code and unlock the door.",
+      "node_id": "node4_2",
+      "id": "use_obj_on_p_proc_2"
+    },
+    {
+      "text": "You are unable to unlock the door.",
+      "node_id": "node4_3",
+      "id": "use_obj_on_p_proc_3"
+    },
+    {
+      "text": "You bypass the security code and unlock the door.",
+      "node_id": "node4_1",
+      "id": "use_obj_on_p_proc_1"
+    },
+    {
+      "text": "The door is locked. A security code is required to unlock it.",
+      "node_id": "node3_1",
+      "id": "use_p_proc_1"
+    },
+    {
+      "text": "You bypass the security code and unlock the door.",
+      "node_id": "node5_1",
+      "id": "use_skill_on_p_proc_1"
+    },
+    {
+      "text": "You are unable to unlock the door.",
+      "node_id": "node5_3",
+      "id": "use_skill_on_p_proc_3"
+    },
+    {
+      "text": "You are unable to unlock the door. This might be easier if you used a set of electronic lockpicking tools on it.",
+      "node_id": "node5_4",
+      "id": "use_skill_on_p_proc_4"
+    }
+  ],
+  "links": [
+    {
+      "text": "",
+      "source": "damage_p_proc",
+      "target": "alert"
+    },
+    {
+      "text": "",
+      "source": "use_obj_on_p_proc_4",
+      "target": "alert"
+    },
+    {
+      "text": "",
+      "source": "use_skill_on_p_proc_2",
+      "target": "alert"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "use_skill_on_p_proc_4"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "use_obj_on_p_proc_2"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "use_skill_on_p_proc_3"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "look_at_p_proc"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "use_skill_on_p_proc_2"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "use_obj_on_p_proc_4"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "use_p_proc_1"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "use_obj_on_p_proc_3"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "use_skill_on_p_proc_1"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "use_obj_on_p_proc_1"
+    },
+    {
+      "text": "",
+      "source": "use_obj_on_p_proc_2",
+      "target": "alert"
+    },
+    {
+      "text": "",
+      "source": "use_obj_on_p_proc_3",
+      "target": "alert"
+    },
+    {
+      "text": "",
+      "source": "use_obj_on_p_proc_1",
+      "target": "alert"
+    },
+    {
+      "text": "",
+      "source": "use_skill_on_p_proc_1",
+      "target": "alert"
+    },
+    {
+      "text": "",
+      "source": "use_skill_on_p_proc_3",
+      "target": "alert"
+    },
+    {
+      "text": "",
+      "source": "use_skill_on_p_proc_4",
+      "target": "alert"
+    }
+  ]
+}

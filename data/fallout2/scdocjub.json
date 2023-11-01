@@ -1,0 +1,44 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "",
+      "node_id": "node39",
+      "id": "checkItems"
+    },
+    {
+      "text": "Those meds are for Mr. Westin, not you. Put them back.",
+      "node_id": "node35",
+      "id": "Node019"
+    },
+    {
+      "text": "Hey, get your hands off that, punk!",
+      "node_id": "node34",
+      "id": "Node018"
+    },
+    {
+      "text": "",
+      "node_id": "node40",
+      "id": "timed_event_p_proc"
+    }
+  ],
+  "links": [
+    {
+      "text": "",
+      "source": "checkItems",
+      "target": "Node019"
+    },
+    {
+      "text": "",
+      "source": "checkItems",
+      "target": "Node018"
+    },
+    {
+      "text": "",
+      "source": "timed_event_p_proc",
+      "target": "checkItems"
+    }
+  ]
+}

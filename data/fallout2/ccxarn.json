@@ -1,0 +1,94 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "You are a true Pack brother. May we meet again in more peaceful times. I must go now to prepare my people for war.",
+      "node_id": "node7",
+      "id": "leave_player"
+    },
+    {
+      "text": "",
+      "node_id": "node3",
+      "id": "critter_p_proc"
+    },
+    {
+      "text": "You freed Xarn.",
+      "node_id": "node4_1",
+      "id": "Node016_1"
+    },
+    {
+      "text": "",
+      "node_id": "node6",
+      "id": "escape"
+    },
+    {
+      "text": "",
+      "node_id": "node26",
+      "id": "finish"
+    },
+    {
+      "text": "Yes.",
+      "node_id": "node4_3",
+      "id": "Node016_3"
+    },
+    {
+      "text": "Greetings, human. I am the warrior Xarn. Are you to be my executioner?",
+      "node_id": "node4_2",
+      "id": "Node016_2"
+    },
+    {
+      "text": "",
+      "node_id": "node5",
+      "id": "Node021"
+    },
+    {
+      "text": "",
+      "node_id": "node48",
+      "id": "combat_p_proc"
+    }
+  ],
+  "links": [
+    {
+      "text": "",
+      "source": "critter_p_proc",
+      "target": "escape"
+    },
+    {
+      "text": "",
+      "source": "critter_p_proc",
+      "target": "Node016_1"
+    },
+    {
+      "text": "",
+      "source": "critter_p_proc",
+      "target": "Node021"
+    },
+    {
+      "text": "",
+      "source": "critter_p_proc",
+      "target": "leave_player"
+    },
+    {
+      "text": "",
+      "source": "critter_p_proc",
+      "target": "Node016_2"
+    },
+    {
+      "text": "",
+      "source": "critter_p_proc",
+      "target": "Node016_3"
+    },
+    {
+      "text": "",
+      "source": "escape",
+      "target": "finish"
+    },
+    {
+      "text": "",
+      "source": "combat_p_proc",
+      "target": "leave_player"
+    }
+  ]
+}

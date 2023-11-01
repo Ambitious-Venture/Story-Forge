@@ -1,0 +1,884 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "I-I don\u2019t know what you\u2019re talking about.",
+      "node_id": "node24",
+      "id": "Node004"
+    },
+    {
+      "text": "",
+      "node_id": "node32",
+      "id": "Node989"
+    },
+    {
+      "text": "",
+      "node_id": "node48",
+      "id": "Node981"
+    },
+    {
+      "text": "",
+      "node_id": "node45",
+      "id": "Node984"
+    },
+    {
+      "text": "",
+      "node_id": "node46",
+      "id": "Node983"
+    },
+    {
+      "text": "Hey. How's it goin'?",
+      "node_id": "node10",
+      "id": "Node009"
+    },
+    {
+      "text": "",
+      "node_id": "node27",
+      "id": "Node993"
+    },
+    {
+      "text": "Nobody talks to me like that!",
+      "node_id": "node37",
+      "id": "Node015"
+    },
+    {
+      "text": "Huh? Oh yeah. Yeah. T-That's for damn sure. You're gonna have to fork over some bucks for sure. You ain't gettin' this for free! $50 or beat it!",
+      "node_id": "node26",
+      "id": "Node006"
+    },
+    {
+      "text": "",
+      "node_id": "node5",
+      "id": "Node998"
+    },
+    {
+      "text": "",
+      "node_id": "node61",
+      "id": "Node987"
+    },
+    {
+      "text": "",
+      "node_id": "node58",
+      "id": "Node978"
+    },
+    {
+      "text": "",
+      "node_id": "node4",
+      "id": "pickup_p_proc"
+    },
+    {
+      "text": "",
+      "node_id": "node28",
+      "id": "Node992"
+    },
+    {
+      "text": "OK, I\u2019ll drop the price to $350, but no less! That\u2019s my final offer. You got to pay top dollar for the good shit. Don't buy from Tubby or any of those losers. They cut their shit. I'm the only one for miles that can get a hold of the best stuff.",
+      "node_id": "node59",
+      "id": "Node024"
+    },
+    {
+      "text": "Tyler's just some weasel who screwed all the rest of us out of a sweet deal with Metzger, but fuck that shit! I don't fucking care anymore. I could kick his fucking ass though. Lara and him still have some really bad blood. Something about Tyler and her brother.",
+      "node_id": "node52",
+      "id": "Node019"
+    },
+    {
+      "text": "Oh, you mean Tyler and his gang? They guard some shit that comes in from Vault City. Big fucking crates. Once in a while you see them get picked up by caravans heading to New Reno.",
+      "node_id": "node49",
+      "id": "Node017"
+    },
+    {
+      "text": "",
+      "node_id": "node11",
+      "id": "Node000"
+    },
+    {
+      "text": "What do you want?",
+      "node_id": "node38",
+      "id": "Node016"
+    },
+    {
+      "text": "You\u2019ll be coming back.",
+      "node_id": "node42",
+      "id": "Node014"
+    },
+    {
+      "text": "",
+      "node_id": "node19",
+      "id": "Node994"
+    },
+    {
+      "text": "What else you wanna know?",
+      "node_id": "node51_1",
+      "id": "Node018_1"
+    },
+    {
+      "text": "",
+      "node_id": "node55",
+      "id": "Node980"
+    },
+    {
+      "text": "",
+      "node_id": "node6",
+      "id": "talk_p_proc"
+    },
+    {
+      "text": "H-Hey! You don\u2019t have the money! Get the hell out of here!",
+      "node_id": "node33",
+      "id": "Node008"
+    },
+    {
+      "text": "T-That's f-fucking crazy! Y-you must h-have been r-really fucked up on some of Tubby's shit. I-I n-never s-saw no g-ghost w-when I stayed t-there- just a bad trip, wasn't f-fucking real.",
+      "node_id": "node25",
+      "id": "Node005"
+    },
+    {
+      "text": "What the hell are you talking about?",
+      "node_id": "node22",
+      "id": "Node003"
+    },
+    {
+      "text": "Hell if I know.",
+      "node_id": "node54",
+      "id": "Node021"
+    },
+    {
+      "text": "",
+      "node_id": "node21",
+      "id": "Node995"
+    },
+    {
+      "text": "",
+      "node_id": "node56",
+      "id": "Node979"
+    },
+    {
+      "text": "",
+      "node_id": "node23",
+      "id": "Node999"
+    },
+    {
+      "text": "If you don\u2019t have the money, come back when you can afford it. Don't let me see you buying from anyone else or I'll kick your fucking ass. I'm the only one with the pure uncut shit, shipped directly from New Reno.",
+      "node_id": "node57",
+      "id": "Node023"
+    },
+    {
+      "text": "",
+      "node_id": "node34",
+      "id": "Node988"
+    },
+    {
+      "text": "",
+      "node_id": "node30",
+      "id": "Node990"
+    },
+    {
+      "text": "I\u2019m gonna cut you up, fucker!",
+      "node_id": "node8",
+      "id": "Node001"
+    },
+    {
+      "text": "",
+      "node_id": "node60",
+      "id": "Node977"
+    },
+    {
+      "text": "New Reno is down to the south a long ways, then east some. There's a lot of action to be made there, but it's pretty fucking dangerous too. I might head back some day. Here, I can show you where it's at on that fancy screen thing of yours.",
+      "node_id": "node53",
+      "id": "Node020"
+    },
+    {
+      "text": "Here. Now just leave me alone.",
+      "node_id": "node31",
+      "id": "Node007"
+    },
+    {
+      "text": "",
+      "node_id": "node16",
+      "id": "damage_p_proc"
+    },
+    {
+      "text": "",
+      "node_id": "node41",
+      "id": "Node985"
+    },
+    {
+      "text": "Hey, man, I\u2019m Joey. What're you doin' on my turf?",
+      "node_id": "node36",
+      "id": "Node010"
+    },
+    {
+      "text": "Hey, baby cakes. You looking for Joey? Here I am.",
+      "node_id": "node39",
+      "id": "Node011"
+    },
+    {
+      "text": "",
+      "node_id": "node47",
+      "id": "Node982"
+    },
+    {
+      "text": "What do you want? Why shouldn\u2019t I just kill you rather than listen to your bullshit after what you've done?",
+      "node_id": "node9",
+      "id": "Node002"
+    },
+    {
+      "text": "Hey, I got some jet. It\u2019s great stuff and brand new from Reno. Want some?",
+      "node_id": "node35",
+      "id": "Node012"
+    },
+    {
+      "text": "forced_node",
+      "node_id": "node7",
+      "id": "forced_node"
+    },
+    {
+      "text": "",
+      "node_id": "node20",
+      "id": "Node996"
+    },
+    {
+      "text": "How about you and I get it on?",
+      "node_id": "node44",
+      "id": "Node013"
+    },
+    {
+      "text": "",
+      "node_id": "node40",
+      "id": "Node986"
+    },
+    {
+      "text": "For you, I will sell jet for $500.",
+      "node_id": "node43",
+      "id": "Node022"
+    },
+    {
+      "text": "",
+      "node_id": "node29",
+      "id": "Node991"
+    },
+    {
+      "text": "Vault... Vault... Vault 13? Nope, never heard of it. Don't tell me they've come up with another new chem! Nothing can beat jet!",
+      "node_id": "node50",
+      "id": "Node025"
+    }
+  ],
+  "links": [
+    {
+      "text": "Oh, I think you do! You stole a dead girl\u2019s locket, and now her spirit can't rest.",
+      "source": "Node004",
+      "target": "Node005"
+    },
+    {
+      "text": "Probably not. Bye.",
+      "source": "Node004",
+      "target": "Node999"
+    },
+    {
+      "text": "Then I\u2019ll take it by force.",
+      "source": "Node004",
+      "target": "Node998"
+    },
+    {
+      "text": "",
+      "source": "Node981",
+      "target": "Node012"
+    },
+    {
+      "text": "",
+      "source": "Node981",
+      "target": "Node998"
+    },
+    {
+      "text": "",
+      "source": "Node983",
+      "target": "Node014"
+    },
+    {
+      "text": "",
+      "source": "Node983",
+      "target": "Node998"
+    },
+    {
+      "text": "Not so good.",
+      "source": "Node009",
+      "target": "Node012"
+    },
+    {
+      "text": "Did you take a locket from that haunted house?",
+      "source": "Node009",
+      "target": "Node003"
+    },
+    {
+      "text": "OK, and you?",
+      "source": "Node009",
+      "target": "Node988"
+    },
+    {
+      "text": "",
+      "source": "Node993",
+      "target": "Node998"
+    },
+    {
+      "text": "",
+      "source": "Node993",
+      "target": "Node007"
+    },
+    {
+      "text": "Whatever. Are you selling anything or just making small talk?",
+      "source": "Node015",
+      "target": "Node981"
+    },
+    {
+      "text": "I just did. You do anything more than talk?",
+      "source": "Node015",
+      "target": "Node982"
+    },
+    {
+      "text": "My apologies. I\u2019m actually looking around and don\u2019t know the area.",
+      "source": "Node015",
+      "target": "Node012"
+    },
+    {
+      "text": "Nah, I changed my mind. See ya.",
+      "source": "Node006",
+      "target": "Node999"
+    },
+    {
+      "text": "Give it to me or I kill you for it.",
+      "source": "Node006",
+      "target": "Node993"
+    },
+    {
+      "text": "Okay, here\u2019s the money.",
+      "source": "Node006",
+      "target": "Node991"
+    },
+    {
+      "text": "Take $20 and be happy I don\u2019t just take it from you.",
+      "source": "Node006",
+      "target": "Node990"
+    },
+    {
+      "text": "",
+      "source": "Node987",
+      "target": "Node004"
+    },
+    {
+      "text": "",
+      "source": "Node978",
+      "target": "Node014"
+    },
+    {
+      "text": "",
+      "source": "pickup_p_proc",
+      "target": "Node998"
+    },
+    {
+      "text": "",
+      "source": "Node992",
+      "target": "Node007"
+    },
+    {
+      "text": "",
+      "source": "Node992",
+      "target": "Node006"
+    },
+    {
+      "text": "OK, I\u2019ll buy it.",
+      "source": "Node024",
+      "target": "Node977"
+    },
+    {
+      "text": "Forget it. Can I ask you something?",
+      "source": "Node024",
+      "target": "Node016"
+    },
+    {
+      "text": "Never mind. Bye.",
+      "source": "Node024",
+      "target": "Node999"
+    },
+    {
+      "text": "Can I ask you something else?",
+      "source": "Node019",
+      "target": "Node016"
+    },
+    {
+      "text": "That could be useful. Can I ask you more about them?",
+      "source": "Node019",
+      "target": "Node018_1"
+    },
+    {
+      "text": "OK, thanks. Bye.",
+      "source": "Node019",
+      "target": "Node999"
+    },
+    {
+      "text": "OK, thanks. Bye.",
+      "source": "Node017",
+      "target": "Node999"
+    },
+    {
+      "text": "Can I ask you something else?",
+      "source": "Node017",
+      "target": "Node016"
+    },
+    {
+      "text": "Can I ask you more about them?",
+      "source": "Node017",
+      "target": "Node018_1"
+    },
+    {
+      "text": "",
+      "source": "Node000",
+      "target": "Node994"
+    },
+    {
+      "text": "Have you heard of Vault 13?",
+      "source": "Node016",
+      "target": "Node025"
+    },
+    {
+      "text": "What\u2019s the deal with the old church and those guards?",
+      "source": "Node016",
+      "target": "Node017"
+    },
+    {
+      "text": "I want to talk to you about a ghost that comes around here at night.",
+      "source": "Node016",
+      "target": "Node003"
+    },
+    {
+      "text": "Um, never mind. See you around.",
+      "source": "Node016",
+      "target": "Node999"
+    },
+    {
+      "text": "Nothing you can provide.",
+      "source": "Node016",
+      "target": "Node015"
+    },
+    {
+      "text": "Wait! Can I ask you something?",
+      "source": "Node014",
+      "target": "Node016"
+    },
+    {
+      "text": "Maybe.",
+      "source": "Node014",
+      "target": "Node999"
+    },
+    {
+      "text": "",
+      "source": "Node994",
+      "target": "Node010"
+    },
+    {
+      "text": "",
+      "source": "Node994",
+      "target": "Node011"
+    },
+    {
+      "text": "I want to ask you about something else.",
+      "source": "Node018_1",
+      "target": "Node016"
+    },
+    {
+      "text": "That\u2019s it. Bye.",
+      "source": "Node018_1",
+      "target": "Node999"
+    },
+    {
+      "text": "Who\u2019s Tyler?",
+      "source": "Node018_1",
+      "target": "Node019"
+    },
+    {
+      "text": "Where\u2019s New Reno?",
+      "source": "Node018_1",
+      "target": "Node020"
+    },
+    {
+      "text": "So, what are they guarding?",
+      "source": "Node018_1",
+      "target": "Node021"
+    },
+    {
+      "text": "",
+      "source": "Node980",
+      "target": "Node023"
+    },
+    {
+      "text": "",
+      "source": "Node980",
+      "target": "Node024"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "forced_node"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node002"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node001"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node000"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node009"
+    },
+    {
+      "text": "Oops. I\u2019ll come back.",
+      "source": "Node008",
+      "target": "Node999"
+    },
+    {
+      "text": "Then I guess I have to kill you.",
+      "source": "Node008",
+      "target": "Node993"
+    },
+    {
+      "text": "Look, I\u2019ll buy it from you.",
+      "source": "Node005",
+      "target": "Node006"
+    },
+    {
+      "text": "If you don\u2019t return it now, she\u2019ll come after you. And she can\u2019t  be stopped.",
+      "source": "Node005",
+      "target": "Node992"
+    },
+    {
+      "text": "Give it to me or you can join her.",
+      "source": "Node005",
+      "target": "Node993"
+    },
+    {
+      "text": "Did you steal a locket from that haunted house?",
+      "source": "Node003",
+      "target": "Node004"
+    },
+    {
+      "text": "Nothing. Never mind.",
+      "source": "Node003",
+      "target": "Node999"
+    },
+    {
+      "text": "Forget it. I\u2019ll kill you now and sort out the pieces later.",
+      "source": "Node003",
+      "target": "Node998"
+    },
+    {
+      "text": "Can I ask you something else?",
+      "source": "Node021",
+      "target": "Node016"
+    },
+    {
+      "text": "OK, thanks. Bye.",
+      "source": "Node021",
+      "target": "Node999"
+    },
+    {
+      "text": "Interesting. Can I ask you more about them?",
+      "source": "Node021",
+      "target": "Node018_1"
+    },
+    {
+      "text": "",
+      "source": "Node995",
+      "target": "Node002"
+    },
+    {
+      "text": "",
+      "source": "Node995",
+      "target": "Node998"
+    },
+    {
+      "text": "",
+      "source": "Node979",
+      "target": "Node014"
+    },
+    {
+      "text": "",
+      "source": "Node979",
+      "target": "Node023"
+    },
+    {
+      "text": "Wait, I\u2019ll buy it.",
+      "source": "Node023",
+      "target": "Node978"
+    },
+    {
+      "text": "Well, can I ask you something?",
+      "source": "Node023",
+      "target": "Node016"
+    },
+    {
+      "text": "Bye.",
+      "source": "Node023",
+      "target": "Node999"
+    },
+    {
+      "text": "",
+      "source": "Node988",
+      "target": "Node013"
+    },
+    {
+      "text": "",
+      "source": "Node988",
+      "target": "Node012"
+    },
+    {
+      "text": "",
+      "source": "Node990",
+      "target": "Node008"
+    },
+    {
+      "text": "",
+      "source": "Node990",
+      "target": "Node998"
+    },
+    {
+      "text": "",
+      "source": "Node990",
+      "target": "Node007"
+    },
+    {
+      "text": "Hey, wait just one minute!",
+      "source": "Node001",
+      "target": "Node996"
+    },
+    {
+      "text": "Yeah? Come on and try.",
+      "source": "Node001",
+      "target": "Node998"
+    },
+    {
+      "text": "I\u2019d think twice if I were you.",
+      "source": "Node001",
+      "target": "Node995"
+    },
+    {
+      "text": "",
+      "source": "Node977",
+      "target": "Node014"
+    },
+    {
+      "text": "",
+      "source": "Node977",
+      "target": "Node023"
+    },
+    {
+      "text": "Can I ask you something else?",
+      "source": "Node020",
+      "target": "Node016"
+    },
+    {
+      "text": "I think I can find it now. Can I ask you more about them?",
+      "source": "Node020",
+      "target": "Node018_1"
+    },
+    {
+      "text": "OK, thanks. Bye.",
+      "source": "Node020",
+      "target": "Node999"
+    },
+    {
+      "text": "Gladly.",
+      "source": "Node007",
+      "target": "Node989"
+    },
+    {
+      "text": "",
+      "source": "damage_p_proc",
+      "target": "Node998"
+    },
+    {
+      "text": "",
+      "source": "Node985",
+      "target": "Node013"
+    },
+    {
+      "text": "",
+      "source": "Node985",
+      "target": "Node012"
+    },
+    {
+      "text": "Maybe I\u2019m looking for you.",
+      "source": "Node010",
+      "target": "Node012"
+    },
+    {
+      "text": "Looking for some information.",
+      "source": "Node010",
+      "target": "Node016"
+    },
+    {
+      "text": "Just leaving. Bye.",
+      "source": "Node010",
+      "target": "Node999"
+    },
+    {
+      "text": "Your turf? I don\u2019t think so.",
+      "source": "Node010",
+      "target": "Node015"
+    },
+    {
+      "text": "No, sorry. I have to go now.",
+      "source": "Node011",
+      "target": "Node014"
+    },
+    {
+      "text": "I want some information.",
+      "source": "Node011",
+      "target": "Node016"
+    },
+    {
+      "text": "Maybe. What are you offering me?",
+      "source": "Node011",
+      "target": "Node985"
+    },
+    {
+      "text": "No. Go away.",
+      "source": "Node011",
+      "target": "Node986"
+    },
+    {
+      "text": "",
+      "source": "Node982",
+      "target": "Node998"
+    },
+    {
+      "text": "I want to talk to you about a ghost that comes around here at night.",
+      "source": "Node002",
+      "target": "Node003"
+    },
+    {
+      "text": "Nothing. Just passing through.",
+      "source": "Node002",
+      "target": "Node999"
+    },
+    {
+      "text": "Never mind. I'll just kick your ass instead.",
+      "source": "Node002",
+      "target": "Node998"
+    },
+    {
+      "text": "I have to go. Bye.",
+      "source": "Node012",
+      "target": "Node999"
+    },
+    {
+      "text": "No way!",
+      "source": "Node012",
+      "target": "Node014"
+    },
+    {
+      "text": "How much?",
+      "source": "Node012",
+      "target": "Node022"
+    },
+    {
+      "text": "No, I want information.",
+      "source": "Node012",
+      "target": "Node016"
+    },
+    {
+      "text": "",
+      "source": "Node996",
+      "target": "Node998"
+    },
+    {
+      "text": "",
+      "source": "Node996",
+      "target": "Node002"
+    },
+    {
+      "text": "Er, no... I don\u2019t think so. I need something else.",
+      "source": "Node013",
+      "target": "Node016"
+    },
+    {
+      "text": "Okay.",
+      "source": "Node013",
+      "target": "Node984"
+    },
+    {
+      "text": "Not if you were the last nonmutated man on the planet.",
+      "source": "Node013",
+      "target": "Node983"
+    },
+    {
+      "text": "",
+      "source": "Node986",
+      "target": "Node014"
+    },
+    {
+      "text": "",
+      "source": "Node986",
+      "target": "Node015"
+    },
+    {
+      "text": "That\u2019s too much!",
+      "source": "Node022",
+      "target": "Node980"
+    },
+    {
+      "text": "OK, I\u2019ll buy it.",
+      "source": "Node022",
+      "target": "Node979"
+    },
+    {
+      "text": "No, thanks. Bye.",
+      "source": "Node022",
+      "target": "Node014"
+    },
+    {
+      "text": "No, thanks, but I would like to ask you something.",
+      "source": "Node022",
+      "target": "Node016"
+    },
+    {
+      "text": "",
+      "source": "Node991",
+      "target": "Node008"
+    },
+    {
+      "text": "",
+      "source": "Node991",
+      "target": "Node007"
+    },
+    {
+      "text": "Yes, a wonderful chem.",
+      "source": "Node025",
+      "target": "Node012"
+    },
+    {
+      "text": "No, it\u2019s a place. Can I ask something else?",
+      "source": "Node025",
+      "target": "Node016"
+    },
+    {
+      "text": "No, bye.",
+      "source": "Node025",
+      "target": "Node999"
+    },
+    {
+      "text": "No, you moron.",
+      "source": "Node025",
+      "target": "Node015"
+    }
+  ]
+}

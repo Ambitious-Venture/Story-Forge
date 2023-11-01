@@ -1,0 +1,394 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "",
+      "node_id": "node24",
+      "id": "Node013b"
+    },
+    {
+      "text": "",
+      "node_id": "node11",
+      "id": "Node001a"
+    },
+    {
+      "text": "",
+      "node_id": "node29",
+      "id": "Node016a"
+    },
+    {
+      "text": "",
+      "node_id": "node23",
+      "id": "Node013a"
+    },
+    {
+      "text": "Pictures of scantily clad women are affixed to various spots on the computer.",
+      "node_id": "node18_2",
+      "id": "Node012_2"
+    },
+    {
+      "text": "[No matter how hard you try, you cannot guess the password.]",
+      "node_id": "node26",
+      "id": "Node024"
+    },
+    {
+      "text": "[You hear faint whirring noise as smoke starts to rise from the computer terminal. You stand by and watch as the keyboard melts into a puddle of goo. Hmm...must have been one of those viruses you've been hearing about.]",
+      "node_id": "node35",
+      "id": "Node019"
+    },
+    {
+      "text": "This is to confirm your video order for Debbie Does the Army and Deep Throat volume 1059. Your order should arrive by mail in 2-4 weeks. \u00a0Thank you for your order.",
+      "node_id": "node33",
+      "id": "Node017"
+    },
+    {
+      "text": "[The files are encrypted and without a decoder you are unable to read anything.]",
+      "node_id": "node27",
+      "id": "Node014"
+    },
+    {
+      "text": "",
+      "node_id": "node31",
+      "id": "Node016c"
+    },
+    {
+      "text": "",
+      "node_id": "node3",
+      "id": "talk_p_proc"
+    },
+    {
+      "text": "A computer terminal.",
+      "node_id": "node28_1",
+      "id": "Node015_1"
+    },
+    {
+      "text": "[What incredible luck! You manage to guess the correct password. \"Hooters\"] Deactivating Shock Plates",
+      "node_id": "node21",
+      "id": "Node021"
+    },
+    {
+      "text": "",
+      "node_id": "node10",
+      "id": "Node999"
+    },
+    {
+      "text": "[This person must have an infatuation with breasts. The password was \"nipples\"] Deactivating Force Fields",
+      "node_id": "node25",
+      "id": "Node023"
+    },
+    {
+      "text": "[Somebody forgot to close their mailbox.] Order Confirmation Notice to Evacuate Penpal Greetings Trade [Choose a file to read]",
+      "node_id": "node13_1",
+      "id": "Node016_1"
+    },
+    {
+      "text": "This is Klinger from the 8063rd. \u00a0We're in desperate need of part number 102-53B. \u00a0I've got a case of Chateau Lafayette 2155 if you could expedite the order. Get back to me ASAP.",
+      "node_id": "node36",
+      "id": "Node020"
+    },
+    {
+      "text": "",
+      "node_id": "node16",
+      "id": "Node010a"
+    },
+    {
+      "text": "",
+      "node_id": "node30",
+      "id": "Node016b"
+    },
+    {
+      "text": "Disable Shock Plates Please Enter Password:",
+      "node_id": "node14",
+      "id": "Node010"
+    },
+    {
+      "text": "[This program is just too complex for you to understand.]",
+      "node_id": "node20",
+      "id": "Node011"
+    },
+    {
+      "text": "A computer terminal.",
+      "node_id": "node18_1",
+      "id": "Node012_1"
+    },
+    {
+      "text": "Evacuation of Sierra Army Depot has been moved up by one week. All security measures must be in place by that time. By order of General Clifton.",
+      "node_id": "node34",
+      "id": "Node018"
+    },
+    {
+      "text": "",
+      "node_id": "node12",
+      "id": "Node001b"
+    },
+    {
+      "text": "",
+      "node_id": "node32",
+      "id": "Node016d"
+    },
+    {
+      "text": "Disable Force Fields Please Enter Password:",
+      "node_id": "node15",
+      "id": "Node013"
+    },
+    {
+      "text": "Pictures of scantily clad women are affixed to various spots on the computer.",
+      "node_id": "node28_2",
+      "id": "Node015_2"
+    },
+    {
+      "text": "",
+      "node_id": "node17",
+      "id": "Node010b"
+    },
+    {
+      "text": "[No matter how hard you try, you cannot guess the password.]",
+      "node_id": "node22",
+      "id": "Node022"
+    },
+    {
+      "text": "[Somehow your tampering causes the terminal to explode in your face.]",
+      "node_id": "node19",
+      "id": "Node025"
+    }
+  ],
+  "links": [
+    {
+      "text": "",
+      "source": "Node013b",
+      "target": "Node024"
+    },
+    {
+      "text": "",
+      "source": "Node013b",
+      "target": "Node023"
+    },
+    {
+      "text": "",
+      "source": "Node001a",
+      "target": "Node010"
+    },
+    {
+      "text": "",
+      "source": "Node016a",
+      "target": "Node017"
+    },
+    {
+      "text": "",
+      "source": "Node013a",
+      "target": "Node012_1"
+    },
+    {
+      "text": "",
+      "source": "Node013a",
+      "target": "Node025"
+    },
+    {
+      "text": "",
+      "source": "Node013a",
+      "target": "Node012_2"
+    },
+    {
+      "text": "",
+      "source": "Node013a",
+      "target": "Node011"
+    },
+    {
+      "text": "Exit",
+      "source": "Node012_2",
+      "target": "Node999"
+    },
+    {
+      "text": "Exit",
+      "source": "Node024",
+      "target": "Node999"
+    },
+    {
+      "text": "Exit",
+      "source": "Node019",
+      "target": "Node999"
+    },
+    {
+      "text": "Exit",
+      "source": "Node017",
+      "target": "Node999"
+    },
+    {
+      "text": "Read more mail",
+      "source": "Node017",
+      "target": "Node016_1"
+    },
+    {
+      "text": "Exit",
+      "source": "Node014",
+      "target": "Node999"
+    },
+    {
+      "text": "",
+      "source": "Node016c",
+      "target": "Node019"
+    },
+    {
+      "text": "Exit",
+      "source": "Node015_1",
+      "target": "Node999"
+    },
+    {
+      "text": "Exit",
+      "source": "Node021",
+      "target": "Node999"
+    },
+    {
+      "text": "Exit",
+      "source": "Node023",
+      "target": "Node999"
+    },
+    {
+      "text": "Read Notice to Evacuate",
+      "source": "Node016_1",
+      "target": "Node016b"
+    },
+    {
+      "text": "Read Penpal Greetings",
+      "source": "Node016_1",
+      "target": "Node016c"
+    },
+    {
+      "text": "Exit",
+      "source": "Node016_1",
+      "target": "Node999"
+    },
+    {
+      "text": "Read Order Confirmation",
+      "source": "Node016_1",
+      "target": "Node016a"
+    },
+    {
+      "text": "Read Trade",
+      "source": "Node016_1",
+      "target": "Node016d"
+    },
+    {
+      "text": "Exit",
+      "source": "Node020",
+      "target": "Node999"
+    },
+    {
+      "text": "Read more mail",
+      "source": "Node020",
+      "target": "Node016_1"
+    },
+    {
+      "text": "",
+      "source": "Node010a",
+      "target": "Node012_2"
+    },
+    {
+      "text": "",
+      "source": "Node010a",
+      "target": "Node011"
+    },
+    {
+      "text": "",
+      "source": "Node010a",
+      "target": "Node025"
+    },
+    {
+      "text": "",
+      "source": "Node010a",
+      "target": "Node012_1"
+    },
+    {
+      "text": "",
+      "source": "Node016b",
+      "target": "Node018"
+    },
+    {
+      "text": "Hack into security systems",
+      "source": "Node010",
+      "target": "Node010a"
+    },
+    {
+      "text": "Exit",
+      "source": "Node010",
+      "target": "Node999"
+    },
+    {
+      "text": "Guess Password",
+      "source": "Node010",
+      "target": "Node010b"
+    },
+    {
+      "text": "Exit",
+      "source": "Node011",
+      "target": "Node999"
+    },
+    {
+      "text": "Exit",
+      "source": "Node012_1",
+      "target": "Node999"
+    },
+    {
+      "text": "Read more mail",
+      "source": "Node018",
+      "target": "Node016_1"
+    },
+    {
+      "text": "Exit",
+      "source": "Node018",
+      "target": "Node999"
+    },
+    {
+      "text": "",
+      "source": "Node001b",
+      "target": "Node013"
+    },
+    {
+      "text": "",
+      "source": "Node016d",
+      "target": "Node020"
+    },
+    {
+      "text": "Exit",
+      "source": "Node013",
+      "target": "Node999"
+    },
+    {
+      "text": "Guess Password",
+      "source": "Node013",
+      "target": "Node013b"
+    },
+    {
+      "text": "Hack into security systems",
+      "source": "Node013",
+      "target": "Node013a"
+    },
+    {
+      "text": "Exit",
+      "source": "Node015_2",
+      "target": "Node999"
+    },
+    {
+      "text": "",
+      "source": "Node010b",
+      "target": "Node022"
+    },
+    {
+      "text": "",
+      "source": "Node010b",
+      "target": "Node021"
+    },
+    {
+      "text": "Exit",
+      "source": "Node022",
+      "target": "Node999"
+    },
+    {
+      "text": "Exit",
+      "source": "Node025",
+      "target": "Node999"
+    }
+  ]
+}

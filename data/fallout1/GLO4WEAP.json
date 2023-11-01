@@ -1,0 +1,88 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "You notice that there are some red markings on the door.",
+      "node_id": "node2_4",
+      "id": "Using_Door_4"
+    },
+    {
+      "text": "You do not detect any traps on the door.",
+      "node_id": "node5_2",
+      "id": "Sciences_2"
+    },
+    {
+      "text": "The door is uneffected by the skill.",
+      "node_id": "node1_1",
+      "id": "start_1"
+    },
+    {
+      "text": "The door seems to be protected by an energy field. Perhaps you can de-activate it somehow.",
+      "node_id": "node3_1",
+      "id": "Picklocks_1"
+    },
+    {
+      "text": "You get shocked by the security system for points of damage.",
+      "node_id": "node1_2",
+      "id": "start_2"
+    },
+    {
+      "text": "You notice that there are some red markings on the door.",
+      "node_id": "node2_3",
+      "id": "Using_Door_3"
+    },
+    {
+      "text": "That item has no effect on the door. Perhaps another item will be more useful.",
+      "node_id": "node1_4",
+      "id": "start_4"
+    },
+    {
+      "text": "The door seems to be protected by an energy field. Perhaps you can de-activate it somehow.",
+      "node_id": "node2_1",
+      "id": "Using_Door_1"
+    },
+    {
+      "text": "You activate the security system and get shocked for points of damage.",
+      "node_id": "node4_1",
+      "id": "Traps_1"
+    },
+    {
+      "text": "The door seems to have a secondary lock on it.",
+      "node_id": "node2_2",
+      "id": "Using_Door_2"
+    },
+    {
+      "text": "You wonder what could unlock the door.",
+      "node_id": "node2_5",
+      "id": "Using_Door_5"
+    },
+    {
+      "text": "You successfully unlock the door.",
+      "node_id": "node3_2",
+      "id": "Picklocks_2"
+    },
+    {
+      "text": "You unlock the door with the Red Pass Key.",
+      "node_id": "node1_3",
+      "id": "start_3"
+    },
+    {
+      "text": "You activate the security system and get shocked for points of damage.",
+      "node_id": "node5_1",
+      "id": "Sciences_1"
+    },
+    {
+      "text": "You failed to pick the lock on the door.",
+      "node_id": "node3_3",
+      "id": "Picklocks_3"
+    },
+    {
+      "text": "You do not detect any traps on the door.",
+      "node_id": "node4_2",
+      "id": "Traps_2"
+    }
+  ],
+  "links": []
+}

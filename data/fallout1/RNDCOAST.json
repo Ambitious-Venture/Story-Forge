@@ -1,0 +1,179 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "",
+      "node_id": "node10",
+      "id": "Lighting"
+    },
+    {
+      "text": "You see a group of peasants being attacked by raiders!",
+      "node_id": "node6",
+      "id": "Coast4"
+    },
+    {
+      "text": "You see a couple of people out fishing.",
+      "node_id": "node8",
+      "id": "Coast6"
+    },
+    {
+      "text": "",
+      "node_id": "node2",
+      "id": "choose_start"
+    },
+    {
+      "text": "",
+      "node_id": "node1",
+      "id": "start"
+    },
+    {
+      "text": "",
+      "node_id": "node4",
+      "id": "Coast2"
+    },
+    {
+      "text": "You see a small swarm of rats rapidly approaching.",
+      "node_id": "node5",
+      "id": "Coast3"
+    },
+    {
+      "text": "There is a grisly dead corpse near by that's been partially eaten.",
+      "node_id": "node3_1",
+      "id": "Coast1_1"
+    },
+    {
+      "text": "",
+      "node_id": "node9",
+      "id": "hunters"
+    },
+    {
+      "text": "",
+      "node_id": "node12",
+      "id": "Place_critter"
+    },
+    {
+      "text": "",
+      "node_id": "node11",
+      "id": "stranger"
+    },
+    {
+      "text": "",
+      "node_id": "node7",
+      "id": "Coast5"
+    }
+  ],
+  "links": [
+    {
+      "text": "",
+      "source": "Coast4",
+      "target": "Place_critter"
+    },
+    {
+      "text": "",
+      "source": "Coast4",
+      "target": "stranger"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "choose_start"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "Coast1_1"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "hunters"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "Lighting"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "Coast2"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "Coast5"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "Coast3"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "Coast6"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "Coast4"
+    },
+    {
+      "text": "",
+      "source": "Coast2",
+      "target": "stranger"
+    },
+    {
+      "text": "",
+      "source": "Coast2",
+      "target": "Place_critter"
+    },
+    {
+      "text": "",
+      "source": "Coast3",
+      "target": "Place_critter"
+    },
+    {
+      "text": "",
+      "source": "Coast3",
+      "target": "stranger"
+    },
+    {
+      "text": "",
+      "source": "Coast1_1",
+      "target": "stranger"
+    },
+    {
+      "text": "",
+      "source": "Coast1_1",
+      "target": "Place_critter"
+    },
+    {
+      "text": "",
+      "source": "hunters",
+      "target": "Place_critter"
+    },
+    {
+      "text": "",
+      "source": "hunters",
+      "target": "stranger"
+    },
+    {
+      "text": "",
+      "source": "stranger",
+      "target": "Place_critter"
+    },
+    {
+      "text": "",
+      "source": "Coast5",
+      "target": "Place_critter"
+    },
+    {
+      "text": "",
+      "source": "Coast5",
+      "target": "stranger"
+    }
+  ]
+}

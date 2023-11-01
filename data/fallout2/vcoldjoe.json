@@ -1,0 +1,169 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "Don't remember me, do you? Well, you do seem to be a bit young.",
+      "node_id": "node19",
+      "id": "Node004"
+    },
+    {
+      "text": "Yeah, Ian. Don't you remember me? It's been a bunch of years. You'd think someone wouldn't forget his best buddy. Well... except for the shooting in the back thing. Sorry about that again.",
+      "node_id": "node24",
+      "id": "Node009"
+    },
+    {
+      "text": "Yeah, we sure gave the Master hell, didn't we? Shit fell apart after you left, though. Had to move around and change my name. Where'd you end up?",
+      "node_id": "node21",
+      "id": "Node006"
+    },
+    {
+      "text": "",
+      "node_id": "node5",
+      "id": "talk_p_proc"
+    },
+    {
+      "text": "Yeah, I looked for your Vault for a while, but never found it. So you got any good stories for  your old friend Ian?",
+      "node_id": "node23",
+      "id": "Node008"
+    },
+    {
+      "text": "You look so familiar, though. Ah, must be my old eyes. Well, good day to you.",
+      "node_id": "node20",
+      "id": "Node005"
+    },
+    {
+      "text": "Sure has. Well, I've been around; finally ended up here in this god-forsaken place. Not like the  good old days. No sir.",
+      "node_id": "node18",
+      "id": "Node003"
+    },
+    {
+      "text": "",
+      "node_id": "node16",
+      "id": "Node999"
+    },
+    {
+      "text": "Hello. Haven't seen you in a while.",
+      "node_id": "node7",
+      "id": "Node001"
+    },
+    {
+      "text": "Well, you better be careful around here. Things ain't as clear as they once were. You best watch  your back.",
+      "node_id": "node22",
+      "id": "Node007"
+    },
+    {
+      "text": "Well, that makes a bit more sense. Well, it's good to hear my friend did well. Well, old Ian's got some advice for you. You be careful out there. This place ain't as peachy as it seems.",
+      "node_id": "node25",
+      "id": "Node010"
+    },
+    {
+      "text": "Well, the Vault Citizens think very highly of their bloodline and don't care much for people like me and you. You take this gun. It'll protect you if things get a little out of control. You probably shouldn't be seen talking with this crazy old man. Best get on your way.",
+      "node_id": "node26",
+      "id": "Node011"
+    },
+    {
+      "text": "Well, it has been a while. What have you been up to?",
+      "node_id": "node17",
+      "id": "Node002"
+    },
+    {
+      "text": "",
+      "node_id": "node6",
+      "id": "Node012"
+    },
+    {
+      "text": "",
+      "node_id": "node8",
+      "id": "Node013"
+    }
+  ],
+  "links": [
+    {
+      "text": "What are you trying to tell me?",
+      "source": "Node004",
+      "target": "Node007"
+    },
+    {
+      "text": "I am sorry, but you must think I am the Vault Dweller. My village was founded by the one who  came from the Vault.",
+      "source": "Node009",
+      "target": "Node010"
+    },
+    {
+      "text": "I've been living up in a small village.",
+      "source": "Node006",
+      "target": "Node008"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node012"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node001"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node013"
+    },
+    {
+      "text": "Ian?",
+      "source": "Node008",
+      "target": "Node009"
+    },
+    {
+      "text": "Uh, yeah... goodbye.",
+      "source": "Node005",
+      "target": "Node999"
+    },
+    {
+      "text": "Yeah, the good old days. Remember that time we...",
+      "source": "Node003",
+      "target": "Node006"
+    },
+    {
+      "text": "It hasn't been the same lately, that's for sure. Now... what did we do together?",
+      "source": "Node003",
+      "target": "Node004"
+    },
+    {
+      "text": "Ah, yeah. It's been a while. What have you been doing?",
+      "source": "Node001",
+      "target": "Node003"
+    },
+    {
+      "text": "Do I know you?",
+      "source": "Node001",
+      "target": "Node002"
+    },
+    {
+      "text": "Okay, thanks.",
+      "source": "Node007",
+      "target": "Node999"
+    },
+    {
+      "text": "What's going on here?",
+      "source": "Node010",
+      "target": "Node011"
+    },
+    {
+      "text": "Thanks for your help.",
+      "source": "Node011",
+      "target": "Node999"
+    },
+    {
+      "text": "Look, old man, I don't know who the hell you are.",
+      "source": "Node002",
+      "target": "Node005"
+    },
+    {
+      "text": "This and that. Where do you know me from?",
+      "source": "Node002",
+      "target": "Node004"
+    }
+  ]
+}

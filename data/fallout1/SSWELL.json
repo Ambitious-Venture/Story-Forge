@@ -1,0 +1,44 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "You see the water supply to Shady Sands. This is too little water  to supply your vault.",
+      "node_id": "node2",
+      "id": "look_at_p_proc"
+    },
+    {
+      "text": "",
+      "node_id": "node1",
+      "id": "start"
+    },
+    {
+      "text": "You make a wish as you hear the bottle cap splash into the water.",
+      "node_id": "node3_1",
+      "id": "use_obj_on_p_proc_1"
+    },
+    {
+      "text": "You learn nothing more from the well.",
+      "node_id": "node4",
+      "id": "use_skill_on_p_proc"
+    }
+  ],
+  "links": [
+    {
+      "text": "",
+      "source": "start",
+      "target": "use_skill_on_p_proc"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "use_obj_on_p_proc_1"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "look_at_p_proc"
+    }
+  ]
+}

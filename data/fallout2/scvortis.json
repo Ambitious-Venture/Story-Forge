@@ -1,0 +1,54 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "",
+      "node_id": "node47",
+      "id": "walkToBed"
+    },
+    {
+      "text": "",
+      "node_id": "node48",
+      "id": "timed_event_p_proc"
+    },
+    {
+      "text": "Go in there and I'll blow your head off. Understand?",
+      "node_id": "node44",
+      "id": "Node022"
+    },
+    {
+      "text": "",
+      "node_id": "node45",
+      "id": "checkTime"
+    },
+    {
+      "text": "",
+      "node_id": "node46",
+      "id": "walkToOffice"
+    }
+  ],
+  "links": [
+    {
+      "text": "",
+      "source": "timed_event_p_proc",
+      "target": "checkTime"
+    },
+    {
+      "text": "",
+      "source": "timed_event_p_proc",
+      "target": "Node022"
+    },
+    {
+      "text": "",
+      "source": "checkTime",
+      "target": "walkToOffice"
+    },
+    {
+      "text": "",
+      "source": "checkTime",
+      "target": "walkToBed"
+    }
+  ]
+}

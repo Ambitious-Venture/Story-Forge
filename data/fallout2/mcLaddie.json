@@ -1,0 +1,379 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "",
+      "node_id": "node37",
+      "id": "Node989"
+    },
+    {
+      "text": "",
+      "node_id": "node28",
+      "id": "Node981"
+    },
+    {
+      "text": "",
+      "node_id": "node31",
+      "id": "Node984"
+    },
+    {
+      "text": "",
+      "node_id": "node30",
+      "id": "Node983"
+    },
+    {
+      "text": "",
+      "node_id": "node27",
+      "id": "Node015"
+    },
+    {
+      "text": "",
+      "node_id": "node35",
+      "id": "Node987"
+    },
+    {
+      "text": "Woof! Woof!",
+      "node_id": "node25",
+      "id": "Node017"
+    },
+    {
+      "text": "Woof! Woof! Woof!",
+      "node_id": "node7",
+      "id": "Node000"
+    },
+    {
+      "text": "",
+      "node_id": "node21",
+      "id": "Node014"
+    },
+    {
+      "text": "Woof!",
+      "node_id": "node32",
+      "id": "Node016"
+    },
+    {
+      "text": "",
+      "node_id": "node20",
+      "id": "Node994"
+    },
+    {
+      "text": "",
+      "node_id": "node4",
+      "id": "talk_p_proc"
+    },
+    {
+      "text": "",
+      "node_id": "node24",
+      "id": "Node995"
+    },
+    {
+      "text": "",
+      "node_id": "node16",
+      "id": "Node999"
+    },
+    {
+      "text": "",
+      "node_id": "node36",
+      "id": "Node988"
+    },
+    {
+      "text": "Woof! Woof! Woof!",
+      "node_id": "node6",
+      "id": "Node001"
+    },
+    {
+      "text": "",
+      "node_id": "node33",
+      "id": "Node985"
+    },
+    {
+      "text": "Grrrr! [Laddie takes a vicious bite at you.]",
+      "node_id": "node22",
+      "id": "Node010"
+    },
+    {
+      "text": "Woof! Woof! Woof! [Laddie jumps on you and starts to lick your face.]",
+      "node_id": "node23",
+      "id": "Node011"
+    },
+    {
+      "text": "",
+      "node_id": "node29",
+      "id": "Node982"
+    },
+    {
+      "text": "Woof! Woof! Woof!",
+      "node_id": "node5",
+      "id": "Node002"
+    },
+    {
+      "text": "Woof?",
+      "node_id": "node26",
+      "id": "Node018"
+    },
+    {
+      "text": "Woof? [You can almost hear the dog laughing at you.]",
+      "node_id": "node18",
+      "id": "Node012"
+    },
+    {
+      "text": "",
+      "node_id": "node17",
+      "id": "Node996"
+    },
+    {
+      "text": "Woof!",
+      "node_id": "node19",
+      "id": "Node013"
+    },
+    {
+      "text": "",
+      "node_id": "node34",
+      "id": "Node986"
+    }
+  ],
+  "links": [
+    {
+      "text": "",
+      "source": "Node989",
+      "target": "Node015"
+    },
+    {
+      "text": "",
+      "source": "Node981",
+      "target": "Node015"
+    },
+    {
+      "text": "",
+      "source": "Node984",
+      "target": "Node015"
+    },
+    {
+      "text": "",
+      "source": "Node983",
+      "target": "Node015"
+    },
+    {
+      "text": "Near the tannery?",
+      "source": "Node015",
+      "target": "Node982"
+    },
+    {
+      "text": "Near Rose\u2019s Bed and Breakfast?",
+      "source": "Node015",
+      "target": "Node985"
+    },
+    {
+      "text": "Near the trading post?",
+      "source": "Node015",
+      "target": "Node983"
+    },
+    {
+      "text": "Maybe someplace else, then?",
+      "source": "Node015",
+      "target": "Node014"
+    },
+    {
+      "text": "Near the well?",
+      "source": "Node015",
+      "target": "Node984"
+    },
+    {
+      "text": "Did Jonny fall down the well, Laddie?",
+      "source": "Node015",
+      "target": "Node016"
+    },
+    {
+      "text": "Near the slaughterhouse?",
+      "source": "Node015",
+      "target": "Node981"
+    },
+    {
+      "text": "Let\u2019s go find Jonny.",
+      "source": "Node015",
+      "target": "Node999"
+    },
+    {
+      "text": "",
+      "source": "Node987",
+      "target": "Node015"
+    },
+    {
+      "text": "Did he go west?",
+      "source": "Node017",
+      "target": "Node989"
+    },
+    {
+      "text": "Did he go east?",
+      "source": "Node017",
+      "target": "Node988"
+    },
+    {
+      "text": "Maybe someplace else, then?",
+      "source": "Node017",
+      "target": "Node014"
+    },
+    {
+      "text": "Did he go south?",
+      "source": "Node017",
+      "target": "Node987"
+    },
+    {
+      "text": "Did he go north?",
+      "source": "Node017",
+      "target": "Node986"
+    },
+    {
+      "text": "Let\u2019s go find Jonny.",
+      "source": "Node017",
+      "target": "Node999"
+    },
+    {
+      "text": "Nice doggie.",
+      "source": "Node000",
+      "target": "Node996"
+    },
+    {
+      "text": "Woof!",
+      "source": "Node000",
+      "target": "Node012"
+    },
+    {
+      "text": "[This dog seems highly agitated.]",
+      "source": "Node000",
+      "target": "Node999"
+    },
+    {
+      "text": "Is Jonny someplace close by in Modoc?",
+      "source": "Node014",
+      "target": "Node995"
+    },
+    {
+      "text": "I don\u2019t have time to play, Laddie; we need to find Jonny. Let\u2019s go.",
+      "source": "Node014",
+      "target": "Node999"
+    },
+    {
+      "text": "Did Jonny leave Modoc?",
+      "source": "Node014",
+      "target": "Node017"
+    },
+    {
+      "text": "Was Jonny abducted by aliens?",
+      "source": "Node014",
+      "target": "Node018"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node001"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node002"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node000"
+    },
+    {
+      "text": "",
+      "source": "Node995",
+      "target": "Node015"
+    },
+    {
+      "text": "",
+      "source": "Node988",
+      "target": "Node015"
+    },
+    {
+      "text": "Stay here, Laddie",
+      "source": "Node001",
+      "target": "Node994"
+    },
+    {
+      "text": "Do you know where Jonny is, boy?",
+      "source": "Node001",
+      "target": "Node013"
+    },
+    {
+      "text": "Let\u2019s go find Jonny.",
+      "source": "Node001",
+      "target": "Node999"
+    },
+    {
+      "text": "Woof!",
+      "source": "Node001",
+      "target": "Node012"
+    },
+    {
+      "text": "",
+      "source": "Node985",
+      "target": "Node015"
+    },
+    {
+      "text": "[Hmm\u2026 For some reason he doesn\u2019t like you.]",
+      "source": "Node010",
+      "target": "Node999"
+    },
+    {
+      "text": "[What a nice doggy.]",
+      "source": "Node011",
+      "target": "Node999"
+    },
+    {
+      "text": "",
+      "source": "Node982",
+      "target": "Node015"
+    },
+    {
+      "text": "What\u2019s the matter boy, are you trying to tell me something?",
+      "source": "Node002",
+      "target": "Node014"
+    },
+    {
+      "text": "Woof!",
+      "source": "Node002",
+      "target": "Node012"
+    },
+    {
+      "text": "Did Jonny fall down the well, Laddie?",
+      "source": "Node002",
+      "target": "Node013"
+    },
+    {
+      "text": "Okay, Okay\u2026 Maybe someplace else, then?",
+      "source": "Node018",
+      "target": "Node014"
+    },
+    {
+      "text": "Let\u2019s go find Jonny.",
+      "source": "Node018",
+      "target": "Node999"
+    },
+    {
+      "text": "[Nobody likes a smart ass.]",
+      "source": "Node012",
+      "target": "Node999"
+    },
+    {
+      "text": "",
+      "source": "Node996",
+      "target": "Node011"
+    },
+    {
+      "text": "",
+      "source": "Node996",
+      "target": "Node010"
+    },
+    {
+      "text": "",
+      "source": "Node986",
+      "target": "Node015"
+    }
+  ]
+}

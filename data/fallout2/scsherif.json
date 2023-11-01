@@ -1,0 +1,564 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "Sorry, no crime, no time.",
+      "node_id": "node7_1",
+      "id": "Node022_1"
+    },
+    {
+      "text": "",
+      "node_id": "node34",
+      "id": "Node1415a"
+    },
+    {
+      "text": "Listen, I lead a clean and wholesome life! I don't have GECK or anything else.",
+      "node_id": "node19",
+      "id": "Node004"
+    },
+    {
+      "text": "Arrgh! THERE IS NO 13, YOU DUMB BOX OF ROCKS! No 13. No find. Never! Ever!",
+      "node_id": "node32",
+      "id": "Node009"
+    },
+    {
+      "text": "Well, that's damn fine of you, stranger - and damn presumptuous, too. I don't know you from Adam and Eve and I don't like the way you look! \u00a0I'm not recommending you to anybody. Now, I got work to do.",
+      "node_id": "node36",
+      "id": "Node015"
+    },
+    {
+      "text": "No Vault 13. Vault 15, yes.",
+      "node_id": "node22",
+      "id": "Node006"
+    },
+    {
+      "text": "Duppo up at the Stockmen's Association wrangles hands for the brahmin drives. President Tandi's been asking around for some help.",
+      "node_id": "node27_2",
+      "id": "Node016_2"
+    },
+    {
+      "text": "There is no more work that I am aware of.",
+      "node_id": "node39",
+      "id": "Node024"
+    },
+    {
+      "text": "Just make sure things stay that way. Goodbye.",
+      "node_id": "node21",
+      "id": "Node019"
+    },
+    {
+      "text": "Roger Westin. His spread's just out the west gate. He's been having some problem with varmits. He'd take care of it himself, but his health ain't what it used to be. Bad ticker, Doc Jubilee says.",
+      "node_id": "node37",
+      "id": "Node017"
+    },
+    {
+      "text": "You? Hmmm....I couldn't. Don't even know you - but she's looking to hire somebody so you can go talk to her yourself. Her office is in the Hall of Congress.",
+      "node_id": "node35",
+      "id": "Node014"
+    },
+    {
+      "text": "Hello again. Anything I can do for you?",
+      "node_id": "node8_3",
+      "id": "Node001_3"
+    },
+    {
+      "text": "",
+      "node_id": "node5",
+      "id": "talk_p_proc"
+    },
+    {
+      "text": "Duppo up at the Stockmen's Association wrangles hands for the brahmin drives. Go try him.",
+      "node_id": "node27_3",
+      "id": "Node016_3"
+    },
+    {
+      "text": "Lis-ten. No Vault 13. No find. No see. No 13. Vault 15 - people find. People live Vault 15. You understand?",
+      "node_id": "node30",
+      "id": "Node008"
+    },
+    {
+      "text": "No, I don't. That's something even President Tandi would like to know. Solve a lot of problems.",
+      "node_id": "node18",
+      "id": "Node003"
+    },
+    {
+      "text": "Well, I can't say that I've got any reward money to give. Best I can do is my thanks.",
+      "node_id": "node38",
+      "id": "Node021"
+    },
+    {
+      "text": "I can think of a couple of things, if you're really interested.",
+      "node_id": "node26_1",
+      "id": "Node005_1"
+    },
+    {
+      "text": "",
+      "node_id": "node16",
+      "id": "Node999"
+    },
+    {
+      "text": "Desert rats. You got to understand \u2013 this town traces its roots back to 15. Seems there was some trouble there a long time ago and the survivors founded Shady Sands. So by right, Vault 15 is our property. Few years back some squatters moved in and there\u2019s been trouble ever since. You should talk to Tandi about it.",
+      "node_id": "node33",
+      "id": "Node023"
+    },
+    {
+      "text": "Well, spit it out.",
+      "node_id": "node8_2",
+      "id": "Node001_2"
+    },
+    {
+      "text": "You're joking right? After what you did with Jack? I suppose you could find some steady work.",
+      "node_id": "node26_2",
+      "id": "Node005_2"
+    },
+    {
+      "text": "Duppo up at the Stockmen's Association wrangles hands for the brahmin drives. Go try him. Then there's Mr. Westin. If you talk to him, tell him I sent you.",
+      "node_id": "node27_1",
+      "id": "Node016_1"
+    },
+    {
+      "text": "That's a damn fine piece of work you did with old Jack, stranger. As the sheriff, I'll take if from here.",
+      "node_id": "node6",
+      "id": "Node020"
+    },
+    {
+      "text": "Yes, 15! You talk Tandi. Big chief NCR. Tandi know Vault. Want help. You go Tandi.",
+      "node_id": "node29",
+      "id": "Node007"
+    },
+    {
+      "text": "Tandi big chief. Tandi want help. You talk to Tandi. Go Con-gress house. Okay?",
+      "node_id": "node31",
+      "id": "Node010"
+    },
+    {
+      "text": "No GECK. Me healthy. Not sick.",
+      "node_id": "node23",
+      "id": "Node011"
+    },
+    {
+      "text": "Primitive, eh? You. Questions? Ask me. Okay?",
+      "node_id": "node17",
+      "id": "Node002"
+    },
+    {
+      "text": "Yeah?",
+      "node_id": "node28",
+      "id": "Node018"
+    },
+    {
+      "text": "Look around you. NCR's a growing place. We need parts, computers, whatnot. Been a problem ever since those squatters moved into Vault 15.",
+      "node_id": "node24",
+      "id": "Node012"
+    },
+    {
+      "text": "Take a word of advice from Sheriff Dumont, stranger - this town don't care for your kind. Any trouble and I come down hard. Now, is there anything I can do for you?",
+      "node_id": "node8_1",
+      "id": "Node001_1"
+    },
+    {
+      "text": "",
+      "node_id": "node20",
+      "id": "Node524"
+    },
+    {
+      "text": "President of NCR, who else? Things have got her so worried she even asked to borrow one of my deputies for a special mission. Hated to turn her down, but I can't spare the manpower.",
+      "node_id": "node25",
+      "id": "Node013"
+    }
+  ],
+  "links": [
+    {
+      "text": "",
+      "source": "Node1415a",
+      "target": "Node014"
+    },
+    {
+      "text": "",
+      "source": "Node1415a",
+      "target": "Node015"
+    },
+    {
+      "text": "We'll just forget I asked. I'll leave you alone now.",
+      "source": "Node004",
+      "target": "Node999"
+    },
+    {
+      "text": "So-rry! What do you know about Vault 13?",
+      "source": "Node004",
+      "target": "Node003"
+    },
+    {
+      "text": "Fif-teen?",
+      "source": "Node006",
+      "target": "Node007"
+    },
+    {
+      "text": "No. Thir-teen!",
+      "source": "Node006",
+      "target": "Node008"
+    },
+    {
+      "text": "Got to go.",
+      "source": "Node016_2",
+      "target": "Node999"
+    },
+    {
+      "text": "President Tandi?",
+      "source": "Node016_2",
+      "target": "Node013"
+    },
+    {
+      "text": "Westin?",
+      "source": "Node016_2",
+      "target": "Node017"
+    },
+    {
+      "text": "Okay.",
+      "source": "Node024",
+      "target": "Node001_2"
+    },
+    {
+      "text": "Okay.",
+      "source": "Node024",
+      "target": "Node001_1"
+    },
+    {
+      "text": "Okay.",
+      "source": "Node024",
+      "target": "Node001_3"
+    },
+    {
+      "text": "Know anything about a GECK?",
+      "source": "Node014",
+      "target": "Node004"
+    },
+    {
+      "text": "Thanks. I'll do that.",
+      "source": "Node014",
+      "target": "Node999"
+    },
+    {
+      "text": "Urrrgh.",
+      "source": "Node001_3",
+      "target": "Node002"
+    },
+    {
+      "text": "I'm looking for Vault 13. Do you know where it is?",
+      "source": "Node001_3",
+      "target": "Node003"
+    },
+    {
+      "text": "I'm looking for some honest work. Can you help me?",
+      "source": "Node001_3",
+      "target": "Node524"
+    },
+    {
+      "text": "Oh, fine. Everything's been just peachy.",
+      "source": "Node001_3",
+      "target": "Node019"
+    },
+    {
+      "text": "Do you have a GECK?",
+      "source": "Node001_3",
+      "target": "Node004"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node020"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node001_2"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node001_1"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node001_3"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node022_1"
+    },
+    {
+      "text": "President Tandi?",
+      "source": "Node016_3",
+      "target": "Node013"
+    },
+    {
+      "text": "Westin?",
+      "source": "Node016_3",
+      "target": "Node017"
+    },
+    {
+      "text": "Got to go.",
+      "source": "Node016_3",
+      "target": "Node999"
+    },
+    {
+      "text": "No thir-teen? Fif-teen?",
+      "source": "Node008",
+      "target": "Node007"
+    },
+    {
+      "text": "NO. WANT THIRTEEN!",
+      "source": "Node008",
+      "target": "Node009"
+    },
+    {
+      "text": "President Tandi?",
+      "source": "Node003",
+      "target": "Node013"
+    },
+    {
+      "text": "Problems?",
+      "source": "Node003",
+      "target": "Node012"
+    },
+    {
+      "text": "Great. Just my luck. Thanks.",
+      "source": "Node003",
+      "target": "Node999"
+    },
+    {
+      "text": "Wait. I've got some questions.",
+      "source": "Node021",
+      "target": "Node001_2"
+    },
+    {
+      "text": "Wait. I've got some questions.",
+      "source": "Node021",
+      "target": "Node001_1"
+    },
+    {
+      "text": "Wait. I've got some questions.",
+      "source": "Node021",
+      "target": "Node001_3"
+    },
+    {
+      "text": "Oh, I understand all right.",
+      "source": "Node021",
+      "target": "Node999"
+    },
+    {
+      "text": "No, let's just change the subject.",
+      "source": "Node005_1",
+      "target": "Node018"
+    },
+    {
+      "text": "Forget it, I've changed my mind. Goodbye.",
+      "source": "Node005_1",
+      "target": "Node999"
+    },
+    {
+      "text": "Tandi?",
+      "source": "Node023",
+      "target": "Node013"
+    },
+    {
+      "text": "I\u2019ll take that under advisement.",
+      "source": "Node023",
+      "target": "Node999"
+    },
+    {
+      "text": "Oh, fine. Everything's been just peachy.",
+      "source": "Node001_2",
+      "target": "Node019"
+    },
+    {
+      "text": "Do you have a GECK?",
+      "source": "Node001_2",
+      "target": "Node004"
+    },
+    {
+      "text": "Urrrgh.",
+      "source": "Node001_2",
+      "target": "Node002"
+    },
+    {
+      "text": "I'm looking for some honest work. Can you help me?",
+      "source": "Node001_2",
+      "target": "Node524"
+    },
+    {
+      "text": "I'm looking for Vault 13. Do you know where it is?",
+      "source": "Node001_2",
+      "target": "Node003"
+    },
+    {
+      "text": "Forget it, I've changed my mind. Goodbye.",
+      "source": "Node005_2",
+      "target": "Node999"
+    },
+    {
+      "text": "No, let's just change the subject.",
+      "source": "Node005_2",
+      "target": "Node018"
+    },
+    {
+      "text": "President Tandi?",
+      "source": "Node016_1",
+      "target": "Node013"
+    },
+    {
+      "text": "Got to go.",
+      "source": "Node016_1",
+      "target": "Node999"
+    },
+    {
+      "text": "Westin?",
+      "source": "Node016_1",
+      "target": "Node017"
+    },
+    {
+      "text": "He's all yours.",
+      "source": "Node020",
+      "target": "Node999"
+    },
+    {
+      "text": "What about a reward?",
+      "source": "Node020",
+      "target": "Node021"
+    },
+    {
+      "text": "Tandi?",
+      "source": "Node007",
+      "target": "Node010"
+    },
+    {
+      "text": "No go. Want 13!",
+      "source": "Node007",
+      "target": "Node009"
+    },
+    {
+      "text": "Okay.",
+      "source": "Node010",
+      "target": "Node999"
+    },
+    {
+      "text": "GECK?",
+      "source": "Node010",
+      "target": "Node011"
+    },
+    {
+      "text": "Vault 13?",
+      "source": "Node011",
+      "target": "Node006"
+    },
+    {
+      "text": "Okay.",
+      "source": "Node011",
+      "target": "Node999"
+    },
+    {
+      "text": "GECK?",
+      "source": "Node002",
+      "target": "Node011"
+    },
+    {
+      "text": "Vault 13?",
+      "source": "Node002",
+      "target": "Node006"
+    },
+    {
+      "text": "Okay.",
+      "source": "Node002",
+      "target": "Node999"
+    },
+    {
+      "text": "Any work to be had in this town?",
+      "source": "Node018",
+      "target": "Node016_1"
+    },
+    {
+      "text": "Any work to be had in this town?",
+      "source": "Node018",
+      "target": "Node016_3"
+    },
+    {
+      "text": "Any work to be had in this town?",
+      "source": "Node018",
+      "target": "Node016_2"
+    },
+    {
+      "text": "Never mind. I'm going.",
+      "source": "Node018",
+      "target": "Node999"
+    },
+    {
+      "text": "Vault 15? Squatters? What's going on?",
+      "source": "Node012",
+      "target": "Node023"
+    },
+    {
+      "text": "What's this about President Tandi?",
+      "source": "Node012",
+      "target": "Node013"
+    },
+    {
+      "text": "Thanks for the info.",
+      "source": "Node012",
+      "target": "Node999"
+    },
+    {
+      "text": "Urrrgh.",
+      "source": "Node001_1",
+      "target": "Node002"
+    },
+    {
+      "text": "I'm looking for some honest work. Can you help me?",
+      "source": "Node001_1",
+      "target": "Node524"
+    },
+    {
+      "text": "Oh, fine. Everything's been just peachy.",
+      "source": "Node001_1",
+      "target": "Node019"
+    },
+    {
+      "text": "Do you have a GECK?",
+      "source": "Node001_1",
+      "target": "Node004"
+    },
+    {
+      "text": "I'm looking for Vault 13. Do you know where it is?",
+      "source": "Node001_1",
+      "target": "Node003"
+    },
+    {
+      "text": "",
+      "source": "Node524",
+      "target": "Node005_1"
+    },
+    {
+      "text": "",
+      "source": "Node524",
+      "target": "Node005_2"
+    },
+    {
+      "text": "",
+      "source": "Node524",
+      "target": "Node024"
+    },
+    {
+      "text": "Hmm. Tough life, I guess.",
+      "source": "Node013",
+      "target": "Node999"
+    },
+    {
+      "text": "How about me? Maybe you could recommend me.",
+      "source": "Node013",
+      "target": "Node1415a"
+    }
+  ]
+}

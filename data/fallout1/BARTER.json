@@ -1,0 +1,24 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "Nope.",
+      "node_id": "node2_1",
+      "id": "do_dialogue_1"
+    },
+    {
+      "text": "You see Barterman.",
+      "node_id": "node1",
+      "id": "start"
+    }
+  ],
+  "links": [
+    {
+      "text": "",
+      "source": "start",
+      "target": "do_dialogue_1"
+    }
+  ]
+}

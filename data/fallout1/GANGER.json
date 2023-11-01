@@ -1,0 +1,254 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "What are you doing here? Answer wisely - this could be your  only chance . . .",
+      "node_id": "node4",
+      "id": "ghoul00"
+    },
+    {
+      "text": "You see a ghoul gang member.",
+      "node_id": "node1",
+      "id": "start"
+    },
+    {
+      "text": "It was. Now it's a fact. ZOMBIES!",
+      "node_id": "node18",
+      "id": "ghoul10"
+    },
+    {
+      "text": "",
+      "node_id": "node2",
+      "id": "do_dialogue"
+    },
+    {
+      "text": "Stay away from dis place if you value yer life.",
+      "node_id": "node8",
+      "id": "ghoul11"
+    },
+    {
+      "text": "You should git.",
+      "node_id": "node19",
+      "id": "ghoul13"
+    },
+    {
+      "text": "You gots some mental problems to work out. Set's not gonna let some loser like you take 'em down. He's got the guards  and he's got the guns.",
+      "node_id": "node10",
+      "id": "ghoul02"
+    },
+    {
+      "text": "HEY, ZOMBIES, WE GOT US A PUNCHIN' BAG!",
+      "node_id": "node9",
+      "id": "ghoul12"
+    },
+    {
+      "text": "",
+      "node_id": "node11",
+      "id": "ghoul04"
+    },
+    {
+      "text": "",
+      "node_id": "node6",
+      "id": "ghoulcbt"
+    },
+    {
+      "text": "I said dat's all I'm gonna tell ya'. Now git.",
+      "node_id": "node16",
+      "id": "ghoul07"
+    },
+    {
+      "text": "Set ain't here, so git.",
+      "node_id": "node7",
+      "id": "ghoul01"
+    },
+    {
+      "text": "You crazy. What do you think dis is? You better leave.",
+      "node_id": "node3",
+      "id": "ghoul08"
+    },
+    {
+      "text": "I ain't telling ya' that. Whadda ya' think I am, stupid?  Now git . . .",
+      "node_id": "node14",
+      "id": "ghoul04a"
+    },
+    {
+      "text": "Not a what . . . A WHO. We are the Zombies. If we do good, Set'll make us one of his guards. Now that's all I'm gonna tell you.",
+      "node_id": "node15",
+      "id": "ghoul06"
+    },
+    {
+      "text": "I'm supposed to make sure no one goes by. Dis is Zombie house.",
+      "node_id": "node12",
+      "id": "ghoul05"
+    },
+    {
+      "text": "",
+      "node_id": "node5",
+      "id": "ghoulend"
+    },
+    {
+      "text": "Set keeps at least two guards around him at all times, but he can call on more then ten if he needs it. And when he's in his throne room, those ten guards are seconds  away.",
+      "node_id": "node13",
+      "id": "ghoul03"
+    },
+    {
+      "text": "I don't think so. Get out before I call the boyz over and  dance on your face.",
+      "node_id": "node17",
+      "id": "ghoul09"
+    }
+  ],
+  "links": [
+    {
+      "text": "I'm looking for the boss.",
+      "source": "ghoul00",
+      "target": "ghoul01"
+    },
+    {
+      "text": "This building is condemned - I've come to serve final notice.",
+      "source": "ghoul00",
+      "target": "ghoul08"
+    },
+    {
+      "text": "Duh.",
+      "source": "ghoul00",
+      "target": "ghoul12"
+    },
+    {
+      "text": "Sorry, just looking around.",
+      "source": "ghoul00",
+      "target": "ghoul11"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "do_dialogue"
+    },
+    {
+      "text": "",
+      "source": "ghoul10",
+      "target": "ghoulcbt"
+    },
+    {
+      "text": "",
+      "source": "do_dialogue",
+      "target": "ghoul00"
+    },
+    {
+      "text": "",
+      "source": "do_dialogue",
+      "target": "ghoul08"
+    },
+    {
+      "text": "",
+      "source": "ghoul11",
+      "target": "ghoulend"
+    },
+    {
+      "text": "",
+      "source": "ghoul13",
+      "target": "ghoulend"
+    },
+    {
+      "text": "How many guards?",
+      "source": "ghoul02",
+      "target": "ghoul04"
+    },
+    {
+      "text": "What are you doing here?",
+      "source": "ghoul02",
+      "target": "ghoul05"
+    },
+    {
+      "text": "",
+      "source": "ghoul12",
+      "target": "ghoulcbt"
+    },
+    {
+      "text": "",
+      "source": "ghoul04",
+      "target": "ghoul03"
+    },
+    {
+      "text": "",
+      "source": "ghoul04",
+      "target": "ghoul04a"
+    },
+    {
+      "text": "",
+      "source": "ghoul07",
+      "target": "ghoulend"
+    },
+    {
+      "text": "Oh, OK. Bye.",
+      "source": "ghoul01",
+      "target": "ghoulend"
+    },
+    {
+      "text": "Well, when I find that son of a bitch, I'm gonna make it  so no one can find him.",
+      "source": "ghoul01",
+      "target": "ghoul02"
+    },
+    {
+      "text": "Well, you'll just have to be my punching bag, then.",
+      "source": "ghoul01",
+      "target": "ghoulcbt"
+    },
+    {
+      "text": "Duh.",
+      "source": "ghoul08",
+      "target": "ghoul12"
+    },
+    {
+      "text": "OK, I'm out of here.",
+      "source": "ghoul08",
+      "target": "ghoulend"
+    },
+    {
+      "text": "Nah, I want to go in.",
+      "source": "ghoul08",
+      "target": "ghoul09"
+    },
+    {
+      "text": "",
+      "source": "ghoul04a",
+      "target": "ghoulend"
+    },
+    {
+      "text": "Bye.",
+      "source": "ghoul06",
+      "target": "ghoulend"
+    },
+    {
+      "text": "Why do you want to be one of his guards?",
+      "source": "ghoul06",
+      "target": "ghoul07"
+    },
+    {
+      "text": "What's a Zombie?",
+      "source": "ghoul05",
+      "target": "ghoul06"
+    },
+    {
+      "text": "Well, you have a nice day.",
+      "source": "ghoul05",
+      "target": "ghoulend"
+    },
+    {
+      "text": "So what are you doing here?",
+      "source": "ghoul03",
+      "target": "ghoul05"
+    },
+    {
+      "text": "Is that a threat?",
+      "source": "ghoul09",
+      "target": "ghoul10"
+    },
+    {
+      "text": "OK.",
+      "source": "ghoul09",
+      "target": "ghoulend"
+    }
+  ]
+}

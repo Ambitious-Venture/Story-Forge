@@ -1,0 +1,184 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "",
+      "node_id": "node16",
+      "id": "peter4a"
+    },
+    {
+      "text": "Yes. You can get out of here.",
+      "node_id": "node13",
+      "id": "peter3"
+    },
+    {
+      "text": "You see Peter, leader of the Follower Scouts.",
+      "node_id": "node3",
+      "id": "look_at_p_proc"
+    },
+    {
+      "text": "",
+      "node_id": "node1",
+      "id": "start"
+    },
+    {
+      "text": "We need that spy gone. Hurry up!",
+      "node_id": "node5",
+      "id": "peter9"
+    },
+    {
+      "text": "Fine. Get out then!",
+      "node_id": "node17",
+      "id": "peter5"
+    },
+    {
+      "text": "Look, we have a breach in security. We need to find this breach and end it.",
+      "node_id": "node15",
+      "id": "peter6"
+    },
+    {
+      "text": "Sure. You can start by getting out of my way.",
+      "node_id": "node11",
+      "id": "peter2"
+    },
+    {
+      "text": "",
+      "node_id": "node10",
+      "id": "peterend"
+    },
+    {
+      "text": "What are you doing around here? Can't you see we are busy?",
+      "node_id": "node7",
+      "id": "peter0"
+    },
+    {
+      "text": "",
+      "node_id": "node2",
+      "id": "destroy_p_proc"
+    },
+    {
+      "text": "",
+      "node_id": "node4",
+      "id": "talk_p_proc"
+    },
+    {
+      "text": "Great. I'm busy, and I get a moron tailing me. Go look for Jake if you need someone to talk to.",
+      "node_id": "node9",
+      "id": "peter1"
+    },
+    {
+      "text": "Good job on taking out Heather. I should have known it was her. She always seemed to disappear in the raids. Here, take this and go.",
+      "node_id": "node6",
+      "id": "peter10"
+    },
+    {
+      "text": "Leave. i am trying to finish up a little work.",
+      "node_id": "node8",
+      "id": "peter8"
+    },
+    {
+      "text": "Do I look like a guide. Go talk to Jake if you are looking for a guide.",
+      "node_id": "node12",
+      "id": "peter7"
+    },
+    {
+      "text": "Fine. It doesn't look like I will get rid of you any other way. It seems that we are having a security problem. You want to help, you  find the problem.",
+      "node_id": "node14",
+      "id": "peter4"
+    }
+  ],
+  "links": [
+    {
+      "text": "",
+      "source": "start",
+      "target": "destroy_p_proc"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "talk_p_proc"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "look_at_p_proc"
+    },
+    {
+      "text": "Ok. Will do.",
+      "source": "peter6",
+      "target": "peter4a"
+    },
+    {
+      "text": "Forget it!",
+      "source": "peter6",
+      "target": "peter5"
+    },
+    {
+      "text": "Certainly. Anything else?",
+      "source": "peter2",
+      "target": "peter3"
+    },
+    {
+      "text": "Do not throw me to the side.",
+      "source": "peter2",
+      "target": "peter6"
+    },
+    {
+      "text": "There must be something more I can do.",
+      "source": "peter2",
+      "target": "peter4"
+    },
+    {
+      "text": "Huh?",
+      "source": "peter0",
+      "target": "peter1"
+    },
+    {
+      "text": "I am sorry. I will go now.",
+      "source": "peter0",
+      "target": "peterend"
+    },
+    {
+      "text": "Who can I talk to about giving my assistance.",
+      "source": "peter0",
+      "target": "peter7"
+    },
+    {
+      "text": "Can I help you with anything?",
+      "source": "peter0",
+      "target": "peter2"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "peter10"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "peter8"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "peter0"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "peter9"
+    },
+    {
+      "text": "Okay. Will do.",
+      "source": "peter4",
+      "target": "peter4a"
+    },
+    {
+      "text": "Forget it!",
+      "source": "peter4",
+      "target": "peter5"
+    }
+  ]
+}

@@ -1,0 +1,359 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "You see an unlocked stronbox.",
+      "node_id": "node2_1",
+      "id": "look_at_p_proc_1"
+    },
+    {
+      "text": "You successfully disarmed the trap.",
+      "node_id": "node5_11",
+      "id": "use_skill_on_p_proc_11"
+    },
+    {
+      "text": "",
+      "node_id": "node1",
+      "id": "start"
+    },
+    {
+      "text": "You were unable to unlock the strongbox, and the lock has become jammed.",
+      "node_id": "node4_2",
+      "id": "use_obj_on_p_proc_2"
+    },
+    {
+      "text": "While opening the strongbox, you detected a trap, but accidentally set it off.",
+      "node_id": "node3_2",
+      "id": "use_p_proc_2"
+    },
+    {
+      "text": "Your multiple attempts to unlock the strongbox have set off a trap.",
+      "node_id": "node4_3",
+      "id": "use_obj_on_p_proc_3"
+    },
+    {
+      "text": "Your multiple attempts to unlock the strongbox have set off a trap.",
+      "node_id": "node5_3",
+      "id": "use_skill_on_p_proc_3"
+    },
+    {
+      "text": "You accidentally set off the trap.",
+      "node_id": "node5_12",
+      "id": "use_skill_on_p_proc_12"
+    },
+    {
+      "text": "Your multiple attempts to unlock the strongbox have set off a trap.",
+      "node_id": "node4_5",
+      "id": "use_obj_on_p_proc_5"
+    },
+    {
+      "text": "You were unable to unlock the strongbox.",
+      "node_id": "node4_4",
+      "id": "use_obj_on_p_proc_4"
+    },
+    {
+      "text": "You were unable to unlock the strongbox, and the lock has become jammed.",
+      "node_id": "node5_2",
+      "id": "use_skill_on_p_proc_2"
+    },
+    {
+      "text": "You find nothing while searching the strongbox for traps.",
+      "node_id": "node5_10",
+      "id": "use_skill_on_p_proc_10"
+    },
+    {
+      "text": "While opening the strongbox, you detected and disarmed a trap.",
+      "node_id": "node3_1",
+      "id": "use_p_proc_1"
+    },
+    {
+      "text": "You were unable to unlock the strongbox.",
+      "node_id": "node5_4",
+      "id": "use_skill_on_p_proc_4"
+    },
+    {
+      "text": "You find a trap on the strongbox.",
+      "node_id": "node5_8",
+      "id": "use_skill_on_p_proc_8"
+    },
+    {
+      "text": "Your multiple attempts to unlock the strongbox have set off a trap.",
+      "node_id": "node5_5",
+      "id": "use_skill_on_p_proc_5"
+    },
+    {
+      "text": "The strongbox is already unlocked.",
+      "node_id": "node5_6",
+      "id": "use_skill_on_p_proc_6"
+    },
+    {
+      "text": "Your multiple attempts to unlock the strongbox have set off a trap.",
+      "node_id": "node4_1",
+      "id": "use_obj_on_p_proc_1"
+    },
+    {
+      "text": "While searching the strongbox for traps, you accidentally set one off.",
+      "node_id": "node5_9",
+      "id": "use_skill_on_p_proc_9"
+    },
+    {
+      "text": "",
+      "node_id": "node6",
+      "id": "set_off_trap"
+    },
+    {
+      "text": "While opening the strongbox, you detected a trap, but failed to disarm it.",
+      "node_id": "node3_3",
+      "id": "use_p_proc_3"
+    },
+    {
+      "text": "You failed to disarm the trap.",
+      "node_id": "node5_13",
+      "id": "use_skill_on_p_proc_13"
+    },
+    {
+      "text": "You find a trap on the strongbox and successfully disarm it.",
+      "node_id": "node5_7",
+      "id": "use_skill_on_p_proc_7"
+    },
+    {
+      "text": "Your multiple attempts to unlock the strongbox have set off a trap.",
+      "node_id": "node5_1",
+      "id": "use_skill_on_p_proc_1"
+    },
+    {
+      "text": "The strongbox is already unlocked.",
+      "node_id": "node4_6",
+      "id": "use_obj_on_p_proc_6"
+    }
+  ],
+  "links": [
+    {
+      "text": "",
+      "source": "use_skill_on_p_proc_11",
+      "target": "set_off_trap"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "use_obj_on_p_proc_6"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "use_skill_on_p_proc_4"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "use_obj_on_p_proc_2"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "use_skill_on_p_proc_11"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "use_skill_on_p_proc_3"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "use_skill_on_p_proc_2"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "use_skill_on_p_proc_10"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "use_p_proc_2"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "use_obj_on_p_proc_4"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "use_skill_on_p_proc_7"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "use_skill_on_p_proc_5"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "use_skill_on_p_proc_6"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "look_at_p_proc_1"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "use_obj_on_p_proc_5"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "use_p_proc_3"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "use_p_proc_1"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "use_skill_on_p_proc_13"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "use_skill_on_p_proc_8"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "use_obj_on_p_proc_3"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "use_skill_on_p_proc_12"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "use_skill_on_p_proc_1"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "use_obj_on_p_proc_1"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "use_skill_on_p_proc_9"
+    },
+    {
+      "text": "",
+      "source": "use_obj_on_p_proc_2",
+      "target": "set_off_trap"
+    },
+    {
+      "text": "",
+      "source": "use_p_proc_2",
+      "target": "set_off_trap"
+    },
+    {
+      "text": "",
+      "source": "use_obj_on_p_proc_3",
+      "target": "set_off_trap"
+    },
+    {
+      "text": "",
+      "source": "use_skill_on_p_proc_3",
+      "target": "set_off_trap"
+    },
+    {
+      "text": "",
+      "source": "use_skill_on_p_proc_12",
+      "target": "set_off_trap"
+    },
+    {
+      "text": "",
+      "source": "use_obj_on_p_proc_5",
+      "target": "set_off_trap"
+    },
+    {
+      "text": "",
+      "source": "use_obj_on_p_proc_4",
+      "target": "set_off_trap"
+    },
+    {
+      "text": "",
+      "source": "use_skill_on_p_proc_2",
+      "target": "set_off_trap"
+    },
+    {
+      "text": "",
+      "source": "use_skill_on_p_proc_10",
+      "target": "set_off_trap"
+    },
+    {
+      "text": "",
+      "source": "use_p_proc_1",
+      "target": "set_off_trap"
+    },
+    {
+      "text": "",
+      "source": "use_skill_on_p_proc_4",
+      "target": "set_off_trap"
+    },
+    {
+      "text": "",
+      "source": "use_skill_on_p_proc_8",
+      "target": "set_off_trap"
+    },
+    {
+      "text": "",
+      "source": "use_skill_on_p_proc_5",
+      "target": "set_off_trap"
+    },
+    {
+      "text": "",
+      "source": "use_skill_on_p_proc_6",
+      "target": "set_off_trap"
+    },
+    {
+      "text": "",
+      "source": "use_obj_on_p_proc_1",
+      "target": "set_off_trap"
+    },
+    {
+      "text": "",
+      "source": "use_skill_on_p_proc_9",
+      "target": "set_off_trap"
+    },
+    {
+      "text": "",
+      "source": "use_p_proc_3",
+      "target": "set_off_trap"
+    },
+    {
+      "text": "",
+      "source": "use_skill_on_p_proc_13",
+      "target": "set_off_trap"
+    },
+    {
+      "text": "",
+      "source": "use_skill_on_p_proc_7",
+      "target": "set_off_trap"
+    },
+    {
+      "text": "",
+      "source": "use_skill_on_p_proc_1",
+      "target": "set_off_trap"
+    },
+    {
+      "text": "",
+      "source": "use_obj_on_p_proc_6",
+      "target": "set_off_trap"
+    }
+  ]
+}

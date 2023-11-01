@@ -1,0 +1,1079 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "My name\u2019s Maida Buckner; I take care of trading and drinks here. What will it be for you, friend?",
+      "node_id": "node14_4",
+      "id": "Node004_4"
+    },
+    {
+      "text": "What may I help you with?",
+      "node_id": "node14_2",
+      "id": "Node004_2"
+    },
+    {
+      "text": "",
+      "node_id": "node55",
+      "id": "Node993"
+    },
+    {
+      "text": "My mother takes care of the rooms. You should talk to her about that.",
+      "node_id": "node63",
+      "id": "Node006"
+    },
+    {
+      "text": "Have you seen my brother Torr anywhere? He lost some more brahmin and ma yelled at him. He must  have run off after that.",
+      "node_id": "node10",
+      "id": "Node024"
+    },
+    {
+      "text": "Well now, anything else that I can do for you?",
+      "node_id": "node25_1",
+      "id": "Node009_1"
+    },
+    {
+      "text": "Thanks for finding my brother, Torr. Ma and I were so worried. \u00a0What can I do for you?",
+      "node_id": "node13_1",
+      "id": "Node023_1"
+    },
+    {
+      "text": "",
+      "node_id": "node78",
+      "id": "Node994"
+    },
+    {
+      "text": "The only way I know to create a Garden of Eden is through plain old hard work. That's something you tribals just don\u2019t seem to understand. But I guess that\u2019s the difference between us civilized folk  and yourselves.",
+      "node_id": "node66",
+      "id": "Node008"
+    },
+    {
+      "text": "I\u2019d be so grateful if you could find my brother for mom and me.",
+      "node_id": "node54",
+      "id": "Node028"
+    },
+    {
+      "text": "",
+      "node_id": "node49",
+      "id": "Node990"
+    },
+    {
+      "text": "Hello there, my good friend.",
+      "node_id": "node14_1",
+      "id": "Node004_1"
+    },
+    {
+      "text": "The Den is a bad place to go. They even enslave ignorant tribals like yourself. It\u2019s a week or so south of here, but most folks that\u2019ve gone there don\u2019t come back.",
+      "node_id": "node70",
+      "id": "Node012"
+    },
+    {
+      "text": "Looks as though you don\u2019t have enough money for that.",
+      "node_id": "node28",
+      "id": "Node033"
+    },
+    {
+      "text": "I don\u2019t know where he went for certain, but I think that he might have run off to that canyon he was always talking about.",
+      "node_id": "node44",
+      "id": "Node025"
+    },
+    {
+      "text": "",
+      "node_id": "node43",
+      "id": "Node981"
+    },
+    {
+      "text": "",
+      "node_id": "node58",
+      "id": "Node997"
+    },
+    {
+      "text": "",
+      "node_id": "node33",
+      "id": "Node945"
+    },
+    {
+      "text": "",
+      "node_id": "node53",
+      "id": "Node992"
+    },
+    {
+      "text": "I\u2019d like to buy a round of drinks for everyone here by way of introducing myself. I\u2019m from Arroyo.",
+      "node_id": "node65_1",
+      "id": "Node031_1"
+    },
+    {
+      "text": "Well, okay then. If you really want to pay for the damage he caused...I guess all of you tribals  really stick together.",
+      "node_id": "node34",
+      "id": "Node019"
+    },
+    {
+      "text": "Well, he may be slow, but he does sort of grow on you after a while. (looks away wistfully)... (flustered) Now that\u2019s enough jaw flapping; do you need anything else?",
+      "node_id": "node74",
+      "id": "Node017"
+    },
+    {
+      "text": "Well, you see, Sulik got real upset one night and had too much booze. Then, when he was good and drunk, he busted up the place. He did nearly $500 worth of damage. Just now getting the place  repaired.",
+      "node_id": "node71",
+      "id": "Node014"
+    },
+    {
+      "text": "Questions, huh? Well get on with it, then. Talking to you doesn\u2019t get my work any closer to being finished.",
+      "node_id": "node39_1",
+      "id": "Node005_1"
+    },
+    {
+      "text": "",
+      "node_id": "node59",
+      "id": "Node999"
+    },
+    {
+      "text": "",
+      "node_id": "node32",
+      "id": "Node920"
+    },
+    {
+      "text": "Well there\u2019s a canyon just east of where we graze the brahmin. Torr used to come up with wild stories about bugmen coming from there. He said that it was bugmen what mutilated our brahmin. Scared himself silly with those fool stories.",
+      "node_id": "node76",
+      "id": "Node026"
+    },
+    {
+      "text": "There are only a couple of other towns nearby. There\u2019s Redding far to the southwest, and the Den a few days south. But I wouldn\u2019t go to the Den.",
+      "node_id": "node68",
+      "id": "Node010"
+    },
+    {
+      "text": "Well, I didn\u2019t count tribes when you asked about civilized towns. But I guess there\u2019s a group of savages somewhere to the northwest -- and then Sulik\u2019s tribe, far to the southwest.",
+      "node_id": "node50",
+      "id": "Node011"
+    },
+    {
+      "text": "Sulik\u2019s a tribal that\u2019s working here to pay off a debt he foolishly incurred. He is not a slave. We don\u2019t have slaves here in Klamath.",
+      "node_id": "node41",
+      "id": "Node013"
+    },
+    {
+      "text": "",
+      "node_id": "node38",
+      "id": "Node971"
+    },
+    {
+      "text": "",
+      "node_id": "node51",
+      "id": "Node991"
+    },
+    {
+      "text": "",
+      "node_id": "node24",
+      "id": "maida_barter"
+    },
+    {
+      "text": "He said he found out that his sister had been kidnapped by slavers. But you\u2019d have to ask him more about that. He\u2019s here until he can pay off the rest of the damage he did while he was drunk.",
+      "node_id": "node72",
+      "id": "Node015"
+    },
+    {
+      "text": "I think he might have taken off to the canyon to prove his bravery or something. I sure hope someone can find him before he hurts himself.",
+      "node_id": "node77",
+      "id": "Node027"
+    },
+    {
+      "text": "My name\u2019s Maida Buckner; I take care of trading and drinks here. I don\u2019t tolerate any tribals messing our family\u2019s place up. So you just better watch your step here, or you\u2019ll end up like Sulik. What do you want?",
+      "node_id": "node14_3",
+      "id": "Node004_3"
+    },
+    {
+      "text": "I\u2019ll sure be glad to have that damn (sob) tribal (sob) away (sob, sob) from  here. (sob)",
+      "node_id": "node8",
+      "id": "Node034"
+    },
+    {
+      "text": "He still has to pay off $350. If he weren\u2019t so lazy and shiftless it would go quicker for him. He\u2019s not leaving here until his debt is paid in full.",
+      "node_id": "node73",
+      "id": "Node016"
+    },
+    {
+      "text": "",
+      "node_id": "node35",
+      "id": "Node955"
+    },
+    {
+      "text": "Thanks so much. I take back all those things I said about tribals. Please find my brother for  me.",
+      "node_id": "node52",
+      "id": "Node029"
+    },
+    {
+      "text": "",
+      "node_id": "node40",
+      "id": "Node975"
+    },
+    {
+      "text": "",
+      "node_id": "node26",
+      "id": "barter_for_sulik"
+    },
+    {
+      "text": "You want to barter? I\u2019m always looking for good quality gecko pelts, and I pay a fair price for them, too.",
+      "node_id": "node64_1",
+      "id": "Node007_1"
+    },
+    {
+      "text": "",
+      "node_id": "node69",
+      "id": "Node950"
+    },
+    {
+      "text": "You\u2019ve really made me angry. I don\u2019t want anything further to do with you. Now just get out. Tribals, humph! (mutter, mutter) ...shiftless, worthless, lazy...",
+      "node_id": "node11_1",
+      "id": "Node001_1"
+    },
+    {
+      "text": "",
+      "node_id": "node61",
+      "id": "Node940"
+    },
+    {
+      "text": "Well, you\u2019d be better off asking momma about what\u2019s going on right here in town.",
+      "node_id": "node67_1",
+      "id": "Node022_1"
+    },
+    {
+      "text": "",
+      "node_id": "node46",
+      "id": "Node983"
+    },
+    {
+      "text": "",
+      "node_id": "node6",
+      "id": "Node998"
+    },
+    {
+      "text": "",
+      "node_id": "node42",
+      "id": "Node980"
+    },
+    {
+      "text": "",
+      "node_id": "node5",
+      "id": "talk_p_proc"
+    },
+    {
+      "text": "",
+      "node_id": "node37",
+      "id": "Node970"
+    },
+    {
+      "text": "Hmm - seems as though your elevator doesn\u2019t rise all the way to the top floor. Why don\u2019t you talk to my brother, Torr? He\u2019s a little closer to your speed. Goodbye.",
+      "node_id": "node62",
+      "id": "Node003"
+    },
+    {
+      "text": "You\u2019re back, huh? I hope you\u2019re taking care of Sulik. I\u2019m sure he\u2019s lost without me telling  him what to do.",
+      "node_id": "node12",
+      "id": "Node021"
+    },
+    {
+      "text": "",
+      "node_id": "node31",
+      "id": "Node912"
+    },
+    {
+      "text": "A round for everyone. My, my - aren\u2019t you a generous one? That\u2019ll be $30.",
+      "node_id": "node79",
+      "id": "Node032"
+    },
+    {
+      "text": "",
+      "node_id": "node29",
+      "id": "Node910"
+    },
+    {
+      "text": "Have you found my brother yet? I sure hope he\u2019s alright.",
+      "node_id": "node9",
+      "id": "Node030"
+    },
+    {
+      "text": "",
+      "node_id": "node48",
+      "id": "Node985"
+    },
+    {
+      "text": "",
+      "node_id": "node22",
+      "id": "addbeer"
+    },
+    {
+      "text": "",
+      "node_id": "node45",
+      "id": "Node982"
+    },
+    {
+      "text": "I don\u2019t know why anyone would want to pay off his debt, but they could. His bill comes to $350. But you wouldn\u2019t want to do that -- he\u2019d only get into trouble again.",
+      "node_id": "node75",
+      "id": "Node018"
+    },
+    {
+      "text": "",
+      "node_id": "node30",
+      "id": "Node911"
+    },
+    {
+      "text": "",
+      "node_id": "node60",
+      "id": "Node930"
+    }
+  ],
+  "links": [
+    {
+      "text": "I was looking for someplace to stay.",
+      "source": "Node004_4",
+      "target": "Node006"
+    },
+    {
+      "text": "I guess I don\u2019t need anything right now. Goodbye.",
+      "source": "Node004_4",
+      "target": "Node999"
+    },
+    {
+      "text": "I was looking for someplace to stay.",
+      "source": "Node004_2",
+      "target": "Node006"
+    },
+    {
+      "text": "I guess I don\u2019t need anything right now. Goodbye.",
+      "source": "Node004_2",
+      "target": "Node999"
+    },
+    {
+      "text": "",
+      "source": "Node993",
+      "target": "Node004_3"
+    },
+    {
+      "text": "",
+      "source": "Node993",
+      "target": "Node004_4"
+    },
+    {
+      "text": "",
+      "source": "Node993",
+      "target": "Node004_1"
+    },
+    {
+      "text": "",
+      "source": "Node993",
+      "target": "Node004_2"
+    },
+    {
+      "text": "Ok, thanks. There\u2019s something else that I wanted to know, though.",
+      "source": "Node006",
+      "target": "Node004_2"
+    },
+    {
+      "text": "I\u2019ll talk to her about that then. Goodbye.",
+      "source": "Node006",
+      "target": "Node999"
+    },
+    {
+      "text": "Ok, thanks. There\u2019s something else that I wanted to know, though.",
+      "source": "Node006",
+      "target": "Node004_3"
+    },
+    {
+      "text": "Ok, thanks. There\u2019s something else that I wanted to know, though.",
+      "source": "Node006",
+      "target": "Node004_4"
+    },
+    {
+      "text": "Ok, thanks. There\u2019s something else that I wanted to know, though.",
+      "source": "Node006",
+      "target": "Node004_1"
+    },
+    {
+      "text": "Uh-oh, where do you think he might have gone?",
+      "source": "Node024",
+      "target": "Node981"
+    },
+    {
+      "text": "I\u2019m sorry to hear that, but I need information about something else.",
+      "source": "Node024",
+      "target": "Node982"
+    },
+    {
+      "text": "That\u2019s all I need for now. Goodbye.",
+      "source": "Node009_1",
+      "target": "Node999"
+    },
+    {
+      "text": "You\u2019re a tough bargainer, but fair. Tell me about something else.",
+      "source": "Node009_1",
+      "target": "Node980"
+    },
+    {
+      "text": "I was hoping for better prices. You sure aren\u2019t cheap. Tell me about something else.",
+      "source": "Node009_1",
+      "target": "Node970"
+    },
+    {
+      "text": "Actually, there was something else that I wanted to trade for.",
+      "source": "Node009_1",
+      "target": "maida_barter"
+    },
+    {
+      "text": "Happy to find Torr, but I don\u2019t think I need anything right now. Goodbye.",
+      "source": "Node023_1",
+      "target": "Node006"
+    },
+    {
+      "text": "",
+      "source": "Node994",
+      "target": "Node004_2"
+    },
+    {
+      "text": "",
+      "source": "Node994",
+      "target": "Node004_3"
+    },
+    {
+      "text": "",
+      "source": "Node994",
+      "target": "Node004_4"
+    },
+    {
+      "text": "",
+      "source": "Node994",
+      "target": "Node004_1"
+    },
+    {
+      "text": "Gee, I guess I have a lot to learn from you folks. I\u2019d like to be civilized, too, someday.",
+      "source": "Node008",
+      "target": "Node930"
+    },
+    {
+      "text": "Civilized? You think you\u2019re civilized because you live in the burnt-out ruins of a beforetime town? Tell me something else.",
+      "source": "Node008",
+      "target": "Node940"
+    },
+    {
+      "text": "I think I\u2019ve heard just about enough. Goodbye.",
+      "source": "Node008",
+      "target": "Node950"
+    },
+    {
+      "text": "Uh, I guess. Tell me about something else then.",
+      "source": "Node008",
+      "target": "Node005_1"
+    },
+    {
+      "text": "I\u2019m sorry, but I don\u2019t think I really have time for that right now. Goodbye.",
+      "source": "Node028",
+      "target": "Node999"
+    },
+    {
+      "text": "I\u2019d be happy to look for him.",
+      "source": "Node028",
+      "target": "Node991"
+    },
+    {
+      "text": "",
+      "source": "Node990",
+      "target": "Node011"
+    },
+    {
+      "text": "I was looking for someplace to stay.",
+      "source": "Node004_1",
+      "target": "Node006"
+    },
+    {
+      "text": "I guess I don\u2019t need anything right now. Goodbye.",
+      "source": "Node004_1",
+      "target": "Node999"
+    },
+    {
+      "text": "Tell me about the local tribes.",
+      "source": "Node012",
+      "target": "Node011"
+    },
+    {
+      "text": "Interesting. Let me ask you something else, though.",
+      "source": "Node012",
+      "target": "Node005_1"
+    },
+    {
+      "text": "Isn\u2019t Sulik your slave? Or do you just treat him like one?",
+      "source": "Node012",
+      "target": "Node975"
+    },
+    {
+      "text": "Uh, well, I guess I\u2019ll settle for some information then.",
+      "source": "Node033",
+      "target": "Node004_4"
+    },
+    {
+      "text": "Uh, well, I guess I\u2019ll settle for some information then.",
+      "source": "Node033",
+      "target": "Node004_1"
+    },
+    {
+      "text": "Uh, well, I guess I\u2019ll settle for some information then.",
+      "source": "Node033",
+      "target": "Node004_2"
+    },
+    {
+      "text": "Oh, maybe I\u2019ll come back when I have more. Goodbye.",
+      "source": "Node033",
+      "target": "Node999"
+    },
+    {
+      "text": "Uh, well, I guess I\u2019ll settle for some information then.",
+      "source": "Node033",
+      "target": "Node004_3"
+    },
+    {
+      "text": "A canyon? What canyon?",
+      "source": "Node025",
+      "target": "Node026"
+    },
+    {
+      "text": "",
+      "source": "Node981",
+      "target": "Node025"
+    },
+    {
+      "text": "",
+      "source": "Node997",
+      "target": "Node004_2"
+    },
+    {
+      "text": "",
+      "source": "Node997",
+      "target": "Node004_3"
+    },
+    {
+      "text": "",
+      "source": "Node997",
+      "target": "Node004_4"
+    },
+    {
+      "text": "",
+      "source": "Node997",
+      "target": "Node004_1"
+    },
+    {
+      "text": "",
+      "source": "Node997",
+      "target": "Node005_1"
+    },
+    {
+      "text": "",
+      "source": "Node945",
+      "target": "Node019"
+    },
+    {
+      "text": "",
+      "source": "Node992",
+      "target": "Node028"
+    },
+    {
+      "text": "I\u2019d love a nice beer. Fill \u2018er up.",
+      "source": "Node031_1",
+      "target": "Node911"
+    },
+    {
+      "text": "Maybe that is too much money. I don\u2019t think I want to pay for his damages after all. Goodbye.",
+      "source": "Node019",
+      "target": "Node999"
+    },
+    {
+      "text": "Yes, I do. I have enough to pay for the damages that he caused.",
+      "source": "Node019",
+      "target": "barter_for_sulik"
+    },
+    {
+      "text": "That\u2019s all I need for now. Goodbye.",
+      "source": "Node017",
+      "target": "Node999"
+    },
+    {
+      "text": "I was curious about something else.",
+      "source": "Node017",
+      "target": "Node005_1"
+    },
+    {
+      "text": "What if someone else paid Sulik\u2019s damages?",
+      "source": "Node017",
+      "target": "Node018"
+    },
+    {
+      "text": "Why\u2019d he get so upset?",
+      "source": "Node014",
+      "target": "Node015"
+    },
+    {
+      "text": "What other towns are nearby?",
+      "source": "Node005_1",
+      "target": "Node010"
+    },
+    {
+      "text": "Tell me about Sulik.",
+      "source": "Node005_1",
+      "target": "Node013"
+    },
+    {
+      "text": "Have you ever heard of something called a Garden of Eden Creation Kit?",
+      "source": "Node005_1",
+      "target": "Node008"
+    },
+    {
+      "text": "I think that\u2019s all I need to know for now. Goodbye",
+      "source": "Node005_1",
+      "target": "Node999"
+    },
+    {
+      "text": "",
+      "source": "Node920",
+      "target": "Node009_1"
+    },
+    {
+      "text": "Sounds as though it would scare just about anybody.",
+      "source": "Node026",
+      "target": "Node027"
+    },
+    {
+      "text": "Thanks for the advice. Tell me something else though.",
+      "source": "Node010",
+      "target": "Node930"
+    },
+    {
+      "text": "Why wouldn\u2019t you go to the Den?",
+      "source": "Node010",
+      "target": "Node012"
+    },
+    {
+      "text": "That\u2019s all I need to know about for now. Goodbye.",
+      "source": "Node010",
+      "target": "Node999"
+    },
+    {
+      "text": "What about tribes in the area?",
+      "source": "Node010",
+      "target": "Node990"
+    },
+    {
+      "text": "What about the Den?",
+      "source": "Node011",
+      "target": "Node012"
+    },
+    {
+      "text": "Interesting. Let me ask you something else, though.",
+      "source": "Node011",
+      "target": "Node005_1"
+    },
+    {
+      "text": "That\u2019s funny, my tribe doesn\u2019t count pre-war towns when we talk about civilized places. Tell me  something else.",
+      "source": "Node011",
+      "target": "Node971"
+    },
+    {
+      "text": "Tell me about Sulik.",
+      "source": "Node011",
+      "target": "Node013"
+    },
+    {
+      "text": "Paying off a debt? What do you mean?",
+      "source": "Node013",
+      "target": "Node014"
+    },
+    {
+      "text": "",
+      "source": "Node971",
+      "target": "Node005_1"
+    },
+    {
+      "text": "",
+      "source": "Node991",
+      "target": "Node029"
+    },
+    {
+      "text": "",
+      "source": "maida_barter",
+      "target": "Node009_1"
+    },
+    {
+      "text": "How much does he have to work off?",
+      "source": "Node015",
+      "target": "Node016"
+    },
+    {
+      "text": "I\u2019m really sorry you can\u2019t find him. I\u2019m sure he\u2019s fine. I need some information.",
+      "source": "Node027",
+      "target": "Node994"
+    },
+    {
+      "text": "Maybe I should try to find him.",
+      "source": "Node027",
+      "target": "Node992"
+    },
+    {
+      "text": "Who knows where your idiot brother went to -- and who cares? I need some information.",
+      "source": "Node027",
+      "target": "Node980"
+    },
+    {
+      "text": "I was looking for someplace to stay.",
+      "source": "Node004_3",
+      "target": "Node006"
+    },
+    {
+      "text": "I guess I don\u2019t need anything right now. Goodbye.",
+      "source": "Node004_3",
+      "target": "Node999"
+    },
+    {
+      "text": "Well, somehow, I think Sulik might actually miss being here. But we\u2019ll be back to visit sometime, I\u2019m sure. Right now, though, I need something.",
+      "source": "Node034",
+      "target": "Node980"
+    },
+    {
+      "text": "Thanks; I guess maybe I should be going now.",
+      "source": "Node034",
+      "target": "Node999"
+    },
+    {
+      "text": "I think Sulik\u2019s going to be a lot better off away from you.",
+      "source": "Node034",
+      "target": "Node985"
+    },
+    {
+      "text": "That\u2019s a lot of money. I think he\u2019s going to be here for a long time.",
+      "source": "Node016",
+      "target": "Node017"
+    },
+    {
+      "text": "",
+      "source": "Node955",
+      "target": "Node019"
+    },
+    {
+      "text": "I will; you can count on me.",
+      "source": "Node029",
+      "target": "Node999"
+    },
+    {
+      "text": "",
+      "source": "Node975",
+      "target": "Node013"
+    },
+    {
+      "text": "",
+      "source": "barter_for_sulik",
+      "target": "Node033"
+    },
+    {
+      "text": "I guess I don\u2019t need to trade right now. Goodbye.",
+      "source": "Node007_1",
+      "target": "Node999"
+    },
+    {
+      "text": "Yes, I\u2019d like to trade with you.",
+      "source": "Node007_1",
+      "target": "maida_barter"
+    },
+    {
+      "text": "I\u2019m very sorry that I upset you. I\u2019m just ignorant of your ways here. I was trying to show you respect in the manner of my tribe.",
+      "source": "Node001_1",
+      "target": "Node920"
+    },
+    {
+      "text": "I just didn\u2019t know what to say to someone as attractive as yourself. I always get nervous when I\u2019m near a beautiful woman. Please accept my apologies.",
+      "source": "Node001_1",
+      "target": "Node940"
+    },
+    {
+      "text": "Gosh, I\u2019m really, really sorry. I\u2019m just an ignorant tribal, after all. Can you possibly forgive  me?",
+      "source": "Node001_1",
+      "target": "Node930"
+    },
+    {
+      "text": "I don\u2019t want to have anything to do with you either. Goodbye.",
+      "source": "Node001_1",
+      "target": "Node910"
+    },
+    {
+      "text": "",
+      "source": "Node940",
+      "target": "Node005_1"
+    },
+    {
+      "text": "",
+      "source": "Node983",
+      "target": "Node004_3"
+    },
+    {
+      "text": "",
+      "source": "Node983",
+      "target": "Node004_2"
+    },
+    {
+      "text": "",
+      "source": "Node983",
+      "target": "Node004_4"
+    },
+    {
+      "text": "",
+      "source": "Node983",
+      "target": "Node004_1"
+    },
+    {
+      "text": "",
+      "source": "Node980",
+      "target": "Node004_4"
+    },
+    {
+      "text": "",
+      "source": "Node980",
+      "target": "Node004_1"
+    },
+    {
+      "text": "",
+      "source": "Node980",
+      "target": "Node004_2"
+    },
+    {
+      "text": "",
+      "source": "Node980",
+      "target": "Node004_3"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node004_4"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node021"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node004_1"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node034"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node001_1"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node024"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node030"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node004_2"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node998"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node004_3"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node023_1"
+    },
+    {
+      "text": "",
+      "source": "Node970",
+      "target": "Node004_3"
+    },
+    {
+      "text": "",
+      "source": "Node970",
+      "target": "Node004_4"
+    },
+    {
+      "text": "",
+      "source": "Node970",
+      "target": "Node004_1"
+    },
+    {
+      "text": "",
+      "source": "Node970",
+      "target": "Node004_2"
+    },
+    {
+      "text": "I\u2019m back because I need something.",
+      "source": "Node021",
+      "target": "Node004_4"
+    },
+    {
+      "text": "I\u2019m back because I need something.",
+      "source": "Node021",
+      "target": "Node004_1"
+    },
+    {
+      "text": "I\u2019m back because I need something.",
+      "source": "Node021",
+      "target": "Node004_2"
+    },
+    {
+      "text": "Well, I\u2019m sure I can\u2019t do as good a job of taking care of him as you did, but I\u2019ll sure try.",
+      "source": "Node021",
+      "target": "Node980"
+    },
+    {
+      "text": "I\u2019m back because I need something.",
+      "source": "Node021",
+      "target": "Node004_3"
+    },
+    {
+      "text": "",
+      "source": "Node912",
+      "target": "Node004_3"
+    },
+    {
+      "text": "",
+      "source": "Node912",
+      "target": "Node004_2"
+    },
+    {
+      "text": "",
+      "source": "Node912",
+      "target": "Node004_4"
+    },
+    {
+      "text": "",
+      "source": "Node912",
+      "target": "Node033"
+    },
+    {
+      "text": "",
+      "source": "Node912",
+      "target": "addbeer"
+    },
+    {
+      "text": "",
+      "source": "Node912",
+      "target": "Node004_1"
+    },
+    {
+      "text": "I think maybe I\u2019ll just settle for some information for now.",
+      "source": "Node032",
+      "target": "Node004_4"
+    },
+    {
+      "text": "I guess I\u2019d rather just have a drink for myself after all.",
+      "source": "Node032",
+      "target": "Node031_1"
+    },
+    {
+      "text": "Have one on me, folks. Now, how about some information as well?",
+      "source": "Node032",
+      "target": "Node912"
+    },
+    {
+      "text": "I think maybe I\u2019ll just settle for some information for now.",
+      "source": "Node032",
+      "target": "Node004_1"
+    },
+    {
+      "text": "I think maybe I\u2019ll just settle for some information for now.",
+      "source": "Node032",
+      "target": "Node004_2"
+    },
+    {
+      "text": "I think maybe I\u2019ll just settle for some information for now.",
+      "source": "Node032",
+      "target": "Node004_3"
+    },
+    {
+      "text": "[MORE]",
+      "source": "Node030",
+      "target": "Node004_2"
+    },
+    {
+      "text": "[MORE]",
+      "source": "Node030",
+      "target": "Node004_3"
+    },
+    {
+      "text": "[MORE]",
+      "source": "Node030",
+      "target": "Node004_4"
+    },
+    {
+      "text": "[MORE]",
+      "source": "Node030",
+      "target": "Node004_1"
+    },
+    {
+      "text": "",
+      "source": "Node982",
+      "target": "Node004_1"
+    },
+    {
+      "text": "",
+      "source": "Node982",
+      "target": "Node004_2"
+    },
+    {
+      "text": "",
+      "source": "Node982",
+      "target": "Node004_3"
+    },
+    {
+      "text": "",
+      "source": "Node982",
+      "target": "Node004_4"
+    },
+    {
+      "text": "Well, I\u2019m sure he must be happy working for you folks, but I still want to pay his damages. I don\u2019t think anyone should be trapped the way he is.",
+      "source": "Node018",
+      "target": "Node955"
+    },
+    {
+      "text": "I guess you\u2019re right. I don\u2019t have that much money to spare, anyway. Goodbye.",
+      "source": "Node018",
+      "target": "Node950"
+    },
+    {
+      "text": "I don\u2019t like him having to stay here with a bigot like you. I want to pay for his damages.",
+      "source": "Node018",
+      "target": "Node945"
+    },
+    {
+      "text": "",
+      "source": "Node911",
+      "target": "Node033"
+    },
+    {
+      "text": "",
+      "source": "Node911",
+      "target": "addbeer"
+    },
+    {
+      "text": "",
+      "source": "Node930",
+      "target": "Node005_1"
+    }
+  ]
+}

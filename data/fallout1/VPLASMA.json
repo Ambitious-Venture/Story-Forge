@@ -1,0 +1,54 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "",
+      "node_id": "node1",
+      "id": "start"
+    },
+    {
+      "text": "You're not quite sure how to prevent the plate from triggering.",
+      "node_id": "node4_1",
+      "id": "use_skill_on_p_proc_1"
+    },
+    {
+      "text": "Your knowledge of traps leads you to believe that this is a trigger of some kind.",
+      "node_id": "node2_1",
+      "id": "description_p_proc_1"
+    },
+    {
+      "text": "Plasma rips from the northern wall!",
+      "node_id": "node3",
+      "id": "spatial_p_proc"
+    },
+    {
+      "text": "You notice a small trip plate at your feet.",
+      "node_id": "node2_2",
+      "id": "description_p_proc_2"
+    }
+  ],
+  "links": [
+    {
+      "text": "",
+      "source": "start",
+      "target": "description_p_proc_2"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "spatial_p_proc"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "description_p_proc_1"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "use_skill_on_p_proc_1"
+    }
+  ]
+}

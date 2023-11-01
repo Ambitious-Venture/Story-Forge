@@ -1,0 +1,94 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "Ah, our resident chemist. Miles makes bullets, and he also built the water distiller that makes sure we get clean water from the well. He's working on an underground farm right now, but he's missing some parts.",
+      "node_id": "node26",
+      "id": "Lorri23"
+    },
+    {
+      "text": "Thanks.",
+      "node_id": "node24_2",
+      "id": "Lorri26_2"
+    },
+    {
+      "text": "Can we talk about a different subject?",
+      "node_id": "node24_1",
+      "id": "Lorri26_1"
+    },
+    {
+      "text": "Caleb is the leader of the Regulators. It's his job to protect Adytum. He's very strict, but he means well.",
+      "node_id": "node25",
+      "id": "Lorri22"
+    },
+    {
+      "text": "Zimmerman watches over our town. He makes sure that everyone gets fed, and that everybody has a job to do.",
+      "node_id": "node23",
+      "id": "Lorri21"
+    },
+    {
+      "text": "Taylor runs the shop. It's in the bunker near the gate. He trades with the Hub merchants for us.",
+      "node_id": "node27",
+      "id": "Lorri24"
+    },
+    {
+      "text": "Hm. Smitty is a tinker of sorts. He's good at repair work. He casts bullets and fixes broken stuff around town.",
+      "node_id": "node28",
+      "id": "Lorri25"
+    }
+  ],
+  "links": [
+    {
+      "text": "",
+      "source": "Lorri23",
+      "target": "Lorri26_2"
+    },
+    {
+      "text": "",
+      "source": "Lorri23",
+      "target": "Lorri26_1"
+    },
+    {
+      "text": "",
+      "source": "Lorri22",
+      "target": "Lorri26_2"
+    },
+    {
+      "text": "",
+      "source": "Lorri22",
+      "target": "Lorri26_1"
+    },
+    {
+      "text": "",
+      "source": "Lorri21",
+      "target": "Lorri26_1"
+    },
+    {
+      "text": "",
+      "source": "Lorri21",
+      "target": "Lorri26_2"
+    },
+    {
+      "text": "",
+      "source": "Lorri24",
+      "target": "Lorri26_1"
+    },
+    {
+      "text": "",
+      "source": "Lorri24",
+      "target": "Lorri26_2"
+    },
+    {
+      "text": "",
+      "source": "Lorri25",
+      "target": "Lorri26_2"
+    },
+    {
+      "text": "",
+      "source": "Lorri25",
+      "target": "Lorri26_1"
+    }
+  ]
+}

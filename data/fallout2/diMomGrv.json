@@ -1,0 +1,79 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "",
+      "node_id": "node9",
+      "id": "use_p_proc"
+    },
+    {
+      "text": "The name on the gravestone reads: \"Mrs. Tamara Winslow.\"",
+      "node_id": "node15",
+      "id": "Disarm_Traps"
+    },
+    {
+      "text": "",
+      "node_id": "node14",
+      "id": "use_skill_on_p_proc"
+    },
+    {
+      "text": "",
+      "node_id": "node13",
+      "id": "Set_Trap"
+    },
+    {
+      "text": "",
+      "node_id": "node12",
+      "id": "use_obj_on_p_proc"
+    },
+    {
+      "text": "",
+      "node_id": "node10",
+      "id": "Explode_Grave"
+    },
+    {
+      "text": "",
+      "node_id": "node11",
+      "id": "pickup_p_proc"
+    }
+  ],
+  "links": [
+    {
+      "text": "",
+      "source": "use_p_proc",
+      "target": "Explode_Grave"
+    },
+    {
+      "text": "",
+      "source": "Disarm_Traps",
+      "target": "Explode_Grave"
+    },
+    {
+      "text": "",
+      "source": "use_skill_on_p_proc",
+      "target": "Disarm_Traps"
+    },
+    {
+      "text": "",
+      "source": "Set_Trap",
+      "target": "Explode_Grave"
+    },
+    {
+      "text": "",
+      "source": "use_obj_on_p_proc",
+      "target": "Set_Trap"
+    },
+    {
+      "text": "",
+      "source": "use_obj_on_p_proc",
+      "target": "Explode_Grave"
+    },
+    {
+      "text": "",
+      "source": "pickup_p_proc",
+      "target": "Explode_Grave"
+    }
+  ]
+}

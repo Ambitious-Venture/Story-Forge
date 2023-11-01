@@ -1,0 +1,119 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "",
+      "node_id": "node2",
+      "id": "damage_p_proc"
+    },
+    {
+      "text": "",
+      "node_id": "node6",
+      "id": "use_obj_on_p_proc"
+    },
+    {
+      "text": "You fail to unlock the door.",
+      "node_id": "node8_2",
+      "id": "lockpicking_2"
+    },
+    {
+      "text": "",
+      "node_id": "node1",
+      "id": "start"
+    },
+    {
+      "text": "You lock the door.",
+      "node_id": "node8_1",
+      "id": "lockpicking_1"
+    },
+    {
+      "text": "",
+      "node_id": "node4",
+      "id": "map_enter_p_proc"
+    },
+    {
+      "text": "You gain 250 experience points for busting out of jail!",
+      "node_id": "node5_1",
+      "id": "spatial_p_proc_1"
+    },
+    {
+      "text": "The door looks solid, and has a stout lock. Still, locks can be picked, and  doors can be destroyed.",
+      "node_id": "node3",
+      "id": "description_p_proc"
+    },
+    {
+      "text": "You fail to lock the door.",
+      "node_id": "node8_3",
+      "id": "lockpicking_3"
+    },
+    {
+      "text": "",
+      "node_id": "node7",
+      "id": "use_skill_on_p_proc"
+    }
+  ],
+  "links": [
+    {
+      "text": "",
+      "source": "use_obj_on_p_proc",
+      "target": "lockpicking_3"
+    },
+    {
+      "text": "",
+      "source": "use_obj_on_p_proc",
+      "target": "lockpicking_1"
+    },
+    {
+      "text": "",
+      "source": "use_obj_on_p_proc",
+      "target": "lockpicking_2"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "spatial_p_proc_1"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "description_p_proc"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "map_enter_p_proc"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "use_skill_on_p_proc"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "use_obj_on_p_proc"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "damage_p_proc"
+    },
+    {
+      "text": "",
+      "source": "use_skill_on_p_proc",
+      "target": "lockpicking_3"
+    },
+    {
+      "text": "",
+      "source": "use_skill_on_p_proc",
+      "target": "lockpicking_1"
+    },
+    {
+      "text": "",
+      "source": "use_skill_on_p_proc",
+      "target": "lockpicking_2"
+    }
+  ]
+}

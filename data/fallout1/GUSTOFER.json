@@ -1,0 +1,444 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "",
+      "node_id": "node36",
+      "id": "GustoferWait"
+    },
+    {
+      "text": "Try again the day after tomorrow.",
+      "node_id": "node11_1",
+      "id": "Gustofer05_1"
+    },
+    {
+      "text": "You just missed it. Try again in a couple of days. Saul boxes every three  days.",
+      "node_id": "node22",
+      "id": "Gustofer03"
+    },
+    {
+      "text": "Who do you want to bet on, Saul or the challenger? Odds favor Saul winning. Cost is 25 caps to bet; you get 50 if you win betting on Saul, 100 if you win betting on the challenger!",
+      "node_id": "node25",
+      "id": "Gustofer08"
+    },
+    {
+      "text": "",
+      "node_id": "node1",
+      "id": "start"
+    },
+    {
+      "text": "Try again tomorrow.",
+      "node_id": "node11_2",
+      "id": "Gustofer05_2"
+    },
+    {
+      "text": "",
+      "node_id": "node2",
+      "id": "combat_p_proc"
+    },
+    {
+      "text": "",
+      "node_id": "node20",
+      "id": "GustoferEnd"
+    },
+    {
+      "text": "Please don't disturb me while the match is in progress.",
+      "node_id": "node16",
+      "id": "Gustofer19"
+    },
+    {
+      "text": "Hey, what are you doing?",
+      "node_id": "node14",
+      "id": "Gustofer13"
+    },
+    {
+      "text": "Sorry, no boxing today.",
+      "node_id": "node18",
+      "id": "Gustofer00"
+    },
+    {
+      "text": "Please quit it.",
+      "node_id": "node33",
+      "id": "Gustofer14"
+    },
+    {
+      "text": "Come back when you have enough caps to bet!",
+      "node_id": "node28_1",
+      "id": "GustoferBet2_1"
+    },
+    {
+      "text": "Gizmo, the casino owner, employs Saul. He occasionally likes to watch a match or two, but mostly it's good money - people will bet a lot on a fight. And nobody has to get killed, unlike those death matches they supposedly have  in the Hub.",
+      "node_id": "node30",
+      "id": "Gustofer11"
+    },
+    {
+      "text": "",
+      "node_id": "node8",
+      "id": "flee_dude"
+    },
+    {
+      "text": "Well, well, looks like you're a winner! Here's your caps.",
+      "node_id": "node12",
+      "id": "Gustofer16"
+    },
+    {
+      "text": "So! Want to lay a bet on the fight?",
+      "node_id": "node15",
+      "id": "Gustofer06"
+    },
+    {
+      "text": "",
+      "node_id": "node4",
+      "id": "destroy_p_proc"
+    },
+    {
+      "text": "Sorry, but today's match is already over.",
+      "node_id": "node17",
+      "id": "Gustofer18"
+    },
+    {
+      "text": "Uh, no. Never mind. Forget I said anything.",
+      "node_id": "node34",
+      "id": "Gustofer15"
+    },
+    {
+      "text": "Well, you can't win them all, my friend. Better luck next time.",
+      "node_id": "node13_1",
+      "id": "Gustofer07_1"
+    },
+    {
+      "text": "",
+      "node_id": "node9",
+      "id": "destroy_challenger"
+    },
+    {
+      "text": "You might try signing up with Gizmo. I hear he's always looking for new meat to toss in the ring.",
+      "node_id": "node19",
+      "id": "Gustofer01"
+    },
+    {
+      "text": "Saul, the fastest fist in Junktown! He's a marvel of manly musculature! A pulsating power puncher!",
+      "node_id": "node29",
+      "id": "Gustofer10"
+    },
+    {
+      "text": "He's a nice guy, too.",
+      "node_id": "node31",
+      "id": "Gustofer10a"
+    },
+    {
+      "text": "",
+      "node_id": "node21",
+      "id": "Gustofer00a"
+    },
+    {
+      "text": "Try again tomorrow. Saul will be boxing then.",
+      "node_id": "node23",
+      "id": "Gustofer02"
+    },
+    {
+      "text": "Saul is the local champion. Saul is the current favorite of Gizmo.",
+      "node_id": "node24",
+      "id": "Gustofer04"
+    },
+    {
+      "text": "",
+      "node_id": "node5",
+      "id": "map_enter_p_proc"
+    },
+    {
+      "text": "Come back when you have enough caps to bet!",
+      "node_id": "node27_1",
+      "id": "GustoferBet1_1"
+    },
+    {
+      "text": "Sorry, I don't have the time. Maybe later.",
+      "node_id": "node26_1",
+      "id": "Gustofer09_1"
+    },
+    {
+      "text": "Let the fight begin!",
+      "node_id": "node3",
+      "id": "critter_p_proc"
+    },
+    {
+      "text": "",
+      "node_id": "node6",
+      "id": "pickup_p_proc"
+    },
+    {
+      "text": "",
+      "node_id": "node10",
+      "id": "sleeping"
+    },
+    {
+      "text": "Sorry, one bet per fight.",
+      "node_id": "node7",
+      "id": "talk_p_proc"
+    },
+    {
+      "text": "Okay, but if you miss, the fight, you forfeit your bet!",
+      "node_id": "node35",
+      "id": "Gustofer17"
+    },
+    {
+      "text": "Well, it's just a rumor. But they say there's an underground fighting ring there where you can pay to watch people fight to the death. Not my kind of  fight.",
+      "node_id": "node32",
+      "id": "Gustofer12"
+    }
+  ],
+  "links": [
+    {
+      "text": "Thanks.",
+      "source": "Gustofer03",
+      "target": "GustoferEnd"
+    },
+    {
+      "text": "Who's Saul?",
+      "source": "Gustofer03",
+      "target": "Gustofer04"
+    },
+    {
+      "text": "I'll bet on Saul.",
+      "source": "Gustofer08",
+      "target": "GustoferBet1_1"
+    },
+    {
+      "text": "I'll bet on the challenger.",
+      "source": "Gustofer08",
+      "target": "GustoferBet2_1"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "pickup_p_proc"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "combat_p_proc"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "destroy_p_proc"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "talk_p_proc"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "map_enter_p_proc"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "critter_p_proc"
+    },
+    {
+      "text": "You wanna start something, loser?",
+      "source": "Gustofer13",
+      "target": "Gustofer15"
+    },
+    {
+      "text": "Uh, nothing.",
+      "source": "Gustofer13",
+      "target": "Gustofer14"
+    },
+    {
+      "text": "Hnn.",
+      "source": "Gustofer00",
+      "target": "Gustofer01"
+    },
+    {
+      "text": "When's the next match?",
+      "source": "Gustofer00",
+      "target": "Gustofer00a"
+    },
+    {
+      "text": "Uk, okay.",
+      "source": "Gustofer00",
+      "target": "GustoferEnd"
+    },
+    {
+      "text": "Sure, what the heck.",
+      "source": "GustoferBet2_1",
+      "target": "GustoferWait"
+    },
+    {
+      "text": "Nah, I got stuff to do. I'll be back later.",
+      "source": "GustoferBet2_1",
+      "target": "Gustofer17"
+    },
+    {
+      "text": "Thanks.",
+      "source": "Gustofer11",
+      "target": "GustoferEnd"
+    },
+    {
+      "text": "Death matches?",
+      "source": "Gustofer11",
+      "target": "Gustofer12"
+    },
+    {
+      "text": "",
+      "source": "Gustofer16",
+      "target": "destroy_challenger"
+    },
+    {
+      "text": "What are the odds?",
+      "source": "Gustofer06",
+      "target": "Gustofer08"
+    },
+    {
+      "text": "I've got better things to do with my money. Goodbye.",
+      "source": "Gustofer06",
+      "target": "GustoferEnd"
+    },
+    {
+      "text": "Hnn.",
+      "source": "Gustofer06",
+      "target": "Gustofer01"
+    },
+    {
+      "text": "No, thanks. Mind if I ask a few questions, though?",
+      "source": "Gustofer06",
+      "target": "Gustofer09_1"
+    },
+    {
+      "text": "Oh. Well, never mind, then.",
+      "source": "Gustofer18",
+      "target": "GustoferEnd"
+    },
+    {
+      "text": "You just missed it. Try again in a couple of days. Saul boxes every three  days.",
+      "source": "Gustofer10",
+      "target": "Gustofer10a"
+    },
+    {
+      "text": "Thanks. See you around.",
+      "source": "Gustofer10a",
+      "target": "GustoferEnd"
+    },
+    {
+      "text": "Um, yeah. So, who runs these matches?",
+      "source": "Gustofer10a",
+      "target": "Gustofer11"
+    },
+    {
+      "text": "",
+      "source": "Gustofer00a",
+      "target": "Gustofer02"
+    },
+    {
+      "text": "",
+      "source": "Gustofer00a",
+      "target": "Gustofer03"
+    },
+    {
+      "text": "Who's Saul?",
+      "source": "Gustofer02",
+      "target": "Gustofer04"
+    },
+    {
+      "text": "Thanks.",
+      "source": "Gustofer02",
+      "target": "GustoferEnd"
+    },
+    {
+      "text": "Sure, what the heck.",
+      "source": "GustoferBet1_1",
+      "target": "GustoferWait"
+    },
+    {
+      "text": "Nah, I got stuff to do. I'll be back later.",
+      "source": "GustoferBet1_1",
+      "target": "Gustofer17"
+    },
+    {
+      "text": "Who's the boxer?",
+      "source": "Gustofer09_1",
+      "target": "Gustofer10"
+    },
+    {
+      "text": "Uh, never mind.",
+      "source": "Gustofer09_1",
+      "target": "GustoferEnd"
+    },
+    {
+      "text": "Who runs these matches?",
+      "source": "Gustofer09_1",
+      "target": "Gustofer11"
+    },
+    {
+      "text": "",
+      "source": "critter_p_proc",
+      "target": "sleeping"
+    },
+    {
+      "text": "",
+      "source": "critter_p_proc",
+      "target": "flee_dude"
+    },
+    {
+      "text": "",
+      "source": "critter_p_proc",
+      "target": "destroy_challenger"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Gustofer06"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Gustofer18"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Gustofer07_1"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Gustofer19"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Gustofer00"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Gustofer05_2"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Gustofer05_1"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Gustofer16"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Gustofer13"
+    },
+    {
+      "text": "Hmm. Thanks.",
+      "source": "Gustofer12",
+      "target": "GustoferEnd"
+    }
+  ]
+}

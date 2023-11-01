@@ -1,0 +1,34 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "Eeeeeeee!",
+      "node_id": "node13",
+      "id": "NodeFleeing"
+    },
+    {
+      "text": "Aaaeeeeeee!",
+      "node_id": "node14",
+      "id": "NodeFighting"
+    },
+    {
+      "text": "",
+      "node_id": "node12",
+      "id": "combat_p_proc"
+    }
+  ],
+  "links": [
+    {
+      "text": "",
+      "source": "combat_p_proc",
+      "target": "NodeFighting"
+    },
+    {
+      "text": "",
+      "source": "combat_p_proc",
+      "target": "NodeFleeing"
+    }
+  ]
+}

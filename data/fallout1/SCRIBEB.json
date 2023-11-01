@@ -1,0 +1,204 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "Did you know that the sun is actually a big nuclear reaction? Similar to what ended the old world, except it's fission, no fusion.",
+      "node_id": "node7_11",
+      "id": "ScribeBRandom_11"
+    },
+    {
+      "text": "",
+      "node_id": "node1",
+      "id": "start"
+    },
+    {
+      "text": "I love those old books and magazines, but they are so hard to come by.",
+      "node_id": "node7_5",
+      "id": "ScribeBRandom_5"
+    },
+    {
+      "text": "Sophia sure is nice.",
+      "node_id": "node7_2",
+      "id": "ScribeBRandom_2"
+    },
+    {
+      "text": "Did you know that the hydrogen atom is 99.9843425% empty space?",
+      "node_id": "node7_13",
+      "id": "ScribeBRandom_13"
+    },
+    {
+      "text": "Derek is the bee's knees.",
+      "node_id": "node7_3",
+      "id": "ScribeBRandom_3"
+    },
+    {
+      "text": "",
+      "node_id": "node6",
+      "id": "destroy_p_proc"
+    },
+    {
+      "text": "Vree is so pretty.",
+      "node_id": "node7_1",
+      "id": "ScribeBRandom_1"
+    },
+    {
+      "text": "Knowledge is power.",
+      "node_id": "node7_6",
+      "id": "ScribeBRandom_6"
+    },
+    {
+      "text": "Technology must be preserved.",
+      "node_id": "node7_8",
+      "id": "ScribeBRandom_8"
+    },
+    {
+      "text": "I've seen an alien space ship before.",
+      "node_id": "node7_10",
+      "id": "ScribeBRandom_10"
+    },
+    {
+      "text": "Scribe",
+      "node_id": "node2",
+      "id": "look_at_p_proc"
+    },
+    {
+      "text": "Time travel will one day be possible and we might be able to prevent the disaster that ruined our world in the past. But wouldn't that . . . stop us from going back if it was fixed . . . oh, my head hurts.",
+      "node_id": "node7_14",
+      "id": "ScribeBRandom_14"
+    },
+    {
+      "text": "Will the universe continue to expand, or will it eventually collapse back in on itself?",
+      "node_id": "node7_4",
+      "id": "ScribeBRandom_4"
+    },
+    {
+      "text": "Science is so much fun.",
+      "node_id": "node7_9",
+      "id": "ScribeBRandom_9"
+    },
+    {
+      "text": "",
+      "node_id": "node5",
+      "id": "critter_p_proc"
+    },
+    {
+      "text": "",
+      "node_id": "node3",
+      "id": "pickup_p_proc"
+    },
+    {
+      "text": "Did you know that a black hole is actually an opening to another universe? I have it all worked out on paper. Too bad there won't be any more space travel until long after I'm dead.",
+      "node_id": "node7_12",
+      "id": "ScribeBRandom_12"
+    },
+    {
+      "text": "",
+      "node_id": "node4",
+      "id": "talk_p_proc"
+    },
+    {
+      "text": "The pen is mightier than the sword.",
+      "node_id": "node7_7",
+      "id": "ScribeBRandom_7"
+    }
+  ],
+  "links": [
+    {
+      "text": "",
+      "source": "start",
+      "target": "pickup_p_proc"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "look_at_p_proc"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "destroy_p_proc"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "talk_p_proc"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "critter_p_proc"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "ScribeBRandom_4"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "ScribeBRandom_12"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "ScribeBRandom_6"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "ScribeBRandom_10"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "ScribeBRandom_13"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "ScribeBRandom_9"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "ScribeBRandom_8"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "ScribeBRandom_1"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "ScribeBRandom_14"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "ScribeBRandom_2"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "ScribeBRandom_11"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "ScribeBRandom_3"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "ScribeBRandom_5"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "ScribeBRandom_7"
+    }
+  ]
+}

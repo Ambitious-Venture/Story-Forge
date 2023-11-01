@@ -1,0 +1,1004 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "Complaining to Killian won't do anything. He doesn't see anything wrong with the newcomers.",
+      "node_id": "node48_1",
+      "id": "Morbid20_1"
+    },
+    {
+      "text": "Please make it somewhere else, I'm busy.",
+      "node_id": "node44",
+      "id": "Morbid14"
+    },
+    {
+      "text": "",
+      "node_id": "node1",
+      "id": "start"
+    },
+    {
+      "text": "There you go. Come back again!",
+      "node_id": "node40_1",
+      "id": "Morbid12_1"
+    },
+    {
+      "text": "Doc Morbid reaches up with a surgical tool, and, before you can react, removes one of your eyes. It is extremely painful.",
+      "node_id": "node10",
+      "id": "get_eye"
+    },
+    {
+      "text": "",
+      "node_id": "node26",
+      "id": "Morbid00a"
+    },
+    {
+      "text": "",
+      "node_id": "node68",
+      "id": "Morbid00Na"
+    },
+    {
+      "text": "Well, ok, then. Do come back.",
+      "node_id": "node29",
+      "id": "Morbid01"
+    },
+    {
+      "text": "",
+      "node_id": "node56",
+      "id": "MorbidCombat"
+    },
+    {
+      "text": "Oh, It's a customer! What can I help you with?",
+      "node_id": "node16",
+      "id": "Morbid17"
+    },
+    {
+      "text": "",
+      "node_id": "node55",
+      "id": "BottomReact"
+    },
+    {
+      "text": "Those damn Children have moved in next door, and all, um, much of my business has gone to them. I don't like it, but I can't lower my prices to match theirs. I can only provide better service.",
+      "node_id": "node48_2",
+      "id": "Morbid20_2"
+    },
+    {
+      "text": "",
+      "node_id": "node6",
+      "id": "map_update_p_proc"
+    },
+    {
+      "text": "You see Doc Morbid.",
+      "node_id": "node4",
+      "id": "look_at_p_proc"
+    },
+    {
+      "text": "You are moderately wounded.",
+      "node_id": "node32_2",
+      "id": "Morbid09_2"
+    },
+    {
+      "text": "Have it your way. Cougar, Flash. Show our 'patient' to  the lab.",
+      "node_id": "node37",
+      "id": "Morbid06"
+    },
+    {
+      "text": "You again. I hope you have another good reason for disturbing me . . .",
+      "node_id": "node18",
+      "id": "Morbid04N"
+    },
+    {
+      "text": "",
+      "node_id": "node11",
+      "id": "sleeping"
+    },
+    {
+      "text": "[He looks shiftily from side to side] That proves nothing. Gretch is a little . . . slow in the head. No one listens to him around here. You had  best leave.",
+      "node_id": "node54",
+      "id": "Morbid28"
+    },
+    {
+      "text": "Well, if you do need anything, please stop by. No one can beat my service!",
+      "node_id": "node46",
+      "id": "Morbid19"
+    },
+    {
+      "text": "",
+      "node_id": "node28",
+      "id": "DownReact"
+    },
+    {
+      "text": "You are seriously wounded.",
+      "node_id": "node32_3",
+      "id": "Morbid09_3"
+    },
+    {
+      "text": "Why?!",
+      "node_id": "node62",
+      "id": "Morbid04L"
+    },
+    {
+      "text": "Hmmm. I don't like your looks, stranger. But what can I do for you? I never, ever turn away a paying customer.",
+      "node_id": "node23",
+      "id": "Morbid15"
+    },
+    {
+      "text": "I'm Doc Morbid, can I help you?",
+      "node_id": "node22",
+      "id": "Morbid00"
+    },
+    {
+      "text": "You seem to be in nearly perfect health. That will be $10  for the examination.",
+      "node_id": "node31",
+      "id": "Morbid04"
+    },
+    {
+      "text": "There is not much I can do about it.",
+      "node_id": "node32_9",
+      "id": "Morbid09_9"
+    },
+    {
+      "text": "",
+      "node_id": "node33",
+      "id": "Morbid04a"
+    },
+    {
+      "text": "",
+      "node_id": "node45",
+      "id": "UpReactLevel"
+    },
+    {
+      "text": "No! I won't let you shut down my operation! Gretch, get",
+      "node_id": "node61",
+      "id": "Morbid03L"
+    },
+    {
+      "text": "My business has dropped off recently. I'm happy to see any customers, these days. Not that I mind your company, of course.",
+      "node_id": "node47",
+      "id": "Morbid18"
+    },
+    {
+      "text": "Oh, back so soon. What can I help you with?",
+      "node_id": "node20",
+      "id": "Morbid13"
+    },
+    {
+      "text": "Oh, It's you again. I like your style, even if I don't like you. What can I help you with, now?",
+      "node_id": "node21",
+      "id": "Morbid16"
+    },
+    {
+      "text": "",
+      "node_id": "node36",
+      "id": "Morbid05a"
+    },
+    {
+      "text": "Ok, I have your test results:",
+      "node_id": "node32_10",
+      "id": "Morbid09_10"
+    },
+    {
+      "text": "You are slightly wounded.",
+      "node_id": "node32_1",
+      "id": "Morbid09_1"
+    },
+    {
+      "text": "I will take something from you. And then we will be even.",
+      "node_id": "node65",
+      "id": "Morbid07L"
+    },
+    {
+      "text": "I hope you have a good reason for disturbing me. My time is extremely  valuable.",
+      "node_id": "node49",
+      "id": "Morbid22"
+    },
+    {
+      "text": "I don't find your humor funny. Please leave so I can return to my work.",
+      "node_id": "node72",
+      "id": "Morbid01N"
+    },
+    {
+      "text": "",
+      "node_id": "node12",
+      "id": "get_reaction"
+    },
+    {
+      "text": "No. I don't loan anyone, and I mean anyone, any amount of money. Go away, you pauper.",
+      "node_id": "node41",
+      "id": "Morbid10"
+    },
+    {
+      "text": "You are near death.",
+      "node_id": "node32_4",
+      "id": "Morbid09_4"
+    },
+    {
+      "text": "I hope you have a good reason for disturbing me. My time is extremely  valuable.",
+      "node_id": "node19",
+      "id": "Morbid00N"
+    },
+    {
+      "text": "You again. I hope you have another good reason for disturbing  me . . .",
+      "node_id": "node53",
+      "id": "Morbid26"
+    },
+    {
+      "text": "You have some serious radiation poisoning.",
+      "node_id": "node32_6",
+      "id": "Morbid09_6"
+    },
+    {
+      "text": "Well, if not today, then perhaps sometime in the near  future.",
+      "node_id": "node25",
+      "id": "Morbid02"
+    },
+    {
+      "text": "",
+      "node_id": "node76",
+      "id": "BigUpReact"
+    },
+    {
+      "text": "Hmm, lets have a look.",
+      "node_id": "node24",
+      "id": "Morbid03"
+    },
+    {
+      "text": "Ahh, a repeat customer. Excellent these days! How can  I help you?",
+      "node_id": "node17",
+      "id": "Morbid21"
+    },
+    {
+      "text": "Trespasser! This is a private room!",
+      "node_id": "node14",
+      "id": "Morbid00L"
+    },
+    {
+      "text": "Why should I?",
+      "node_id": "node58",
+      "id": "Morbid02L"
+    },
+    {
+      "text": "",
+      "node_id": "node5",
+      "id": "map_enter_p_proc"
+    },
+    {
+      "text": "Thank you for your business. Come again.",
+      "node_id": "node34",
+      "id": "Morbid07"
+    },
+    {
+      "text": "",
+      "node_id": "node77",
+      "id": "BigDownReact"
+    },
+    {
+      "text": "Now, half of what you have just seen is mine again.",
+      "node_id": "node13",
+      "id": "Morbid09L"
+    },
+    {
+      "text": "Now, now. Watch your language.",
+      "node_id": "node67",
+      "id": "Morbid10L"
+    },
+    {
+      "text": "I'm sorry, I don't treat idiots at night. Something about full moons and lunacy, I suppose. Have a good night.",
+      "node_id": "node70",
+      "id": "Morbid03N"
+    },
+    {
+      "text": ":= 1",
+      "node_id": "node59",
+      "id": ":= 1"
+    },
+    {
+      "text": "",
+      "node_id": "node78",
+      "id": "DownReactLevel"
+    },
+    {
+      "text": "Wh . . . what could you possibly mean?",
+      "node_id": "node27",
+      "id": "Morbid27"
+    },
+    {
+      "text": "Hmm. Well, you seem fine to me. Perhaps you need some rest. Try the Crash House, around the corner. Good night.",
+      "node_id": "node71",
+      "id": "Morbid02N"
+    },
+    {
+      "text": "",
+      "node_id": "node9",
+      "id": "timed_event_p_proc"
+    },
+    {
+      "text": "",
+      "node_id": "node60",
+      "id": "Morbid02La"
+    },
+    {
+      "text": "",
+      "node_id": "node3",
+      "id": "destroy_p_proc"
+    },
+    {
+      "text": "I never joke. Especially when it comes to physical trauma. You will pay or I'll have to resort to other forms of compensation, many of which are much more painful then  just paying my fee.",
+      "node_id": "node35",
+      "id": "Morbid05"
+    },
+    {
+      "text": "",
+      "node_id": "node69",
+      "id": "Morbid00Nb"
+    },
+    {
+      "text": "Your body has absorbed an incredible amount of radiation.",
+      "node_id": "node32_7",
+      "id": "Morbid09_7"
+    },
+    {
+      "text": "You do not have enough money. I have a very special way of dealing with debtors - I don't. Flash and Cougar, take our new found source of income to the lab for  processing.",
+      "node_id": "node38",
+      "id": "Morbid08"
+    },
+    {
+      "text": "Excellent!",
+      "node_id": "node66",
+      "id": "Morbid08L"
+    },
+    {
+      "text": "",
+      "node_id": "node30",
+      "id": "MorbidEnd"
+    },
+    {
+      "text": "It's your life. Good-Bye.",
+      "node_id": "node42",
+      "id": "Morbid11"
+    },
+    {
+      "text": "I have never seen such readings on my radscanner. I think you are about to die. I give you two to three weeks.",
+      "node_id": "node32_8",
+      "id": "Morbid09_8"
+    },
+    {
+      "text": "You have minor radiation poisoning.",
+      "node_id": "node32_5",
+      "id": "Morbid09_5"
+    },
+    {
+      "text": "Fine. Have it your way!",
+      "node_id": "node63",
+      "id": "Morbid06L"
+    },
+    {
+      "text": "",
+      "node_id": "node2",
+      "id": "critter_p_proc"
+    },
+    {
+      "text": "",
+      "node_id": "node7",
+      "id": "pickup_p_proc"
+    },
+    {
+      "text": "",
+      "node_id": "node43",
+      "id": "UpReact"
+    },
+    {
+      "text": "",
+      "node_id": "node57",
+      "id": "Morbid00La"
+    },
+    {
+      "text": "You must prove your sincerity. And I might be able to make a little profit out of this deal.",
+      "node_id": "node64_1",
+      "id": "Morbid05L_1"
+    },
+    {
+      "text": "",
+      "node_id": "node73",
+      "id": "ReactToLevel"
+    },
+    {
+      "text": "I'm Doc Morbid, can I help you?",
+      "node_id": "node8_1",
+      "id": "talk_p_proc_1"
+    },
+    {
+      "text": "Don't try to talk your way out of this one!",
+      "node_id": "node15",
+      "id": "Morbid01L"
+    },
+    {
+      "text": "",
+      "node_id": "node74",
+      "id": "LevelToReact"
+    }
+  ],
+  "links": [
+    {
+      "text": "Hmm, better prices, interesting. Thank you.",
+      "source": "Morbid20_1",
+      "target": "Morbid19"
+    },
+    {
+      "text": "Ahh, I do need some healing.",
+      "source": "Morbid20_1",
+      "target": "Morbid03"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "map_update_p_proc"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "map_enter_p_proc"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "pickup_p_proc"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "destroy_p_proc"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "critter_p_proc"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "timed_event_p_proc"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "look_at_p_proc"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "talk_p_proc_1"
+    },
+    {
+      "text": "",
+      "source": "Morbid12_1",
+      "target": "Morbid08"
+    },
+    {
+      "text": "",
+      "source": "Morbid12_1",
+      "target": "UpReact"
+    },
+    {
+      "text": "",
+      "source": "Morbid00a",
+      "target": "Morbid01"
+    },
+    {
+      "text": "",
+      "source": "Morbid00a",
+      "target": "DownReact"
+    },
+    {
+      "text": "",
+      "source": "Morbid00Na",
+      "target": "Morbid01"
+    },
+    {
+      "text": "",
+      "source": "Morbid00Na",
+      "target": "Morbid03"
+    },
+    {
+      "text": "I know about you and Iguana Bob, you filthy butcher.",
+      "source": "Morbid17",
+      "target": "Morbid27"
+    },
+    {
+      "text": "Nothing, just making small talk.",
+      "source": "Morbid17",
+      "target": "Morbid19"
+    },
+    {
+      "text": "You seem exited to see me. Why?",
+      "source": "Morbid17",
+      "target": "Morbid18"
+    },
+    {
+      "text": "",
+      "source": "Morbid17",
+      "target": "UpReactLevel"
+    },
+    {
+      "text": "I need healing.",
+      "source": "Morbid17",
+      "target": "Morbid03"
+    },
+    {
+      "text": "Hmm, better prices, interesting. Thank you.",
+      "source": "Morbid20_2",
+      "target": "Morbid19"
+    },
+    {
+      "text": "Ahh, I do need some healing.",
+      "source": "Morbid20_2",
+      "target": "Morbid03"
+    },
+    {
+      "text": "Aggh!",
+      "source": "Morbid04N",
+      "target": "Morbid03N"
+    },
+    {
+      "text": "I'm sorry for disturbing you, but I need some assistance.",
+      "source": "Morbid04N",
+      "target": "Morbid00Nb"
+    },
+    {
+      "text": "I'm dying here! Please help!",
+      "source": "Morbid04N",
+      "target": "Morbid00Na"
+    },
+    {
+      "text": "",
+      "source": "Morbid28",
+      "target": "BottomReact"
+    },
+    {
+      "text": "",
+      "source": "DownReact",
+      "target": "ReactToLevel"
+    },
+    {
+      "text": "You are obviously far more powerful than I am.",
+      "source": "Morbid04L",
+      "target": "Morbid05L_1"
+    },
+    {
+      "text": "I know what you are doing here, and I won't stop you.",
+      "source": "Morbid04L",
+      "target": "Morbid06L"
+    },
+    {
+      "text": "Nothing today, thanks.",
+      "source": "Morbid15",
+      "target": "Morbid02"
+    },
+    {
+      "text": "I need some help.",
+      "source": "Morbid15",
+      "target": "Morbid03"
+    },
+    {
+      "text": "Yeah, I need some help.",
+      "source": "Morbid00",
+      "target": "Morbid03"
+    },
+    {
+      "text": "I know about you and Iguana Bob, you filthy butcher.",
+      "source": "Morbid00",
+      "target": "Morbid27"
+    },
+    {
+      "text": "No, not today.",
+      "source": "Morbid00",
+      "target": "Morbid02"
+    },
+    {
+      "text": "Nng.",
+      "source": "Morbid00",
+      "target": "Morbid00a"
+    },
+    {
+      "text": "Here you go. Take your money.",
+      "source": "Morbid04",
+      "target": "Morbid07"
+    },
+    {
+      "text": "Ten caps for you to tell me that? You gotta be kidding.",
+      "source": "Morbid04",
+      "target": "Morbid04a"
+    },
+    {
+      "text": "",
+      "source": "Morbid04a",
+      "target": "DownReact"
+    },
+    {
+      "text": "",
+      "source": "Morbid04a",
+      "target": "Morbid05"
+    },
+    {
+      "text": "",
+      "source": "UpReactLevel",
+      "target": "LevelToReact"
+    },
+    {
+      "text": "",
+      "source": "Morbid03L",
+      "target": ":= 1"
+    },
+    {
+      "text": "Why has your business dropped off?",
+      "source": "Morbid18",
+      "target": "Morbid20_2"
+    },
+    {
+      "text": "Why has your business dropped off?",
+      "source": "Morbid18",
+      "target": "Morbid20_1"
+    },
+    {
+      "text": "Of course, I understand. Have a good day.",
+      "source": "Morbid18",
+      "target": "Morbid19"
+    },
+    {
+      "text": "Excellent, I need some healing.",
+      "source": "Morbid18",
+      "target": "Morbid03"
+    },
+    {
+      "text": "I need healing.",
+      "source": "Morbid13",
+      "target": "Morbid03"
+    },
+    {
+      "text": "Nothing, just making small talk.",
+      "source": "Morbid13",
+      "target": "Morbid14"
+    },
+    {
+      "text": "I know about you and Iguana Bob, you filthy butcher.",
+      "source": "Morbid13",
+      "target": "Morbid27"
+    },
+    {
+      "text": "I need healing.",
+      "source": "Morbid16",
+      "target": "Morbid03"
+    },
+    {
+      "text": "Nothing, just making small talk.",
+      "source": "Morbid16",
+      "target": "Morbid14"
+    },
+    {
+      "text": "",
+      "source": "Morbid05a",
+      "target": "Morbid06"
+    },
+    {
+      "text": "",
+      "source": "Morbid05a",
+      "target": "DownReact"
+    },
+    {
+      "text": "Okay.",
+      "source": "Morbid07L",
+      "target": "Morbid08L"
+    },
+    {
+      "text": "No way.",
+      "source": "Morbid07L",
+      "target": "Morbid06L"
+    },
+    {
+      "text": "I'm dying here! Please help!",
+      "source": "Morbid22",
+      "target": "Morbid03"
+    },
+    {
+      "text": "",
+      "source": "Morbid01N",
+      "target": "DownReact"
+    },
+    {
+      "text": "",
+      "source": "get_reaction",
+      "target": "ReactToLevel"
+    },
+    {
+      "text": "",
+      "source": "Morbid10",
+      "target": "DownReact"
+    },
+    {
+      "text": "Aggh!",
+      "source": "Morbid00N",
+      "target": "Morbid03N"
+    },
+    {
+      "text": "I'm sorry for disturbing you, but I need some assistance.",
+      "source": "Morbid00N",
+      "target": "Morbid00Nb"
+    },
+    {
+      "text": "I'm dying here! Please help!",
+      "source": "Morbid00N",
+      "target": "Morbid00Na"
+    },
+    {
+      "text": "I'm dying here! Please help!",
+      "source": "Morbid26",
+      "target": "Morbid03"
+    },
+    {
+      "text": "Hopefully not. Bye.",
+      "source": "Morbid02",
+      "target": "MorbidEnd"
+    },
+    {
+      "text": "We'll just have to see, now won't we. But I doubt it.",
+      "source": "Morbid02",
+      "target": "DownReact"
+    },
+    {
+      "text": "",
+      "source": "BigUpReact",
+      "target": "ReactToLevel"
+    },
+    {
+      "text": "",
+      "source": "Morbid03",
+      "target": "Morbid09_7"
+    },
+    {
+      "text": "",
+      "source": "Morbid03",
+      "target": "Morbid09_5"
+    },
+    {
+      "text": "",
+      "source": "Morbid03",
+      "target": "Morbid09_3"
+    },
+    {
+      "text": "",
+      "source": "Morbid03",
+      "target": "Morbid09_8"
+    },
+    {
+      "text": "",
+      "source": "Morbid03",
+      "target": "Morbid09_10"
+    },
+    {
+      "text": "",
+      "source": "Morbid03",
+      "target": "Morbid04"
+    },
+    {
+      "text": "",
+      "source": "Morbid03",
+      "target": "Morbid09_2"
+    },
+    {
+      "text": "",
+      "source": "Morbid03",
+      "target": "Morbid09_6"
+    },
+    {
+      "text": "",
+      "source": "Morbid03",
+      "target": "Morbid09_4"
+    },
+    {
+      "text": "",
+      "source": "Morbid03",
+      "target": "Morbid09_9"
+    },
+    {
+      "text": "",
+      "source": "Morbid03",
+      "target": "Morbid09_1"
+    },
+    {
+      "text": "I need healing.",
+      "source": "Morbid21",
+      "target": "Morbid03"
+    },
+    {
+      "text": "I know about you and Iguana Bob, you filthy butcher.",
+      "source": "Morbid21",
+      "target": "Morbid27"
+    },
+    {
+      "text": "Wait!",
+      "source": "Morbid00L",
+      "target": "Morbid00La"
+    },
+    {
+      "text": "Throw down, butcher!",
+      "source": "Morbid00L",
+      "target": "MorbidCombat"
+    },
+    {
+      "text": "I'm putting a stop to your operation, right here, right now!",
+      "source": "Morbid02L",
+      "target": "Morbid03L"
+    },
+    {
+      "text": "I'm no danger to you!",
+      "source": "Morbid02L",
+      "target": "Morbid02La"
+    },
+    {
+      "text": "",
+      "source": "map_enter_p_proc",
+      "target": "sleeping"
+    },
+    {
+      "text": "",
+      "source": "Morbid07",
+      "target": "Morbid08"
+    },
+    {
+      "text": "",
+      "source": "BigDownReact",
+      "target": "ReactToLevel"
+    },
+    {
+      "text": "YOU RIPPED OUT MY EYE! YOU MOTHER . . .",
+      "source": "Morbid09L",
+      "target": "Morbid10L"
+    },
+    {
+      "text": "",
+      "source": "DownReactLevel",
+      "target": "LevelToReact"
+    },
+    {
+      "text": "I had a little conversation with your troll . . .",
+      "source": "Morbid27",
+      "target": "Morbid28"
+    },
+    {
+      "text": "",
+      "source": "Morbid02La",
+      "target": "Morbid04L"
+    },
+    {
+      "text": "",
+      "source": "Morbid02La",
+      "target": "Morbid01L"
+    },
+    {
+      "text": "Bite me. I'm leaving.",
+      "source": "Morbid05",
+      "target": "Morbid05a"
+    },
+    {
+      "text": "Ok, here's your money.",
+      "source": "Morbid05",
+      "target": "Morbid07"
+    },
+    {
+      "text": "",
+      "source": "Morbid00Nb",
+      "target": "Morbid02N"
+    },
+    {
+      "text": "",
+      "source": "Morbid00Nb",
+      "target": "Morbid03"
+    },
+    {
+      "text": "",
+      "source": "Morbid06L",
+      "target": ":= 1"
+    },
+    {
+      "text": "",
+      "source": "critter_p_proc",
+      "target": "get_eye"
+    },
+    {
+      "text": "",
+      "source": "critter_p_proc",
+      "target": "sleeping"
+    },
+    {
+      "text": "",
+      "source": "UpReact",
+      "target": "ReactToLevel"
+    },
+    {
+      "text": "",
+      "source": "Morbid00La",
+      "target": "Morbid02L"
+    },
+    {
+      "text": "",
+      "source": "Morbid00La",
+      "target": "Morbid01L"
+    },
+    {
+      "text": "What do you mean?",
+      "source": "Morbid05L_1",
+      "target": "Morbid07L"
+    },
+    {
+      "text": "No deals, no way.",
+      "source": "Morbid05L_1",
+      "target": "Morbid06L"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc_1",
+      "target": "Morbid00L"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc_1",
+      "target": "Morbid04N"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc_1",
+      "target": "Morbid13"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc_1",
+      "target": "Morbid01L"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc_1",
+      "target": "get_reaction"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc_1",
+      "target": "Morbid00"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc_1",
+      "target": "Morbid15"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc_1",
+      "target": "Morbid17"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc_1",
+      "target": "Morbid00N"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc_1",
+      "target": "Morbid16"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc_1",
+      "target": "Morbid09L"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc_1",
+      "target": "Morbid21"
+    },
+    {
+      "text": "",
+      "source": "Morbid01L",
+      "target": ":= 1"
+    }
+  ]
+}

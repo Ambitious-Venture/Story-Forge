@@ -1,0 +1,174 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "",
+      "node_id": "node1",
+      "id": "start"
+    },
+    {
+      "text": "The locker is already unlocked.",
+      "node_id": "node5_2",
+      "id": "use_obj_on_p_proc_2"
+    },
+    {
+      "text": "This lock is beyond your ability to pick.",
+      "node_id": "node5_3",
+      "id": "use_obj_on_p_proc_3"
+    },
+    {
+      "text": "This lock is beyond your ability to pick.",
+      "node_id": "node6_3",
+      "id": "use_skill_on_p_proc_3"
+    },
+    {
+      "text": "You fail to pick the lock.",
+      "node_id": "node5_5",
+      "id": "use_obj_on_p_proc_5"
+    },
+    {
+      "text": "You break your picks in the lock.",
+      "node_id": "node5_4",
+      "id": "use_obj_on_p_proc_4"
+    },
+    {
+      "text": "The locker is already unlocked.",
+      "node_id": "node6_2",
+      "id": "use_skill_on_p_proc_2"
+    },
+    {
+      "text": "The container appears locked.",
+      "node_id": "node2",
+      "id": "use_p_proc"
+    },
+    {
+      "text": "You fail to pick the lock.",
+      "node_id": "node6_4",
+      "id": "use_skill_on_p_proc_4"
+    },
+    {
+      "text": "",
+      "node_id": "node7",
+      "id": "map_update_p_proc"
+    },
+    {
+      "text": "The locker is already unlocked.",
+      "node_id": "node6_5",
+      "id": "use_skill_on_p_proc_5"
+    },
+    {
+      "text": "The container appears locked.",
+      "node_id": "node3",
+      "id": "look_at_p_proc"
+    },
+    {
+      "text": "The container appears locked.",
+      "node_id": "node6_6",
+      "id": "use_skill_on_p_proc_6"
+    },
+    {
+      "text": "You fail to pick the lock.",
+      "node_id": "node5_1",
+      "id": "use_obj_on_p_proc_1"
+    },
+    {
+      "text": "The container appears locked.",
+      "node_id": "node4",
+      "id": "pickup_p_proc"
+    },
+    {
+      "text": "You fail to pick the lock.",
+      "node_id": "node6_1",
+      "id": "use_skill_on_p_proc_1"
+    },
+    {
+      "text": "The locker is already unlocked.",
+      "node_id": "node5_6",
+      "id": "use_obj_on_p_proc_6"
+    }
+  ],
+  "links": [
+    {
+      "text": "",
+      "source": "start",
+      "target": "use_skill_on_p_proc_5"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "use_obj_on_p_proc_1"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "use_obj_on_p_proc_6"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "use_obj_on_p_proc_5"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "use_skill_on_p_proc_6"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "map_update_p_proc"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "pickup_p_proc"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "use_obj_on_p_proc_2"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "use_skill_on_p_proc_4"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "use_obj_on_p_proc_3"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "look_at_p_proc"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "use_obj_on_p_proc_4"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "use_skill_on_p_proc_3"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "use_skill_on_p_proc_1"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "use_p_proc"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "use_skill_on_p_proc_2"
+    }
+  ]
+}

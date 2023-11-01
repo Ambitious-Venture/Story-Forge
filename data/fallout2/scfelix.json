@@ -1,0 +1,254 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "It's late. Come back in the morning.",
+      "node_id": "node25_1",
+      "id": "Node003_1"
+    },
+    {
+      "text": "Well then, get on out of here.",
+      "node_id": "node24",
+      "id": "Node004"
+    },
+    {
+      "text": "Mr. Westin is waiting for you.",
+      "node_id": "node9",
+      "id": "Node015"
+    },
+    {
+      "text": "Then I guess we got to kill you.",
+      "node_id": "node28",
+      "id": "Node009"
+    },
+    {
+      "text": "That's nice. Mr. Westin don't just see anybody. You got any cause?",
+      "node_id": "node22",
+      "id": "Node006"
+    },
+    {
+      "text": "",
+      "node_id": "node17",
+      "id": "Node998"
+    },
+    {
+      "text": "Right. Someone, or something, has been killing brahmin on the west pasture. I'll take you out there and you take care of it. Let's go.",
+      "node_id": "node29_1",
+      "id": "Node011_1"
+    },
+    {
+      "text": "HEY YOU! Get away from there!",
+      "node_id": "node32",
+      "id": "Node014"
+    },
+    {
+      "text": "",
+      "node_id": "node6",
+      "id": "talk_p_proc"
+    },
+    {
+      "text": "Saltbeef Bob - over in the stables. Mr. Westin lets him stay there. Now stop wasting my time.",
+      "node_id": "node27",
+      "id": "Node008"
+    },
+    {
+      "text": "Dumont, eh? Well, that's good enough for me. Mr. Westin's inside.",
+      "node_id": "node20_1",
+      "id": "Node005_1"
+    },
+    {
+      "text": "",
+      "node_id": "node30",
+      "id": "NodeTele"
+    },
+    {
+      "text": "",
+      "node_id": "node18",
+      "id": "Node999"
+    },
+    {
+      "text": "Hah! Another crackpot. You ought to go talk to Saltbeef. You and he'd get along fine.",
+      "node_id": "node23",
+      "id": "Node007"
+    },
+    {
+      "text": "",
+      "node_id": "node26",
+      "id": "Node009a"
+    },
+    {
+      "text": "Done with your meeting?",
+      "node_id": "node7",
+      "id": "Node010"
+    },
+    {
+      "text": "Great, another idiot. I suppose you want to see the boss?",
+      "node_id": "node19",
+      "id": "Node002"
+    },
+    {
+      "text": "Back again, are you? Job done?",
+      "node_id": "node8",
+      "id": "Node012"
+    },
+    {
+      "text": "You again?",
+      "node_id": "node10_1",
+      "id": "Node001_1"
+    },
+    {
+      "text": "Yeah, he left orders. He's been expecting you.",
+      "node_id": "node21",
+      "id": "Node013"
+    },
+    {
+      "text": "",
+      "node_id": "node31",
+      "id": "Node004a"
+    }
+  ],
+  "links": [
+    {
+      "text": "What if I said Bishop in New Reno sent me to kill him?",
+      "source": "Node006",
+      "target": "Node009a"
+    },
+    {
+      "text": "I'm looking for Vault 13.",
+      "source": "Node006",
+      "target": "Node007"
+    },
+    {
+      "text": "Uh, no.",
+      "source": "Node006",
+      "target": "Node004"
+    },
+    {
+      "text": "Forget that!",
+      "source": "Node011_1",
+      "target": "Node004a"
+    },
+    {
+      "text": "Okay.",
+      "source": "Node011_1",
+      "target": "NodeTele"
+    },
+    {
+      "text": "Fuck you!",
+      "source": "Node014",
+      "target": "Node998"
+    },
+    {
+      "text": "Okay.",
+      "source": "Node014",
+      "target": "Node001_1"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node010"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node001_1"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node015"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node012"
+    },
+    {
+      "text": "Oh, thanks.",
+      "source": "Node008",
+      "target": "Node999"
+    },
+    {
+      "text": "",
+      "source": "NodeTele",
+      "target": "Node999"
+    },
+    {
+      "text": "I'm out of here.",
+      "source": "Node007",
+      "target": "Node999"
+    },
+    {
+      "text": "Who?",
+      "source": "Node007",
+      "target": "Node008"
+    },
+    {
+      "text": "",
+      "source": "Node009a",
+      "target": "Node009"
+    },
+    {
+      "text": "Westin. Job. Me",
+      "source": "Node010",
+      "target": "Node011_1"
+    },
+    {
+      "text": "Me go.",
+      "source": "Node010",
+      "target": "Node999"
+    },
+    {
+      "text": "Uh-huh.",
+      "source": "Node002",
+      "target": "Node003_1"
+    },
+    {
+      "text": "Nooo.",
+      "source": "Node002",
+      "target": "Node004"
+    },
+    {
+      "text": "Yes.",
+      "source": "Node012",
+      "target": "Node003_1"
+    },
+    {
+      "text": "No.",
+      "source": "Node012",
+      "target": "Node004"
+    },
+    {
+      "text": "I'm here to see the boss.",
+      "source": "Node001_1",
+      "target": "Node013"
+    },
+    {
+      "text": "Nyeh.",
+      "source": "Node001_1",
+      "target": "Node002"
+    },
+    {
+      "text": "Just looking around.",
+      "source": "Node001_1",
+      "target": "Node004"
+    },
+    {
+      "text": "I'm looking for Vault 13.",
+      "source": "Node001_1",
+      "target": "Node007"
+    },
+    {
+      "text": "I'm looking for work.",
+      "source": "Node001_1",
+      "target": "Node006"
+    },
+    {
+      "text": "",
+      "source": "Node004a",
+      "target": "Node004"
+    }
+  ]
+}

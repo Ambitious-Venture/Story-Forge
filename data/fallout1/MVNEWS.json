@@ -1,0 +1,34 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "The newspaper headline reads: \"Daily Life in the Village\".",
+      "node_id": "node2",
+      "id": "description_p_proc"
+    },
+    {
+      "text": "",
+      "node_id": "node1",
+      "id": "start"
+    },
+    {
+      "text": "The newspaper machine is inexplicably jammed shut. It is very  frustrating.",
+      "node_id": "node3",
+      "id": "use_p_proc"
+    }
+  ],
+  "links": [
+    {
+      "text": "",
+      "source": "start",
+      "target": "use_p_proc"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "description_p_proc"
+    }
+  ]
+}

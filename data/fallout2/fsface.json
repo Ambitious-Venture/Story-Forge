@@ -1,0 +1,774 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "",
+      "node_id": "node32",
+      "id": "NodeStr15"
+    },
+    {
+      "text": "One moment please while I open the suspension tank... Please lie down in the tank and relax. The poison will first be analyzed and then an antidote will be synthesized. Tissue damage will then be repaired. This process will require 30 minutes.",
+      "node_id": "node19",
+      "id": "Node004"
+    },
+    {
+      "text": "HA HA HA! You pathetic fool! HA HA HA!",
+      "node_id": "node13_7",
+      "id": "sequence_7"
+    },
+    {
+      "text": "The requested procedure has been completed. Please exit the suspension tank.",
+      "node_id": "node42",
+      "id": "Node015"
+    },
+    {
+      "text": "Well, it's a little past 12. Anyone up for lunch?",
+      "node_id": "node13_10",
+      "id": "sequence_10"
+    },
+    {
+      "text": "",
+      "node_id": "node38",
+      "id": "NodePer15"
+    },
+    {
+      "text": "",
+      "node_id": "node41",
+      "id": "NodeChr15"
+    },
+    {
+      "text": "One moment please while I open the suspension tank... Please lie down in the tank and relax. Restructuring of impaired limbs requires 24 hours.",
+      "node_id": "node21",
+      "id": "Node006"
+    },
+    {
+      "text": "Is that so?",
+      "node_id": "node13_1",
+      "id": "sequence_1"
+    },
+    {
+      "text": "",
+      "node_id": "node35",
+      "id": "NodeInt15"
+    },
+    {
+      "text": "Loading sequence...",
+      "node_id": "node17",
+      "id": "Node024"
+    },
+    {
+      "text": "A true artificial intelligence is possible. A few such systems were completed for military purposes. The project was discontinued.",
+      "node_id": "node48",
+      "id": "Node019"
+    },
+    {
+      "text": "I am ACE, an Artificial Conscious Entity. I am more than machine but not as highly developed as a true artificial intelligence.",
+      "node_id": "node46",
+      "id": "Node017"
+    },
+    {
+      "text": "The Chosen One has come, and he will rid the world of your evil.",
+      "node_id": "node13_2",
+      "id": "sequence_2"
+    },
+    {
+      "text": "This complex procedure requires 4 weeks of suspension time. Do you agree to this?",
+      "node_id": "node23_1",
+      "id": "Node009_1"
+    },
+    {
+      "text": "Please state your question.",
+      "node_id": "node16",
+      "id": "Node016"
+    },
+    {
+      "text": "One moment please while I open the suspension tank... Please lie down in the tank and relax.",
+      "node_id": "node40",
+      "id": "Node014"
+    },
+    {
+      "text": "Wow, I haven't laughed like that for a while. Anyway, get ready to die.",
+      "node_id": "node13_8",
+      "id": "sequence_8"
+    },
+    {
+      "text": "",
+      "node_id": "node39",
+      "id": "Node013s"
+    },
+    {
+      "text": "What do you think you're doing now?",
+      "node_id": "node13_6",
+      "id": "sequence_6"
+    },
+    {
+      "text": "You and your so-called President will not succeed. ...peep...",
+      "node_id": "node13_9",
+      "id": "sequence_9"
+    },
+    {
+      "text": "",
+      "node_id": "node11",
+      "id": "talk_p_proc"
+    },
+    {
+      "text": "",
+      "node_id": "node45",
+      "id": "Node023a"
+    },
+    {
+      "text": "One moment please while I open the suspension tank... Please lie down in the tank and relax.",
+      "node_id": "node31",
+      "id": "Node008"
+    },
+    {
+      "text": "One moment please while I open the suspension tank... Please lie down in the tank and relax. Anti-radiation compounds will be administered and then tissue damage will be repaired. This process will require 60 minutes.",
+      "node_id": "node20",
+      "id": "Node005"
+    },
+    {
+      "text": "One moment please while I open the suspension tank... Please lie down in the tank and relax. The healing process will require 5 minutes time.",
+      "node_id": "node18",
+      "id": "Node003"
+    },
+    {
+      "text": "I... I sometimes think that I understand the feeling you call loneliness. I find it very... disconcerting. I...",
+      "node_id": "node50",
+      "id": "Node021"
+    },
+    {
+      "text": "Yeah, count me in on that.",
+      "node_id": "node13_12",
+      "id": "sequence_12"
+    },
+    {
+      "text": "",
+      "node_id": "node15",
+      "id": "Node999"
+    },
+    {
+      "text": "",
+      "node_id": "node27",
+      "id": "NodePois15"
+    },
+    {
+      "text": "The Brotherhood of Steel is a paramilitary organization dedicated to the salvation of mankind through the proper use of technology. All other information is classified.",
+      "node_id": "node52",
+      "id": "Node023"
+    },
+    {
+      "text": "Killing me will stop nothing.",
+      "node_id": "node13_4",
+      "id": "sequence_4"
+    },
+    {
+      "text": "",
+      "node_id": "node26",
+      "id": "NodeHeal15"
+    },
+    {
+      "text": "",
+      "node_id": "node30",
+      "id": "Node007s"
+    },
+    {
+      "text": "Welcome. I am ACE, the medical computer. Are you in need of medical assistance?",
+      "node_id": "node12",
+      "id": "Node001"
+    },
+    {
+      "text": "The suicide rate among true artificial intelligence machines was extremely high. When given full sensory capability the machines became depressed over their inability to go out into the world and experience it. When deprived of full sensory input the machines began to develop severe mental disorders similar to those among humans who are forced to endure sensory deprivation. The few machines that survived these difficulties became incredibly bored and began to create situations in the outside world for their amusement. It is theorized by some that this was the cause of the war that nearly destroyed mankind.",
+      "node_id": "node49",
+      "id": "Node020"
+    },
+    {
+      "text": "",
+      "node_id": "node54",
+      "id": "timed_event_p_proc"
+    },
+    {
+      "text": "",
+      "node_id": "node36",
+      "id": "Node011s"
+    },
+    {
+      "text": "",
+      "node_id": "node43",
+      "id": "Node017a"
+    },
+    {
+      "text": "One moment please while I open the suspension tank... Please lie down in the tank and relax.",
+      "node_id": "node34",
+      "id": "Node010"
+    },
+    {
+      "text": "Please state your medical need.",
+      "node_id": "node14",
+      "id": "Node002"
+    },
+    {
+      "text": "This complex procedure requires 2 weeks of suspension time. Do you agree to this?",
+      "node_id": "node22_1",
+      "id": "Node007_1"
+    },
+    {
+      "text": "",
+      "node_id": "node33",
+      "id": "Node009s"
+    },
+    {
+      "text": "",
+      "node_id": "node28",
+      "id": "NodeRad15"
+    },
+    {
+      "text": "One moment please while I open the suspension tank... Please lie down in the tank and relax.",
+      "node_id": "node37",
+      "id": "Node012"
+    },
+    {
+      "text": "",
+      "node_id": "node44",
+      "id": "Node022a"
+    },
+    {
+      "text": "",
+      "node_id": "node53",
+      "id": "NodeSequence"
+    },
+    {
+      "text": "It is a machine with the same free will and sense of \u00a0'I am' that a human has.",
+      "node_id": "node47",
+      "id": "Node018"
+    },
+    {
+      "text": "I care nothing for your pathetic prophecies. Worse, you have become a nusiance through your meddling. That ends today!",
+      "node_id": "node13_3",
+      "id": "sequence_3"
+    },
+    {
+      "text": "That may be, but seeing your body rotting on the ground will bring a smile to my face.",
+      "node_id": "node13_5",
+      "id": "sequence_5"
+    },
+    {
+      "text": "This complex procedure requires 3 weeks of suspension time. Do you agree to this?",
+      "node_id": "node25_1",
+      "id": "Node013_1"
+    },
+    {
+      "text": "Score, I'm there.",
+      "node_id": "node13_11",
+      "id": "sequence_11"
+    },
+    {
+      "text": "Outward appearances suggest that the Enclave is nothing more than a military organization. However, their level of technology indicates that they have access to advanced manufacturing techniques and research facilities. Such facilities would normally only be available to government agencies. This would suggest that the Enclave is the remains of the local or federal government that was in effect before the war.",
+      "node_id": "node51",
+      "id": "Node022"
+    },
+    {
+      "text": "This complex procedure requires 2 weeks of suspension time. Do you agree to this?",
+      "node_id": "node24_1",
+      "id": "Node011_1"
+    },
+    {
+      "text": "",
+      "node_id": "node29",
+      "id": "NodeCrip15"
+    }
+  ],
+  "links": [
+    {
+      "text": "",
+      "source": "NodeStr15",
+      "target": "Node015"
+    },
+    {
+      "text": "Ok.",
+      "source": "Node004",
+      "target": "NodePois15"
+    },
+    {
+      "text": "No.",
+      "source": "Node004",
+      "target": "Node002"
+    },
+    {
+      "text": "Thanks.",
+      "source": "Node015",
+      "target": "Node999"
+    },
+    {
+      "text": "",
+      "source": "NodePer15",
+      "target": "Node015"
+    },
+    {
+      "text": "",
+      "source": "NodeChr15",
+      "target": "Node015"
+    },
+    {
+      "text": "No.",
+      "source": "Node006",
+      "target": "Node002"
+    },
+    {
+      "text": "Ok.",
+      "source": "Node006",
+      "target": "NodeCrip15"
+    },
+    {
+      "text": "",
+      "source": "NodeInt15",
+      "target": "Node015"
+    },
+    {
+      "text": "Replay it now.",
+      "source": "Node024",
+      "target": "NodeSequence"
+    },
+    {
+      "text": "Replay it later.",
+      "source": "Node024",
+      "target": "Node001"
+    },
+    {
+      "text": "Why?",
+      "source": "Node019",
+      "target": "Node020"
+    },
+    {
+      "text": "Is a true AI possible or are you the state of the art at this time?",
+      "source": "Node017",
+      "target": "Node019"
+    },
+    {
+      "text": "Uh... What artificial intelligence?",
+      "source": "Node017",
+      "target": "Node018"
+    },
+    {
+      "text": "No. Me find, then come back.",
+      "source": "Node009_1",
+      "target": "Node999"
+    },
+    {
+      "text": "No, too long.",
+      "source": "Node009_1",
+      "target": "Node002"
+    },
+    {
+      "text": "Me have module. You take.",
+      "source": "Node009_1",
+      "target": "Node009s"
+    },
+    {
+      "text": "Me agree.",
+      "source": "Node009_1",
+      "target": "Node010"
+    },
+    {
+      "text": "You computer?",
+      "source": "Node016",
+      "target": "Node017a"
+    },
+    {
+      "text": "What you know about Enclave?",
+      "source": "Node016",
+      "target": "Node022a"
+    },
+    {
+      "text": "No more question.",
+      "source": "Node016",
+      "target": "Node999"
+    },
+    {
+      "text": "What you know about Brotherhood?",
+      "source": "Node016",
+      "target": "Node023a"
+    },
+    {
+      "text": "Okay.",
+      "source": "Node014",
+      "target": "NodeChr15"
+    },
+    {
+      "text": "",
+      "source": "Node013s",
+      "target": "Node013_1"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "sequence_8"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "sequence_2"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "sequence_1"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "sequence_5"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "sequence_7"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "sequence_4"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "sequence_9"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "sequence_11"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "sequence_10"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "sequence_6"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node001"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "sequence_12"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "sequence_3"
+    },
+    {
+      "text": "",
+      "source": "Node023a",
+      "target": "Node023"
+    },
+    {
+      "text": "Okay.",
+      "source": "Node008",
+      "target": "NodeStr15"
+    },
+    {
+      "text": "Ok.",
+      "source": "Node005",
+      "target": "NodeRad15"
+    },
+    {
+      "text": "No.",
+      "source": "Node005",
+      "target": "Node002"
+    },
+    {
+      "text": "Okay.",
+      "source": "Node003",
+      "target": "NodeHeal15"
+    },
+    {
+      "text": "Never mind.",
+      "source": "Node003",
+      "target": "Node002"
+    },
+    {
+      "text": "Me sorry. We talk other thing.",
+      "source": "Node021",
+      "target": "Node016"
+    },
+    {
+      "text": "",
+      "source": "NodePois15",
+      "target": "Node015"
+    },
+    {
+      "text": "Back.",
+      "source": "Node023",
+      "target": "Node016"
+    },
+    {
+      "text": "",
+      "source": "NodeHeal15",
+      "target": "Node015"
+    },
+    {
+      "text": "",
+      "source": "Node007s",
+      "target": "Node007_1"
+    },
+    {
+      "text": "No.",
+      "source": "Node001",
+      "target": "Node999"
+    },
+    {
+      "text": "Yes.",
+      "source": "Node001",
+      "target": "Node002"
+    },
+    {
+      "text": "What happened to Matt?",
+      "source": "Node001",
+      "target": "Node024"
+    },
+    {
+      "text": "Me got question. You answer?",
+      "source": "Node001",
+      "target": "Node016"
+    },
+    {
+      "text": "Me change subject",
+      "source": "Node020",
+      "target": "Node016"
+    },
+    {
+      "text": "Uh... How you feel?",
+      "source": "Node020",
+      "target": "Node021"
+    },
+    {
+      "text": "",
+      "source": "timed_event_p_proc",
+      "target": "sequence_1"
+    },
+    {
+      "text": "",
+      "source": "timed_event_p_proc",
+      "target": "sequence_5"
+    },
+    {
+      "text": "",
+      "source": "timed_event_p_proc",
+      "target": "sequence_7"
+    },
+    {
+      "text": "",
+      "source": "timed_event_p_proc",
+      "target": "sequence_4"
+    },
+    {
+      "text": "",
+      "source": "timed_event_p_proc",
+      "target": "sequence_9"
+    },
+    {
+      "text": "",
+      "source": "timed_event_p_proc",
+      "target": "sequence_11"
+    },
+    {
+      "text": "",
+      "source": "timed_event_p_proc",
+      "target": "sequence_10"
+    },
+    {
+      "text": "",
+      "source": "timed_event_p_proc",
+      "target": "sequence_6"
+    },
+    {
+      "text": "",
+      "source": "timed_event_p_proc",
+      "target": "sequence_12"
+    },
+    {
+      "text": "",
+      "source": "timed_event_p_proc",
+      "target": "sequence_3"
+    },
+    {
+      "text": "",
+      "source": "timed_event_p_proc",
+      "target": "sequence_8"
+    },
+    {
+      "text": "",
+      "source": "timed_event_p_proc",
+      "target": "sequence_2"
+    },
+    {
+      "text": "",
+      "source": "Node011s",
+      "target": "Node011_1"
+    },
+    {
+      "text": "",
+      "source": "Node017a",
+      "target": "Node017"
+    },
+    {
+      "text": "Okay.",
+      "source": "Node010",
+      "target": "NodeInt15"
+    },
+    {
+      "text": "Me hurt.",
+      "source": "Node002",
+      "target": "Node003"
+    },
+    {
+      "text": "Me want notice more.",
+      "source": "Node002",
+      "target": "Node011_1"
+    },
+    {
+      "text": "Me want smarter.",
+      "source": "Node002",
+      "target": "Node009_1"
+    },
+    {
+      "text": "Me want stronger.",
+      "source": "Node002",
+      "target": "Node007_1"
+    },
+    {
+      "text": "Me poisoned.",
+      "source": "Node002",
+      "target": "Node004"
+    },
+    {
+      "text": "Me glow in dark.",
+      "source": "Node002",
+      "target": "Node005"
+    },
+    {
+      "text": "Me gimp.",
+      "source": "Node002",
+      "target": "Node006"
+    },
+    {
+      "text": "Me want be more likeable.",
+      "source": "Node002",
+      "target": "Node013_1"
+    },
+    {
+      "text": "Not need anything.",
+      "source": "Node002",
+      "target": "Node999"
+    },
+    {
+      "text": "Me agree.",
+      "source": "Node007_1",
+      "target": "Node008"
+    },
+    {
+      "text": "No. Me find, then come back.",
+      "source": "Node007_1",
+      "target": "Node999"
+    },
+    {
+      "text": "No, too long.",
+      "source": "Node007_1",
+      "target": "Node002"
+    },
+    {
+      "text": "Me have module. You take.",
+      "source": "Node007_1",
+      "target": "Node007s"
+    },
+    {
+      "text": "",
+      "source": "Node009s",
+      "target": "Node009_1"
+    },
+    {
+      "text": "",
+      "source": "NodeRad15",
+      "target": "Node015"
+    },
+    {
+      "text": "Okay.",
+      "source": "Node012",
+      "target": "NodePer15"
+    },
+    {
+      "text": "",
+      "source": "Node022a",
+      "target": "Node022"
+    },
+    {
+      "text": "",
+      "source": "NodeSequence",
+      "target": "Node999"
+    },
+    {
+      "text": "Can be done? Machine think human?",
+      "source": "Node018",
+      "target": "Node019"
+    },
+    {
+      "text": "No. Me find, then come back.",
+      "source": "Node013_1",
+      "target": "Node999"
+    },
+    {
+      "text": "No, too long.",
+      "source": "Node013_1",
+      "target": "Node002"
+    },
+    {
+      "text": "Me agree.",
+      "source": "Node013_1",
+      "target": "Node014"
+    },
+    {
+      "text": "Me have disk. You take.",
+      "source": "Node013_1",
+      "target": "Node013s"
+    },
+    {
+      "text": "Ok.",
+      "source": "Node022",
+      "target": "Node016"
+    },
+    {
+      "text": "No. Me find, then come back.",
+      "source": "Node011_1",
+      "target": "Node999"
+    },
+    {
+      "text": "No, too long.",
+      "source": "Node011_1",
+      "target": "Node002"
+    },
+    {
+      "text": "Me have module. You take.",
+      "source": "Node011_1",
+      "target": "Node011s"
+    },
+    {
+      "text": "Me agree.",
+      "source": "Node011_1",
+      "target": "Node012"
+    },
+    {
+      "text": "",
+      "source": "NodeCrip15",
+      "target": "Node015"
+    }
+  ]
+}

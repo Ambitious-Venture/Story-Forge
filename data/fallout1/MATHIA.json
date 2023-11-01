@@ -1,0 +1,34 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "Alright, let's go. (He grabs you by the arm)",
+      "node_id": "node18",
+      "id": "Mathia07"
+    },
+    {
+      "text": "",
+      "node_id": "node7",
+      "id": "combat"
+    },
+    {
+      "text": "",
+      "node_id": "node19",
+      "id": "Mathia11"
+    }
+  ],
+  "links": [
+    {
+      "text": "Uh uh.",
+      "source": "Mathia07",
+      "target": "combat"
+    },
+    {
+      "text": "Uh huh.",
+      "source": "Mathia07",
+      "target": "Mathia11"
+    }
+  ]
+}

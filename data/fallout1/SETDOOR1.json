@@ -1,0 +1,74 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "",
+      "node_id": "node1",
+      "id": "start"
+    },
+    {
+      "text": "You broke your lockpicks.",
+      "node_id": "node4_2",
+      "id": "do_skill_2"
+    },
+    {
+      "text": "The door is open.",
+      "node_id": "node2_1",
+      "id": "see_stuff_1"
+    },
+    {
+      "text": "The door is closed and unlocked.",
+      "node_id": "node2_2",
+      "id": "see_stuff_2"
+    },
+    {
+      "text": "creeeeeek",
+      "node_id": "node3",
+      "id": "do_stuff"
+    },
+    {
+      "text": "You don't know how to pick the lock.",
+      "node_id": "node4_3",
+      "id": "do_skill_3"
+    },
+    {
+      "text": "You cannot open this lock.",
+      "node_id": "node4_1",
+      "id": "do_skill_1"
+    }
+  ],
+  "links": [
+    {
+      "text": "",
+      "source": "start",
+      "target": "do_stuff"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "do_skill_1"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "do_skill_2"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "see_stuff_2"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "do_skill_3"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "see_stuff_1"
+    }
+  ]
+}

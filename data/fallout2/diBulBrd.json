@@ -1,0 +1,444 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "The Slaver's Guild is located on the east side of town, past Becky's and Frankie's.",
+      "node_id": "node20",
+      "id": "Node004"
+    },
+    {
+      "text": "Becky's a hore and her drinks is watered down! She's a krook and a lier! [The writing is barely legible.]",
+      "node_id": "node13",
+      "id": "Node009"
+    },
+    {
+      "text": "Tubby sells all sorts of items, but primarily chems and ammo.",
+      "node_id": "node24",
+      "id": "Node015"
+    },
+    {
+      "text": "[Two are listed.]",
+      "node_id": "node15",
+      "id": "Node006"
+    },
+    {
+      "text": "Smitty's located in the junkyard on the southwest corner of town.",
+      "node_id": "node28",
+      "id": "Node019"
+    },
+    {
+      "text": "Flick sells various items out of his 'office' in the residential building directly south from here and right below Rebecca's Casino Bar.",
+      "node_id": "node25",
+      "id": "Node017"
+    },
+    {
+      "text": "[There are three posts.]",
+      "node_id": "node17",
+      "id": "Node014"
+    },
+    {
+      "text": "Tubby's is located west of this bulletin board. It's the first building on the right as you enter town.",
+      "node_id": "node27",
+      "id": "Node016"
+    },
+    {
+      "text": "We are located just east of here. We are the first building on the left as you enter town. Be sure to come by and say hello!",
+      "node_id": "node23",
+      "id": "Node008"
+    },
+    {
+      "text": "They are currently not selling slaves to the general public, due to increased demand.",
+      "node_id": "node19",
+      "id": "Node005"
+    },
+    {
+      "text": "For employment opportunities, buying or selling of slaves, see Slave Master Metzger.",
+      "node_id": "node18",
+      "id": "Node003"
+    },
+    {
+      "text": "",
+      "node_id": "node12",
+      "id": "Node999"
+    },
+    {
+      "text": "",
+      "node_id": "node8",
+      "id": "use_p_proc"
+    },
+    {
+      "text": "You find it all very confusing and your head starts to hurt.",
+      "node_id": "node9_1",
+      "id": "Node010_1"
+    },
+    {
+      "text": "Rebecca's Casino Bar has both gambling and great affordable drinks.",
+      "node_id": "node21",
+      "id": "Node007"
+    },
+    {
+      "text": "Frankie runs a bar, inn, and 'pleasure' business on the east side of town.",
+      "node_id": "node22",
+      "id": "Node011"
+    },
+    {
+      "text": "The Slavers's Guild is the best and only supplier of slaves in the wastes.",
+      "node_id": "node14",
+      "id": "Node002"
+    },
+    {
+      "text": "Smitty is the local mechanic. He sometimes has things for sale.",
+      "node_id": "node26",
+      "id": "Node018"
+    },
+    {
+      "text": "Mom's is the only restaurant in the Den. She's located on the east side of town just south of the Slaver's Guild.",
+      "node_id": "node16",
+      "id": "Node012"
+    },
+    {
+      "text": "Den Bulletin: Maintained by Rebecca's Casino Bar...",
+      "node_id": "node11_1",
+      "id": "Node001_1"
+    },
+    {
+      "text": "[It looks like someone tried to set it on fire. You can't make out any of the posts.]",
+      "node_id": "node10",
+      "id": "Node013"
+    }
+  ],
+  "links": [
+    {
+      "text": "Return to Main Page",
+      "source": "Node004",
+      "target": "Node001_1"
+    },
+    {
+      "text": "Special Note:",
+      "source": "Node004",
+      "target": "Node005"
+    },
+    {
+      "text": "Exit",
+      "source": "Node004",
+      "target": "Node999"
+    },
+    {
+      "text": "Exit",
+      "source": "Node009",
+      "target": "Node999"
+    },
+    {
+      "text": "Return to Main Page",
+      "source": "Node009",
+      "target": "Node001_1"
+    },
+    {
+      "text": "Smitty",
+      "source": "Node015",
+      "target": "Node018"
+    },
+    {
+      "text": "Return to Main Page",
+      "source": "Node015",
+      "target": "Node001_1"
+    },
+    {
+      "text": "Directions:",
+      "source": "Node015",
+      "target": "Node016"
+    },
+    {
+      "text": "Exit",
+      "source": "Node015",
+      "target": "Node999"
+    },
+    {
+      "text": "Flick's",
+      "source": "Node015",
+      "target": "Node017"
+    },
+    {
+      "text": "Rebecca's Casino Bar",
+      "source": "Node006",
+      "target": "Node007"
+    },
+    {
+      "text": "Return to Main Page",
+      "source": "Node006",
+      "target": "Node001_1"
+    },
+    {
+      "text": "Exit",
+      "source": "Node006",
+      "target": "Node999"
+    },
+    {
+      "text": "Frankie's",
+      "source": "Node006",
+      "target": "Node011"
+    },
+    {
+      "text": "Exit",
+      "source": "Node019",
+      "target": "Node999"
+    },
+    {
+      "text": "Tubby's",
+      "source": "Node019",
+      "target": "Node015"
+    },
+    {
+      "text": "Flick's",
+      "source": "Node019",
+      "target": "Node017"
+    },
+    {
+      "text": "Return to Main Page",
+      "source": "Node019",
+      "target": "Node001_1"
+    },
+    {
+      "text": "Exit",
+      "source": "Node017",
+      "target": "Node999"
+    },
+    {
+      "text": "Return to Main Page",
+      "source": "Node017",
+      "target": "Node001_1"
+    },
+    {
+      "text": "Tubby's",
+      "source": "Node017",
+      "target": "Node015"
+    },
+    {
+      "text": "Smitty",
+      "source": "Node017",
+      "target": "Node018"
+    },
+    {
+      "text": "Tubby's",
+      "source": "Node014",
+      "target": "Node015"
+    },
+    {
+      "text": "Smitty",
+      "source": "Node014",
+      "target": "Node018"
+    },
+    {
+      "text": "Return to Main Page",
+      "source": "Node014",
+      "target": "Node001_1"
+    },
+    {
+      "text": "Exit",
+      "source": "Node014",
+      "target": "Node999"
+    },
+    {
+      "text": "Flick's",
+      "source": "Node014",
+      "target": "Node017"
+    },
+    {
+      "text": "Flick's",
+      "source": "Node016",
+      "target": "Node017"
+    },
+    {
+      "text": "Return to Main Page",
+      "source": "Node016",
+      "target": "Node001_1"
+    },
+    {
+      "text": "Exit",
+      "source": "Node016",
+      "target": "Node999"
+    },
+    {
+      "text": "Smitty",
+      "source": "Node016",
+      "target": "Node018"
+    },
+    {
+      "text": "Return to Main Page",
+      "source": "Node008",
+      "target": "Node001_1"
+    },
+    {
+      "text": "Exit",
+      "source": "Node008",
+      "target": "Node999"
+    },
+    {
+      "text": "Frankie's",
+      "source": "Node008",
+      "target": "Node011"
+    },
+    {
+      "text": "Return to Main Page",
+      "source": "Node005",
+      "target": "Node001_1"
+    },
+    {
+      "text": "Directions:",
+      "source": "Node005",
+      "target": "Node004"
+    },
+    {
+      "text": "Exit",
+      "source": "Node005",
+      "target": "Node999"
+    },
+    {
+      "text": "Return to Main Page",
+      "source": "Node003",
+      "target": "Node001_1"
+    },
+    {
+      "text": "Directions:",
+      "source": "Node003",
+      "target": "Node004"
+    },
+    {
+      "text": "Special Note:",
+      "source": "Node003",
+      "target": "Node005"
+    },
+    {
+      "text": "Exit",
+      "source": "Node003",
+      "target": "Node999"
+    },
+    {
+      "text": "",
+      "source": "use_p_proc",
+      "target": "Node010_1"
+    },
+    {
+      "text": "",
+      "source": "use_p_proc",
+      "target": "Node013"
+    },
+    {
+      "text": "",
+      "source": "use_p_proc",
+      "target": "Node001_1"
+    },
+    {
+      "text": "Frankie's",
+      "source": "Node007",
+      "target": "Node011"
+    },
+    {
+      "text": "Directions:",
+      "source": "Node007",
+      "target": "Node008"
+    },
+    {
+      "text": "Return to Main Page",
+      "source": "Node007",
+      "target": "Node001_1"
+    },
+    {
+      "text": "Exit",
+      "source": "Node007",
+      "target": "Node999"
+    },
+    {
+      "text": "Rebecca's Casino Bar",
+      "source": "Node011",
+      "target": "Node007"
+    },
+    {
+      "text": "Return to Main Page",
+      "source": "Node011",
+      "target": "Node001_1"
+    },
+    {
+      "text": "Exit",
+      "source": "Node011",
+      "target": "Node999"
+    },
+    {
+      "text": "Continue",
+      "source": "Node002",
+      "target": "Node003"
+    },
+    {
+      "text": "Return to Main Page",
+      "source": "Node002",
+      "target": "Node001_1"
+    },
+    {
+      "text": "Exit",
+      "source": "Node002",
+      "target": "Node999"
+    },
+    {
+      "text": "Return to Main Page",
+      "source": "Node018",
+      "target": "Node001_1"
+    },
+    {
+      "text": "Tubby's",
+      "source": "Node018",
+      "target": "Node015"
+    },
+    {
+      "text": "Directions:",
+      "source": "Node018",
+      "target": "Node019"
+    },
+    {
+      "text": "Exit",
+      "source": "Node018",
+      "target": "Node999"
+    },
+    {
+      "text": "Flick's",
+      "source": "Node018",
+      "target": "Node017"
+    },
+    {
+      "text": "Return to Main Page",
+      "source": "Node012",
+      "target": "Node001_1"
+    },
+    {
+      "text": "Exit",
+      "source": "Node012",
+      "target": "Node999"
+    },
+    {
+      "text": "Slaver's Guild",
+      "source": "Node001_1",
+      "target": "Node002"
+    },
+    {
+      "text": "[Someone has scribbled something on the side of this post.]",
+      "source": "Node001_1",
+      "target": "Node009"
+    },
+    {
+      "text": "Shops",
+      "source": "Node001_1",
+      "target": "Node014"
+    },
+    {
+      "text": "Dining",
+      "source": "Node001_1",
+      "target": "Node012"
+    },
+    {
+      "text": "Bars & Gambling",
+      "source": "Node001_1",
+      "target": "Node006"
+    }
+  ]
+}

@@ -1,0 +1,254 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "You deftly pick the lock on the door. 's lack of skill has jammed the lock on this door.",
+      "node_id": "node20_5",
+      "id": "Lockpick_Door_5"
+    },
+    {
+      "text": "There is no way to untrap the door. fails to find any traps on the door.",
+      "node_id": "node11_2",
+      "id": "use_skill_on_p_proc_2"
+    },
+    {
+      "text": "",
+      "node_id": "node21",
+      "id": "Lockpick_Lock"
+    },
+    {
+      "text": "",
+      "node_id": "node12",
+      "id": "Unlock_Lock"
+    },
+    {
+      "text": "You see a wooden door.",
+      "node_id": "node20_2",
+      "id": "Lockpick_Door_2"
+    },
+    {
+      "text": "You deftly lock the door. failed to lock the door.",
+      "node_id": "node22_5",
+      "id": "Lock_Door_5"
+    },
+    {
+      "text": "You see a wooden door.",
+      "node_id": "node22_2",
+      "id": "Lock_Door_2"
+    },
+    {
+      "text": "You fail to pick the lock on this door.",
+      "node_id": "node20_6",
+      "id": "Lockpick_Door_6"
+    },
+    {
+      "text": "There is no way to untrap the door.",
+      "node_id": "node20_7",
+      "id": "Lockpick_Door_7"
+    },
+    {
+      "text": "You fail to lock the door.",
+      "node_id": "node22_4",
+      "id": "Lock_Door_4"
+    },
+    {
+      "text": "",
+      "node_id": "node13",
+      "id": "Set_Lock"
+    },
+    {
+      "text": "You deftly pick the lock on the door. failed to pick the lock on this door.",
+      "node_id": "node20_8",
+      "id": "Lockpick_Door_8"
+    },
+    {
+      "text": "You deftly lock the door. deftly locks the door.",
+      "node_id": "node22_1",
+      "id": "Lock_Door_1"
+    },
+    {
+      "text": "You see a metal door.",
+      "node_id": "node20_3",
+      "id": "Lockpick_Door_3"
+    },
+    {
+      "text": "Your lack of skill has jammed the lock on this door.",
+      "node_id": "node20_4",
+      "id": "Lockpick_Door_4"
+    },
+    {
+      "text": "You fail to find any traps on the door.",
+      "node_id": "node11_1",
+      "id": "use_skill_on_p_proc_1"
+    },
+    {
+      "text": "You deftly pick the lock on the door. deftly picks the lock on the door.",
+      "node_id": "node20_1",
+      "id": "Lockpick_Door_1"
+    },
+    {
+      "text": "You see a metal door.",
+      "node_id": "node22_3",
+      "id": "Lock_Door_3"
+    },
+    {
+      "text": "",
+      "node_id": "node23",
+      "id": "Set_Lockpick_Lock"
+    }
+  ],
+  "links": [
+    {
+      "text": "",
+      "source": "use_skill_on_p_proc_2",
+      "target": "Unlock_Lock"
+    },
+    {
+      "text": "",
+      "source": "use_skill_on_p_proc_2",
+      "target": "Set_Lock"
+    },
+    {
+      "text": "",
+      "source": "Lockpick_Lock",
+      "target": "Lockpick_Door_4"
+    },
+    {
+      "text": "",
+      "source": "Lockpick_Lock",
+      "target": "Lockpick_Door_5"
+    },
+    {
+      "text": "",
+      "source": "Lockpick_Lock",
+      "target": "Lockpick_Door_1"
+    },
+    {
+      "text": "",
+      "source": "Lockpick_Lock",
+      "target": "Lockpick_Door_7"
+    },
+    {
+      "text": "",
+      "source": "Lockpick_Lock",
+      "target": "Lockpick_Door_2"
+    },
+    {
+      "text": "",
+      "source": "Lockpick_Lock",
+      "target": "Lockpick_Door_6"
+    },
+    {
+      "text": "",
+      "source": "Lockpick_Lock",
+      "target": "Lockpick_Door_3"
+    },
+    {
+      "text": "",
+      "source": "Lockpick_Lock",
+      "target": "Lockpick_Door_8"
+    },
+    {
+      "text": "",
+      "source": "Unlock_Lock",
+      "target": "Lockpick_Door_6"
+    },
+    {
+      "text": "",
+      "source": "Unlock_Lock",
+      "target": "Lockpick_Door_3"
+    },
+    {
+      "text": "",
+      "source": "Unlock_Lock",
+      "target": "Lockpick_Door_2"
+    },
+    {
+      "text": "",
+      "source": "Unlock_Lock",
+      "target": "Lockpick_Door_8"
+    },
+    {
+      "text": "",
+      "source": "Unlock_Lock",
+      "target": "Lockpick_Door_4"
+    },
+    {
+      "text": "",
+      "source": "Unlock_Lock",
+      "target": "Lockpick_Door_5"
+    },
+    {
+      "text": "",
+      "source": "Unlock_Lock",
+      "target": "Lockpick_Door_1"
+    },
+    {
+      "text": "",
+      "source": "Unlock_Lock",
+      "target": "Lockpick_Door_7"
+    },
+    {
+      "text": "",
+      "source": "Set_Lock",
+      "target": "Lock_Door_1"
+    },
+    {
+      "text": "",
+      "source": "Set_Lock",
+      "target": "Lock_Door_5"
+    },
+    {
+      "text": "",
+      "source": "Set_Lock",
+      "target": "Lock_Door_3"
+    },
+    {
+      "text": "",
+      "source": "Set_Lock",
+      "target": "Lock_Door_2"
+    },
+    {
+      "text": "",
+      "source": "Set_Lock",
+      "target": "Lock_Door_4"
+    },
+    {
+      "text": "",
+      "source": "use_skill_on_p_proc_1",
+      "target": "Set_Lock"
+    },
+    {
+      "text": "",
+      "source": "use_skill_on_p_proc_1",
+      "target": "Unlock_Lock"
+    },
+    {
+      "text": "",
+      "source": "Set_Lockpick_Lock",
+      "target": "Lock_Door_4"
+    },
+    {
+      "text": "",
+      "source": "Set_Lockpick_Lock",
+      "target": "Lock_Door_5"
+    },
+    {
+      "text": "",
+      "source": "Set_Lockpick_Lock",
+      "target": "Lock_Door_3"
+    },
+    {
+      "text": "",
+      "source": "Set_Lockpick_Lock",
+      "target": "Lock_Door_2"
+    },
+    {
+      "text": "",
+      "source": "Set_Lockpick_Lock",
+      "target": "Lock_Door_1"
+    }
+  ]
+}

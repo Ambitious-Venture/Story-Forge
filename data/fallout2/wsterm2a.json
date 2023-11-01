@@ -1,0 +1,404 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "Error! No program files present Please reboot",
+      "node_id": "node4",
+      "id": "Node004"
+    },
+    {
+      "text": "Skynet Security Systems Warning! Intruder Detected Levels:",
+      "node_id": "node7_5",
+      "id": "Node002_5"
+    },
+    {
+      "text": "Unauthorized Access Initiating Security Lock-Out of this Terminal",
+      "node_id": "node19",
+      "id": "Node015"
+    },
+    {
+      "text": "Skynet Security Systems Warning! Intruder Detected Level 1 Retina Scanner Activated Scanning Searching Database days ago.",
+      "node_id": "node7_4",
+      "id": "Node002_4"
+    },
+    {
+      "text": "Exiting Diagnostic Program.",
+      "node_id": "node25",
+      "id": "Node017"
+    },
+    {
+      "text": "",
+      "node_id": "node20",
+      "id": "Node002a"
+    },
+    {
+      "text": "Last Accessed:",
+      "node_id": "node7_6",
+      "id": "Node002_6"
+    },
+    {
+      "text": "Analyzing Command Please Wait... Terminate al... Override By Skynet Code 667 Access to this Terminal is Terminated.",
+      "node_id": "node14",
+      "id": "Node016"
+    },
+    {
+      "text": "Access Denied... Access Denied... Access Granted Terminating Alarm Systems Level 2",
+      "node_id": "node18",
+      "id": "Node014"
+    },
+    {
+      "text": "",
+      "node_id": "node3",
+      "id": "talk_p_proc"
+    },
+    {
+      "text": "Skynet Security Systems Access to This Terminal is Denied",
+      "node_id": "node5",
+      "id": "Node003"
+    },
+    {
+      "text": "Skynet Security Systems Warning! Intruder Detected Levels:",
+      "node_id": "node7_1",
+      "id": "Node002_1"
+    },
+    {
+      "text": "Last Accessed:",
+      "node_id": "node7_2",
+      "id": "Node002_2"
+    },
+    {
+      "text": "",
+      "node_id": "node13",
+      "id": "Node999"
+    },
+    {
+      "text": "Last Accessed:",
+      "node_id": "node7_3",
+      "id": "Node002_3"
+    },
+    {
+      "text": "Skynet Security Systems Warning! Intruder Detected Level 1 Retina Scanner Activated Scanning Searching Database days ago.",
+      "node_id": "node7_7",
+      "id": "Node002_7"
+    },
+    {
+      "text": "Analyzing Command Please Wait... Overriding User Command Access Denied",
+      "node_id": "node22",
+      "id": "Node010"
+    },
+    {
+      "text": "",
+      "node_id": "node23",
+      "id": "Node011a"
+    },
+    {
+      "text": "A computer terminal.",
+      "node_id": "node17_1",
+      "id": "Node001b_1"
+    },
+    {
+      "text": "To Deactivate Alarm Press - 1 To Run Diagnostic Program Press - 2 To Exit Press - 3",
+      "node_id": "node15",
+      "id": "Node011"
+    },
+    {
+      "text": "Warning! This program works best if you shut down all programs. Do you wish to do so now?",
+      "node_id": "node21",
+      "id": "Node012"
+    },
+    {
+      "text": "A computer terminal.",
+      "node_id": "node16_1",
+      "id": "Node001a_1"
+    },
+    {
+      "text": "Shutting Down Skynet Security Program Analyzing Data Structure... Diagnostic Interrupted Diagnostic Program Terminated Reinitiating Security Program Resetting Alarm Skynet Security System - Status Ready",
+      "node_id": "node24",
+      "id": "Node013"
+    }
+  ],
+  "links": [
+    {
+      "text": "Exit",
+      "source": "Node004",
+      "target": "Node999"
+    },
+    {
+      "text": "Activate Alarm System Level 2",
+      "source": "Node002_5",
+      "target": "Node002a"
+    },
+    {
+      "text": "Exit",
+      "source": "Node002_5",
+      "target": "Node999"
+    },
+    {
+      "text": "Run self-diagnostic program.",
+      "source": "Node002_5",
+      "target": "Node012"
+    },
+    {
+      "text": "Exit",
+      "source": "Node015",
+      "target": "Node999"
+    },
+    {
+      "text": "Run self-diagnostic program.",
+      "source": "Node002_4",
+      "target": "Node012"
+    },
+    {
+      "text": "Activate Alarm System Level 2",
+      "source": "Node002_4",
+      "target": "Node002a"
+    },
+    {
+      "text": "Exit",
+      "source": "Node002_4",
+      "target": "Node999"
+    },
+    {
+      "text": "[More]",
+      "source": "Node017",
+      "target": "Node011a"
+    },
+    {
+      "text": "Activate Alarm System Level 2",
+      "source": "Node002_6",
+      "target": "Node002a"
+    },
+    {
+      "text": "Exit",
+      "source": "Node002_6",
+      "target": "Node999"
+    },
+    {
+      "text": "Run self-diagnostic program.",
+      "source": "Node002_6",
+      "target": "Node012"
+    },
+    {
+      "text": "Exit",
+      "source": "Node016",
+      "target": "Node999"
+    },
+    {
+      "text": "Exit",
+      "source": "Node014",
+      "target": "Node999"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node002_7"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node002_5"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node002_3"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node004"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node002_6"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node002_4"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node002_1"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node002_2"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node003"
+    },
+    {
+      "text": "Exit.",
+      "source": "Node003",
+      "target": "Node999"
+    },
+    {
+      "text": "Activate Alarm System Level 2",
+      "source": "Node002_1",
+      "target": "Node002a"
+    },
+    {
+      "text": "Exit",
+      "source": "Node002_1",
+      "target": "Node999"
+    },
+    {
+      "text": "Run self-diagnostic program.",
+      "source": "Node002_1",
+      "target": "Node012"
+    },
+    {
+      "text": "Activate Alarm System Level 2",
+      "source": "Node002_2",
+      "target": "Node002a"
+    },
+    {
+      "text": "Exit",
+      "source": "Node002_2",
+      "target": "Node999"
+    },
+    {
+      "text": "Run self-diagnostic program.",
+      "source": "Node002_2",
+      "target": "Node012"
+    },
+    {
+      "text": "Run self-diagnostic program.",
+      "source": "Node002_3",
+      "target": "Node012"
+    },
+    {
+      "text": "Activate Alarm System Level 2",
+      "source": "Node002_3",
+      "target": "Node002a"
+    },
+    {
+      "text": "Exit",
+      "source": "Node002_3",
+      "target": "Node999"
+    },
+    {
+      "text": "Run self-diagnostic program.",
+      "source": "Node002_7",
+      "target": "Node012"
+    },
+    {
+      "text": "Activate Alarm System Level 2",
+      "source": "Node002_7",
+      "target": "Node002a"
+    },
+    {
+      "text": "Exit",
+      "source": "Node002_7",
+      "target": "Node999"
+    },
+    {
+      "text": "[More]",
+      "source": "Node010",
+      "target": "Node011"
+    },
+    {
+      "text": "",
+      "source": "Node011a",
+      "target": "Node002_6"
+    },
+    {
+      "text": "",
+      "source": "Node011a",
+      "target": "Node002_4"
+    },
+    {
+      "text": "",
+      "source": "Node011a",
+      "target": "Node002_1"
+    },
+    {
+      "text": "",
+      "source": "Node011a",
+      "target": "Node002_2"
+    },
+    {
+      "text": "",
+      "source": "Node011a",
+      "target": "Node002_7"
+    },
+    {
+      "text": "",
+      "source": "Node011a",
+      "target": "Node002_5"
+    },
+    {
+      "text": "",
+      "source": "Node011a",
+      "target": "Node002_3"
+    },
+    {
+      "text": "",
+      "source": "Node001b_1",
+      "target": "Node015"
+    },
+    {
+      "text": "",
+      "source": "Node001b_1",
+      "target": "Node014"
+    },
+    {
+      "text": "Press 3",
+      "source": "Node011",
+      "target": "Node011a"
+    },
+    {
+      "text": "Press 2",
+      "source": "Node011",
+      "target": "Node012"
+    },
+    {
+      "text": "Press 1",
+      "source": "Node011",
+      "target": "Node010"
+    },
+    {
+      "text": "Exit",
+      "source": "Node011",
+      "target": "Node999"
+    },
+    {
+      "text": "Yes.",
+      "source": "Node012",
+      "target": "Node013"
+    },
+    {
+      "text": "Exit",
+      "source": "Node012",
+      "target": "Node999"
+    },
+    {
+      "text": "No.",
+      "source": "Node012",
+      "target": "Node017"
+    },
+    {
+      "text": "",
+      "source": "Node001a_1",
+      "target": "Node014"
+    },
+    {
+      "text": "",
+      "source": "Node001a_1",
+      "target": "Node015"
+    },
+    {
+      "text": "Exit",
+      "source": "Node013",
+      "target": "Node999"
+    }
+  ]
+}

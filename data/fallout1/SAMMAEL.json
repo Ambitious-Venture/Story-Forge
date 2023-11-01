@@ -1,0 +1,269 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "You see a grungy man in dark blue clothes.",
+      "node_id": "node4_1",
+      "id": "look_at_p_proc_1"
+    },
+    {
+      "text": "Oh, I see. Right. Bye!",
+      "node_id": "node11",
+      "id": "Sammael15"
+    },
+    {
+      "text": "",
+      "node_id": "node1",
+      "id": "start"
+    },
+    {
+      "text": "I've heard there's a nest of them somewhere to the east of the Blades, but I haven't seen it myself.",
+      "node_id": "node19_1",
+      "id": "Sammael10_1"
+    },
+    {
+      "text": "",
+      "node_id": "node3",
+      "id": "destroy_p_proc"
+    },
+    {
+      "text": "I'm a Scav -- a scavenger. My job is to search out all of the Boneyard for useful items and information. Dangerous work.",
+      "node_id": "node13",
+      "id": "Sammael04"
+    },
+    {
+      "text": "Nobody special. Never mind.",
+      "node_id": "node10",
+      "id": "Sammael03"
+    },
+    {
+      "text": "And if the stories are right, the church is built over an old Vault, which Adytum's predecessors lived in.",
+      "node_id": "node22_1",
+      "id": "Sammael13_1"
+    },
+    {
+      "text": "The pleasure's mine. I'm called Sammael.",
+      "node_id": "node12",
+      "id": "Sammael02"
+    },
+    {
+      "text": "Heya. We see each other once more. What's up?",
+      "node_id": "node8",
+      "id": "Sammael14"
+    },
+    {
+      "text": "The Blades are a pretty sorry sight for a group of people. They get by though, and some of them end up here in Adytum if they agree to what the Regulators offer them to do.",
+      "node_id": "node18",
+      "id": "Sammael09"
+    },
+    {
+      "text": "Well, you got the DeathClaws out there, and then you got the Regulators back here in Adytum. Both ain't the most forgiving types.",
+      "node_id": "node15",
+      "id": "Sammael06"
+    },
+    {
+      "text": "I'm .",
+      "node_id": "node9_1",
+      "id": "Sammael01_1"
+    },
+    {
+      "text": "I've done a little scouting. Who do you want to know about?",
+      "node_id": "node17",
+      "id": "Sammael08"
+    },
+    {
+      "text": "We only work at night, and we're good at what we do. \u00a0But I'll admit not everyone always comes back. \u00a0I sent a guy out last week to look for some parts for Miles, and we haven't heard from him since. The last transmission I got from him was that he'd found the parts,  and was on his way back.",
+      "node_id": "node16",
+      "id": "Sammael07"
+    },
+    {
+      "text": "The Gun Runners moved into a big factory up to north-east not long ago. Can't tell you much because they have a moat filled with radioactive sludge, and you gotta get through the Deathclaws  to get there.",
+      "node_id": "node20",
+      "id": "Sammael11"
+    },
+    {
+      "text": "",
+      "node_id": "node2",
+      "id": "critter_p_proc"
+    },
+    {
+      "text": "See you around. If you see me. Heh.",
+      "node_id": "node14",
+      "id": "Sammael05"
+    },
+    {
+      "text": "",
+      "node_id": "node5",
+      "id": "pickup_p_proc"
+    },
+    {
+      "text": "The Followers preach peace and tolerance. Nice idea, but impractical. They live in a big library to the north-west of us.",
+      "node_id": "node21",
+      "id": "Sammael12"
+    },
+    {
+      "text": "",
+      "node_id": "node6",
+      "id": "talk_p_proc"
+    }
+  ],
+  "links": [
+    {
+      "text": "",
+      "source": "start",
+      "target": "pickup_p_proc"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "look_at_p_proc_1"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "destroy_p_proc"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "talk_p_proc"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "critter_p_proc"
+    },
+    {
+      "text": "",
+      "source": "Sammael10_1",
+      "target": "Sammael08"
+    },
+    {
+      "text": "Thanks, bye.",
+      "source": "Sammael04",
+      "target": "Sammael05"
+    },
+    {
+      "text": "How do you avoid the Deathclaws?",
+      "source": "Sammael04",
+      "target": "Sammael07"
+    },
+    {
+      "text": "Have you scouted out any of the other areas?",
+      "source": "Sammael04",
+      "target": "Sammael08"
+    },
+    {
+      "text": "Why is it dangerous?",
+      "source": "Sammael04",
+      "target": "Sammael06"
+    },
+    {
+      "text": "",
+      "source": "Sammael13_1",
+      "target": "Sammael08"
+    },
+    {
+      "text": "What do you do here?",
+      "source": "Sammael02",
+      "target": "Sammael04"
+    },
+    {
+      "text": "Nice talking to you.",
+      "source": "Sammael02",
+      "target": "Sammael05"
+    },
+    {
+      "text": "What was your job, again?",
+      "source": "Sammael14",
+      "target": "Sammael04"
+    },
+    {
+      "text": "Nothing, thanks.",
+      "source": "Sammael14",
+      "target": "Sammael05"
+    },
+    {
+      "text": "",
+      "source": "Sammael09",
+      "target": "Sammael08"
+    },
+    {
+      "text": "Have you scouted out any of the other areas?",
+      "source": "Sammael06",
+      "target": "Sammael08"
+    },
+    {
+      "text": "Thanks, bye.",
+      "source": "Sammael06",
+      "target": "Sammael05"
+    },
+    {
+      "text": "How do you avoid the Deathclaws?",
+      "source": "Sammael06",
+      "target": "Sammael07"
+    },
+    {
+      "text": "Who's asking?",
+      "source": "Sammael01_1",
+      "target": "Sammael03"
+    },
+    {
+      "text": "Eruh?",
+      "source": "Sammael01_1",
+      "target": "Sammael15"
+    },
+    {
+      "text": "Nobody, thanks.",
+      "source": "Sammael08",
+      "target": "Sammael05"
+    },
+    {
+      "text": "The Children of the Cathedral.",
+      "source": "Sammael08",
+      "target": "Sammael13_1"
+    },
+    {
+      "text": "The Gun Runners.",
+      "source": "Sammael08",
+      "target": "Sammael11"
+    },
+    {
+      "text": "The Blades.",
+      "source": "Sammael08",
+      "target": "Sammael09"
+    },
+    {
+      "text": "The Deathclaws.",
+      "source": "Sammael08",
+      "target": "Sammael10_1"
+    },
+    {
+      "text": "The Followers of the Apocalypse.",
+      "source": "Sammael08",
+      "target": "Sammael12"
+    },
+    {
+      "text": "",
+      "source": "Sammael11",
+      "target": "Sammael08"
+    },
+    {
+      "text": "",
+      "source": "Sammael12",
+      "target": "Sammael08"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Sammael01_1"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Sammael14"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "",
+      "node_id": "node1",
+      "id": "start"
+    },
+    {
+      "text": "This is the storage room. It looks emptier than you remember it. The Vault must be running out of supplies at a greater rate than you could have imagined.",
+      "node_id": "node2",
+      "id": "spatial_p_proc"
+    }
+  ],
+  "links": [
+    {
+      "text": "",
+      "source": "start",
+      "target": "spatial_p_proc"
+    }
+  ]
+}

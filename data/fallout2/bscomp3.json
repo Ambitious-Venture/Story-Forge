@@ -1,0 +1,129 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "",
+      "node_id": "node14",
+      "id": "Node999"
+    },
+    {
+      "text": "The terminal indicates that all security systems in the vault are off line due to power failure.",
+      "node_id": "node13_4",
+      "id": "Node001_4"
+    },
+    {
+      "text": "The terminal indicates that the field system has been compromised.",
+      "node_id": "node13_2",
+      "id": "Node001_2"
+    },
+    {
+      "text": "You give the command to deactivate the force field.",
+      "node_id": "node15",
+      "id": "Node002"
+    },
+    {
+      "text": "The terminal indicates that the security force field at the vault entrance has been activated now that power has been restored.",
+      "node_id": "node13_1",
+      "id": "Node001_1"
+    },
+    {
+      "text": "The terminal indicates that the field system is off.",
+      "node_id": "node13_3",
+      "id": "Node001_3"
+    },
+    {
+      "text": "",
+      "node_id": "node12",
+      "id": "talk_p_proc"
+    },
+    {
+      "text": "Done.",
+      "node_id": "node16",
+      "id": "Node003"
+    }
+  ],
+  "links": [
+    {
+      "text": "Turn the force field on.",
+      "source": "Node001_4",
+      "target": "Node003"
+    },
+    {
+      "text": "Turn the force field off.",
+      "source": "Node001_4",
+      "target": "Node002"
+    },
+    {
+      "text": "Done.",
+      "source": "Node001_4",
+      "target": "Node999"
+    },
+    {
+      "text": "Done.",
+      "source": "Node001_2",
+      "target": "Node999"
+    },
+    {
+      "text": "Turn the force field off.",
+      "source": "Node001_2",
+      "target": "Node002"
+    },
+    {
+      "text": "Turn the force field on.",
+      "source": "Node001_2",
+      "target": "Node003"
+    },
+    {
+      "text": "Done.",
+      "source": "Node001_1",
+      "target": "Node999"
+    },
+    {
+      "text": "Turn the force field off.",
+      "source": "Node001_1",
+      "target": "Node002"
+    },
+    {
+      "text": "Turn the force field on.",
+      "source": "Node001_1",
+      "target": "Node003"
+    },
+    {
+      "text": "Turn the force field on.",
+      "source": "Node001_3",
+      "target": "Node003"
+    },
+    {
+      "text": "Done.",
+      "source": "Node001_3",
+      "target": "Node999"
+    },
+    {
+      "text": "Turn the force field off.",
+      "source": "Node001_3",
+      "target": "Node002"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node001_2"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node001_1"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node001_3"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node001_4"
+    }
+  ]
+}

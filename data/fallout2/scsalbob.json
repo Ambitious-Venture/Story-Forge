@@ -1,0 +1,274 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "Well, things looked bad when I stumbled into this cave. Thought I was a goner fer sure. Figured it was their lair - but I had me my torch so I went inside. Hoo-wee, it was a deep cave. And that's when I saw it.",
+      "node_id": "node25_2",
+      "id": "Node008_2"
+    },
+    {
+      "text": "Well, there warn't no need to be rude about it. Just wanted a little sip, see. Steady my nerves...",
+      "node_id": "node23",
+      "id": "Node004"
+    },
+    {
+      "text": "Hell and thunder, you again? Git yer scrawny ass outta my sight!",
+      "node_id": "node6",
+      "id": "Node015"
+    },
+    {
+      "text": "Easy, pardner! Can't blame a man fer asking, can ya? I'll just leave you be then.",
+      "node_id": "node22",
+      "id": "Node006"
+    },
+    {
+      "text": "Damn right I am! You don't have a little drink on you, do you now? Fer an old man.",
+      "node_id": "node30",
+      "id": "Node016"
+    },
+    {
+      "text": "Pleased to meet you. I'm .",
+      "node_id": "node19_1",
+      "id": "Node014_1"
+    },
+    {
+      "text": "By the time I staggered into Shady Sands, I was mostly dead. Took me to the doc and fixed me up, but that doc stole my map. I knows it and that's all I gots to say.",
+      "node_id": "node25_5",
+      "id": "Node008_5"
+    },
+    {
+      "text": "It was a great big door, like them kinds you see in the old video flics. Big and made o' steel. An on it was carved a great, big 13!",
+      "node_id": "node25_3",
+      "id": "Node008_3"
+    },
+    {
+      "text": "",
+      "node_id": "node5",
+      "id": "talk_p_proc"
+    },
+    {
+      "text": "",
+      "node_id": "node31",
+      "id": "removeAlchol"
+    },
+    {
+      "text": "Hoo-wee! Sounds like you got yerself some mighty fine hooch there! Say, hows about sharing a little? Just a little sip.",
+      "node_id": "node17",
+      "id": "Node005"
+    },
+    {
+      "text": "That's a right fine name, yep. Say, you wouldn't have a drink on ya, pardner?",
+      "node_id": "node20",
+      "id": "Node003"
+    },
+    {
+      "text": "What'd you say your name was again, stranger? I'm Saltbeef Bob.",
+      "node_id": "node8_1",
+      "id": "Node002_1"
+    },
+    {
+      "text": "They fought like hellcats. I fired so much I melted down my rifle barrel and was going at 'em knife to claw when old Bessie finally fused her last circuit board. Well, I tried to save her, but it warn't no use. Finally had to cut and run, keeping 'em off with rocks all the way.",
+      "node_id": "node25_1",
+      "id": "Node008_1"
+    },
+    {
+      "text": "",
+      "node_id": "node21",
+      "id": "Node007a"
+    },
+    {
+      "text": "Howdy, stranger!",
+      "node_id": "node7",
+      "id": "Node001"
+    },
+    {
+      "text": "(Gulp, gulp, gulp) Aaaahhhh! That's right fine of you, stranger! Fine person, indeed. Kind a man should have as his pardner. (Gulp) Did I ever tell you about the time I made my big strike?",
+      "node_id": "node24",
+      "id": "Node007"
+    },
+    {
+      "text": "Tarnation, it's a good and honest name, is what it is! The boys let me do some cooking around here and if you weren't such a tinhorn you'd know that and know to respect yer elders.",
+      "node_id": "node18",
+      "id": "Node010"
+    },
+    {
+      "text": "Rile me? Rile me! You ain't seen me riled yet! Now jes' git outta my sight before you gets me really upset! Gwan! Git!",
+      "node_id": "node28",
+      "id": "Node011"
+    },
+    {
+      "text": "Well bite me, too! Now yer talking. Don't take no lip from nobody, pardner! Say, you got any hooch on ya? Just a little sip?",
+      "node_id": "node29",
+      "id": "Node012"
+    },
+    {
+      "text": "Hee, hee, hee! It's mine now, pardner. You'll jes' have to find yer own!",
+      "node_id": "node26",
+      "id": "Node013"
+    },
+    {
+      "text": "I knew I'd found it, the mother lode, the Vault 13. I sat right down and made me a map. Damn near died getting out o' there, past them deathclaws and then the sun o' the desert and no water.",
+      "node_id": "node25_4",
+      "id": "Node008_4"
+    }
+  ],
+  "links": [
+    {
+      "text": "Bite me!",
+      "source": "Node015",
+      "target": "Node012"
+    },
+    {
+      "text": "You're a fiesty one, old timer",
+      "source": "Node015",
+      "target": "Node016"
+    },
+    {
+      "text": "No.",
+      "source": "Node016",
+      "target": "Node006"
+    },
+    {
+      "text": "Get away from me you stinking bum!",
+      "source": "Node016",
+      "target": "Node004"
+    },
+    {
+      "text": "Yes.",
+      "source": "Node016",
+      "target": "Node007a"
+    },
+    {
+      "text": "Saltbeef? What kind of name is that?",
+      "source": "Node014_1",
+      "target": "Node010"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node001"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node015"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node002_1"
+    },
+    {
+      "text": "Grrrg!",
+      "source": "Node005",
+      "target": "Node006"
+    },
+    {
+      "text": "Drink! Good!",
+      "source": "Node005",
+      "target": "Node007a"
+    },
+    {
+      "text": "No.",
+      "source": "Node003",
+      "target": "Node006"
+    },
+    {
+      "text": "Get away from me, you stinking bum!",
+      "source": "Node003",
+      "target": "Node004"
+    },
+    {
+      "text": "Yes.",
+      "source": "Node003",
+      "target": "Node007a"
+    },
+    {
+      "text": "Saltbeef? What kind of name is that?",
+      "source": "Node002_1",
+      "target": "Node010"
+    },
+    {
+      "text": "",
+      "source": "Node007a",
+      "target": "removeAlchol"
+    },
+    {
+      "text": "",
+      "source": "Node007a",
+      "target": "Node007"
+    },
+    {
+      "text": "Gruh?",
+      "source": "Node001",
+      "target": "Node005"
+    },
+    {
+      "text": "Who are you?",
+      "source": "Node001",
+      "target": "Node002_1"
+    },
+    {
+      "text": "Hey, quit drinking all my booze!",
+      "source": "Node007",
+      "target": "Node013"
+    },
+    {
+      "text": "No?",
+      "source": "Node007",
+      "target": "Node008_3"
+    },
+    {
+      "text": "No?",
+      "source": "Node007",
+      "target": "Node008_5"
+    },
+    {
+      "text": "No?",
+      "source": "Node007",
+      "target": "Node008_1"
+    },
+    {
+      "text": "No?",
+      "source": "Node007",
+      "target": "Node008_4"
+    },
+    {
+      "text": "No?",
+      "source": "Node007",
+      "target": "Node008_2"
+    },
+    {
+      "text": "Rahhhg!",
+      "source": "Node007",
+      "target": "Node006"
+    },
+    {
+      "text": "Sorry, old-timer didn't mean to rile you.",
+      "source": "Node010",
+      "target": "Node011"
+    },
+    {
+      "text": "Well bite me, old timer!",
+      "source": "Node010",
+      "target": "Node012"
+    },
+    {
+      "text": "Yes.",
+      "source": "Node012",
+      "target": "Node007a"
+    },
+    {
+      "text": "No.",
+      "source": "Node012",
+      "target": "Node006"
+    },
+    {
+      "text": "Get away from me you, stinking bum!",
+      "source": "Node012",
+      "target": "Node004"
+    }
+  ]
+}

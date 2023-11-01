@@ -1,0 +1,94 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "You see a metal door.",
+      "node_id": "node21_3",
+      "id": "Lock_Door_3"
+    },
+    {
+      "text": "You fail to lock the door.",
+      "node_id": "node21_4",
+      "id": "Lock_Door_4"
+    },
+    {
+      "text": "",
+      "node_id": "node22",
+      "id": "Set_Lock"
+    },
+    {
+      "text": "You deftly lock the door. failed to lock the door.",
+      "node_id": "node21_5",
+      "id": "Lock_Door_5"
+    },
+    {
+      "text": "You see a wooden door.",
+      "node_id": "node21_2",
+      "id": "Lock_Door_2"
+    },
+    {
+      "text": "You deftly lock the door. deftly locks the door.",
+      "node_id": "node21_1",
+      "id": "Lock_Door_1"
+    },
+    {
+      "text": "",
+      "node_id": "node23",
+      "id": "Set_Lockpick_Lock"
+    }
+  ],
+  "links": [
+    {
+      "text": "",
+      "source": "Set_Lock",
+      "target": "Lock_Door_1"
+    },
+    {
+      "text": "",
+      "source": "Set_Lock",
+      "target": "Lock_Door_5"
+    },
+    {
+      "text": "",
+      "source": "Set_Lock",
+      "target": "Lock_Door_3"
+    },
+    {
+      "text": "",
+      "source": "Set_Lock",
+      "target": "Lock_Door_2"
+    },
+    {
+      "text": "",
+      "source": "Set_Lock",
+      "target": "Lock_Door_4"
+    },
+    {
+      "text": "",
+      "source": "Set_Lockpick_Lock",
+      "target": "Lock_Door_4"
+    },
+    {
+      "text": "",
+      "source": "Set_Lockpick_Lock",
+      "target": "Lock_Door_5"
+    },
+    {
+      "text": "",
+      "source": "Set_Lockpick_Lock",
+      "target": "Lock_Door_3"
+    },
+    {
+      "text": "",
+      "source": "Set_Lockpick_Lock",
+      "target": "Lock_Door_2"
+    },
+    {
+      "text": "",
+      "source": "Set_Lockpick_Lock",
+      "target": "Lock_Door_1"
+    }
+  ]
+}

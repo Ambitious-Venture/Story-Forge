@@ -1,0 +1,54 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "It appears this person challenged Thanatos and lost.",
+      "node_id": "node2_4",
+      "id": "do_stuff_4"
+    },
+    {
+      "text": "",
+      "node_id": "node1",
+      "id": "start"
+    },
+    {
+      "text": "An unfortunate soul lays here.",
+      "node_id": "node2_1",
+      "id": "do_stuff_1"
+    },
+    {
+      "text": "The remains of a mutated human rest upon the floor.",
+      "node_id": "node2_2",
+      "id": "do_stuff_2"
+    },
+    {
+      "text": "The feeding grounds for carrion.",
+      "node_id": "node2_3",
+      "id": "do_stuff_3"
+    }
+  ],
+  "links": [
+    {
+      "text": "",
+      "source": "start",
+      "target": "do_stuff_2"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "do_stuff_3"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "do_stuff_4"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "do_stuff_1"
+    }
+  ]
+}

@@ -1,0 +1,144 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "Security systems are currently disarmed.",
+      "node_id": "node4",
+      "id": "tylier09"
+    },
+    {
+      "text": "I have been programmed to keep the systems armed until authorized personnel have entered the correct voice code.",
+      "node_id": "node7",
+      "id": "tylier04"
+    },
+    {
+      "text": "You are not authorized. Access denied.",
+      "node_id": "node9",
+      "id": "tylier05"
+    },
+    {
+      "text": "Invalid code. Access denied.",
+      "node_id": "node10",
+      "id": "tylier06"
+    },
+    {
+      "text": "I have not received orders to do otherwise. Network access is unavailable; central processor ZAX has apparently been destroyed.",
+      "node_id": "node12",
+      "id": "tylier08"
+    },
+    {
+      "text": "Voice override confirmed. Disarming security systems.",
+      "node_id": "node11",
+      "id": "tylier07"
+    },
+    {
+      "text": "Voice not recognized. Security systems status: armed.",
+      "node_id": "node5",
+      "id": "tylier02"
+    },
+    {
+      "text": "Security Station",
+      "node_id": "node1",
+      "id": "start"
+    },
+    {
+      "text": "",
+      "node_id": "node8",
+      "id": "tylierend"
+    },
+    {
+      "text": "I am . Let me pass.",
+      "node_id": "node3_1",
+      "id": "tylier01_1"
+    },
+    {
+      "text": "I am the security system for Blue Level. All systems armed.",
+      "node_id": "node6",
+      "id": "tylier03"
+    },
+    {
+      "text": "",
+      "node_id": "node2",
+      "id": "do_dialogue"
+    }
+  ],
+  "links": [
+    {
+      "text": "Voice override: Gamma Delta Delta. Disarm all systems.",
+      "source": "tylier04",
+      "target": "tylier06"
+    },
+    {
+      "text": "Good bye.",
+      "source": "tylier04",
+      "target": "tylierend"
+    },
+    {
+      "text": "Will you disarm the systems for me?",
+      "source": "tylier04",
+      "target": "tylier05"
+    },
+    {
+      "text": "Voice override: Gamma Omicron Delta. Disarm systems.",
+      "source": "tylier06",
+      "target": "tylier07"
+    },
+    {
+      "text": "Good bye.",
+      "source": "tylier06",
+      "target": "tylierend"
+    },
+    {
+      "text": "Voice override: Omicron Delta Delta. Disarm systems.",
+      "source": "tylier06",
+      "target": "tylier06"
+    },
+    {
+      "text": "Fine. Voice override: Sigma Alpha Delta. Disarm systems.",
+      "source": "tylier08",
+      "target": "tylier06"
+    },
+    {
+      "text": "Good bye.",
+      "source": "tylier08",
+      "target": "tylierend"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "do_dialogue"
+    },
+    {
+      "text": "Nuna!",
+      "source": "tylier01_1",
+      "target": "tylier02"
+    },
+    {
+      "text": "What do you do here?",
+      "source": "tylier01_1",
+      "target": "tylier03"
+    },
+    {
+      "text": "Can you disarm the systems?",
+      "source": "tylier03",
+      "target": "tylier04"
+    },
+    {
+      "text": "Thank you.",
+      "source": "tylier03",
+      "target": "tylierend"
+    },
+    {
+      "text": "",
+      "source": "do_dialogue",
+      "target": "tylier09"
+    },
+    {
+      "text": "",
+      "source": "do_dialogue",
+      "target": "tylier01_1"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "",
+      "node_id": "node4",
+      "id": "use_obj_on_p_proc"
+    },
+    {
+      "text": "",
+      "node_id": "node2",
+      "id": "timed_event_p_proc"
+    },
+    {
+      "text": "It's a wild Brahmin.",
+      "node_id": "node1",
+      "id": "start"
+    },
+    {
+      "text": "Looks pretty normal to you.",
+      "node_id": "node5_1",
+      "id": "use_skill_on_p_proc_1"
+    },
+    {
+      "text": "Moo, I say.",
+      "node_id": "node3",
+      "id": "talk_p_proc"
+    }
+  ],
+  "links": [
+    {
+      "text": "",
+      "source": "timed_event_p_proc",
+      "target": "talk_p_proc"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "talk_p_proc"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "timed_event_p_proc"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "use_skill_on_p_proc_1"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "use_obj_on_p_proc"
+    }
+  ]
+}

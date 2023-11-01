@@ -1,0 +1,159 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "",
+      "node_id": "node7",
+      "id": "DealerEnd"
+    },
+    {
+      "text": "Hi! I'm Bob.",
+      "node_id": "node4",
+      "id": "critter_p_proc"
+    },
+    {
+      "text": "What do you mean? They're working on a newly purchased '56 Corvega. An excellent buy, I might add.",
+      "node_id": "node12",
+      "id": "Dealer05"
+    },
+    {
+      "text": "",
+      "node_id": "node1",
+      "id": "start"
+    },
+    {
+      "text": "Oh, I'm sorry, you don't look like you can afford our financing rates.",
+      "node_id": "node8",
+      "id": "Dealer01"
+    },
+    {
+      "text": "These cars have been given a full 100-point service by our dedicated service department.",
+      "node_id": "node9",
+      "id": "Dealer03"
+    },
+    {
+      "text": "",
+      "node_id": "node2",
+      "id": "destroy_p_proc"
+    },
+    {
+      "text": "Ma'am, these are excellent vehicles.",
+      "node_id": "node6_1",
+      "id": "Dealer02_1"
+    },
+    {
+      "text": "",
+      "node_id": "node3",
+      "id": "talk_p_proc"
+    },
+    {
+      "text": "Hi! Welcome to my previously owned car lot. Which one of these beauties interests you today?",
+      "node_id": "node5",
+      "id": "Dealer00"
+    },
+    {
+      "text": "I'm insulted. I don't have to take that from a customer. Have a good day.",
+      "node_id": "node11",
+      "id": "Dealer08"
+    },
+    {
+      "text": "I'm sorry, we don't have any petrol. Maybe next time. Goodbye.",
+      "node_id": "node14",
+      "id": "Dealer07"
+    },
+    {
+      "text": "And we have an excellent warranty. You can bring it back to us for any oil changes, as well. The first one is free. What do you say?",
+      "node_id": "node13",
+      "id": "Dealer06"
+    }
+  ],
+  "links": [
+    {
+      "text": "You're just insane.",
+      "source": "Dealer05",
+      "target": "Dealer08"
+    },
+    {
+      "text": "Okay, whatever you say.",
+      "source": "Dealer05",
+      "target": "Dealer06"
+    },
+    {
+      "text": "Bye.",
+      "source": "Dealer05",
+      "target": "DealerEnd"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "destroy_p_proc"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "talk_p_proc"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "critter_p_proc"
+    },
+    {
+      "text": "You are a loon.",
+      "source": "Dealer03",
+      "target": "Dealer08"
+    },
+    {
+      "text": "Goodbye.",
+      "source": "Dealer03",
+      "target": "DealerEnd"
+    },
+    {
+      "text": "Yeah, right. Okay. Bye.",
+      "source": "Dealer02_1",
+      "target": "DealerEnd"
+    },
+    {
+      "text": "They can't be in working condition.",
+      "source": "Dealer02_1",
+      "target": "Dealer03"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Dealer00"
+    },
+    {
+      "text": "You must be joking. These cars are all wrecks.",
+      "source": "Dealer00",
+      "target": "Dealer02_1"
+    },
+    {
+      "text": "Uh, nothing, thanks.",
+      "source": "Dealer00",
+      "target": "DealerEnd"
+    },
+    {
+      "text": "Lug!",
+      "source": "Dealer00",
+      "target": "Dealer01"
+    },
+    {
+      "text": "You need help.",
+      "source": "Dealer06",
+      "target": "Dealer08"
+    },
+    {
+      "text": "I'm leaving now.",
+      "source": "Dealer06",
+      "target": "DealerEnd"
+    },
+    {
+      "text": "Throw in a full tank of gas and you have a deal.",
+      "source": "Dealer06",
+      "target": "Dealer07"
+    }
+  ]
+}

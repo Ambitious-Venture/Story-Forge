@@ -1,0 +1,329 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "You see a Follower of the Apocalypse.",
+      "node_id": "node5_1",
+      "id": "look_at_p_proc_1"
+    },
+    {
+      "text": "I can't let you leave then.",
+      "node_id": "node28",
+      "id": "Jake10"
+    },
+    {
+      "text": "",
+      "node_id": "node1",
+      "id": "start"
+    },
+    {
+      "text": "I never did learn anything from you. Your training  was useless.",
+      "node_id": "node10",
+      "id": "Jake17"
+    },
+    {
+      "text": "",
+      "node_id": "node29",
+      "id": "JakeCombat"
+    },
+    {
+      "text": "Get the hell out.",
+      "node_id": "node3",
+      "id": "timed_event_p_proc"
+    },
+    {
+      "text": "I will then. Good bye!",
+      "node_id": "node25",
+      "id": "Jake11"
+    },
+    {
+      "text": "Thank you very much. Now go!",
+      "node_id": "node26",
+      "id": "Jake08"
+    },
+    {
+      "text": "I am trying to sleep. Don't bother me.",
+      "node_id": "node9",
+      "id": "Jake14"
+    },
+    {
+      "text": "Hey. Just because I don't want to fight doesn't mean I'm a wimp. I just don't feel like it.",
+      "node_id": "node19",
+      "id": "Jake03"
+    },
+    {
+      "text": "",
+      "node_id": "node4",
+      "id": "destroy_p_proc"
+    },
+    {
+      "text": "It's the hard way. It's always the hard way.",
+      "node_id": "node2_1",
+      "id": "critter_p_proc_1"
+    },
+    {
+      "text": "I would love to fight you, but I am much too busy helping  Nicole right now.",
+      "node_id": "node15",
+      "id": "Jake02"
+    },
+    {
+      "text": "Hmm. I see. Thank you.",
+      "node_id": "node18",
+      "id": "Jake18"
+    },
+    {
+      "text": "We are having trouble with some of our information slipping out to the Children. I think it is a spy.",
+      "node_id": "node16",
+      "id": "Jake12"
+    },
+    {
+      "text": "Some of us will use our brains to get further in this world. A lot can be settled with peace and thinking.",
+      "node_id": "node21",
+      "id": "Jake04"
+    },
+    {
+      "text": "Currently, I can't tell you anything. Good day.",
+      "node_id": "node17",
+      "id": "Jake13"
+    },
+    {
+      "text": "Hurry up and find that vile scum!",
+      "node_id": "node12",
+      "id": "Jake15"
+    },
+    {
+      "text": "",
+      "node_id": "node6",
+      "id": "map_update_p_proc"
+    },
+    {
+      "text": "You want to help. I don't think you are good enough to help me out. Go talk to Neil.",
+      "node_id": "node14",
+      "id": "Jake01"
+    },
+    {
+      "text": "Nothing really. The only things I really know about is that a lot of low level information is getting to the Children. This is not good. Heather thinks it is either  Neil or Peter.",
+      "node_id": "node27",
+      "id": "Jake09"
+    },
+    {
+      "text": "That's better. Now. I have a problem with a spy around here.  Will you help me?",
+      "node_id": "node23",
+      "id": "Jake06"
+    },
+    {
+      "text": "That's it. I'm not going to talk to you anymore.",
+      "node_id": "node22",
+      "id": "Jake05"
+    },
+    {
+      "text": "",
+      "node_id": "node20",
+      "id": "JakeEnd"
+    },
+    {
+      "text": "",
+      "node_id": "node7",
+      "id": "pickup_p_proc"
+    },
+    {
+      "text": "Welcome, my friend! How might I help you today?",
+      "node_id": "node13",
+      "id": "Jake00"
+    },
+    {
+      "text": "I just said we have a spy around here. I think it may be one of the guards that is the spy. Though it could be a scout. Those are the only two groups that have access to the  Children.",
+      "node_id": "node24",
+      "id": "Jake07"
+    },
+    {
+      "text": "",
+      "node_id": "node8",
+      "id": "talk_p_proc"
+    },
+    {
+      "text": "I knew it was Heather all along. She was deceitful from the start. I should have told everyone what I thought at first.",
+      "node_id": "node11",
+      "id": "Jake16"
+    }
+  ],
+  "links": [
+    {
+      "text": "",
+      "source": "Jake10",
+      "target": "JakeCombat"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "pickup_p_proc"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "timed_event_p_proc"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "critter_p_proc_1"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "look_at_p_proc_1"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "map_update_p_proc"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "destroy_p_proc"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "talk_p_proc"
+    },
+    {
+      "text": "I was right. Just a wimp.",
+      "source": "Jake03",
+      "target": "JakeEnd"
+    },
+    {
+      "text": "Suit yourself. Good bye.",
+      "source": "Jake02",
+      "target": "JakeEnd"
+    },
+    {
+      "text": "How did a wimp like you become second in command?",
+      "source": "Jake02",
+      "target": "Jake04"
+    },
+    {
+      "text": "Figures. You looked like a wimp to me anyways.",
+      "source": "Jake02",
+      "target": "Jake03"
+    },
+    {
+      "text": "Forget it. I won't help you.",
+      "source": "Jake12",
+      "target": "Jake10"
+    },
+    {
+      "text": "Have any leads yet?",
+      "source": "Jake12",
+      "target": "Jake09"
+    },
+    {
+      "text": "Okay, I'll deal with this spy.",
+      "source": "Jake12",
+      "target": "Jake08"
+    },
+    {
+      "text": "Okay. So, what is the problem?",
+      "source": "Jake12",
+      "target": "Jake07"
+    },
+    {
+      "text": "When are you going to use your brains then?",
+      "source": "Jake04",
+      "target": "Jake05"
+    },
+    {
+      "text": "You're right. I'm sorry.",
+      "source": "Jake04",
+      "target": "Jake06"
+    },
+    {
+      "text": "Okay. I will go check on it.",
+      "source": "Jake09",
+      "target": "Jake08"
+    },
+    {
+      "text": "Forget it. I won't help you.",
+      "source": "Jake09",
+      "target": "Jake10"
+    },
+    {
+      "text": "Yes. What is it?",
+      "source": "Jake06",
+      "target": "Jake07"
+    },
+    {
+      "text": "Fix it yourself if you are so great.",
+      "source": "Jake06",
+      "target": "Jake11"
+    },
+    {
+      "text": "I hear you need help. What's the problem?",
+      "source": "Jake00",
+      "target": "Jake12"
+    },
+    {
+      "text": "Me hep! Me hep!",
+      "source": "Jake00",
+      "target": "Jake01"
+    },
+    {
+      "text": "I heard that you are a decent fighter. Let's find out.",
+      "source": "Jake00",
+      "target": "Jake02"
+    },
+    {
+      "text": "What can you tell me about the Followers?",
+      "source": "Jake00",
+      "target": "Jake13"
+    },
+    {
+      "text": "I have a package for you from Gabriel.",
+      "source": "Jake00",
+      "target": "Jake18"
+    },
+    {
+      "text": "Okay. I'll go get your spy and eliminate the problem.",
+      "source": "Jake07",
+      "target": "Jake08"
+    },
+    {
+      "text": "Have any leads on this spy?",
+      "source": "Jake07",
+      "target": "Jake09"
+    },
+    {
+      "text": "Forget it. I won't help you.",
+      "source": "Jake07",
+      "target": "Jake10"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Jake15"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Jake17"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Jake14"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Jake16"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Jake00"
+    }
+  ]
+}

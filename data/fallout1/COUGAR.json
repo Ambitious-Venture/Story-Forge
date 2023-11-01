@@ -1,0 +1,109 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "",
+      "node_id": "node3",
+      "id": "critter_p_proc"
+    },
+    {
+      "text": "It's you, again. The Cougar got nothing more to say.",
+      "node_id": "node7",
+      "id": "Cougar04"
+    },
+    {
+      "text": "You need to talk to my man, Flash, here. He can help you out.",
+      "node_id": "node10",
+      "id": "Cougar02"
+    },
+    {
+      "text": "Doc Morbid's assistant, Cougar.",
+      "node_id": "node1",
+      "id": "start"
+    },
+    {
+      "text": "The Cougar is always fine.",
+      "node_id": "node9",
+      "id": "Cougar01"
+    },
+    {
+      "text": "",
+      "node_id": "node4",
+      "id": "map_enter_p_proc"
+    },
+    {
+      "text": "",
+      "node_id": "node2",
+      "id": "destroy_p_proc"
+    },
+    {
+      "text": "",
+      "node_id": "node5",
+      "id": "talk_p_proc"
+    },
+    {
+      "text": "How's it going?",
+      "node_id": "node8",
+      "id": "Cougar00"
+    },
+    {
+      "text": "Yow! Don't talk too fast man. You give the Cougar a headhurt.  Talk to Flash instead.",
+      "node_id": "node11",
+      "id": "Cougar03"
+    }
+  ],
+  "links": [
+    {
+      "text": "",
+      "source": "start",
+      "target": "destroy_p_proc"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "talk_p_proc"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "map_enter_p_proc"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "critter_p_proc"
+    },
+    {
+      "text": "Hey, I gotta know . . .",
+      "source": "Cougar01",
+      "target": "Cougar02"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Cougar04"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Cougar00"
+    },
+    {
+      "text": "Good, and you?",
+      "source": "Cougar00",
+      "target": "Cougar01"
+    },
+    {
+      "text": "Ung.",
+      "source": "Cougar00",
+      "target": "Cougar03"
+    },
+    {
+      "text": "I need to see the Doc.",
+      "source": "Cougar00",
+      "target": "Cougar02"
+    }
+  ]
+}

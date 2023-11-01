@@ -1,0 +1,134 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "",
+      "node_id": "node15",
+      "id": "damage_p_proc"
+    },
+    {
+      "text": "Make it quick soldier, I don\u2019t have all day to stand around.",
+      "node_id": "node7",
+      "id": "Node004"
+    },
+    {
+      "text": "",
+      "node_id": "node20",
+      "id": "Node999"
+    },
+    {
+      "text": "I don\u2019t have time to chitchat with the grunts. You\u2019re dismissed.",
+      "node_id": "node9_1",
+      "id": "Node001_1"
+    },
+    {
+      "text": "",
+      "node_id": "node5",
+      "id": "talk_p_proc"
+    },
+    {
+      "text": "This base is on alert and I don\u2019t recognize you. Show me your papers, soldier.",
+      "node_id": "node6",
+      "id": "Node006"
+    },
+    {
+      "text": "",
+      "node_id": "node16",
+      "id": "Node998"
+    },
+    {
+      "text": "The Fob is in the locker over there. Have the duty officer contact me once it\u2019s secured. Dismissed!",
+      "node_id": "node8",
+      "id": "Node003"
+    },
+    {
+      "text": "Disobeying a direct order of a superior officer is treason. I don\u2019t have time to court martial you so I\u2019ll handle this myself. Guards! Kill this idiot!",
+      "node_id": "node10_1",
+      "id": "Node002_1"
+    },
+    {
+      "text": "Wrong answer, maggot. You\u2019re to carry your papers with you at all times. You should know that!",
+      "node_id": "node22",
+      "id": "Node007"
+    }
+  ],
+  "links": [
+    {
+      "text": "",
+      "source": "damage_p_proc",
+      "target": "Node998"
+    },
+    {
+      "text": "Yes sir!",
+      "source": "Node004",
+      "target": "Node999"
+    },
+    {
+      "text": "Okay.",
+      "source": "Node001_1",
+      "target": "Node999"
+    },
+    {
+      "text": "Time to die.",
+      "source": "Node001_1",
+      "target": "Node998"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node001_1"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node004"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node002_1"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node006"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node003"
+    },
+    {
+      "text": "What papers?",
+      "source": "Node006",
+      "target": "Node007"
+    },
+    {
+      "text": "You blow me!",
+      "source": "Node006",
+      "target": "Node998"
+    },
+    {
+      "text": "Yes sir!",
+      "source": "Node003",
+      "target": "Node999"
+    },
+    {
+      "text": "Okay.",
+      "source": "Node002_1",
+      "target": "Node999"
+    },
+    {
+      "text": "Screw you!",
+      "source": "Node002_1",
+      "target": "Node998"
+    },
+    {
+      "text": "Fuck you.",
+      "source": "Node007",
+      "target": "Node998"
+    }
+  ]
+}

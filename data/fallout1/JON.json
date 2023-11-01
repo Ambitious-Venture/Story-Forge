@@ -1,0 +1,34 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "Thank the gods!!! Here's your money. You'll always be welcome in Adytum,  my son.",
+      "node_id": "node39",
+      "id": "Zim22"
+    },
+    {
+      "text": "",
+      "node_id": "node40",
+      "id": "TopReact"
+    },
+    {
+      "text": "Finally she knows the taste of hell fire! Bless you, my son. [He wipes away a tear]. Here's an extra 500 caps for putting in the extra effort. You'll always be welcome here.",
+      "node_id": "node41",
+      "id": "Zim23"
+    }
+  ],
+  "links": [
+    {
+      "text": "",
+      "source": "Zim22",
+      "target": "TopReact"
+    },
+    {
+      "text": "",
+      "source": "Zim23",
+      "target": "TopReact"
+    }
+  ]
+}

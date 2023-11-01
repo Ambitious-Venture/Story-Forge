@@ -1,0 +1,1289 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "Valt! Gechkk!",
+      "node_id": "node24_5",
+      "id": "timed_event_p_proc_5"
+    },
+    {
+      "text": "",
+      "node_id": "node61",
+      "id": "Node028a"
+    },
+    {
+      "text": "C'mon. You need someone to work the Vault, don't you?",
+      "node_id": "node24_4",
+      "id": "timed_event_p_proc_4"
+    },
+    {
+      "text": "Since most Outsiders can't read, do trigonometry, or spell \"Australopithecus,\" you figure it out. It's just an excuse to keep Outsiders from becoming Citizens.",
+      "node_id": "node68",
+      "id": "Node038"
+    },
+    {
+      "text": "",
+      "node_id": "node36",
+      "id": "Node013a"
+    },
+    {
+      "text": "You can't bring that mutant in here.",
+      "node_id": "node9",
+      "id": "Node006"
+    },
+    {
+      "text": "All right, they're all done printing. Here you are...\"Citizen.\" And don't tell anyone about this, ESPECIALLY Wallace, all right?",
+      "node_id": "node50",
+      "id": "Node024"
+    },
+    {
+      "text": "Whoa. How did you escape? You better get back inside before Barkus gets mad. C'mon...",
+      "node_id": "node13",
+      "id": "Node035"
+    },
+    {
+      "text": "We're shut down for the night. Come back in the morning.",
+      "node_id": "node14",
+      "id": "Node008"
+    },
+    {
+      "text": "Two hundred or nothing, Outsider. It's the only way you're going to get inside the gate.",
+      "node_id": "node52",
+      "id": "Node028"
+    },
+    {
+      "text": "You can't bring that ghoul in here.",
+      "node_id": "node10",
+      "id": "Node007"
+    },
+    {
+      "text": "",
+      "node_id": "node33",
+      "id": "Node012a"
+    },
+    {
+      "text": "Well, you could go see my boss, Wallace, and TRY to get permission to get inside, but you'd be wasting your time. He never lets anybody in. Of course, there's other ways...",
+      "node_id": "node31",
+      "id": "Node012"
+    },
+    {
+      "text": "",
+      "node_id": "node65",
+      "id": "Node033"
+    },
+    {
+      "text": "Well...hmmm. I suppose you'll be expecting a finder's fee?",
+      "node_id": "node24_6",
+      "id": "timed_event_p_proc_6"
+    },
+    {
+      "text": "What th-?! Nobody's gonna believe you, Outsider! It'll be your word over mine!",
+      "node_id": "node54",
+      "id": "Node025"
+    },
+    {
+      "text": "Well, if it ain't the new Citizen.",
+      "node_id": "node11",
+      "id": "Node004"
+    },
+    {
+      "text": "Ha! I'd like to see you try. Wallace'll never believe you.",
+      "node_id": "node58",
+      "id": "Node025c"
+    },
+    {
+      "text": "Feeee? Peeeeeeee!",
+      "node_id": "node24_8",
+      "id": "timed_event_p_proc_8"
+    },
+    {
+      "text": "Look, dim, get out of h -- Mmmm. Wait a minute. Maybe...",
+      "node_id": "node28_1",
+      "id": "Node031_1"
+    },
+    {
+      "text": "",
+      "node_id": "node62",
+      "id": "Node030a"
+    },
+    {
+      "text": "Well, you CAN become a Citizen... unofficially.",
+      "node_id": "node45",
+      "id": "Node019"
+    },
+    {
+      "text": "Since most Outsiders can't read, do trigonometry, or spell \"Australopithecus,\" you figure it out. It's just an excuse to keep Outsiders from becoming Citizens.",
+      "node_id": "node43",
+      "id": "Node017"
+    },
+    {
+      "text": "Well, there's a few things you can do. One is become a Citizen. They never search Citizens. Of course, your chances of becoming a Citizen are next to nothing.",
+      "node_id": "node39",
+      "id": "Node014"
+    },
+    {
+      "text": "",
+      "node_id": "node27",
+      "id": "Node999"
+    },
+    {
+      "text": "Hey, you got any pieces of Horrigan? I could sell 'em for fifty, hundred bucks a pop, give you 10% of the action.",
+      "node_id": "node6",
+      "id": "Node001"
+    },
+    {
+      "text": "I... wh... you dirty...",
+      "node_id": "node57",
+      "id": "Node026"
+    },
+    {
+      "text": "This is the CUSTOMS Office. Like the sign outside says. If you haven't got customs business, what are you doing here?",
+      "node_id": "node29",
+      "id": "Node010"
+    },
+    {
+      "text": "The Vault? It's inside the city. Why? You looking to get past the gate?",
+      "node_id": "node30",
+      "id": "Node011"
+    },
+    {
+      "text": "You HAVE to be kidding. It's obviously retarded.",
+      "node_id": "node24_2",
+      "id": "timed_event_p_proc_2"
+    },
+    {
+      "text": "",
+      "node_id": "node8",
+      "id": "Node002"
+    },
+    {
+      "text": "Advice? Well, advice's expensive, Outsider. You got any money?",
+      "node_id": "node32",
+      "id": "Node013"
+    },
+    {
+      "text": "Very well. I'll send it off to the Vault then. MAYBE it can clear up the storerooms.",
+      "node_id": "node24_9",
+      "id": "timed_event_p_proc_9"
+    },
+    {
+      "text": "Do Outsiders eat their own feces? Of COURSE I want a finder's fee.",
+      "node_id": "node24_7",
+      "id": "timed_event_p_proc_7"
+    },
+    {
+      "text": "Gregory, the Proconsul, gives a \"test\" to any Outsiders who want to become Citizens. It measures their intelligence and perception, and you have to be damned lucky to pass it, too. Most Citizens would have trouble with it.",
+      "node_id": "node67",
+      "id": "Node037"
+    },
+    {
+      "text": "",
+      "node_id": "node56",
+      "id": "Node025b"
+    },
+    {
+      "text": "If you're not born a Citizen, then you have to take a test to become a Citizen. Number of Outsiders that have taken the test and become Citizens? Zero. Your chances? LESS than zero.",
+      "node_id": "node40",
+      "id": "Node015"
+    },
+    {
+      "text": "Look, Outsider, if you got customs business, Wallace is in the back there, okay? He'll set you up with all the forms you need.",
+      "node_id": "node15",
+      "id": "Node009"
+    },
+    {
+      "text": "All right, I got a LITTLE cash stashed away. Here. Take it... three hundred bucks. Now, you gonna keep quiet?",
+      "node_id": "node59",
+      "id": "Node027"
+    },
+    {
+      "text": "Whoa. How did you escape?",
+      "node_id": "node25",
+      "id": "Node034"
+    },
+    {
+      "text": "Gregory, the Proconsul, gives a \"test\" to any Outsiders who want to become Citizens. It measures their intelligence and perception, and you have to be damn lucky to pass it, too. Most Citizens would have trouble with it.",
+      "node_id": "node42",
+      "id": "Node016"
+    },
+    {
+      "text": "Ha! Good luck, Outsider. The only way you'll get a Day Pass outta ol' man Wallace is if you pry it from his stingy, dead fingers.",
+      "node_id": "node60",
+      "id": "Node029"
+    },
+    {
+      "text": "",
+      "node_id": "node55",
+      "id": "Node025a"
+    },
+    {
+      "text": "",
+      "node_id": "node53",
+      "id": "Node023a"
+    },
+    {
+      "text": "Hey there, \"Citizen.\"",
+      "node_id": "node12",
+      "id": "Node005"
+    },
+    {
+      "text": "",
+      "node_id": "node64",
+      "id": "Node032a"
+    },
+    {
+      "text": "",
+      "node_id": "node38",
+      "id": "Node013c"
+    },
+    {
+      "text": "Found this bunch wandering in the wastes, Barkus. This one Outsider here looks like good Servant material.",
+      "node_id": "node24_1",
+      "id": "timed_event_p_proc_1"
+    },
+    {
+      "text": "Simple. They wouldn't BELIEVE you. You're an Outsider, I'm a Citizen. Guess whose word they're going to believe?",
+      "node_id": "node46",
+      "id": "Node022"
+    },
+    {
+      "text": "For two hundred bucks, I can make you a full-fledged Citizen. You'll have free passage through the gate, no hassles. I can print out the papers, register your serial number, and have you on your way in five minutes.",
+      "node_id": "node34_2",
+      "id": "Node021_2"
+    },
+    {
+      "text": "",
+      "node_id": "node37",
+      "id": "Node013b"
+    },
+    {
+      "text": "",
+      "node_id": "node48",
+      "id": "Node021a"
+    },
+    {
+      "text": "",
+      "node_id": "node66",
+      "id": "Node035a"
+    },
+    {
+      "text": "If you're not born a Citizen, then you have to take a test to become a Citizen. Number of Outsiders that have taken the test and become Citizens? Zero. Your chances? LESS than zero.",
+      "node_id": "node47",
+      "id": "Node036"
+    },
+    {
+      "text": "",
+      "node_id": "node5",
+      "id": "talk_p_proc"
+    },
+    {
+      "text": "Oh, uh, hey, Captain. Good day, huh?",
+      "node_id": "node7",
+      "id": "Node003"
+    },
+    {
+      "text": "Come with me a second, dim. I got somebody you gotta meet.",
+      "node_id": "node63",
+      "id": "Node032"
+    },
+    {
+      "text": "Hmmm. Well, all right... I'm feeling charitable today. But don't tell any of your other Outsider friends you got them so cheap.",
+      "node_id": "node51",
+      "id": "Node023"
+    },
+    {
+      "text": "",
+      "node_id": "node44",
+      "id": "Node018a"
+    },
+    {
+      "text": "If you got the cash, then I'll go into detail. Otherwise...",
+      "node_id": "node35",
+      "id": "Node020"
+    },
+    {
+      "text": "Re-tar-dead! Pooooo!",
+      "node_id": "node24_3",
+      "id": "timed_event_p_proc_3"
+    },
+    {
+      "text": "Hide the goods on your slaves...your \"Servants.\" You see, Vault City mentality is this: They don't seem to catch on that anyone would let Servants carry anything important... or questionable. Go figure.",
+      "node_id": "node41",
+      "id": "Node018"
+    },
+    {
+      "text": "",
+      "node_id": "node49",
+      "id": "Node021b"
+    },
+    {
+      "text": "You again. What do you want?",
+      "node_id": "node16_1",
+      "id": "Node030_1"
+    },
+    {
+      "text": "Like I said before, I can make you a full-fledged Citizen for $200. You'll have free passage through the gate, no hassles. I can print out the papers, register your serial number, and have you on your way in five minutes.",
+      "node_id": "node34_1",
+      "id": "Node021_1"
+    }
+  ],
+  "links": [
+    {
+      "text": "",
+      "source": "timed_event_p_proc_5",
+      "target": "Node003"
+    },
+    {
+      "text": "",
+      "source": "timed_event_p_proc_5",
+      "target": "Node007"
+    },
+    {
+      "text": "",
+      "source": "timed_event_p_proc_5",
+      "target": "Node034"
+    },
+    {
+      "text": "",
+      "source": "timed_event_p_proc_5",
+      "target": "Node004"
+    },
+    {
+      "text": "",
+      "source": "timed_event_p_proc_5",
+      "target": "Node005"
+    },
+    {
+      "text": "",
+      "source": "timed_event_p_proc_5",
+      "target": "Node006"
+    },
+    {
+      "text": "",
+      "source": "timed_event_p_proc_5",
+      "target": "Node001"
+    },
+    {
+      "text": "",
+      "source": "timed_event_p_proc_5",
+      "target": "Node002"
+    },
+    {
+      "text": "",
+      "source": "Node028a",
+      "target": "Node024"
+    },
+    {
+      "text": "",
+      "source": "timed_event_p_proc_4",
+      "target": "Node006"
+    },
+    {
+      "text": "",
+      "source": "timed_event_p_proc_4",
+      "target": "Node034"
+    },
+    {
+      "text": "",
+      "source": "timed_event_p_proc_4",
+      "target": "Node002"
+    },
+    {
+      "text": "",
+      "source": "timed_event_p_proc_4",
+      "target": "Node005"
+    },
+    {
+      "text": "",
+      "source": "timed_event_p_proc_4",
+      "target": "Node003"
+    },
+    {
+      "text": "",
+      "source": "timed_event_p_proc_4",
+      "target": "Node001"
+    },
+    {
+      "text": "",
+      "source": "timed_event_p_proc_4",
+      "target": "Node007"
+    },
+    {
+      "text": "",
+      "source": "timed_event_p_proc_4",
+      "target": "Node004"
+    },
+    {
+      "text": "Hmmm. Maybe we'll talk some other time.",
+      "source": "Node038",
+      "target": "Node999"
+    },
+    {
+      "text": "I see. How much for those papers again?",
+      "source": "Node038",
+      "target": "Node021_1"
+    },
+    {
+      "text": "I see. How much for those papers again?",
+      "source": "Node038",
+      "target": "Node021_2"
+    },
+    {
+      "text": "",
+      "source": "Node013a",
+      "target": "Node014"
+    },
+    {
+      "text": "No problem. I would never think of doing such a thing to an upstanding Citizen such as yourself, especially when I have proof of your illegal activities sitting right here in my pocket.",
+      "source": "Node024",
+      "target": "Node025"
+    },
+    {
+      "text": "Got it. No problem.",
+      "source": "Node024",
+      "target": "Node999"
+    },
+    {
+      "text": "Shamble off",
+      "source": "Node035",
+      "target": "Node999"
+    },
+    {
+      "text": "Oh-keeee",
+      "source": "Node035",
+      "target": "Node035a"
+    },
+    {
+      "text": "I think I'll try official channels.",
+      "source": "Node028",
+      "target": "Node029"
+    },
+    {
+      "text": "Well, $200's too steep for me. I might be back if I get some more money.",
+      "source": "Node028",
+      "target": "Node999"
+    },
+    {
+      "text": "I'll take the Citizenship papers, then.",
+      "source": "Node028",
+      "target": "Node028a"
+    },
+    {
+      "text": "",
+      "source": "Node012a",
+      "target": "Node020"
+    },
+    {
+      "text": "",
+      "source": "Node012a",
+      "target": "Node021_2"
+    },
+    {
+      "text": "",
+      "source": "Node012a",
+      "target": "Node021_1"
+    },
+    {
+      "text": "Thanks. I'll go see Wallace then.",
+      "source": "Node012",
+      "target": "Node999"
+    },
+    {
+      "text": "What other ways?",
+      "source": "Node012",
+      "target": "Node012a"
+    },
+    {
+      "text": "",
+      "source": "timed_event_p_proc_6",
+      "target": "Node007"
+    },
+    {
+      "text": "",
+      "source": "timed_event_p_proc_6",
+      "target": "Node034"
+    },
+    {
+      "text": "",
+      "source": "timed_event_p_proc_6",
+      "target": "Node004"
+    },
+    {
+      "text": "",
+      "source": "timed_event_p_proc_6",
+      "target": "Node005"
+    },
+    {
+      "text": "",
+      "source": "timed_event_p_proc_6",
+      "target": "Node006"
+    },
+    {
+      "text": "",
+      "source": "timed_event_p_proc_6",
+      "target": "Node002"
+    },
+    {
+      "text": "",
+      "source": "timed_event_p_proc_6",
+      "target": "Node003"
+    },
+    {
+      "text": "",
+      "source": "timed_event_p_proc_6",
+      "target": "Node001"
+    },
+    {
+      "text": "We'll see about that.",
+      "source": "Node025",
+      "target": "Node999"
+    },
+    {
+      "text": "I sure hope so. I can be pretty persuasive.",
+      "source": "Node025",
+      "target": "Node025b"
+    },
+    {
+      "text": "Normally, it would be. But these fake papers speak for themselves. And they will, unless you can pay for their silence.",
+      "source": "Node025",
+      "target": "Node025a"
+    },
+    {
+      "text": "We'll see about that.",
+      "source": "Node025c",
+      "target": "Node999"
+    },
+    {
+      "text": "Oh, I think he will once he sees the fake citizenship papers you gave me. Of course, if you happen to have some cash on you, it can be our little secret.",
+      "source": "Node025c",
+      "target": "Node025a"
+    },
+    {
+      "text": "",
+      "source": "timed_event_p_proc_8",
+      "target": "Node006"
+    },
+    {
+      "text": "",
+      "source": "timed_event_p_proc_8",
+      "target": "Node034"
+    },
+    {
+      "text": "",
+      "source": "timed_event_p_proc_8",
+      "target": "Node002"
+    },
+    {
+      "text": "",
+      "source": "timed_event_p_proc_8",
+      "target": "Node004"
+    },
+    {
+      "text": "",
+      "source": "timed_event_p_proc_8",
+      "target": "Node005"
+    },
+    {
+      "text": "",
+      "source": "timed_event_p_proc_8",
+      "target": "Node003"
+    },
+    {
+      "text": "",
+      "source": "timed_event_p_proc_8",
+      "target": "Node001"
+    },
+    {
+      "text": "",
+      "source": "timed_event_p_proc_8",
+      "target": "Node007"
+    },
+    {
+      "text": "Hurnh?",
+      "source": "Node031_1",
+      "target": "Node032"
+    },
+    {
+      "text": "Shamble off",
+      "source": "Node031_1",
+      "target": "Node999"
+    },
+    {
+      "text": "",
+      "source": "Node030a",
+      "target": "Node021_1"
+    },
+    {
+      "text": "",
+      "source": "Node030a",
+      "target": "Node021_2"
+    },
+    {
+      "text": "Never mind. Maybe we'll talk some other time.",
+      "source": "Node019",
+      "target": "Node999"
+    },
+    {
+      "text": "What are you talking about?",
+      "source": "Node019",
+      "target": "Node020"
+    },
+    {
+      "text": "Never mind. Maybe we'll talk some other time.",
+      "source": "Node017",
+      "target": "Node999"
+    },
+    {
+      "text": "What else could I do to beat customs other than becoming a Citizen?",
+      "source": "Node017",
+      "target": "Node018"
+    },
+    {
+      "text": "Why?",
+      "source": "Node014",
+      "target": "Node015"
+    },
+    {
+      "text": "What else could I do?",
+      "source": "Node014",
+      "target": "Node018"
+    },
+    {
+      "text": "Nevermind. Maybe we'll talk some other time.",
+      "source": "Node014",
+      "target": "Node999"
+    },
+    {
+      "text": "Careful... I'd watch your tongue if I were you.",
+      "source": "Node026",
+      "target": "Node027"
+    },
+    {
+      "text": "I was looking to get inside the city.",
+      "source": "Node010",
+      "target": "Node012"
+    },
+    {
+      "text": "Nothing. Sorry to bother you.",
+      "source": "Node010",
+      "target": "Node999"
+    },
+    {
+      "text": "I was looking for the Vault.",
+      "source": "Node010",
+      "target": "Node011"
+    },
+    {
+      "text": "Since you're a part of customs and all, I was wondering if you had any 'advice' on how to bring certain items within the city.",
+      "source": "Node010",
+      "target": "Node013"
+    },
+    {
+      "text": "Yes.",
+      "source": "Node011",
+      "target": "Node012"
+    },
+    {
+      "text": "No, just looking around. Thanks.",
+      "source": "Node011",
+      "target": "Node999"
+    },
+    {
+      "text": "",
+      "source": "timed_event_p_proc_2",
+      "target": "Node007"
+    },
+    {
+      "text": "",
+      "source": "timed_event_p_proc_2",
+      "target": "Node034"
+    },
+    {
+      "text": "",
+      "source": "timed_event_p_proc_2",
+      "target": "Node004"
+    },
+    {
+      "text": "",
+      "source": "timed_event_p_proc_2",
+      "target": "Node005"
+    },
+    {
+      "text": "",
+      "source": "timed_event_p_proc_2",
+      "target": "Node006"
+    },
+    {
+      "text": "",
+      "source": "timed_event_p_proc_2",
+      "target": "Node002"
+    },
+    {
+      "text": "",
+      "source": "timed_event_p_proc_2",
+      "target": "Node003"
+    },
+    {
+      "text": "",
+      "source": "timed_event_p_proc_2",
+      "target": "Node001"
+    },
+    {
+      "text": "Probably not enough to interest you. I'll be back when I have some more.",
+      "source": "Node013",
+      "target": "Node999"
+    },
+    {
+      "text": "Give him $75.",
+      "source": "Node013",
+      "target": "Node013b"
+    },
+    {
+      "text": "Give him $100.",
+      "source": "Node013",
+      "target": "Node013c"
+    },
+    {
+      "text": "Give him $50.",
+      "source": "Node013",
+      "target": "Node013a"
+    },
+    {
+      "text": "",
+      "source": "timed_event_p_proc_9",
+      "target": "Node003"
+    },
+    {
+      "text": "",
+      "source": "timed_event_p_proc_9",
+      "target": "Node001"
+    },
+    {
+      "text": "",
+      "source": "timed_event_p_proc_9",
+      "target": "Node007"
+    },
+    {
+      "text": "",
+      "source": "timed_event_p_proc_9",
+      "target": "Node004"
+    },
+    {
+      "text": "",
+      "source": "timed_event_p_proc_9",
+      "target": "Node005"
+    },
+    {
+      "text": "",
+      "source": "timed_event_p_proc_9",
+      "target": "Node006"
+    },
+    {
+      "text": "",
+      "source": "timed_event_p_proc_9",
+      "target": "Node034"
+    },
+    {
+      "text": "",
+      "source": "timed_event_p_proc_9",
+      "target": "Node002"
+    },
+    {
+      "text": "",
+      "source": "timed_event_p_proc_7",
+      "target": "Node004"
+    },
+    {
+      "text": "",
+      "source": "timed_event_p_proc_7",
+      "target": "Node005"
+    },
+    {
+      "text": "",
+      "source": "timed_event_p_proc_7",
+      "target": "Node006"
+    },
+    {
+      "text": "",
+      "source": "timed_event_p_proc_7",
+      "target": "Node001"
+    },
+    {
+      "text": "",
+      "source": "timed_event_p_proc_7",
+      "target": "Node002"
+    },
+    {
+      "text": "",
+      "source": "timed_event_p_proc_7",
+      "target": "Node003"
+    },
+    {
+      "text": "",
+      "source": "timed_event_p_proc_7",
+      "target": "Node007"
+    },
+    {
+      "text": "",
+      "source": "timed_event_p_proc_7",
+      "target": "Node034"
+    },
+    {
+      "text": "Hmmmm. Maybe we'll talk some other time.",
+      "source": "Node037",
+      "target": "Node999"
+    },
+    {
+      "text": "I see. How much for those pspers again?",
+      "source": "Node037",
+      "target": "Node021_1"
+    },
+    {
+      "text": "I see. How much for those pspers again?",
+      "source": "Node037",
+      "target": "Node021_2"
+    },
+    {
+      "text": "So what makes it so hard?",
+      "source": "Node037",
+      "target": "Node038"
+    },
+    {
+      "text": "",
+      "source": "Node025b",
+      "target": "Node026"
+    },
+    {
+      "text": "",
+      "source": "Node025b",
+      "target": "Node025c"
+    },
+    {
+      "text": "What else could I do to beat customs?",
+      "source": "Node015",
+      "target": "Node018"
+    },
+    {
+      "text": "What is this test?",
+      "source": "Node015",
+      "target": "Node016"
+    },
+    {
+      "text": "Never mind. Maybe we'll talk some other time.",
+      "source": "Node015",
+      "target": "Node999"
+    },
+    {
+      "text": "Uh... what is this place?",
+      "source": "Node009",
+      "target": "Node010"
+    },
+    {
+      "text": "Furms need?",
+      "source": "Node009",
+      "target": "Node031_1"
+    },
+    {
+      "text": "Shamble off",
+      "source": "Node009",
+      "target": "Node999"
+    },
+    {
+      "text": "As far as you know. See you.",
+      "source": "Node027",
+      "target": "Node999"
+    },
+    {
+      "text": "So what makes it so hard?",
+      "source": "Node016",
+      "target": "Node017"
+    },
+    {
+      "text": "Never mind. Maybe we'll talk some other time.",
+      "source": "Node016",
+      "target": "Node999"
+    },
+    {
+      "text": "What else could I do to beat customs other than becoming a Citizen?",
+      "source": "Node016",
+      "target": "Node018"
+    },
+    {
+      "text": "Hmmmm. How much for the Citizenship papers again?",
+      "source": "Node029",
+      "target": "Node021_1"
+    },
+    {
+      "text": "Hmmmm. How much for the Citizenship papers again?",
+      "source": "Node029",
+      "target": "Node021_2"
+    },
+    {
+      "text": "I'll try him anyway.",
+      "source": "Node029",
+      "target": "Node999"
+    },
+    {
+      "text": "What does it take to become a real Citizen?",
+      "source": "Node029",
+      "target": "Node036"
+    },
+    {
+      "text": "",
+      "source": "Node025a",
+      "target": "Node026"
+    },
+    {
+      "text": "",
+      "source": "Node023a",
+      "target": "Node024"
+    },
+    {
+      "text": "",
+      "source": "Node032a",
+      "target": "Node033"
+    },
+    {
+      "text": "",
+      "source": "Node013c",
+      "target": "Node014"
+    },
+    {
+      "text": "",
+      "source": "timed_event_p_proc_1",
+      "target": "Node007"
+    },
+    {
+      "text": "",
+      "source": "timed_event_p_proc_1",
+      "target": "Node034"
+    },
+    {
+      "text": "",
+      "source": "timed_event_p_proc_1",
+      "target": "Node002"
+    },
+    {
+      "text": "",
+      "source": "timed_event_p_proc_1",
+      "target": "Node004"
+    },
+    {
+      "text": "",
+      "source": "timed_event_p_proc_1",
+      "target": "Node005"
+    },
+    {
+      "text": "",
+      "source": "timed_event_p_proc_1",
+      "target": "Node006"
+    },
+    {
+      "text": "",
+      "source": "timed_event_p_proc_1",
+      "target": "Node003"
+    },
+    {
+      "text": "",
+      "source": "timed_event_p_proc_1",
+      "target": "Node001"
+    },
+    {
+      "text": "I'll take the Citizenship papers, then.",
+      "source": "Node022",
+      "target": "Node021a"
+    },
+    {
+      "text": "I'll take the Citizenship papers... but for $150, not $200.",
+      "source": "Node022",
+      "target": "Node021b"
+    },
+    {
+      "text": "Well, $200's too steep for me. I might be back if I get some more money.",
+      "source": "Node022",
+      "target": "Node999"
+    },
+    {
+      "text": "What does it take to become a real Citizen?",
+      "source": "Node022",
+      "target": "Node036"
+    },
+    {
+      "text": "What if I told somebody that you were peddling Citizenship papers?",
+      "source": "Node021_2",
+      "target": "Node022"
+    },
+    {
+      "text": "Sounds good. Here's $200.",
+      "source": "Node021_2",
+      "target": "Node021a"
+    },
+    {
+      "text": "Well, two hundred's pretty steep. I only got $150 on me.",
+      "source": "Node021_2",
+      "target": "Node021b"
+    },
+    {
+      "text": "What does it take to become a real Citizen?",
+      "source": "Node021_2",
+      "target": "Node036"
+    },
+    {
+      "text": "I don't have that kind of cash on me. Maybe some other time.",
+      "source": "Node021_2",
+      "target": "Node999"
+    },
+    {
+      "text": "",
+      "source": "Node013b",
+      "target": "Node014"
+    },
+    {
+      "text": "",
+      "source": "Node021a",
+      "target": "Node024"
+    },
+    {
+      "text": "What is this test?",
+      "source": "Node036",
+      "target": "Node037"
+    },
+    {
+      "text": "I see. How much for those papers again?",
+      "source": "Node036",
+      "target": "Node021_2"
+    },
+    {
+      "text": "Never mind. Maybe we'll talk some other time.",
+      "source": "Node036",
+      "target": "Node999"
+    },
+    {
+      "text": "I see. How much for those papers again?",
+      "source": "Node036",
+      "target": "Node021_1"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node007"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node008"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node004"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node005"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node006"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node030_1"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node002"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node003"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node001"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node035"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node009"
+    },
+    {
+      "text": "Nuh-uh ME STAY",
+      "source": "Node032",
+      "target": "Node999"
+    },
+    {
+      "text": "Okee-dokeee",
+      "source": "Node032",
+      "target": "Node032a"
+    },
+    {
+      "text": "All right.",
+      "source": "Node023",
+      "target": "Node023a"
+    },
+    {
+      "text": "",
+      "source": "Node018a",
+      "target": "Node021_2"
+    },
+    {
+      "text": "",
+      "source": "Node018a",
+      "target": "Node019"
+    },
+    {
+      "text": "",
+      "source": "Node018a",
+      "target": "Node021_1"
+    },
+    {
+      "text": "I've got the money. What are you selling?",
+      "source": "Node020",
+      "target": "Node021_1"
+    },
+    {
+      "text": "I've got the money. What are you selling?",
+      "source": "Node020",
+      "target": "Node021_2"
+    },
+    {
+      "text": "Nevermind. Maybe we'll talk some other time.",
+      "source": "Node020",
+      "target": "Node999"
+    },
+    {
+      "text": "",
+      "source": "timed_event_p_proc_3",
+      "target": "Node002"
+    },
+    {
+      "text": "",
+      "source": "timed_event_p_proc_3",
+      "target": "Node004"
+    },
+    {
+      "text": "",
+      "source": "timed_event_p_proc_3",
+      "target": "Node005"
+    },
+    {
+      "text": "",
+      "source": "timed_event_p_proc_3",
+      "target": "Node006"
+    },
+    {
+      "text": "",
+      "source": "timed_event_p_proc_3",
+      "target": "Node003"
+    },
+    {
+      "text": "",
+      "source": "timed_event_p_proc_3",
+      "target": "Node001"
+    },
+    {
+      "text": "",
+      "source": "timed_event_p_proc_3",
+      "target": "Node007"
+    },
+    {
+      "text": "",
+      "source": "timed_event_p_proc_3",
+      "target": "Node034"
+    },
+    {
+      "text": "Any other options?",
+      "source": "Node018",
+      "target": "Node018a"
+    },
+    {
+      "text": "All right, then. Thanks.",
+      "source": "Node018",
+      "target": "Node999"
+    },
+    {
+      "text": "",
+      "source": "Node021b",
+      "target": "Node028"
+    },
+    {
+      "text": "",
+      "source": "Node021b",
+      "target": "Node023"
+    },
+    {
+      "text": "I'd like to get inside the city.",
+      "source": "Node030_1",
+      "target": "Node012"
+    },
+    {
+      "text": "Shamble off",
+      "source": "Node030_1",
+      "target": "Node999"
+    },
+    {
+      "text": "What is this place?",
+      "source": "Node030_1",
+      "target": "Node010"
+    },
+    {
+      "text": "I'd like to buy those fake Citizenship papers you were offering before.",
+      "source": "Node030_1",
+      "target": "Node030a"
+    },
+    {
+      "text": "I've decided to turn you in for selling fake Citizenship papers.",
+      "source": "Node030_1",
+      "target": "Node025"
+    },
+    {
+      "text": "Since you're a part of customs and all, I was wondering if you had any 'advice' on how to bring certain items within the city.",
+      "source": "Node030_1",
+      "target": "Node013"
+    },
+    {
+      "text": "How do you become a real Citizen?",
+      "source": "Node030_1",
+      "target": "Node036"
+    },
+    {
+      "text": "I don't have that kind of cash on me. Maybe some other time.",
+      "source": "Node021_1",
+      "target": "Node999"
+    },
+    {
+      "text": "What does it take to become a real Citizen?",
+      "source": "Node021_1",
+      "target": "Node036"
+    },
+    {
+      "text": "What if I told somebody that you were peddling Citizenship papers?",
+      "source": "Node021_1",
+      "target": "Node022"
+    },
+    {
+      "text": "Well, two hundred's pretty steep. I only got $150 on me.",
+      "source": "Node021_1",
+      "target": "Node021b"
+    },
+    {
+      "text": "Sounds good. Here's $200.",
+      "source": "Node021_1",
+      "target": "Node021a"
+    }
+  ]
+}

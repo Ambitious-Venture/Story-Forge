@@ -1,0 +1,154 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "Uh, yea. These things are great. It's range is... well, as far as you can see. (Larry continues to talk for what seems like hours, but you seem to pick a few things up about the use of energy weapons.)",
+      "node_id": "node12",
+      "id": "goto02"
+    },
+    {
+      "text": "",
+      "node_id": "node13",
+      "id": "goto00b"
+    },
+    {
+      "text": "",
+      "node_id": "node4",
+      "id": "critter_p_proc"
+    },
+    {
+      "text": "Hello Initiate. I'm Larry, how may I help you?",
+      "node_id": "node11",
+      "id": "goto00"
+    },
+    {
+      "text": "",
+      "node_id": "node3",
+      "id": "pickup_p_proc"
+    },
+    {
+      "text": "You see a Knight.",
+      "node_id": "node2",
+      "id": "look_at_p_proc"
+    },
+    {
+      "text": "",
+      "node_id": "node1",
+      "id": "start"
+    },
+    {
+      "text": "Huh? But she knows these aren't ready yet... Oh, she must have meant show. Yea, I can show you. You see it runs off of energy cells that are constructed out of... (Larry goes on for what seems hours but you seem to pick a few things up about energy weapons.)",
+      "node_id": "node15",
+      "id": "goto03"
+    },
+    {
+      "text": "",
+      "node_id": "node10",
+      "id": "goto06"
+    },
+    {
+      "text": "I don't like liars, please leave.",
+      "node_id": "node8",
+      "id": "goto05"
+    },
+    {
+      "text": "",
+      "node_id": "node6",
+      "id": "destroy_p_proc"
+    },
+    {
+      "text": "",
+      "node_id": "node9",
+      "id": "do_dialogue"
+    },
+    {
+      "text": "",
+      "node_id": "node5",
+      "id": "talk_p_proc"
+    },
+    {
+      "text": "Sure she did. I think you should leave outsider.",
+      "node_id": "node16",
+      "id": "goto04"
+    },
+    {
+      "text": "Uh, okay...",
+      "node_id": "node14",
+      "id": "goto01"
+    }
+  ],
+  "links": [
+    {
+      "text": "",
+      "source": "goto00b",
+      "target": "goto04"
+    },
+    {
+      "text": "",
+      "source": "goto00b",
+      "target": "goto03"
+    },
+    {
+      "text": "Vree said you could show me a laser pistol?",
+      "source": "goto00",
+      "target": "goto02"
+    },
+    {
+      "text": "Vree said you could give me a laser pistol.",
+      "source": "goto00",
+      "target": "goto00b"
+    },
+    {
+      "text": "Ug.",
+      "source": "goto00",
+      "target": "goto01"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "pickup_p_proc"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "destroy_p_proc"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "talk_p_proc"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "critter_p_proc"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "look_at_p_proc"
+    },
+    {
+      "text": "",
+      "source": "do_dialogue",
+      "target": "goto00"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "goto06"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "goto05"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "do_dialogue"
+    }
+  ]
+}

@@ -1,0 +1,309 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "Great, great. Thank you for your business. Come back soon!",
+      "node_id": "node22",
+      "id": "Node004"
+    },
+    {
+      "text": "",
+      "node_id": "node21",
+      "id": "NodeBarter"
+    },
+    {
+      "text": "",
+      "node_id": "node29",
+      "id": "Node1213a"
+    },
+    {
+      "text": "I do not know. They keep their secrets to themselves.",
+      "node_id": "node25",
+      "id": "Node009"
+    },
+    {
+      "text": "You need something else?",
+      "node_id": "node8",
+      "id": "Node006"
+    },
+    {
+      "text": "You are a thief, a murderer, and a villain. I'm afraid I must kill you.",
+      "node_id": "node6",
+      "id": "Node014"
+    },
+    {
+      "text": "",
+      "node_id": "node5",
+      "id": "talk_p_proc"
+    },
+    {
+      "text": "Now, we are mainly fishermen and scientists. Our fishermen catch fish. Our scientists are working on a project that they say will change the world.",
+      "node_id": "node24",
+      "id": "Node008"
+    },
+    {
+      "text": "No. Is not good enough. So sorry. Something else perhaps?",
+      "node_id": "node23",
+      "id": "Node005"
+    },
+    {
+      "text": "Ahh, a weapon, eh? Well, this is what I have.",
+      "node_id": "node19",
+      "id": "Node003"
+    },
+    {
+      "text": "",
+      "node_id": "node26",
+      "id": "Node1011a"
+    },
+    {
+      "text": "",
+      "node_id": "node18",
+      "id": "Node999"
+    },
+    {
+      "text": "Hi! Welcome to Red 888 Guns! I'm Mai Da Chiang, the owner. How can I help you?",
+      "node_id": "node9",
+      "id": "Node001"
+    },
+    {
+      "text": "We have lived here for years, but we did not always live here. Dr. Fung knows the complete history. I'll bet what you're looking for is what we do now.",
+      "node_id": "node20",
+      "id": "Node007"
+    },
+    {
+      "text": "We have two rivals of martial arts in town. They are Lo Pan, a lover of self, and the Dragon, who loves others. It is said that whoever wins will determine the future of martial arts.",
+      "node_id": "node27",
+      "id": "Node010"
+    },
+    {
+      "text": "There is a gang of vagrants who have moved onto the Poseidon Oil tanker on the wharf. There were monsters living inside it, but the vagrants have sealed them into the lower hull. Though they are outsiders, we are grateful to the drifters for this task.",
+      "node_id": "node28",
+      "id": "Node011"
+    },
+    {
+      "text": "I'm sorry! I don't speak your language! Have a nice day!",
+      "node_id": "node7",
+      "id": "Node002"
+    },
+    {
+      "text": "The scientists report that someone has broken through their computer security and stolen our secrets.",
+      "node_id": "node30",
+      "id": "Node012"
+    },
+    {
+      "text": "That is all I can think of at the moment. Good day.",
+      "node_id": "node31",
+      "id": "Node013"
+    }
+  ],
+  "links": [
+    {
+      "text": "More questions!",
+      "source": "Node004",
+      "target": "Node006"
+    },
+    {
+      "text": "Bye!",
+      "source": "Node004",
+      "target": "Node999"
+    },
+    {
+      "text": "",
+      "source": "NodeBarter",
+      "target": "Node004"
+    },
+    {
+      "text": "",
+      "source": "Node1213a",
+      "target": "Node012"
+    },
+    {
+      "text": "",
+      "source": "Node1213a",
+      "target": "Node013"
+    },
+    {
+      "text": "I see. I have more questions.",
+      "source": "Node009",
+      "target": "Node006"
+    },
+    {
+      "text": "I see. What else is happening in town?",
+      "source": "Node009",
+      "target": "Node1011a"
+    },
+    {
+      "text": "Thanks. Bye.",
+      "source": "Node009",
+      "target": "Node999"
+    },
+    {
+      "text": "Tell me about the place.",
+      "source": "Node006",
+      "target": "Node007"
+    },
+    {
+      "text": "Me buy!",
+      "source": "Node006",
+      "target": "Node003"
+    },
+    {
+      "text": "No. Bye.",
+      "source": "Node006",
+      "target": "Node999"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node001"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node002"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node014"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node006"
+    },
+    {
+      "text": "Change the world how?",
+      "source": "Node008",
+      "target": "Node009"
+    },
+    {
+      "text": "Hmm. Interesting. I have more questions.",
+      "source": "Node008",
+      "target": "Node006"
+    },
+    {
+      "text": "What else is happening in town?",
+      "source": "Node008",
+      "target": "Node1011a"
+    },
+    {
+      "text": "Thanks. Bye.",
+      "source": "Node008",
+      "target": "Node999"
+    },
+    {
+      "text": "More questions.",
+      "source": "Node005",
+      "target": "Node006"
+    },
+    {
+      "text": "No. Bye",
+      "source": "Node005",
+      "target": "Node999"
+    },
+    {
+      "text": "-more-",
+      "source": "Node003",
+      "target": "NodeBarter"
+    },
+    {
+      "text": "",
+      "source": "Node1011a",
+      "target": "Node010"
+    },
+    {
+      "text": "",
+      "source": "Node1011a",
+      "target": "Node011"
+    },
+    {
+      "text": "Me buy!",
+      "source": "Node001",
+      "target": "Node003"
+    },
+    {
+      "text": "Forget it.",
+      "source": "Node001",
+      "target": "Node999"
+    },
+    {
+      "text": "Grokken di ma!",
+      "source": "Node001",
+      "target": "Node002"
+    },
+    {
+      "text": "Tell me about the place.",
+      "source": "Node001",
+      "target": "Node007"
+    },
+    {
+      "text": "No, actually, I wanted to know the history. I'll go find Fung. See you.",
+      "source": "Node007",
+      "target": "Node999"
+    },
+    {
+      "text": "Yep.",
+      "source": "Node007",
+      "target": "Node008"
+    },
+    {
+      "text": "I see. Anything else in town?",
+      "source": "Node010",
+      "target": "Node011"
+    },
+    {
+      "text": "I see. I have more questions.",
+      "source": "Node010",
+      "target": "Node006"
+    },
+    {
+      "text": "Thanks.",
+      "source": "Node010",
+      "target": "Node999"
+    },
+    {
+      "text": "I see. I have more questions.",
+      "source": "Node011",
+      "target": "Node006"
+    },
+    {
+      "text": "Any other news?",
+      "source": "Node011",
+      "target": "Node1213a"
+    },
+    {
+      "text": "Thanks. Bye.",
+      "source": "Node011",
+      "target": "Node999"
+    },
+    {
+      "text": "Rrr?",
+      "source": "Node002",
+      "target": "Node999"
+    },
+    {
+      "text": "I see. I have more questions.",
+      "source": "Node012",
+      "target": "Node006"
+    },
+    {
+      "text": "Thanks. Bye.",
+      "source": "Node012",
+      "target": "Node999"
+    },
+    {
+      "text": "Any other news?",
+      "source": "Node012",
+      "target": "Node013"
+    },
+    {
+      "text": "Good day.",
+      "source": "Node013",
+      "target": "Node999"
+    }
+  ]
+}

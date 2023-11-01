@@ -1,0 +1,44 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "Well if that's how you be feeling, you can just turn yourself around and walk away.",
+      "node_id": "node17",
+      "id": "MacRae05"
+    },
+    {
+      "text": "",
+      "node_id": "node18",
+      "id": "DownReactLevel"
+    },
+    {
+      "text": "",
+      "node_id": "node36",
+      "id": "UpReactLevel"
+    },
+    {
+      "text": "",
+      "node_id": "node29",
+      "id": "LevelToReact"
+    }
+  ],
+  "links": [
+    {
+      "text": "",
+      "source": "MacRae05",
+      "target": "DownReactLevel"
+    },
+    {
+      "text": "",
+      "source": "DownReactLevel",
+      "target": "LevelToReact"
+    },
+    {
+      "text": "",
+      "source": "UpReactLevel",
+      "target": "LevelToReact"
+    }
+  ]
+}

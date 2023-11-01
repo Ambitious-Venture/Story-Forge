@@ -1,0 +1,334 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "S*st*m *rr*r! *nv*l*d *s*r. n*t*f* *dm*n*str*t**n. S*st*m h*lt*d.",
+      "node_id": "node25",
+      "id": "Term15"
+    },
+    {
+      "text": "Primary Power Management: ERROR! ERROR! ERROR! Primary System Initialization Failed",
+      "node_id": "node14",
+      "id": "Term04"
+    },
+    {
+      "text": "System: Primary Power: \u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 OFF-LINE Secondary Power: \u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 ON-LINE",
+      "node_id": "node6",
+      "id": "Term01"
+    },
+    {
+      "text": "",
+      "node_id": "node1",
+      "id": "start"
+    },
+    {
+      "text": "pr*m*r p*w*r m*n*g*m*n*",
+      "node_id": "node20",
+      "id": "Term11"
+    },
+    {
+      "text": "System: Primary Power: \u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 ON-LINE Emergency Power: \u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 ON STANDBY",
+      "node_id": "node17",
+      "id": "Term07"
+    },
+    {
+      "text": "",
+      "node_id": "node10",
+      "id": "TermEnd"
+    },
+    {
+      "text": "",
+      "node_id": "node2",
+      "id": "use_p_proc"
+    },
+    {
+      "text": "",
+      "node_id": "node13",
+      "id": "Term03a"
+    },
+    {
+      "text": "Emergency Power Management: \u00a0\u00a0\u00a0\u00a0ON-LINE",
+      "node_id": "node12",
+      "id": "Term06"
+    },
+    {
+      "text": "",
+      "node_id": "node24",
+      "id": "Term14a"
+    },
+    {
+      "text": "Primary Power Management: ON-LINE",
+      "node_id": "node18",
+      "id": "Term08"
+    },
+    {
+      "text": "",
+      "node_id": "node16",
+      "id": "Term06a"
+    },
+    {
+      "text": "Power Systems Management",
+      "node_id": "node8",
+      "id": "Term02"
+    },
+    {
+      "text": "",
+      "node_id": "node19",
+      "id": "Term09a"
+    },
+    {
+      "text": "",
+      "node_id": "node22",
+      "id": "Term11a"
+    },
+    {
+      "text": "System: Primary Power: \u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 ON-LINE",
+      "node_id": "node7",
+      "id": "Term09"
+    },
+    {
+      "text": "Primary Power Management: OFF-LINE",
+      "node_id": "node11",
+      "id": "Term03"
+    },
+    {
+      "text": "Failure: \u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Generator Level 6 0 Feed Return: Inoperable Service Needed",
+      "node_id": "node15",
+      "id": "Term05"
+    },
+    {
+      "text": "System: Primary Power: \u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 OFF-LINE Emergency Power: \u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 OFF-LINE",
+      "node_id": "node5",
+      "id": "Term14"
+    },
+    {
+      "text": "",
+      "node_id": "node4",
+      "id": "use_skill_on_p_proc"
+    },
+    {
+      "text": "P*w*r S*st*ms M*n*g*m*nt",
+      "node_id": "node9",
+      "id": "Term10"
+    },
+    {
+      "text": "pr*m*r* p*w*r m*n*g*m*nt: *RR*R! *RR*R! *RR*R*! g*n*r*t*r n**ds r*p**r",
+      "node_id": "node23",
+      "id": "Term12"
+    },
+    {
+      "text": "*m*rg*nc* p*w*r m*n*g*m*nt: \u00a0\u00a0\u00a0\u00a0*N-L*N*",
+      "node_id": "node21",
+      "id": "Term13"
+    },
+    {
+      "text": "",
+      "node_id": "node3",
+      "id": "talk_p_proc"
+    }
+  ],
+  "links": [
+    {
+      "text": "Exit",
+      "source": "Term15",
+      "target": "TermEnd"
+    },
+    {
+      "text": "Diagnose",
+      "source": "Term04",
+      "target": "Term05"
+    },
+    {
+      "text": "BACK",
+      "source": "Term04",
+      "target": "Term02"
+    },
+    {
+      "text": "Power Management",
+      "source": "Term01",
+      "target": "Term02"
+    },
+    {
+      "text": "Exit",
+      "source": "Term01",
+      "target": "TermEnd"
+    },
+    {
+      "text": "P*w*r*M*n*g*m*nt",
+      "source": "Term01",
+      "target": "Term10"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "use_skill_on_p_proc"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "talk_p_proc"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "use_p_proc"
+    },
+    {
+      "text": "r**n*t**l*z* pr*m*ry p*w*r",
+      "source": "Term11",
+      "target": "Term11a"
+    },
+    {
+      "text": "BACK",
+      "source": "Term11",
+      "target": "Term10"
+    },
+    {
+      "text": "Power Management",
+      "source": "Term07",
+      "target": "Term08"
+    },
+    {
+      "text": "Exit",
+      "source": "Term07",
+      "target": "TermEnd"
+    },
+    {
+      "text": "",
+      "source": "Term03a",
+      "target": "Term04"
+    },
+    {
+      "text": "Disable Emergency Power",
+      "source": "Term06",
+      "target": "Term06a"
+    },
+    {
+      "text": "BACK",
+      "source": "Term06",
+      "target": "Term02"
+    },
+    {
+      "text": "",
+      "source": "Term14a",
+      "target": "Term01"
+    },
+    {
+      "text": "BACK",
+      "source": "Term08",
+      "target": "Term07"
+    },
+    {
+      "text": "Disable Primary Power",
+      "source": "Term08",
+      "target": "Term09a"
+    },
+    {
+      "text": "Emergency Power",
+      "source": "Term02",
+      "target": "Term06"
+    },
+    {
+      "text": "Primary Power",
+      "source": "Term02",
+      "target": "Term03"
+    },
+    {
+      "text": "BACK",
+      "source": "Term02",
+      "target": "Term01"
+    },
+    {
+      "text": "",
+      "source": "Term11a",
+      "target": "Term12"
+    },
+    {
+      "text": "d*s*bl* pr*m*ry p*w*r",
+      "source": "Term09",
+      "target": "Term09a"
+    },
+    {
+      "text": "Exit",
+      "source": "Term09",
+      "target": "TermEnd"
+    },
+    {
+      "text": "Reinitialize Primary Power",
+      "source": "Term03",
+      "target": "Term03a"
+    },
+    {
+      "text": "BACK",
+      "source": "Term03",
+      "target": "Term02"
+    },
+    {
+      "text": "BACK",
+      "source": "Term05",
+      "target": "Term02"
+    },
+    {
+      "text": "d**gn*s* pr*m*r* p*w*r",
+      "source": "Term14",
+      "target": "Term15"
+    },
+    {
+      "text": "Enable Emergency Power",
+      "source": "Term14",
+      "target": "Term14a"
+    },
+    {
+      "text": "Exit",
+      "source": "Term14",
+      "target": "TermEnd"
+    },
+    {
+      "text": "BACK",
+      "source": "Term10",
+      "target": "Term01"
+    },
+    {
+      "text": "*m*rg*ncy p**er",
+      "source": "Term10",
+      "target": "Term13"
+    },
+    {
+      "text": "pr*m*ry p*w*r",
+      "source": "Term10",
+      "target": "Term11"
+    },
+    {
+      "text": "BACK",
+      "source": "Term12",
+      "target": "Term10"
+    },
+    {
+      "text": "d*s*bl* *m*rg*nc* p*w*r",
+      "source": "Term13",
+      "target": "Term06a"
+    },
+    {
+      "text": "BACK",
+      "source": "Term13",
+      "target": "Term10"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Term09"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Term14"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Term01"
+    }
+  ]
+}

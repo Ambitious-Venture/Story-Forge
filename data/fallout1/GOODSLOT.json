@@ -1,0 +1,94 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "You get three nukes. Excellent! $ drops into the tray and you snatch it up.",
+      "node_id": "node4_3",
+      "id": "use_p_proc_3"
+    },
+    {
+      "text": "It's a slot machine with a picture of a nuclear explosion on the side.  It costs $20 to play.",
+      "node_id": "node2",
+      "id": "look_at_p_proc"
+    },
+    {
+      "text": "",
+      "node_id": "node1",
+      "id": "start"
+    },
+    {
+      "text": "Aww shucks! You lose.",
+      "node_id": "node4_6",
+      "id": "use_p_proc_6"
+    },
+    {
+      "text": "You get three bombs. Winner! $30 drops into the tray and you snatch it up.",
+      "node_id": "node4_5",
+      "id": "use_p_proc_5"
+    },
+    {
+      "text": "DING! DING! DING!",
+      "node_id": "node4_2",
+      "id": "use_p_proc_2"
+    },
+    {
+      "text": "You drop $20 in the slot machine and pull the greasy handle.",
+      "node_id": "node4_1",
+      "id": "use_p_proc_1"
+    },
+    {
+      "text": "",
+      "node_id": "node3",
+      "id": "map_enter_p_proc"
+    },
+    {
+      "text": "Ding! Ding! Ding!",
+      "node_id": "node4_4",
+      "id": "use_p_proc_4"
+    }
+  ],
+  "links": [
+    {
+      "text": "",
+      "source": "start",
+      "target": "use_p_proc_2"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "use_p_proc_1"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "use_p_proc_3"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "use_p_proc_5"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "use_p_proc_6"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "use_p_proc_4"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "map_enter_p_proc"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "look_at_p_proc"
+    }
+  ]
+}

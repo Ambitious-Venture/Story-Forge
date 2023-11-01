@@ -1,0 +1,34 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "Die human!",
+      "node_id": "node7",
+      "id": "mutant02"
+    },
+    {
+      "text": "",
+      "node_id": "node6",
+      "id": "combat"
+    },
+    {
+      "text": "Humans are not allowed in Necropolis. You're coming with me.",
+      "node_id": "node5",
+      "id": "mutant01"
+    }
+  ],
+  "links": [
+    {
+      "text": "",
+      "source": "mutant02",
+      "target": "combat"
+    },
+    {
+      "text": "",
+      "source": "mutant01",
+      "target": "combat"
+    }
+  ]
+}

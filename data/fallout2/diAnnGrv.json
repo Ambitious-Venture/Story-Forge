@@ -1,0 +1,34 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "",
+      "node_id": "node9",
+      "id": "description_p_proc"
+    },
+    {
+      "text": "",
+      "node_id": "node7",
+      "id": "def_description_p_proc"
+    },
+    {
+      "text": "The name on the gravestone reads: \"Anna Winslow.\"",
+      "node_id": "node6",
+      "id": "grave_description_proc"
+    }
+  ],
+  "links": [
+    {
+      "text": "",
+      "source": "description_p_proc",
+      "target": "grave_description_proc"
+    },
+    {
+      "text": "",
+      "source": "grave_description_proc",
+      "target": "def_description_p_proc"
+    }
+  ]
+}

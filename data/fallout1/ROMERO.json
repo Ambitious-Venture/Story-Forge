@@ -1,0 +1,44 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "",
+      "node_id": "node6",
+      "id": "show_false_name"
+    },
+    {
+      "text": "",
+      "node_id": "node3",
+      "id": "look_at_p_proc"
+    },
+    {
+      "text": "You see a member of the Blades.",
+      "node_id": "node5_1",
+      "id": "show_true_name_1"
+    },
+    {
+      "text": "",
+      "node_id": "node4",
+      "id": "description_p_proc"
+    }
+  ],
+  "links": [
+    {
+      "text": "",
+      "source": "look_at_p_proc",
+      "target": "description_p_proc"
+    },
+    {
+      "text": "",
+      "source": "description_p_proc",
+      "target": "show_true_name_1"
+    },
+    {
+      "text": "",
+      "source": "description_p_proc",
+      "target": "show_false_name"
+    }
+  ]
+}

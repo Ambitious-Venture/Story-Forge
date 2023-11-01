@@ -1,0 +1,78 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "The water pump isn't working.",
+      "node_id": "node3_5",
+      "id": "skills_5"
+    },
+    {
+      "text": "You cannot repair the water pump without a replacement vacuum pump.",
+      "node_id": "node3_1",
+      "id": "skills_1"
+    },
+    {
+      "text": "This water pump may need a new fuse.",
+      "node_id": "node3_3",
+      "id": "skills_3"
+    },
+    {
+      "text": "This item cannot be used on the pump.",
+      "node_id": "node1_5",
+      "id": "start_5"
+    },
+    {
+      "text": "You are having difficulties making these parts work.",
+      "node_id": "node1_4",
+      "id": "start_4"
+    },
+    {
+      "text": "The massive pump struggles to life after you successfully install the missing parts.",
+      "node_id": "node1_1",
+      "id": "start_1"
+    },
+    {
+      "text": "The water pump isn't working due to a broken vacuum pump.",
+      "node_id": "node2_1",
+      "id": "search_1"
+    },
+    {
+      "text": "A piece of machinery.",
+      "node_id": "node2_3",
+      "id": "search_3"
+    },
+    {
+      "text": "You fail to repair the water pump.",
+      "node_id": "node3_2",
+      "id": "skills_2"
+    },
+    {
+      "text": "This water pump isn't working due to a broken vacuum pump.",
+      "node_id": "node3_4",
+      "id": "skills_4"
+    },
+    {
+      "text": "You notice nothing unusual.",
+      "node_id": "node3_6",
+      "id": "skills_6"
+    },
+    {
+      "text": "You gain 1000 experience points for fixing the pump.",
+      "node_id": "node1_2",
+      "id": "start_2"
+    },
+    {
+      "text": "The water pump isn't working.",
+      "node_id": "node2_2",
+      "id": "search_2"
+    },
+    {
+      "text": "You somehow manage to destroy the parts while cutting your hand for 1 point of damage.",
+      "node_id": "node1_3",
+      "id": "start_3"
+    }
+  ],
+  "links": []
+}

@@ -1,0 +1,529 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "",
+      "node_id": "node33",
+      "id": "Node997"
+    },
+    {
+      "text": "Well, you see, I have a little side business that I need some help attending to. I have a moonshine still outside of town that needs to be fueled up every so often. Since a gecko done bit my leg, I can\u2019t hobble out to it before it runs out of fuel. If I tell you where it is, would you refuel it for me? It\u2019s worth $50 to me.",
+      "node_id": "node37",
+      "id": "Node009"
+    },
+    {
+      "text": "Well, Vic was quite a fella. He didn\u2019t like to work too much, so he would specialize in expensive pre-war things and then go sell them to the Den -- or even hawk them to stupid tribals as religious artifacts (chuckles to himself). Oops, no offense. Anyhow, I haven\u2019t seen him for a while. Last I heard, he went south to sell some stuff. Maybe to the Den.",
+      "node_id": "node51",
+      "id": "Node027"
+    },
+    {
+      "text": "Always nice to find another drinking buddy. Wanna buy me a drink? Talking always makes me  thirsty.",
+      "node_id": "node36",
+      "id": "Node006"
+    },
+    {
+      "text": "",
+      "node_id": "node6",
+      "id": "Node998"
+    },
+    {
+      "text": "Well, out back of Trapper Town, just to the west of downtown, there\u2019s a back section that\u2019s overrun by rats. The further back you, go the bigger they get. Some say that there\u2019s one huge great rat spirit that\u2019s leading them all. Some of the trappers won\u2019t even stay there anymore. They say it\u2019s  too dangerous.",
+      "node_id": "node45",
+      "id": "Node024"
+    },
+    {
+      "text": "All sorts of things going on hereabouts lately. We\u2019ve got brahmin mutilators, \u00a0walking spirits, gigantical rats, and missing people. Some even say the Den\u2019s involved.",
+      "node_id": "node39",
+      "id": "Node019"
+    },
+    {
+      "text": "Somebody done smashed up my still! And you\u2019re the only person I told about it. Why, if I were a younger feller, more full of piss and vinegar, I\u2019d have a mind to teach you a lesson. Just get out of my sight, you double-crosser!",
+      "node_id": "node7",
+      "id": "Node017"
+    },
+    {
+      "text": "Finished fueling my still? Naw, I don\u2019t reckon that you have yet. Well be sure and come back  when you have.",
+      "node_id": "node12",
+      "id": "Node016"
+    },
+    {
+      "text": "",
+      "node_id": "node30",
+      "id": "Node955"
+    },
+    {
+      "text": "Nice try there, but $50 is all the job\u2019s worth to me. Heck, I can\u2019t afford to pay any more.",
+      "node_id": "node42_1",
+      "id": "Node014_1"
+    },
+    {
+      "text": "I sure wish you had kept your word to me. You didn\u2019t get to my still in time and my latest batch of hootch is plum ruined! I don\u2019t want to have anything more to do with you and I hope no one  else does, either.",
+      "node_id": "node11",
+      "id": "Node029"
+    },
+    {
+      "text": "Well, thanks for refueling my still for me. Here\u2019s your $50, too. Got any questions that I can answer for you?",
+      "node_id": "node10_1",
+      "id": "Node018_1"
+    },
+    {
+      "text": "Bob doesn't seem to want to talk to you.",
+      "node_id": "node5",
+      "id": "talk_p_proc"
+    },
+    {
+      "text": "Looks as though you\u2019re purse has run dry. You don\u2019t have enough money to buy old Bob a drink.",
+      "node_id": "node26",
+      "id": "Node008"
+    },
+    {
+      "text": "My name\u2019s . Nice to meet you Whiskey Bob.",
+      "node_id": "node14_1",
+      "id": "Node005_1"
+    },
+    {
+      "text": "They say that critters that look like giant man-shaped bugs, in a shell and everything, are mutilating brahmin at night. All they find are the torn open, horribly hacked up brahmin corpses.",
+      "node_id": "node43",
+      "id": "Node021"
+    },
+    {
+      "text": "Hey there, gal. Want to talk to Whiskey Bob again about drinks and business and such? I\u2019ll let you sit on my lap! (heh, heh) Just kidding.",
+      "node_id": "node15_1",
+      "id": "Node015_1"
+    },
+    {
+      "text": "Sweetheart, you break my heart every time you open your mouth. Maybe some other time I can take you back to Trapper Town and I\u2019ll show you my etchings (heh, heh). Bye, cutie.",
+      "node_id": "node34_1",
+      "id": "Node002_1"
+    },
+    {
+      "text": "Uh, (embarrassed) I kind of used that page to take care of some business, if you know what I  mean.",
+      "node_id": "node54",
+      "id": "Node032"
+    },
+    {
+      "text": "",
+      "node_id": "node23",
+      "id": "Node910"
+    },
+    {
+      "text": "",
+      "node_id": "node25",
+      "id": "Node999"
+    },
+    {
+      "text": "There\u2019s a canyon just to the west of town that had a bright light in it a few months back. Ever since, every now and then, there\u2019s been a horrible squealing sound that comes from the canyon. Brahmin that wander in don\u2019t come back. Everyone\u2019s afraid to get too near.",
+      "node_id": "node44",
+      "id": "Node023"
+    },
+    {
+      "text": "The real person to tell you about the missing trapper would be Mrs. Buckner. She and Smiley were pretty close. He went north to look for the cave of the golden geckos and hasn\u2019t been seen since. That was a while back, too.",
+      "node_id": "node52",
+      "id": "Node028"
+    },
+    {
+      "text": "I\u2019m . What\u2019s happening here in town?",
+      "node_id": "node14_2",
+      "id": "Node005_2"
+    },
+    {
+      "text": "I don\u2019t want to hear your damn excuses. Just get the heck out of my sight! But I\u2019ll tell you one thing; everyone\u2019s going to know just how worthless your word is before I\u2019m through.",
+      "node_id": "node53",
+      "id": "Node030"
+    },
+    {
+      "text": "Thanks for helping me out with my still. I should be able to do it myself when my leg heals just a bit. Have any questions for an old bar-hound like myself?",
+      "node_id": "node49",
+      "id": "Node020"
+    },
+    {
+      "text": "Thanks for the drink, partner. Now that my whistle\u2019s wet, I feel that I can share a little problem I have. Hey -- maybe you can help me out?",
+      "node_id": "node24",
+      "id": "Node007"
+    },
+    {
+      "text": "",
+      "node_id": "node27",
+      "id": "Node920"
+    },
+    {
+      "text": "Lately, we\u2019ve had a couple of people go missing. A trader, named Vic, who specialized in pre-war stuff, and one of our best trappers.",
+      "node_id": "node47",
+      "id": "Node026"
+    },
+    {
+      "text": "Howdy, what can I do for you?",
+      "node_id": "node9",
+      "id": "Node040"
+    },
+    {
+      "text": "A Garden of Eden Creation Kit? Why I think I saw one of those listed on a page of an old catalog I was looking through while I was sitting down, out back. But I don\u2019t know much more about it  than that.",
+      "node_id": "node48",
+      "id": "Node031"
+    },
+    {
+      "text": "Humph, I think that I\u2019d rather go to Sally\u2019s bathhouse than spend time with you. Now git.",
+      "node_id": "node13_1",
+      "id": "Node004_1"
+    },
+    {
+      "text": "Now then, it\u2019s not going to take you too long and it\u2019s not too dangerous at all. Probably. You want to hear about it or not?",
+      "node_id": "node38",
+      "id": "Node010"
+    },
+    {
+      "text": "Fair enough. You\u2019re a sharp one, there\u2019s no denying it. Here\u2019s some booze. Now in return, you get to listen to my little problem.",
+      "node_id": "node28",
+      "id": "Node011"
+    },
+    {
+      "text": "",
+      "node_id": "node29",
+      "id": "Node950"
+    },
+    {
+      "text": "All you have to do is find a little shack just south of town. Go inside and dump some firewood into the still. Then come back here and I\u2019ll give you your money. But it needs to be done within the next day, or my batch of hootch will go bad.",
+      "node_id": "node40",
+      "id": "Node012"
+    },
+    {
+      "text": "You\u2019ll do it? Great. Remember, you gotta do it soon or my hootch will go bad. Thanks a heap.  See you back here soon.",
+      "node_id": "node41",
+      "id": "Node013"
+    },
+    {
+      "text": "Ain\u2019t you a cute little thing. My name\u2019s Bob, Whiskey Bob -- what\u2019s yours?",
+      "node_id": "node8_1",
+      "id": "Node001_1"
+    },
+    {
+      "text": "A few people have seen the bugmen, but the one who\u2019s got the best look was Torr, the Buckner\u2019s boy. What he saw scared him half out of his wits, and the poor lad is a bit shy in that department  already.",
+      "node_id": "node50",
+      "id": "Node022"
+    },
+    {
+      "text": "Not \u2018A den,\u2019 - \u2018The Den.\u2019 You\u2019ll not find a greater hive of scum and villainy. Now where did I hear that? In any case, it\u2019s a rough sort of place a few days travel south of Klamath. Anything can be had there for a price...even slaves. But you have to be very careful there -\u2014 lots of short tempers attached to dangerous weapons. I don\u2019t think they have much to do with us, though; we\u2019re too poor here.",
+      "node_id": "node46",
+      "id": "Node025"
+    }
+  ],
+  "links": [
+    {
+      "text": "",
+      "source": "Node997",
+      "target": "Node004_1"
+    },
+    {
+      "text": "",
+      "source": "Node997",
+      "target": "Node005_1"
+    },
+    {
+      "text": "",
+      "source": "Node997",
+      "target": "Node005_2"
+    },
+    {
+      "text": "That doesn\u2019t sound too bad -- tell me more.",
+      "source": "Node009",
+      "target": "Node012"
+    },
+    {
+      "text": "What about the missing trapper?",
+      "source": "Node027",
+      "target": "Node028"
+    },
+    {
+      "text": "Let me ask you about something else, Bob.",
+      "source": "Node027",
+      "target": "Node019"
+    },
+    {
+      "text": "Sure, Bob. Don\u2019t mind a bit.",
+      "source": "Node006",
+      "target": "Node910"
+    },
+    {
+      "text": "With a nickname like yours, Whiskey Bob, maybe you should be providing the drinks.",
+      "source": "Node006",
+      "target": "Node920"
+    },
+    {
+      "text": "I don\u2019t want to buy you a drink, Whiskey Bob.",
+      "source": "Node006",
+      "target": "Node004_1"
+    },
+    {
+      "text": "Trappers ousted by rats? Tell me about some of the other things.",
+      "source": "Node024",
+      "target": "Node019"
+    },
+    {
+      "text": "Missing people? Tell me more.",
+      "source": "Node019",
+      "target": "Node026"
+    },
+    {
+      "text": "Tell me all about the walking spirits.",
+      "source": "Node019",
+      "target": "Node023"
+    },
+    {
+      "text": "Tell me about the brahmin mutilations.",
+      "source": "Node019",
+      "target": "Node021"
+    },
+    {
+      "text": "I need to ask you about something else. Have you ever heard of something called a Garden of Eden  Creation Kit?",
+      "source": "Node019",
+      "target": "Node031"
+    },
+    {
+      "text": "A den? What kind of den?",
+      "source": "Node019",
+      "target": "Node025"
+    },
+    {
+      "text": "Gigantical rats? I\u2019ve gotta hear more about those.",
+      "source": "Node019",
+      "target": "Node024"
+    },
+    {
+      "text": "OK, I\u2019ll do it.",
+      "source": "Node014_1",
+      "target": "Node012"
+    },
+    {
+      "text": "But I, I thought I had more time\u2026.",
+      "source": "Node029",
+      "target": "Node030"
+    },
+    {
+      "text": "Your hootch tastes like dogpiss anyway.",
+      "source": "Node029",
+      "target": "Node999"
+    },
+    {
+      "text": "",
+      "source": "Node018_1",
+      "target": "Node955"
+    },
+    {
+      "text": "Yes. Tell me what\u2019s going on in town lately.",
+      "source": "Node018_1",
+      "target": "Node019"
+    },
+    {
+      "text": "",
+      "source": "Node018_1",
+      "target": "Node950"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node004_1"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node005_2"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node015_1"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node040"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node001_1"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node016"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node029"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node017"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node998"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node018_1"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node005_1"
+    },
+    {
+      "text": "That sounds horrible.",
+      "source": "Node021",
+      "target": "Node022"
+    },
+    {
+      "text": "Sure, Bob - tell me about drinks and business.",
+      "source": "Node015_1",
+      "target": "Node006"
+    },
+    {
+      "text": "Business? Oh, that kind of business. I prefer old newspaper, myself. Oh well, tell me something  else, then.",
+      "source": "Node032",
+      "target": "Node019"
+    },
+    {
+      "text": "",
+      "source": "Node910",
+      "target": "Node007"
+    },
+    {
+      "text": "",
+      "source": "Node910",
+      "target": "Node008"
+    },
+    {
+      "text": "",
+      "source": "Node910",
+      "target": "Node999"
+    },
+    {
+      "text": "Yes, surely a sign of spirit infestation. If only you had a competent shaman. Tell me about  something else.",
+      "source": "Node023",
+      "target": "Node019"
+    },
+    {
+      "text": "Hmm, intersting. Tell me about something else, though.",
+      "source": "Node028",
+      "target": "Node019"
+    },
+    {
+      "text": "What about the missing trader?",
+      "source": "Node028",
+      "target": "Node027"
+    },
+    {
+      "text": "Well, I have been wondering about some of the rumors I\u2019ve heard around town.",
+      "source": "Node020",
+      "target": "Node006"
+    },
+    {
+      "text": "Anything unusual going on in town lately?",
+      "source": "Node007",
+      "target": "Node019"
+    },
+    {
+      "text": "If it won\u2019t take too long, I guess I could help you. For a price, of course.",
+      "source": "Node007",
+      "target": "Node010"
+    },
+    {
+      "text": "How can I help you out?",
+      "source": "Node007",
+      "target": "Node009"
+    },
+    {
+      "text": "",
+      "source": "Node920",
+      "target": "Node011"
+    },
+    {
+      "text": "",
+      "source": "Node920",
+      "target": "Node004_1"
+    },
+    {
+      "text": "Tell me more about the trader some call\u2026Vic?",
+      "source": "Node026",
+      "target": "Node027"
+    },
+    {
+      "text": "I want to know more about the trapper.",
+      "source": "Node026",
+      "target": "Node028"
+    },
+    {
+      "text": "Let me ask you about something else.",
+      "source": "Node026",
+      "target": "Node019"
+    },
+    {
+      "text": "What is going on around here?",
+      "source": "Node040",
+      "target": "Node019"
+    },
+    {
+      "text": "Nothing, thanks.",
+      "source": "Node040",
+      "target": "Node999"
+    },
+    {
+      "text": "Really? I\u2019d like to see that catalog.",
+      "source": "Node031",
+      "target": "Node032"
+    },
+    {
+      "text": "I think I\u2019ve heard enough. Goodbye.",
+      "source": "Node010",
+      "target": "Node999"
+    },
+    {
+      "text": "OK, go ahead and tell me about it.",
+      "source": "Node010",
+      "target": "Node009"
+    },
+    {
+      "text": "[MORE]",
+      "source": "Node011",
+      "target": "Node009"
+    },
+    {
+      "text": "That sounds pretty easy. OK, I\u2019ll do it.",
+      "source": "Node012",
+      "target": "Node013"
+    },
+    {
+      "text": "$50 doesn\u2019t sound like nearly enough for a job like that.",
+      "source": "Node012",
+      "target": "Node014_1"
+    },
+    {
+      "text": "No problem, Bob. See you in a day.",
+      "source": "Node013",
+      "target": "Node999"
+    },
+    {
+      "text": "Happy to help. But first, tell me what\u2019s going on in town lately.",
+      "source": "Node013",
+      "target": "Node019"
+    },
+    {
+      "text": "Incredible! Let me ask about something else.",
+      "source": "Node022",
+      "target": "Node019"
+    },
+    {
+      "text": "I think I\u2019d be safe enough there; I know how to handle myself. Let me ask you about something  else, though.",
+      "source": "Node025",
+      "target": "Node019"
+    }
+  ]
+}

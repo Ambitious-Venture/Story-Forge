@@ -1,0 +1,64 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "",
+      "node_id": "node4",
+      "id": "follow_player"
+    },
+    {
+      "text": "You see a dog.",
+      "node_id": "node1_1",
+      "id": "start_1"
+    },
+    {
+      "text": "Grrr!",
+      "node_id": "node3",
+      "id": "growl"
+    },
+    {
+      "text": "Woof!",
+      "node_id": "node2",
+      "id": "do_dialogue"
+    },
+    {
+      "text": "It seems that you have made a friend of this dog.",
+      "node_id": "node1_2",
+      "id": "start_2"
+    }
+  ],
+  "links": [
+    {
+      "text": "",
+      "source": "start_1",
+      "target": "do_dialogue"
+    },
+    {
+      "text": "",
+      "source": "start_1",
+      "target": "follow_player"
+    },
+    {
+      "text": "",
+      "source": "start_1",
+      "target": "growl"
+    },
+    {
+      "text": "",
+      "source": "start_2",
+      "target": "do_dialogue"
+    },
+    {
+      "text": "",
+      "source": "start_2",
+      "target": "follow_player"
+    },
+    {
+      "text": "",
+      "source": "start_2",
+      "target": "growl"
+    }
+  ]
+}

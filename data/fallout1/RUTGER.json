@@ -1,0 +1,1449 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "",
+      "node_id": "node1",
+      "id": "start"
+    },
+    {
+      "text": "I'm looking for work.",
+      "node_id": "node84_1",
+      "id": "Rutger48_1"
+    },
+    {
+      "text": "Really? So, who are the bastards? The Water Merchants?",
+      "node_id": "node74",
+      "id": "Rutger40"
+    },
+    {
+      "text": "You're looking for work, are you? You look alright. Well, you should probably talk to Butch. He's through the door behind me.",
+      "node_id": "node30",
+      "id": "Rutger16"
+    },
+    {
+      "text": "I guess accidents do happen. It is a pretty messed up world out there. I'm still not sure I trust you. Go ahead and talk to Butch. He's in that room right there.",
+      "node_id": "node41",
+      "id": "Rutger12"
+    },
+    {
+      "text": "I hear that you're a little crazy, but that might be what we need right now. You'll need to talk to Butch. He likes to meet all the new recruits. He's in the room right behind me. Go on in.",
+      "node_id": "node26",
+      "id": "Rutger10"
+    },
+    {
+      "text": "",
+      "node_id": "node92",
+      "id": "Rutger56a"
+    },
+    {
+      "text": "I hope you're right.",
+      "node_id": "node67",
+      "id": "Rutger35"
+    },
+    {
+      "text": "I thought you didn't want the job. What do you want?",
+      "node_id": "node17",
+      "id": "Rutger17"
+    },
+    {
+      "text": "Well, I heard that some people saw some scattered groups of mutants way up to the northwest. Way passed the Brotherhood of Steel.",
+      "node_id": "node88",
+      "id": "Rutger59"
+    },
+    {
+      "text": "",
+      "node_id": "node47",
+      "id": "BottomReact"
+    },
+    {
+      "text": "Yes? How can I help you?",
+      "node_id": "node69",
+      "id": "Rutger39"
+    },
+    {
+      "text": "Some huge mutants are destroying my caravans? That's almost as good as this Deathclaw story.",
+      "node_id": "node76",
+      "id": "Rutger47"
+    },
+    {
+      "text": "You see Rutger.",
+      "node_id": "node2",
+      "id": "look_at_p_proc"
+    },
+    {
+      "text": "You'd be surprised at what's in demand out there. Something that's taken for granted in one place may be a highly sought after commodity in a settlement 10 miles away.",
+      "node_id": "node37",
+      "id": "Rutger09"
+    },
+    {
+      "text": "Of course! \u00a0You don\u2019t need to talk to me. Just talk to our caravan driver.",
+      "node_id": "node54",
+      "id": "Rutger71"
+    },
+    {
+      "text": "I don't think I want a child killer on one of my caravans.",
+      "node_id": "node27",
+      "id": "Rutger11"
+    },
+    {
+      "text": "Okay, but let me know if you change your mind. Most of the time it\u2019s easy money.",
+      "node_id": "node97",
+      "id": "Rutger64"
+    },
+    {
+      "text": "So, do you have any proof about who's been messing with my, I mean, our caravans?",
+      "node_id": "node86",
+      "id": "Rutger52"
+    },
+    {
+      "text": "",
+      "node_id": "node89",
+      "id": "Rutger55a"
+    },
+    {
+      "text": "",
+      "node_id": "node60",
+      "id": "Rutger29b"
+    },
+    {
+      "text": "",
+      "node_id": "node85",
+      "id": "TopReact"
+    },
+    {
+      "text": "A whole caravan? Really? What, do I look that gullible? Get out there and find out what's really happening to our caravans.",
+      "node_id": "node82",
+      "id": "Rutger46"
+    },
+    {
+      "text": "",
+      "node_id": "node77",
+      "id": "Rutger40b"
+    },
+    {
+      "text": "Oh, yeah, Deathclaw, whatever. They're all crazy. It's just people's imagination getting carried away. There's no ghost or monster or whatever it's supposed to be. Just stick with reality, and you'll be fine.",
+      "node_id": "node61",
+      "id": "Rutger38"
+    },
+    {
+      "text": "You're full of crap. Get the hell out.",
+      "node_id": "node46",
+      "id": "Rutger20"
+    },
+    {
+      "text": "Get out of here you damn Skag!",
+      "node_id": "node44",
+      "id": "Rutger18"
+    },
+    {
+      "text": "Fine. I wish you would make up you mind, I'm a busy man...Let me give you the details.",
+      "node_id": "node45",
+      "id": "Rutger19"
+    },
+    {
+      "text": "Hey, I know how to use one of those. Butch got some gizmo from some scout from the Brotherhood a long time ago that can read these things. Let's see.\u2026\u2026Sorry, I didn't believe you. This does not bode well for the good guys. Well, here's your 500 Hubbucks. Hell, make it 800, and thanks for the information! \u00a0If you need anymore work you will always be welcome.",
+      "node_id": "node84_2",
+      "id": "Rutger48_2"
+    },
+    {
+      "text": "Hey! I heard you killed the bastard in charge of those mutants. Good going. You probably saved the lives of everyone in the Hub; but I wonder where they were coming from.",
+      "node_id": "node9",
+      "id": "Rutger55"
+    },
+    {
+      "text": "",
+      "node_id": "node106",
+      "id": "DownReact"
+    },
+    {
+      "text": "I already told you. Butch and I run the Far Go Traders. \u00a0Now what did you want?",
+      "node_id": "node23_1",
+      "id": "Rutger07_1"
+    },
+    {
+      "text": "Beth's right out that door and to the right. She runs our weapon shop. Tell her you're working for us, and you'll get a 15% discount.",
+      "node_id": "node62",
+      "id": "Rutger37"
+    },
+    {
+      "text": "You're full of crap. Get out of my face.",
+      "node_id": "node80",
+      "id": "Rutger44"
+    },
+    {
+      "text": "I thought for sure you were from there. I was just testing you. If you're not from there, how the hell did you get that suit of steel they all traipse around in?",
+      "node_id": "node56",
+      "id": "Rutger27"
+    },
+    {
+      "text": "Great. \u00a0Be sure to ask around.",
+      "node_id": "node101",
+      "id": "Rutger69"
+    },
+    {
+      "text": "Well, I can't do anything unless I have proof. I wouldn't want to start another merchant war. If you can bring me proof, I'll bring it to the law, and we'll wipe them out.",
+      "node_id": "node83",
+      "id": "Rutger43"
+    },
+    {
+      "text": "You are one ruthless son of a bitch. We might need that, but that doesn't mean that I agree with your ways. Just don't touch a child around me, or you'll be the wet spot on the wall. Go ahead and talk to Butch. He's in the office right behind me.",
+      "node_id": "node40",
+      "id": "Rutger14"
+    },
+    {
+      "text": "",
+      "node_id": "node25",
+      "id": "Rutger00b"
+    },
+    {
+      "text": "",
+      "node_id": "node59",
+      "id": "Rutger29a"
+    },
+    {
+      "text": "",
+      "node_id": "node109",
+      "id": "UpReactLevel"
+    },
+    {
+      "text": "Why, we trade just about everything you can think of: chems, tires, guns, bullets, food, brahmin, dirt, even scraps of metal.",
+      "node_id": "node36",
+      "id": "Rutger08"
+    },
+    {
+      "text": "They are really strange. They worship technology or something like that. They have a hell of a lot of fire power. They could easily take out a caravan. They're to the northwest.",
+      "node_id": "node63",
+      "id": "Rutger31"
+    },
+    {
+      "text": "Great, just talk to our caravan driver by the front door to see when the next caravan\u2019s scheduled to leave. \u00a0Just as long as you do a good job our drivers will hire you.",
+      "node_id": "node96",
+      "id": "Rutger65"
+    },
+    {
+      "text": "Sure, we could use you in one of our caravans. \u00a0Do you do guard work? The pay\u2019s standard, 400 hubbucks. Interested?",
+      "node_id": "node91",
+      "id": "Rutger62"
+    },
+    {
+      "text": "That's great! \u00a0Go tell Butch what you've found and he'll let me know if you've earned your reward.",
+      "node_id": "node48",
+      "id": "Rutger76"
+    },
+    {
+      "text": "The job pays 500 Hubbucks when you can tell Butch exactly what has been happening to all of the caravans that have disappeared recently. So, collect any proof you might find. I personally think it's those damn Water Merchants or those gun freaks at the Brotherhood of Steel. Butch thinks it's some Claw of death or something. Check with Beth, she would know more about that.",
+      "node_id": "node18",
+      "id": "Rutger25"
+    },
+    {
+      "text": "",
+      "node_id": "node24",
+      "id": "RutgerEnd"
+    },
+    {
+      "text": "Well, I didn't say it was going to be easy. Otherwise, we would have solved the problem a long time ago. Ask around. Get rough if you have to, but don't draw blood. At least, not in public.",
+      "node_id": "node49",
+      "id": "Rutger23"
+    },
+    {
+      "text": "What are you talking to me for? I said to talk to Butch about the job. If he likes you, I'll fill you in on the details.",
+      "node_id": "node14",
+      "id": "Rutger21"
+    },
+    {
+      "text": "I'm telling you, lay off the chems. They'll mess you up.",
+      "node_id": "node52",
+      "id": "Rutger24"
+    },
+    {
+      "text": "How goes the search?",
+      "node_id": "node19",
+      "id": "Rutger22"
+    },
+    {
+      "text": "Actually, things are not going so well. Those mutants are still causing problems with our Caravans. We've had to put almost all of our caravans on hold. Thanks for asking though.",
+      "node_id": "node94",
+      "id": "Rutger61"
+    },
+    {
+      "text": "",
+      "node_id": "node8",
+      "id": "get_reaction"
+    },
+    {
+      "text": "Ok, but I don't know what you missed. There's not much to it.",
+      "node_id": "node50",
+      "id": "Rutger26"
+    },
+    {
+      "text": "",
+      "node_id": "node38",
+      "id": "RutgerEndBad"
+    },
+    {
+      "text": "",
+      "node_id": "node55",
+      "id": "Rutger29"
+    },
+    {
+      "text": "Well, whatever. I'm sure you've met them before. They're a strange bunch that worship technology or something like that. They're to the northwest of here.",
+      "node_id": "node58",
+      "id": "Rutger30"
+    },
+    {
+      "text": "Hey there, gorgeous. How are things going?",
+      "node_id": "node16_1",
+      "id": "Rutger56_1"
+    },
+    {
+      "text": "Hi. How may I help you?",
+      "node_id": "node15",
+      "id": "Rutger54"
+    },
+    {
+      "text": "Well sure, we may be losing a lot of caravans, but it is a very small percentage of our total business. The chances of you being on a caravan that is attacked by whatever is \u2018completely\u2019 capturing or destroying our caravans is very unlikely. \u00a0Who or what ever is doing this must have a pretty large force, or a very deadly one.",
+      "node_id": "node100",
+      "id": "Rutger72"
+    },
+    {
+      "text": "Hmmmm. It's a shame you don't have the brains to go with that brawn. We could have used someone like  you.",
+      "node_id": "node32",
+      "id": "Rutger02"
+    },
+    {
+      "text": "My ass it was an accident. I know your type. Think you can do whatever you want. Well, not around here, lady. Go ahead and talk with Butch, but I'll be keeping an eye on you. He's right through the door right behind me.",
+      "node_id": "node42_1",
+      "id": "Rutger13_1"
+    },
+    {
+      "text": "Mutants destroyed our caravans? That's almost as good as the one about the Deathclaw.",
+      "node_id": "node73",
+      "id": "Rutger51"
+    },
+    {
+      "text": "You can't miss them. They're south of here, all barricaded in with that damn water tower.",
+      "node_id": "node35",
+      "id": "Rutger06"
+    },
+    {
+      "text": "",
+      "node_id": "node107",
+      "id": "BigUpReact"
+    },
+    {
+      "text": "You know, since the mutants were destroyed, the Children of the Cathedral have been acting 'very' strange. I actually overheard one talking about you. They seem to be looking for you desperately.",
+      "node_id": "node95",
+      "id": "Rutger60"
+    },
+    {
+      "text": "Things are great! There are no more raids from those damn mutants, and trade is back to where it was. Actually, trade is much better than it was. Thanks for asking.",
+      "node_id": "node93",
+      "id": "Rutger57"
+    },
+    {
+      "text": "How's my favorite lady?",
+      "node_id": "node16_2",
+      "id": "Rutger56_2"
+    },
+    {
+      "text": "You pissed off the boss. Get the hell out of here!",
+      "node_id": "node29",
+      "id": "Rutger75"
+    },
+    {
+      "text": "Didn\u2019t you hear me? \u00a0We won\u2019t hire you. \u00a0Please leave.",
+      "node_id": "node90_1",
+      "id": "Rutger67_1"
+    },
+    {
+      "text": "Damn, you must be good. I'm glad you're on our side. I don't know how you couldn't know, but the Brotherhood is a strange bunch that worship technology, or something like that. They're just a little to the northwest from here.",
+      "node_id": "node57",
+      "id": "Rutger28"
+    },
+    {
+      "text": "Please, don't add to Butch's paranoia. He's a little bit touchy when it comes to the Deathclaw. Now tell me, did you actually find anything out? Was it the Water Merchants?",
+      "node_id": "node71",
+      "id": "Rutger49"
+    },
+    {
+      "text": "",
+      "node_id": "node51",
+      "id": "Rutger22a"
+    },
+    {
+      "text": "Hello again. \u00a0What can I do you for\u2026 I mean do for you?",
+      "node_id": "node13",
+      "id": "Rutger73"
+    },
+    {
+      "text": "A whole vault? Are you nuts? We don't have that kind of access to that much water. Plus, I wouldn't want to go into those mountains. We've had enough missing caravans.",
+      "node_id": "node33",
+      "id": "Rutger04"
+    },
+    {
+      "text": "What? \u00a0What about the missing caravans?",
+      "node_id": "node53",
+      "id": "Rutger63"
+    },
+    {
+      "text": "I knew it was them. Did you bring proof? I'm going to make those bastards pay.",
+      "node_id": "node79",
+      "id": "Rutger42"
+    },
+    {
+      "text": "You're looking for work? I've heard good things about you. We can always use someone of your reputation. Go on in and talk to Butch. He's through the door behind me.",
+      "node_id": "node28",
+      "id": "Rutger15"
+    },
+    {
+      "text": "",
+      "node_id": "node108",
+      "id": "BigDownReact"
+    },
+    {
+      "text": "",
+      "node_id": "node39",
+      "id": "Rutger11a"
+    },
+    {
+      "text": "",
+      "node_id": "node43",
+      "id": "Rutger17a"
+    },
+    {
+      "text": "Rats, huh? So, did you find anything out or what? It's those damn Water Merchants, I know it!",
+      "node_id": "node72",
+      "id": "Rutger50"
+    },
+    {
+      "text": "",
+      "node_id": "node70",
+      "id": "Rutger39a"
+    },
+    {
+      "text": "What? How? That's impossible. You're gotta be joking? You are joking, aren't you?",
+      "node_id": "node81",
+      "id": "Rutger45"
+    },
+    {
+      "text": "I knew you had to be one of them. You had to be with that steel suit. I hope you're right, and I hope it's not a mistake hiring you, but you're not the only one we've hired so, it's ok.",
+      "node_id": "node64",
+      "id": "Rutger32"
+    },
+    {
+      "text": "",
+      "node_id": "node102",
+      "id": "DownReactLevel"
+    },
+    {
+      "text": "Well, that's reassuring. I think.",
+      "node_id": "node66",
+      "id": "Rutger34"
+    },
+    {
+      "text": "Well, okay. \u00a0Just talk to our caravan driver by the front door when you\u2019re ready to go. \u00a0Just as long as you do a good job our drivers will hire you.",
+      "node_id": "node99",
+      "id": "Rutger70"
+    },
+    {
+      "text": "",
+      "node_id": "node75",
+      "id": "Rutger40a"
+    },
+    {
+      "text": "",
+      "node_id": "node6",
+      "id": "destroy_p_proc"
+    },
+    {
+      "text": "Oh sorry, you're not from around here. The Water Merchants handle all the damn water in this town. I wouldn't even bother trying to deal with them. They're a bunch of vultures.",
+      "node_id": "node34",
+      "id": "Rutger05"
+    },
+    {
+      "text": "Hey, I heard you destroyed some base where all those damn mutants were hanging out! Good job! Too bad you couldn't track down their leader.",
+      "node_id": "node10",
+      "id": "Rutger58"
+    },
+    {
+      "text": "Well, if this Deathclaw really does exist, you might want to examine it's lair. It might have a clue.",
+      "node_id": "node87",
+      "id": "Rutger53"
+    },
+    {
+      "text": "Well, we 'can' transport water, but it will cost you. How much do you need and where is it going?",
+      "node_id": "node21",
+      "id": "Rutger03"
+    },
+    {
+      "text": "",
+      "node_id": "node11",
+      "id": "Rutger74"
+    },
+    {
+      "text": "You forgot? Funny, lady. Now, get lost.",
+      "node_id": "node78_1",
+      "id": "Rutger41_1"
+    },
+    {
+      "text": "A hunch isn't good enough. We need proof.",
+      "node_id": "node68",
+      "id": "Rutger36"
+    },
+    {
+      "text": "Hello and welcome to the Far Go Traders. How may we help you?",
+      "node_id": "node12",
+      "id": "Rutger00"
+    },
+    {
+      "text": "We don't hire Skags! Get out.",
+      "node_id": "node31",
+      "id": "Rutger01"
+    },
+    {
+      "text": "",
+      "node_id": "node5",
+      "id": "critter_p_proc"
+    },
+    {
+      "text": "",
+      "node_id": "node3",
+      "id": "pickup_p_proc"
+    },
+    {
+      "text": "",
+      "node_id": "node105",
+      "id": "UpReact"
+    },
+    {
+      "text": "",
+      "node_id": "node22",
+      "id": "Rutger00a"
+    },
+    {
+      "text": "",
+      "node_id": "node103",
+      "id": "ReactToLevel"
+    },
+    {
+      "text": "I'm sorry but we don't deal with... um... the intellectually challenged.",
+      "node_id": "node4_1",
+      "id": "talk_p_proc_1"
+    },
+    {
+      "text": "Why do you say that?",
+      "node_id": "node65",
+      "id": "Rutger33"
+    },
+    {
+      "text": "I don\u2019t think that will be very affective, but you can work on one if you like.",
+      "node_id": "node98",
+      "id": "Rutger68"
+    },
+    {
+      "text": "",
+      "node_id": "node104",
+      "id": "LevelToReact"
+    }
+  ],
+  "links": [
+    {
+      "text": "",
+      "source": "start",
+      "target": "pickup_p_proc"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "destroy_p_proc"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "critter_p_proc"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "look_at_p_proc"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "talk_p_proc_1"
+    },
+    {
+      "text": "",
+      "source": "Rutger48_1",
+      "target": "TopReact"
+    },
+    {
+      "text": "I forgot.",
+      "source": "Rutger40",
+      "target": "Rutger41_1"
+    },
+    {
+      "text": "Yea, that's them! They're out to get you. They...want your...brahmin.",
+      "source": "Rutger40",
+      "target": "Rutger40a"
+    },
+    {
+      "text": "It was the Deathclaw. I saw it eat a whole caravan.",
+      "source": "Rutger40",
+      "target": "Rutger40b"
+    },
+    {
+      "text": "Actually, it was a group of these HUGE mutants.",
+      "source": "Rutger40",
+      "target": "Rutger47"
+    },
+    {
+      "text": "",
+      "source": "Rutger56a",
+      "target": "Rutger61"
+    },
+    {
+      "text": "",
+      "source": "Rutger56a",
+      "target": "Rutger57"
+    },
+    {
+      "text": "",
+      "source": "Rutger35",
+      "target": "Rutger29"
+    },
+    {
+      "text": "Grudda!",
+      "source": "Rutger17",
+      "target": "Rutger18"
+    },
+    {
+      "text": "I'm sorry. I really wanted this job. Can I have it please?",
+      "source": "Rutger17",
+      "target": "Rutger17a"
+    },
+    {
+      "text": "I don't. I just had to have one more look at that ugly mug of yours.",
+      "source": "Rutger17",
+      "target": "RutgerEndBad"
+    },
+    {
+      "text": "Nothing.",
+      "source": "Rutger17",
+      "target": "RutgerEnd"
+    },
+    {
+      "text": "Wha.",
+      "source": "Rutger39",
+      "target": "Rutger24"
+    },
+    {
+      "text": "I know what's been happening to your caravans.",
+      "source": "Rutger39",
+      "target": "Rutger39a"
+    },
+    {
+      "text": "Nothing.",
+      "source": "Rutger39",
+      "target": "RutgerEnd"
+    },
+    {
+      "text": "I'm not joking. I found the Deathclaw and killed it, but I found this holodisk on the body of one of those...super mutant creatures.",
+      "source": "Rutger47",
+      "target": "Rutger48_2"
+    },
+    {
+      "text": "I'm not joking. I found the Deathclaw and killed it, but I found this holodisk on the body of one of those...super mutant creatures.",
+      "source": "Rutger47",
+      "target": "Rutger48_1"
+    },
+    {
+      "text": "It's true, I was there, and I saw it. I'll bring back proof.",
+      "source": "Rutger47",
+      "target": "RutgerEnd"
+    },
+    {
+      "text": "Great. What about that job that was posted?",
+      "source": "Rutger09",
+      "target": "Rutger00a"
+    },
+    {
+      "text": "Ok, enough with the boring merchant chatter. Where's the door?",
+      "source": "Rutger09",
+      "target": "RutgerEndBad"
+    },
+    {
+      "text": "Thanks, bye.",
+      "source": "Rutger09",
+      "target": "RutgerEnd"
+    },
+    {
+      "text": "Hey, I don't discriminate. If it gets in my way, regardless of age, they'll be a wet spot on the wall.",
+      "source": "Rutger11",
+      "target": "Rutger14"
+    },
+    {
+      "text": "Child killer? But it was an accident.",
+      "source": "Rutger11",
+      "target": "Rutger11a"
+    },
+    {
+      "text": "Yea. Here's a holodisk I found on the body of one of those...huge mutant creatures.",
+      "source": "Rutger52",
+      "target": "Rutger48_2"
+    },
+    {
+      "text": "Gak!",
+      "source": "Rutger52",
+      "target": "Rutger24"
+    },
+    {
+      "text": "No, still looking. Any ideas?",
+      "source": "Rutger52",
+      "target": "Rutger53"
+    },
+    {
+      "text": "Yea. Here's a holodisk I found on the body of one of those...huge mutant creatures.",
+      "source": "Rutger52",
+      "target": "Rutger48_1"
+    },
+    {
+      "text": "No, I'll let you know.",
+      "source": "Rutger52",
+      "target": "RutgerEnd"
+    },
+    {
+      "text": "",
+      "source": "Rutger55a",
+      "target": "Rutger71"
+    },
+    {
+      "text": "",
+      "source": "Rutger55a",
+      "target": "Rutger62"
+    },
+    {
+      "text": "",
+      "source": "Rutger55a",
+      "target": "Rutger67_1"
+    },
+    {
+      "text": "",
+      "source": "Rutger29b",
+      "target": "Rutger33"
+    },
+    {
+      "text": "",
+      "source": "Rutger29b",
+      "target": "Rutger32"
+    },
+    {
+      "text": "",
+      "source": "Rutger40b",
+      "target": "Rutger45"
+    },
+    {
+      "text": "",
+      "source": "Rutger40b",
+      "target": "Rutger46"
+    },
+    {
+      "text": "",
+      "source": "Rutger38",
+      "target": "Rutger29"
+    },
+    {
+      "text": "",
+      "source": "Rutger20",
+      "target": "BottomReact"
+    },
+    {
+      "text": "",
+      "source": "Rutger19",
+      "target": "Rutger25"
+    },
+    {
+      "text": "",
+      "source": "Rutger48_2",
+      "target": "TopReact"
+    },
+    {
+      "text": "I need some cash. Got any jobs?",
+      "source": "Rutger55",
+      "target": "Rutger55a"
+    },
+    {
+      "text": "Yeah! More things to kill! I wonder where they're hiding.",
+      "source": "Rutger55",
+      "target": "Rutger59"
+    },
+    {
+      "text": "All in a day's work. See ya!",
+      "source": "Rutger55",
+      "target": "RutgerEnd"
+    },
+    {
+      "text": "",
+      "source": "DownReact",
+      "target": "ReactToLevel"
+    },
+    {
+      "text": "Great. What about that job that was posted?",
+      "source": "Rutger07_1",
+      "target": "Rutger00a"
+    },
+    {
+      "text": "What sort of things do you trade?",
+      "source": "Rutger07_1",
+      "target": "Rutger08"
+    },
+    {
+      "text": "Interesting. Bye.",
+      "source": "Rutger07_1",
+      "target": "RutgerEnd"
+    },
+    {
+      "text": "",
+      "source": "Rutger37",
+      "target": "Rutger29"
+    },
+    {
+      "text": "Oh, this? I 'found' it, if you know what I mean.",
+      "source": "Rutger27",
+      "target": "Rutger28"
+    },
+    {
+      "text": "I'm not at liberty to say.",
+      "source": "Rutger27",
+      "target": "Rutger30"
+    },
+    {
+      "text": "",
+      "source": "Rutger00b",
+      "target": "Rutger02"
+    },
+    {
+      "text": "",
+      "source": "Rutger00b",
+      "target": "Rutger01"
+    },
+    {
+      "text": "",
+      "source": "Rutger29a",
+      "target": "Rutger31"
+    },
+    {
+      "text": "",
+      "source": "Rutger29a",
+      "target": "Rutger27"
+    },
+    {
+      "text": "",
+      "source": "UpReactLevel",
+      "target": "LevelToReact"
+    },
+    {
+      "text": "Dirt? Scraps of metal?",
+      "source": "Rutger08",
+      "target": "Rutger09"
+    },
+    {
+      "text": "Uh...that's fascinating, but I gotta go.",
+      "source": "Rutger08",
+      "target": "RutgerEnd"
+    },
+    {
+      "text": "",
+      "source": "Rutger31",
+      "target": "Rutger29"
+    },
+    {
+      "text": "Sure",
+      "source": "Rutger62",
+      "target": "Rutger65"
+    },
+    {
+      "text": "Nope.",
+      "source": "Rutger62",
+      "target": "Rutger64"
+    },
+    {
+      "text": "",
+      "source": "Rutger25",
+      "target": "Rutger29"
+    },
+    {
+      "text": "I think I may have figured out what's been happening to the missing caravans.",
+      "source": "Rutger22",
+      "target": "Rutger76"
+    },
+    {
+      "text": "Sorry, I've got to go.",
+      "source": "Rutger22",
+      "target": "RutgerEnd"
+    },
+    {
+      "text": "Do you have any caravan jobs?",
+      "source": "Rutger22",
+      "target": "Rutger22a"
+    },
+    {
+      "text": "Rhoo?",
+      "source": "Rutger22",
+      "target": "Rutger24"
+    },
+    {
+      "text": "Could you please repeat the details on the job?",
+      "source": "Rutger22",
+      "target": "Rutger26"
+    },
+    {
+      "text": "I can't seem to find anything.",
+      "source": "Rutger22",
+      "target": "Rutger23"
+    },
+    {
+      "text": "",
+      "source": "get_reaction",
+      "target": "ReactToLevel"
+    },
+    {
+      "text": "",
+      "source": "Rutger26",
+      "target": "Rutger25"
+    },
+    {
+      "text": "",
+      "source": "RutgerEndBad",
+      "target": "DownReactLevel"
+    },
+    {
+      "text": "What do you know about the Deathclaw?",
+      "source": "Rutger29",
+      "target": "Rutger38"
+    },
+    {
+      "text": "I can guarantee you it wasn't the Brotherhood.",
+      "source": "Rutger29",
+      "target": "Rutger29b"
+    },
+    {
+      "text": "What's the Brotherhood of Steel?",
+      "source": "Rutger29",
+      "target": "Rutger29a"
+    },
+    {
+      "text": "Where's Beth?",
+      "source": "Rutger29",
+      "target": "Rutger37"
+    },
+    {
+      "text": "Thanks, bye.",
+      "source": "Rutger29",
+      "target": "RutgerEnd"
+    },
+    {
+      "text": "",
+      "source": "Rutger30",
+      "target": "Rutger29"
+    },
+    {
+      "text": "Yogwa?",
+      "source": "Rutger56_1",
+      "target": "Rutger24"
+    },
+    {
+      "text": "Fine, thanks. Do you have any more jobs?",
+      "source": "Rutger56_1",
+      "target": "Rutger55a"
+    },
+    {
+      "text": "Great! Just stopping in to see how things are going.",
+      "source": "Rutger56_1",
+      "target": "Rutger56a"
+    },
+    {
+      "text": "I found out what happened to the missing caravans.",
+      "source": "Rutger54",
+      "target": "Rutger39a"
+    },
+    {
+      "text": "Oh, nothing.",
+      "source": "Rutger54",
+      "target": "RutgerEnd"
+    },
+    {
+      "text": "Oh, okay. \u00a0I think I\u2019ll ask around some more.",
+      "source": "Rutger72",
+      "target": "RutgerEnd"
+    },
+    {
+      "text": "Well, I need the money.",
+      "source": "Rutger72",
+      "target": "Rutger70"
+    },
+    {
+      "text": "I'm not joking. I found the Deathclaw and killed it. But, I also found this holodisk on the body of those super mutant creatures.",
+      "source": "Rutger51",
+      "target": "Rutger48_1"
+    },
+    {
+      "text": "It's the truth, I was there. I'll bring back proof.",
+      "source": "Rutger51",
+      "target": "RutgerEnd"
+    },
+    {
+      "text": "I'm not joking. I found the Deathclaw and killed it. But, I also found this holodisk on the body of those super mutant creatures.",
+      "source": "Rutger51",
+      "target": "Rutger48_2"
+    },
+    {
+      "text": "So, what do you do around here?",
+      "source": "Rutger06",
+      "target": "Rutger07_1"
+    },
+    {
+      "text": "Ok, thanks.",
+      "source": "Rutger06",
+      "target": "RutgerEnd"
+    },
+    {
+      "text": "",
+      "source": "BigUpReact",
+      "target": "ReactToLevel"
+    },
+    {
+      "text": "Great! Just stopping in to see how things are going.",
+      "source": "Rutger56_2",
+      "target": "Rutger56a"
+    },
+    {
+      "text": "Yogwa?",
+      "source": "Rutger56_2",
+      "target": "Rutger24"
+    },
+    {
+      "text": "Fine, thanks. Do you have any more jobs?",
+      "source": "Rutger56_2",
+      "target": "Rutger55a"
+    },
+    {
+      "text": "",
+      "source": "Rutger28",
+      "target": "Rutger29"
+    },
+    {
+      "text": "No, it was really the Deathclaw. I saw it eat a whole caravan.",
+      "source": "Rutger49",
+      "target": "Rutger40b"
+    },
+    {
+      "text": "Actually, it was a group of these HUGE mutants.",
+      "source": "Rutger49",
+      "target": "Rutger47"
+    },
+    {
+      "text": "I forgot.",
+      "source": "Rutger49",
+      "target": "Rutger41_1"
+    },
+    {
+      "text": "Yea, that's them! They're out to get you. They...want your...brahmin.",
+      "source": "Rutger49",
+      "target": "Rutger40a"
+    },
+    {
+      "text": "",
+      "source": "Rutger22a",
+      "target": "Rutger71"
+    },
+    {
+      "text": "",
+      "source": "Rutger22a",
+      "target": "Rutger63"
+    },
+    {
+      "text": "I\u2019m here about the job that was posted.",
+      "source": "Rutger73",
+      "target": "Rutger00a"
+    },
+    {
+      "text": "Rarwa.",
+      "source": "Rutger73",
+      "target": "Rutger00b"
+    },
+    {
+      "text": "What is it that you do?",
+      "source": "Rutger73",
+      "target": "Rutger07_1"
+    },
+    {
+      "text": "I was wondering, do you transport water?",
+      "source": "Rutger73",
+      "target": "Rutger03"
+    },
+    {
+      "text": "Sorry, I\u2019ve to got to go.",
+      "source": "Rutger73",
+      "target": "RutgerEnd"
+    },
+    {
+      "text": "Well, what about the job posted?",
+      "source": "Rutger04",
+      "target": "Rutger00a"
+    },
+    {
+      "text": "Well, thanks for nothing.",
+      "source": "Rutger04",
+      "target": "RutgerEnd"
+    },
+    {
+      "text": "You don't? Is there someone else who can?",
+      "source": "Rutger04",
+      "target": "Rutger05"
+    },
+    {
+      "text": "What better way to find the thieves than to join a caravan?",
+      "source": "Rutger63",
+      "target": "Rutger68"
+    },
+    {
+      "text": "Nevermind.",
+      "source": "Rutger63",
+      "target": "RutgerEnd"
+    },
+    {
+      "text": "I\u2019ll keep an eye out, but I need some scripts.",
+      "source": "Rutger63",
+      "target": "Rutger70"
+    },
+    {
+      "text": "Sorry, I've gotta go.",
+      "source": "Rutger42",
+      "target": "RutgerEnd"
+    },
+    {
+      "text": "Actually, it wasn't them. It was a bunch of huge mutants.",
+      "source": "Rutger42",
+      "target": "Rutger47"
+    },
+    {
+      "text": "Uhh. No. I lost it. But, you can take my word on it.",
+      "source": "Rutger42",
+      "target": "Rutger43"
+    },
+    {
+      "text": "",
+      "source": "BigDownReact",
+      "target": "ReactToLevel"
+    },
+    {
+      "text": "",
+      "source": "Rutger11a",
+      "target": "Rutger12"
+    },
+    {
+      "text": "",
+      "source": "Rutger11a",
+      "target": "Rutger13_1"
+    },
+    {
+      "text": "",
+      "source": "Rutger17a",
+      "target": "Rutger19"
+    },
+    {
+      "text": "",
+      "source": "Rutger17a",
+      "target": "Rutger20"
+    },
+    {
+      "text": "Yea, that's them! They're out to get you. They...want your...brahmin.",
+      "source": "Rutger50",
+      "target": "Rutger40a"
+    },
+    {
+      "text": "It was the Deathclaw. I saw it eat a whole caravan.",
+      "source": "Rutger50",
+      "target": "Rutger40b"
+    },
+    {
+      "text": "Actually, it was a group of these HUGE mutants.",
+      "source": "Rutger50",
+      "target": "Rutger47"
+    },
+    {
+      "text": "I forgot.",
+      "source": "Rutger50",
+      "target": "Rutger41_1"
+    },
+    {
+      "text": "",
+      "source": "Rutger39a",
+      "target": "Rutger50"
+    },
+    {
+      "text": "",
+      "source": "Rutger39a",
+      "target": "Rutger40"
+    },
+    {
+      "text": "",
+      "source": "Rutger39a",
+      "target": "Rutger51"
+    },
+    {
+      "text": "",
+      "source": "Rutger39a",
+      "target": "Rutger49"
+    },
+    {
+      "text": "Yeah, sorry. Believe it or not, it was actually a huge bunch of mutants.",
+      "source": "Rutger45",
+      "target": "Rutger47"
+    },
+    {
+      "text": "It was terrible. It had these big, pointy teeth.",
+      "source": "Rutger45",
+      "target": "Rutger44"
+    },
+    {
+      "text": "",
+      "source": "Rutger32",
+      "target": "Rutger29"
+    },
+    {
+      "text": "",
+      "source": "DownReactLevel",
+      "target": "LevelToReact"
+    },
+    {
+      "text": "",
+      "source": "Rutger34",
+      "target": "Rutger29"
+    },
+    {
+      "text": "",
+      "source": "Rutger40a",
+      "target": "Rutger42"
+    },
+    {
+      "text": "",
+      "source": "Rutger40a",
+      "target": "Rutger44"
+    },
+    {
+      "text": "Where would I find them?",
+      "source": "Rutger05",
+      "target": "Rutger06"
+    },
+    {
+      "text": "Ok, thanks.",
+      "source": "Rutger05",
+      "target": "RutgerEnd"
+    },
+    {
+      "text": "I need some cash first. Got any jobs?",
+      "source": "Rutger58",
+      "target": "Rutger55a"
+    },
+    {
+      "text": "You're right! I wonder where the Master is hiding.",
+      "source": "Rutger58",
+      "target": "Rutger61"
+    },
+    {
+      "text": "Yeah! Something else to kill. I wonder where the Master is hiding.",
+      "source": "Rutger58",
+      "target": "Rutger60"
+    },
+    {
+      "text": "All in a day's work. See ya!",
+      "source": "Rutger58",
+      "target": "RutgerEnd"
+    },
+    {
+      "text": "I need it all! Some day, I'm going to transform the face of the planet. You'll see!",
+      "source": "Rutger03",
+      "target": "RutgerEnd"
+    },
+    {
+      "text": "I need enough to supply a vault. It's up north, past Junktown, in the mountains.",
+      "source": "Rutger03",
+      "target": "Rutger04"
+    },
+    {
+      "text": "What is it that you do?",
+      "source": "Rutger74",
+      "target": "Rutger07_1"
+    },
+    {
+      "text": "I was wondering, do you transport water?",
+      "source": "Rutger74",
+      "target": "Rutger03"
+    },
+    {
+      "text": "Sorry, I\u2019ve to got to go.",
+      "source": "Rutger74",
+      "target": "RutgerEnd"
+    },
+    {
+      "text": "Tooka?",
+      "source": "Rutger74",
+      "target": "Rutger00b"
+    },
+    {
+      "text": "I\u2019m here about the job that was posted.",
+      "source": "Rutger74",
+      "target": "Rutger00a"
+    },
+    {
+      "text": "",
+      "source": "Rutger36",
+      "target": "Rutger29"
+    },
+    {
+      "text": "You can't. Bye.",
+      "source": "Rutger00",
+      "target": "RutgerEnd"
+    },
+    {
+      "text": "Gak!",
+      "source": "Rutger00",
+      "target": "Rutger00b"
+    },
+    {
+      "text": "I'm here about the job that was posted.",
+      "source": "Rutger00",
+      "target": "Rutger00a"
+    },
+    {
+      "text": "What is it that you do here?",
+      "source": "Rutger00",
+      "target": "Rutger07_1"
+    },
+    {
+      "text": "Can you transport water?",
+      "source": "Rutger00",
+      "target": "Rutger03"
+    },
+    {
+      "text": "",
+      "source": "UpReact",
+      "target": "ReactToLevel"
+    },
+    {
+      "text": "",
+      "source": "Rutger00a",
+      "target": "Rutger15"
+    },
+    {
+      "text": "",
+      "source": "Rutger00a",
+      "target": "Rutger75"
+    },
+    {
+      "text": "",
+      "source": "Rutger00a",
+      "target": "Rutger11"
+    },
+    {
+      "text": "",
+      "source": "Rutger00a",
+      "target": "Rutger10"
+    },
+    {
+      "text": "",
+      "source": "Rutger00a",
+      "target": "Rutger16"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc_1",
+      "target": "Rutger73"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc_1",
+      "target": "Rutger55"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc_1",
+      "target": "Rutger74"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc_1",
+      "target": "get_reaction"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc_1",
+      "target": "Rutger54"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc_1",
+      "target": "Rutger22"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc_1",
+      "target": "Rutger25"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc_1",
+      "target": "Rutger21"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc_1",
+      "target": "Rutger00"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc_1",
+      "target": "Rutger17"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc_1",
+      "target": "Rutger58"
+    },
+    {
+      "text": "I've been inside that bunker of theirs. They aren't the ones you're looking for.",
+      "source": "Rutger33",
+      "target": "Rutger35"
+    },
+    {
+      "text": "Just a hunch.",
+      "source": "Rutger33",
+      "target": "Rutger36"
+    },
+    {
+      "text": "Because I just joined their order, and I checked them out thoroughly. They're just real quiet and keep to themselves, but there is nothing to fear there.",
+      "source": "Rutger33",
+      "target": "Rutger34"
+    },
+    {
+      "text": "Why do you say that?",
+      "source": "Rutger68",
+      "target": "Rutger72"
+    },
+    {
+      "text": "You\u2019re right, let me snoop around some more.",
+      "source": "Rutger68",
+      "target": "Rutger69"
+    },
+    {
+      "text": "That\u2019s okay, I\u2019ll take the job.",
+      "source": "Rutger68",
+      "target": "Rutger70"
+    }
+  ]
+}

@@ -1,0 +1,139 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "",
+      "node_id": "node2",
+      "id": "critter_p_proc"
+    },
+    {
+      "text": "I'm a scout.",
+      "node_id": "node10",
+      "id": "Scout03"
+    },
+    {
+      "text": "",
+      "node_id": "node5",
+      "id": "pickup_p_proc"
+    },
+    {
+      "text": "That would be Junktown. It's not far from here.",
+      "node_id": "node12",
+      "id": "Scout05"
+    },
+    {
+      "text": "You see a traveller.",
+      "node_id": "node4",
+      "id": "look_at_p_proc"
+    },
+    {
+      "text": "",
+      "node_id": "node1",
+      "id": "start"
+    },
+    {
+      "text": "",
+      "node_id": "node13",
+      "id": "ScoutEnd"
+    },
+    {
+      "text": "What do you want, stranger?",
+      "node_id": "node8",
+      "id": "Scout01"
+    },
+    {
+      "text": "",
+      "node_id": "node9",
+      "id": "Scout02"
+    },
+    {
+      "text": "",
+      "node_id": "node3",
+      "id": "destroy_p_proc"
+    },
+    {
+      "text": "",
+      "node_id": "node6",
+      "id": "talk_p_proc"
+    },
+    {
+      "text": "I'm on the watch for raiders and monsters.",
+      "node_id": "node11",
+      "id": "Scout04"
+    }
+  ],
+  "links": [
+    {
+      "text": "",
+      "source": "Scout03",
+      "target": "Scout02"
+    },
+    {
+      "text": "",
+      "source": "Scout05",
+      "target": "Scout02"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "pickup_p_proc"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "destroy_p_proc"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "talk_p_proc"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "critter_p_proc"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "look_at_p_proc"
+    },
+    {
+      "text": "",
+      "source": "Scout01",
+      "target": "Scout02"
+    },
+    {
+      "text": "Who are you?",
+      "source": "Scout02",
+      "target": "Scout03"
+    },
+    {
+      "text": "Where's the nearest town?",
+      "source": "Scout02",
+      "target": "Scout05"
+    },
+    {
+      "text": "What are you doing out here?",
+      "source": "Scout02",
+      "target": "Scout04"
+    },
+    {
+      "text": "Nothing, thanks.",
+      "source": "Scout02",
+      "target": "ScoutEnd"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Scout01"
+    },
+    {
+      "text": "",
+      "source": "Scout04",
+      "target": "Scout02"
+    }
+  ]
+}

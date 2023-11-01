@@ -1,0 +1,64 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "You cannot bring yourself to root through the assorted bits.",
+      "node_id": "node2",
+      "id": "pickup_p_proc"
+    },
+    {
+      "text": "The cooler is full of body parts, cut into small chunks and packed in ice. Odd.",
+      "node_id": "node4_2",
+      "id": "use_skill_on_p_proc_2"
+    },
+    {
+      "text": "",
+      "node_id": "node1",
+      "id": "start"
+    },
+    {
+      "text": "The cooler is filled with chunks of organs and body parts.",
+      "node_id": "node3",
+      "id": "use_p_proc"
+    },
+    {
+      "text": "The pieces in the cooler are cut into small chunks, and cooled for shipping. Nobody's getting any transplants from these bite-size pieces.",
+      "node_id": "node4_1",
+      "id": "use_skill_on_p_proc_1"
+    },
+    {
+      "text": "Body parts fill the cooler.",
+      "node_id": "node4_3",
+      "id": "use_skill_on_p_proc_3"
+    }
+  ],
+  "links": [
+    {
+      "text": "",
+      "source": "start",
+      "target": "pickup_p_proc"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "use_skill_on_p_proc_3"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "use_skill_on_p_proc_1"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "use_p_proc"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "use_skill_on_p_proc_2"
+    }
+  ]
+}

@@ -1,0 +1,314 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "You retrieved the K-9 motivator.",
+      "node_id": "node13_2",
+      "id": "pickup_p_proc_2"
+    },
+    {
+      "text": "",
+      "node_id": "node6",
+      "id": "use_skill_on_p_proc"
+    },
+    {
+      "text": "You strain your back while trying to bust the lock and take strains his back while trying to bust the lock and takes",
+      "node_id": "node12_5",
+      "id": "Pry_It_5"
+    },
+    {
+      "text": "",
+      "node_id": "node7",
+      "id": "Unlock_Lock"
+    },
+    {
+      "text": "You strain your back while trying to bust the lock and take strains his back while trying to bust the lock and takes a point of damage.",
+      "node_id": "node12_4",
+      "id": "Pry_It_4"
+    },
+    {
+      "text": "You fail to pick the lock on this locker.",
+      "node_id": "node10_4",
+      "id": "Lockpick_It_4"
+    },
+    {
+      "text": "You strain your back while trying to bust the lock and take points of damage.",
+      "node_id": "node12_9",
+      "id": "Pry_It_9"
+    },
+    {
+      "text": "You deftly lock the locker. deftly locks the locker.",
+      "node_id": "node11_1",
+      "id": "Lock_It_1"
+    },
+    {
+      "text": "You retrieved the plans.",
+      "node_id": "node13_1",
+      "id": "pickup_p_proc_1"
+    },
+    {
+      "text": "You strain your back while trying to bust the lock and take points of damage.",
+      "node_id": "node12_6",
+      "id": "Pry_It_6"
+    },
+    {
+      "text": "You fail to lock the locker.",
+      "node_id": "node11_2",
+      "id": "Lock_It_2"
+    },
+    {
+      "text": "You strain your back while trying to bust the lock and take strains his back while trying to bust the lock and takes a point of damage.",
+      "node_id": "node12_7",
+      "id": "Pry_It_7"
+    },
+    {
+      "text": "You bust the lock off the door. busts the lock off the door.",
+      "node_id": "node12_1",
+      "id": "Pry_It_1"
+    },
+    {
+      "text": "You strain your back while trying to bust the lock and take strains her back while trying to bust the lock and takes",
+      "node_id": "node12_8",
+      "id": "Pry_It_8"
+    },
+    {
+      "text": "",
+      "node_id": "node8",
+      "id": "Set_Lock"
+    },
+    {
+      "text": "You strain your back while trying to bust the lock and take a point of damage.",
+      "node_id": "node12_2",
+      "id": "Pry_It_2"
+    },
+    {
+      "text": "Your lack of skill has jammed the lock on this locker.",
+      "node_id": "node10_2",
+      "id": "Lockpick_It_2"
+    },
+    {
+      "text": "",
+      "node_id": "node9",
+      "id": "use_obj_on_p_proc"
+    },
+    {
+      "text": "You strain your back while trying to bust the lock and take points of damage.",
+      "node_id": "node12_3",
+      "id": "Pry_It_3"
+    },
+    {
+      "text": "You deftly pick the lock on the locker. deftly picks the lock on the locker.",
+      "node_id": "node10_1",
+      "id": "Lockpick_It_1"
+    },
+    {
+      "text": "You are too weak to bust the lock.",
+      "node_id": "node12_10",
+      "id": "Pry_It_10"
+    },
+    {
+      "text": "",
+      "node_id": "node5",
+      "id": "signal_critter"
+    },
+    {
+      "text": "The locker appears to be locked.",
+      "node_id": "node4",
+      "id": "use_p_proc"
+    },
+    {
+      "text": "You deftly pick the lock on the locker. failed to pick the lock on this locker.",
+      "node_id": "node10_5",
+      "id": "Lockpick_It_5"
+    },
+    {
+      "text": "You deftly pick the lock on the locker. 's lack of skill has jammed the lock on this locker.",
+      "node_id": "node10_3",
+      "id": "Lockpick_It_3"
+    },
+    {
+      "text": "You strain your back while trying to bust the lock and take is too weak to bust the lock.",
+      "node_id": "node12_11",
+      "id": "Pry_It_11"
+    },
+    {
+      "text": "You deftly lock the locker. failed to lock the locker.",
+      "node_id": "node11_3",
+      "id": "Lock_It_3"
+    }
+  ],
+  "links": [
+    {
+      "text": "",
+      "source": "pickup_p_proc_2",
+      "target": "signal_critter"
+    },
+    {
+      "text": "",
+      "source": "use_skill_on_p_proc",
+      "target": "signal_critter"
+    },
+    {
+      "text": "",
+      "source": "use_skill_on_p_proc",
+      "target": "Unlock_Lock"
+    },
+    {
+      "text": "",
+      "source": "use_skill_on_p_proc",
+      "target": "Set_Lock"
+    },
+    {
+      "text": "",
+      "source": "Unlock_Lock",
+      "target": "Lockpick_It_5"
+    },
+    {
+      "text": "",
+      "source": "Unlock_Lock",
+      "target": "Lockpick_It_1"
+    },
+    {
+      "text": "",
+      "source": "Unlock_Lock",
+      "target": "Lockpick_It_4"
+    },
+    {
+      "text": "",
+      "source": "Unlock_Lock",
+      "target": "Lockpick_It_2"
+    },
+    {
+      "text": "",
+      "source": "Unlock_Lock",
+      "target": "Lockpick_It_3"
+    },
+    {
+      "text": "",
+      "source": "pickup_p_proc_1",
+      "target": "signal_critter"
+    },
+    {
+      "text": "",
+      "source": "Set_Lock",
+      "target": "Lock_It_3"
+    },
+    {
+      "text": "",
+      "source": "Set_Lock",
+      "target": "Lock_It_1"
+    },
+    {
+      "text": "",
+      "source": "Set_Lock",
+      "target": "Lock_It_2"
+    },
+    {
+      "text": "",
+      "source": "use_obj_on_p_proc",
+      "target": "Lock_It_1"
+    },
+    {
+      "text": "",
+      "source": "use_obj_on_p_proc",
+      "target": "Pry_It_8"
+    },
+    {
+      "text": "",
+      "source": "use_obj_on_p_proc",
+      "target": "Pry_It_6"
+    },
+    {
+      "text": "",
+      "source": "use_obj_on_p_proc",
+      "target": "Pry_It_10"
+    },
+    {
+      "text": "",
+      "source": "use_obj_on_p_proc",
+      "target": "Lock_It_2"
+    },
+    {
+      "text": "",
+      "source": "use_obj_on_p_proc",
+      "target": "Lockpick_It_1"
+    },
+    {
+      "text": "",
+      "source": "use_obj_on_p_proc",
+      "target": "Lockpick_It_2"
+    },
+    {
+      "text": "",
+      "source": "use_obj_on_p_proc",
+      "target": "Lockpick_It_4"
+    },
+    {
+      "text": "",
+      "source": "use_obj_on_p_proc",
+      "target": "Lockpick_It_3"
+    },
+    {
+      "text": "",
+      "source": "use_obj_on_p_proc",
+      "target": "Pry_It_5"
+    },
+    {
+      "text": "",
+      "source": "use_obj_on_p_proc",
+      "target": "Pry_It_1"
+    },
+    {
+      "text": "",
+      "source": "use_obj_on_p_proc",
+      "target": "Lock_It_3"
+    },
+    {
+      "text": "",
+      "source": "use_obj_on_p_proc",
+      "target": "signal_critter"
+    },
+    {
+      "text": "",
+      "source": "use_obj_on_p_proc",
+      "target": "Pry_It_11"
+    },
+    {
+      "text": "",
+      "source": "use_obj_on_p_proc",
+      "target": "Pry_It_2"
+    },
+    {
+      "text": "",
+      "source": "use_obj_on_p_proc",
+      "target": "Pry_It_9"
+    },
+    {
+      "text": "",
+      "source": "use_obj_on_p_proc",
+      "target": "Pry_It_3"
+    },
+    {
+      "text": "",
+      "source": "use_obj_on_p_proc",
+      "target": "Lockpick_It_5"
+    },
+    {
+      "text": "",
+      "source": "use_obj_on_p_proc",
+      "target": "Pry_It_7"
+    },
+    {
+      "text": "",
+      "source": "use_obj_on_p_proc",
+      "target": "Pry_It_4"
+    },
+    {
+      "text": "",
+      "source": "use_p_proc",
+      "target": "signal_critter"
+    }
+  ]
+}

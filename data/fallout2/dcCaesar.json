@@ -1,0 +1,979 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "Excellent! It may take a few days for you to travel there and back. Are you ready to leave now?",
+      "node_id": "node37",
+      "id": "Node038"
+    },
+    {
+      "text": "",
+      "node_id": "node27",
+      "id": "Node993"
+    },
+    {
+      "text": "Hello. It\u2019s good to see you.",
+      "node_id": "node12",
+      "id": "Node006"
+    },
+    {
+      "text": "What do you want with Vic? He's my property now. He shouldn't have fucked with me.",
+      "node_id": "node31",
+      "id": "Node024"
+    },
+    {
+      "text": "",
+      "node_id": "node67",
+      "id": "Node965"
+    },
+    {
+      "text": "You need to improve your enslavement technique.",
+      "node_id": "node72",
+      "id": "Node044"
+    },
+    {
+      "text": "",
+      "node_id": "node65",
+      "id": "Node966"
+    },
+    {
+      "text": "",
+      "node_id": "node26",
+      "id": "Node994"
+    },
+    {
+      "text": "Please leave. Now.",
+      "node_id": "node24",
+      "id": "Node008"
+    },
+    {
+      "text": "Our radio is broken and he's in charge of fixing it.",
+      "node_id": "node56",
+      "id": "Node028"
+    },
+    {
+      "text": "",
+      "node_id": "node42",
+      "id": "Node990"
+    },
+    {
+      "text": "I am Metzger, Head of the Slaver\u2019s Guild. Whatcha need?",
+      "node_id": "node20",
+      "id": "Node007"
+    },
+    {
+      "text": "Damn it! I hate losing any guildmember on a Run. Try to watch each others back!",
+      "node_id": "node64",
+      "id": "Node040"
+    },
+    {
+      "text": "Sorry, that's private guild information.",
+      "node_id": "node40",
+      "id": "Node012"
+    },
+    {
+      "text": "He is not for sale, yet.",
+      "node_id": "node57",
+      "id": "Node025"
+    },
+    {
+      "text": "Well, it\u2019s too late for that. Get out.",
+      "node_id": "node25",
+      "id": "Node004"
+    },
+    {
+      "text": "",
+      "node_id": "node44",
+      "id": "Node989"
+    },
+    {
+      "text": "",
+      "node_id": "node54",
+      "id": "Node984"
+    },
+    {
+      "text": "",
+      "node_id": "node49",
+      "id": "Node987"
+    },
+    {
+      "text": "Ah, you are back from the Slave run. Let\u2019s see how you did...",
+      "node_id": "node9",
+      "id": "Node039"
+    },
+    {
+      "text": "Damn it! You did terribly in this Run. Are you trying to ruin me? Be more careful next time. You don't need to kill them all! Just kill off the hostile ones. Leave the unarmed ones for collection.",
+      "node_id": "node75",
+      "id": "Node045"
+    },
+    {
+      "text": "You drive a hard bargain. Here is your money!",
+      "node_id": "node47",
+      "id": "Node019"
+    },
+    {
+      "text": "Vault City is east of here, and a little south. Vic's from there.",
+      "node_id": "node43",
+      "id": "Node017"
+    },
+    {
+      "text": "",
+      "node_id": "node69",
+      "id": "Node964"
+    },
+    {
+      "text": "",
+      "node_id": "node52",
+      "id": "Node969"
+    },
+    {
+      "text": "Welcome to the guild!",
+      "node_id": "node41",
+      "id": "Node014"
+    },
+    {
+      "text": "",
+      "node_id": "node23",
+      "id": "Node995"
+    },
+    {
+      "text": "You returned no slaves at all! What the hell is wrong with you? We're trying to make money here,  not lose it.",
+      "node_id": "node68",
+      "id": "Node042"
+    },
+    {
+      "text": "",
+      "node_id": "node21",
+      "id": "Node999"
+    },
+    {
+      "text": "Guards! Attack!",
+      "node_id": "node7",
+      "id": "Node001"
+    },
+    {
+      "text": "He will cost $2000.",
+      "node_id": "node58",
+      "id": "Node026"
+    },
+    {
+      "text": "",
+      "node_id": "node39",
+      "id": "Node010"
+    },
+    {
+      "text": "Our mission is provide a steady and high-quality labor force to handle the ever-growing demands of the larger cities. Would you like to join?",
+      "node_id": "node35",
+      "id": "Node011"
+    },
+    {
+      "text": "Come back in the morning damn it! I do my business during the day.",
+      "node_id": "node10",
+      "id": "Node002"
+    },
+    {
+      "text": "We will need to brand a small marking on your forehead to show to all your allegiance with the slavers guild. Are you ready?",
+      "node_id": "node32",
+      "id": "Node013"
+    },
+    {
+      "text": "",
+      "node_id": "node73",
+      "id": "Node962"
+    },
+    {
+      "text": "",
+      "node_id": "node30",
+      "id": "Node991"
+    },
+    {
+      "text": "You killed potential slaves! A dead man brings us no income! Only kill the ones that are a threat, the others are of no threat.",
+      "node_id": "node66",
+      "id": "Node041"
+    },
+    {
+      "text": "How dare you return after abandoning your brothers during a Slave Run! Guards! Attack!",
+      "node_id": "node8",
+      "id": "Node037"
+    },
+    {
+      "text": "Vault 13? No. Wait... I think Vic's from Vault City. Maybe that's it.",
+      "node_id": "node38",
+      "id": "Node015"
+    },
+    {
+      "text": "What would you like to know?",
+      "node_id": "node29",
+      "id": "Node009"
+    },
+    {
+      "text": "The cost is $1000.",
+      "node_id": "node60",
+      "id": "Node027"
+    },
+    {
+      "text": "We sell most of our slaves to Vault City and New Reno. New Reno is south east of here and most of the Den trades with it.",
+      "node_id": "node36",
+      "id": "Node016"
+    },
+    {
+      "text": "You haven\u2019t got the money!",
+      "node_id": "node61",
+      "id": "Node029"
+    },
+    {
+      "text": "Alright, alright. Apology accepted.",
+      "node_id": "node28",
+      "id": "Node005"
+    },
+    {
+      "text": "",
+      "node_id": "node46",
+      "id": "Node988"
+    },
+    {
+      "text": "",
+      "node_id": "node71",
+      "id": "Node963"
+    },
+    {
+      "text": "Overall, you did well this Run. Here is $ as an incentive for you to keep up the good work.",
+      "node_id": "node70_1",
+      "id": "Node043_1"
+    },
+    {
+      "text": "",
+      "node_id": "node55",
+      "id": "Node983"
+    },
+    {
+      "text": "",
+      "node_id": "node5",
+      "id": "Node998"
+    },
+    {
+      "text": "",
+      "node_id": "node4",
+      "id": "pickup_p_proc"
+    },
+    {
+      "text": "",
+      "node_id": "node13",
+      "id": "Node000"
+    },
+    {
+      "text": "",
+      "node_id": "node62",
+      "id": "Node968"
+    },
+    {
+      "text": "",
+      "node_id": "node63",
+      "id": "Node967"
+    },
+    {
+      "text": "",
+      "node_id": "node6",
+      "id": "talk_p_proc"
+    },
+    {
+      "text": "What is it now? You're really starting to piss me off.",
+      "node_id": "node11",
+      "id": "Node003"
+    },
+    {
+      "text": "Which \"friend\" are you selling?",
+      "node_id": "node34",
+      "id": "Node021"
+    },
+    {
+      "text": "",
+      "node_id": "node74",
+      "id": "Node961"
+    },
+    {
+      "text": "Anything else?",
+      "node_id": "node45",
+      "id": "Node020"
+    },
+    {
+      "text": "",
+      "node_id": "node18",
+      "id": "damage_p_proc"
+    },
+    {
+      "text": "",
+      "node_id": "node53",
+      "id": "Node985"
+    },
+    {
+      "text": "",
+      "node_id": "node59",
+      "id": "Node982"
+    },
+    {
+      "text": "",
+      "node_id": "node22",
+      "id": "Node996"
+    },
+    {
+      "text": "",
+      "node_id": "node50",
+      "id": "Node986"
+    }
+  ],
+  "links": [
+    {
+      "text": "Yes, I\u2019m ready. Let\u2019s go.",
+      "source": "Node038",
+      "target": "Node968"
+    },
+    {
+      "text": "No. I\u2019ll come back.",
+      "source": "Node038",
+      "target": "Node020"
+    },
+    {
+      "text": "",
+      "source": "Node993",
+      "target": "Node998"
+    },
+    {
+      "text": "You too. Bye.",
+      "source": "Node006",
+      "target": "Node999"
+    },
+    {
+      "text": "Hi Metzger. We need to talk.",
+      "source": "Node006",
+      "target": "Node009"
+    },
+    {
+      "text": "I\u2019d like to buy him.",
+      "source": "Node024",
+      "target": "Node983"
+    },
+    {
+      "text": "Why are you keeping him here?",
+      "source": "Node024",
+      "target": "Node028"
+    },
+    {
+      "text": "Nothing. Never mind.",
+      "source": "Node024",
+      "target": "Node020"
+    },
+    {
+      "text": "",
+      "source": "Node965",
+      "target": "Node042"
+    },
+    {
+      "text": "",
+      "source": "Node965",
+      "target": "Node964"
+    },
+    {
+      "text": "I think I\u2019m good enough.",
+      "source": "Node044",
+      "target": "Node963"
+    },
+    {
+      "text": "I will try.",
+      "source": "Node044",
+      "target": "Node962"
+    },
+    {
+      "text": "I apologize for my poor performance.",
+      "source": "Node044",
+      "target": "Node961"
+    },
+    {
+      "text": "",
+      "source": "Node966",
+      "target": "Node041"
+    },
+    {
+      "text": "",
+      "source": "Node966",
+      "target": "Node965"
+    },
+    {
+      "text": "",
+      "source": "Node994",
+      "target": "Node008"
+    },
+    {
+      "text": "",
+      "source": "Node994",
+      "target": "Node994"
+    },
+    {
+      "text": "OK. Bye.",
+      "source": "Node008",
+      "target": "Node999"
+    },
+    {
+      "text": "Alright. But I\u2019ll be back!",
+      "source": "Node008",
+      "target": "Node991"
+    },
+    {
+      "text": "Or what?",
+      "source": "Node008",
+      "target": "Node001"
+    },
+    {
+      "text": "I see.",
+      "source": "Node028",
+      "target": "Node020"
+    },
+    {
+      "text": "",
+      "source": "Node990",
+      "target": "Node017"
+    },
+    {
+      "text": "",
+      "source": "Node990",
+      "target": "Node012"
+    },
+    {
+      "text": "No thanks. I\u2019ll just go now.",
+      "source": "Node007",
+      "target": "Node999"
+    },
+    {
+      "text": "Yes, I have some questions.",
+      "source": "Node007",
+      "target": "Node009"
+    },
+    {
+      "text": "[more]",
+      "source": "Node040",
+      "target": "Node966"
+    },
+    {
+      "text": "I\u2019ll consider that. I have more questions.",
+      "source": "Node012",
+      "target": "Node009"
+    },
+    {
+      "text": "OK. Sign me up!",
+      "source": "Node012",
+      "target": "Node013"
+    },
+    {
+      "text": "No! You guys are sick people!",
+      "source": "Node012",
+      "target": "Node008"
+    },
+    {
+      "text": "Hmm, I\u2019ll come back later.",
+      "source": "Node012",
+      "target": "Node999"
+    },
+    {
+      "text": "Why not?",
+      "source": "Node025",
+      "target": "Node028"
+    },
+    {
+      "text": "Oh, okay.",
+      "source": "Node025",
+      "target": "Node020"
+    },
+    {
+      "text": "Please, please, please; I\u2019m sorry.",
+      "source": "Node004",
+      "target": "Node994"
+    },
+    {
+      "text": "Oh well, I tried.",
+      "source": "Node004",
+      "target": "Node999"
+    },
+    {
+      "text": "Screw you, then!",
+      "source": "Node004",
+      "target": "Node993"
+    },
+    {
+      "text": "",
+      "source": "Node989",
+      "target": "Node020"
+    },
+    {
+      "text": "",
+      "source": "Node984",
+      "target": "Node999"
+    },
+    {
+      "text": "",
+      "source": "Node984",
+      "target": "Node001"
+    },
+    {
+      "text": "",
+      "source": "Node987",
+      "target": "Node020"
+    },
+    {
+      "text": "[more]",
+      "source": "Node039",
+      "target": "Node967"
+    },
+    {
+      "text": "Hey, it\u2019s tough work to be a Slaver!",
+      "source": "Node045",
+      "target": "Node962"
+    },
+    {
+      "text": "I\u2019m sorry, Metzger.",
+      "source": "Node045",
+      "target": "Node961"
+    },
+    {
+      "text": "I\u2019d like to see you do better.",
+      "source": "Node045",
+      "target": "Node963"
+    },
+    {
+      "text": "Thanks. Bye.",
+      "source": "Node019",
+      "target": "Node999"
+    },
+    {
+      "text": "Thanks. I have some more questions.",
+      "source": "Node019",
+      "target": "Node009"
+    },
+    {
+      "text": "Thanks; gotta go.",
+      "source": "Node017",
+      "target": "Node999"
+    },
+    {
+      "text": "I have more questions.",
+      "source": "Node017",
+      "target": "Node009"
+    },
+    {
+      "text": "",
+      "source": "Node964",
+      "target": "Node043_1"
+    },
+    {
+      "text": "",
+      "source": "Node964",
+      "target": "Node045"
+    },
+    {
+      "text": "",
+      "source": "Node964",
+      "target": "Node044"
+    },
+    {
+      "text": "",
+      "source": "Node969",
+      "target": "Node020"
+    },
+    {
+      "text": "Great, I have questions!",
+      "source": "Node014",
+      "target": "Node009"
+    },
+    {
+      "text": "OK, thanks. I\u2019ll be back.",
+      "source": "Node014",
+      "target": "Node999"
+    },
+    {
+      "text": "",
+      "source": "Node995",
+      "target": "Node004"
+    },
+    {
+      "text": "",
+      "source": "Node995",
+      "target": "Node005"
+    },
+    {
+      "text": "[more]",
+      "source": "Node042",
+      "target": "Node964"
+    },
+    {
+      "text": "[done]",
+      "source": "Node001",
+      "target": "Node998"
+    },
+    {
+      "text": "That's a lot. Maybe later.",
+      "source": "Node026",
+      "target": "Node020"
+    },
+    {
+      "text": "Here is your money.",
+      "source": "Node026",
+      "target": "Node982"
+    },
+    {
+      "text": "Fascinating. Gotta go.",
+      "source": "Node010",
+      "target": "Node999"
+    },
+    {
+      "text": "I see. I still have a question, though.",
+      "source": "Node010",
+      "target": "Node009"
+    },
+    {
+      "text": "That is the dumbest thing I have ever heard.",
+      "source": "Node010",
+      "target": "Node008"
+    },
+    {
+      "text": "I\u2019ll get back to you on that. What cities buy your slaves?",
+      "source": "Node011",
+      "target": "Node012"
+    },
+    {
+      "text": "Sure. Sounds great.",
+      "source": "Node011",
+      "target": "Node013"
+    },
+    {
+      "text": "No way.",
+      "source": "Node011",
+      "target": "Node008"
+    },
+    {
+      "text": "[done]",
+      "source": "Node002",
+      "target": "Node999"
+    },
+    {
+      "text": "I don\u2019t have time right now. I have to go.",
+      "source": "Node013",
+      "target": "Node999"
+    },
+    {
+      "text": "Sounds great! Do it!",
+      "source": "Node013",
+      "target": "Node014"
+    },
+    {
+      "text": "I\u2019ve changed my mind. Can I ask another question?",
+      "source": "Node013",
+      "target": "Node009"
+    },
+    {
+      "text": "",
+      "source": "Node962",
+      "target": "Node999"
+    },
+    {
+      "text": "",
+      "source": "Node962",
+      "target": "Node020"
+    },
+    {
+      "text": "",
+      "source": "Node991",
+      "target": "Node999"
+    },
+    {
+      "text": "[more]",
+      "source": "Node041",
+      "target": "Node965"
+    },
+    {
+      "text": "[done]",
+      "source": "Node037",
+      "target": "Node998"
+    },
+    {
+      "text": "Yes, where is it?",
+      "source": "Node015",
+      "target": "Node990"
+    },
+    {
+      "text": "No. I have another question though.",
+      "source": "Node015",
+      "target": "Node009"
+    },
+    {
+      "text": "No, never mind.",
+      "source": "Node015",
+      "target": "Node999"
+    },
+    {
+      "text": "What cities buy your slaves?",
+      "source": "Node009",
+      "target": "Node016"
+    },
+    {
+      "text": "I\u2019d like to sell one of my friends here.",
+      "source": "Node009",
+      "target": "Node021"
+    },
+    {
+      "text": "I'd like to go on a slave run.",
+      "source": "Node009",
+      "target": "Node038"
+    },
+    {
+      "text": "Tell me about the guild.",
+      "source": "Node009",
+      "target": "Node011"
+    },
+    {
+      "text": "I\u2019m looking for Vault 13. Have you heard of it?",
+      "source": "Node009",
+      "target": "Node015"
+    },
+    {
+      "text": "Can I join the Slaver\u2019s Guild?",
+      "source": "Node009",
+      "target": "Node013"
+    },
+    {
+      "text": "Nothing. I have to go.",
+      "source": "Node009",
+      "target": "Node999"
+    },
+    {
+      "text": "About Trader Vic...",
+      "source": "Node009",
+      "target": "Node024"
+    },
+    {
+      "text": "Don't have that much yet. Bye.",
+      "source": "Node027",
+      "target": "Node020"
+    },
+    {
+      "text": "Here is your money.",
+      "source": "Node027",
+      "target": "Node982"
+    },
+    {
+      "text": "Where is Vault City?",
+      "source": "Node016",
+      "target": "Node017"
+    },
+    {
+      "text": "Thanks, gotta go.",
+      "source": "Node016",
+      "target": "Node999"
+    },
+    {
+      "text": "I have more questions.",
+      "source": "Node016",
+      "target": "Node009"
+    },
+    {
+      "text": "Sorry, I\u2019ll come back.",
+      "source": "Node029",
+      "target": "Node999"
+    },
+    {
+      "text": "Too bad for me. Can I ask you a question?",
+      "source": "Node029",
+      "target": "Node009"
+    },
+    {
+      "text": "Whew. Can I ask you some questions?",
+      "source": "Node005",
+      "target": "Node009"
+    },
+    {
+      "text": "I\u2019m glad we straightened that out. See you later.",
+      "source": "Node005",
+      "target": "Node999"
+    },
+    {
+      "text": "",
+      "source": "Node988",
+      "target": "Node008"
+    },
+    {
+      "text": "",
+      "source": "Node988",
+      "target": "Node019"
+    },
+    {
+      "text": "",
+      "source": "Node963",
+      "target": "Node962"
+    },
+    {
+      "text": "I don\u2019t know if I like this too much.",
+      "source": "Node043_1",
+      "target": "Node963"
+    },
+    {
+      "text": "Thank you. I will.",
+      "source": "Node043_1",
+      "target": "Node020"
+    },
+    {
+      "text": "",
+      "source": "Node983",
+      "target": "Node026"
+    },
+    {
+      "text": "",
+      "source": "Node983",
+      "target": "Node027"
+    },
+    {
+      "text": "",
+      "source": "Node983",
+      "target": "Node025"
+    },
+    {
+      "text": "",
+      "source": "pickup_p_proc",
+      "target": "Node998"
+    },
+    {
+      "text": "",
+      "source": "Node000",
+      "target": "Node007"
+    },
+    {
+      "text": "",
+      "source": "Node967",
+      "target": "Node040"
+    },
+    {
+      "text": "",
+      "source": "Node967",
+      "target": "Node966"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node006"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node002"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node039"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node003"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node001"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node037"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node000"
+    },
+    {
+      "text": "I wanted to ask you a question.",
+      "source": "Node003",
+      "target": "Node008"
+    },
+    {
+      "text": "Apparently I have. Good bye.",
+      "source": "Node003",
+      "target": "Node999"
+    },
+    {
+      "text": "I would like to apologize.",
+      "source": "Node003",
+      "target": "Node996"
+    },
+    {
+      "text": "Sorry, I was chemmed earlier. I didn\u2019t mean anything.",
+      "source": "Node003",
+      "target": "Node995"
+    },
+    {
+      "text": "Whoa, what's your problem?",
+      "source": "Node003",
+      "target": "Node001"
+    },
+    {
+      "text": "Um, never mind.",
+      "source": "Node021",
+      "target": "Node020"
+    },
+    {
+      "text": "",
+      "source": "Node961",
+      "target": "Node004"
+    },
+    {
+      "text": "",
+      "source": "Node961",
+      "target": "Node020"
+    },
+    {
+      "text": "Nope. Bye.",
+      "source": "Node020",
+      "target": "Node999"
+    },
+    {
+      "text": "Yes, I have a question.",
+      "source": "Node020",
+      "target": "Node009"
+    },
+    {
+      "text": "",
+      "source": "damage_p_proc",
+      "target": "Node998"
+    },
+    {
+      "text": "",
+      "source": "Node985",
+      "target": "Node020"
+    },
+    {
+      "text": "",
+      "source": "Node982",
+      "target": "Node020"
+    },
+    {
+      "text": "",
+      "source": "Node982",
+      "target": "Node029"
+    },
+    {
+      "text": "",
+      "source": "Node996",
+      "target": "Node004"
+    },
+    {
+      "text": "",
+      "source": "Node996",
+      "target": "Node005"
+    },
+    {
+      "text": "",
+      "source": "Node986",
+      "target": "Node008"
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "You haven't quite gotten this lock yet.",
+      "node_id": "node6_2",
+      "id": "pick_lock_2"
+    },
+    {
+      "text": "You unlock the fridge.",
+      "node_id": "node6_1",
+      "id": "pick_lock_1"
+    },
+    {
+      "text": "",
+      "node_id": "node3",
+      "id": "map_update_p_proc"
+    },
+    {
+      "text": "",
+      "node_id": "node1",
+      "id": "start"
+    },
+    {
+      "text": "Someone left the fridge open!",
+      "node_id": "node6_3",
+      "id": "pick_lock_3"
+    },
+    {
+      "text": "",
+      "node_id": "node4",
+      "id": "Looting_Fridge"
+    },
+    {
+      "text": "",
+      "node_id": "node2",
+      "id": "Initialize_Fridge"
+    },
+    {
+      "text": "You haven't quite gotten this lock yet.",
+      "node_id": "node6_4",
+      "id": "pick_lock_4"
+    },
+    {
+      "text": "The fridge is locked.",
+      "node_id": "node5_1",
+      "id": "Open_Fridge_1"
+    }
+  ],
+  "links": [
+    {
+      "text": "",
+      "source": "start",
+      "target": "pick_lock_3"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "map_update_p_proc"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "pick_lock_4"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "Looting_Fridge"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "Open_Fridge_1"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "Initialize_Fridge"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "pick_lock_2"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "pick_lock_1"
+    }
+  ]
+}

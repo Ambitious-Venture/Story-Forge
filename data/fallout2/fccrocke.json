@@ -1,0 +1,519 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "I'm Crocket. I'm a scientist and fix-it guy. Can I get back to it?",
+      "node_id": "node23",
+      "id": "Node004"
+    },
+    {
+      "text": "",
+      "node_id": "node30",
+      "id": "Node009b"
+    },
+    {
+      "text": "These guys don't know real science - I help them justify their extravagance in exchange for some downtime with the ladies and a hefty salary.",
+      "node_id": "node28",
+      "id": "Node015"
+    },
+    {
+      "text": "",
+      "node_id": "node40",
+      "id": "Node1819"
+    },
+    {
+      "text": "Well... I *guess* that'll have to do. \u00a0It's a deal. Do you have the armor to be hardened on you?",
+      "node_id": "node25",
+      "id": "Node006"
+    },
+    {
+      "text": "",
+      "node_id": "node19",
+      "id": "Node998"
+    },
+    {
+      "text": "I've got it right here for you. Take it, take it.",
+      "node_id": "node9",
+      "id": "Node019"
+    },
+    {
+      "text": "Hey, I got no beef with you. Just don't hurt me.",
+      "node_id": "node6",
+      "id": "Node017"
+    },
+    {
+      "text": "Leave it here for a day and I'll do it. Remember though, this is the last set I can make.",
+      "node_id": "node35_1",
+      "id": "Node009_1"
+    },
+    {
+      "text": "Let's see... I built a nuclear reactor for the spaceship. I created the hardening process for power armor. And I fix things that are broken.",
+      "node_id": "node29",
+      "id": "Node016"
+    },
+    {
+      "text": "Bluffer. I think we'll see what the guards have to say about this.",
+      "node_id": "node39",
+      "id": "Node014"
+    },
+    {
+      "text": "",
+      "node_id": "node5",
+      "id": "talk_p_proc"
+    },
+    {
+      "text": "::he looks amused:: Are you really threatening me for this?",
+      "node_id": "node27",
+      "id": "Node008"
+    },
+    {
+      "text": "I develop new technology and I get my share of cultist tail, if you catch my meaning.",
+      "node_id": "node24",
+      "id": "Node005"
+    },
+    {
+      "text": "Yeah, I can do that. But what are you willing to trade for it?",
+      "node_id": "node21",
+      "id": "Node003"
+    },
+    {
+      "text": "So where's my fuel? You promised me fuel, asshole.",
+      "node_id": "node10",
+      "id": "Node021"
+    },
+    {
+      "text": "",
+      "node_id": "node20",
+      "id": "Node999"
+    },
+    {
+      "text": "",
+      "node_id": "node22",
+      "id": "Node320"
+    },
+    {
+      "text": "",
+      "node_id": "node43",
+      "id": "Node999a"
+    },
+    {
+      "text": "",
+      "node_id": "node34",
+      "id": "Node1213"
+    },
+    {
+      "text": "I'm out of chemicals for it. Sorry.",
+      "node_id": "node41",
+      "id": "Node020"
+    },
+    {
+      "text": "",
+      "node_id": "node38",
+      "id": "Node998a"
+    },
+    {
+      "text": "",
+      "node_id": "node33",
+      "id": "Node009a"
+    },
+    {
+      "text": "I can't very well work my magic on it if you don't have it. Come back when you do.",
+      "node_id": "node31",
+      "id": "Node010"
+    },
+    {
+      "text": "::he shrugs:: You want this armor or not? It's $10,000 flat out.",
+      "node_id": "node32",
+      "id": "Node011"
+    },
+    {
+      "text": "I swear, there are more subhumans running around every single day. Shoo! Shoo!",
+      "node_id": "node7",
+      "id": "Node002"
+    },
+    {
+      "text": "It's not ready yet. You have to give me time!",
+      "node_id": "node8",
+      "id": "Node018"
+    },
+    {
+      "text": "You ready to pay the $10k this time?",
+      "node_id": "node26_1",
+      "id": "Node007_1"
+    },
+    {
+      "text": "::he looks into your eyes and decides that you're serious:: Do you have the armor here?",
+      "node_id": "node36",
+      "id": "Node012"
+    },
+    {
+      "text": "Ok, now what do ya want?",
+      "node_id": "node11_1",
+      "id": "Node001_1"
+    },
+    {
+      "text": "::he looks into your eyes and decides that you're bluffing:: Try it, bucko. You'll have guards down on your ass and you'll never learn how to harden your armor.",
+      "node_id": "node37",
+      "id": "Node013"
+    },
+    {
+      "text": "And for the last time, too. GUARDS!",
+      "node_id": "node42",
+      "id": "Node022"
+    }
+  ],
+  "links": [
+    {
+      "text": "No. I have more questions.",
+      "source": "Node004",
+      "target": "Node001_1"
+    },
+    {
+      "text": "Yeah, sure.",
+      "source": "Node004",
+      "target": "Node999"
+    },
+    {
+      "text": "",
+      "source": "Node009b",
+      "target": "Node009_1"
+    },
+    {
+      "text": "",
+      "source": "Node009b",
+      "target": "Node010"
+    },
+    {
+      "text": "Hmm. I had more questions I wanted to ask.",
+      "source": "Node015",
+      "target": "Node001_1"
+    },
+    {
+      "text": "Not bad at all. See ya.",
+      "source": "Node015",
+      "target": "Node999"
+    },
+    {
+      "text": "",
+      "source": "Node1819",
+      "target": "Node019"
+    },
+    {
+      "text": "",
+      "source": "Node1819",
+      "target": "Node018"
+    },
+    {
+      "text": "Yes.",
+      "source": "Node006",
+      "target": "Node009b"
+    },
+    {
+      "text": "No.",
+      "source": "Node006",
+      "target": "Node010"
+    },
+    {
+      "text": "Thanks.",
+      "source": "Node019",
+      "target": "Node999"
+    },
+    {
+      "text": "Thanks. NOW you can die.",
+      "source": "Node019",
+      "target": "Node998a"
+    },
+    {
+      "text": "Thanks. I have questions.",
+      "source": "Node019",
+      "target": "Node001_1"
+    },
+    {
+      "text": "Bye.",
+      "source": "Node017",
+      "target": "Node999"
+    },
+    {
+      "text": "I'm here for my armor.",
+      "source": "Node017",
+      "target": "Node1819"
+    },
+    {
+      "text": "Too late.",
+      "source": "Node017",
+      "target": "Node998a"
+    },
+    {
+      "text": "I'll be back for the armor.",
+      "source": "Node009_1",
+      "target": "Node999"
+    },
+    {
+      "text": "I see. Well, I have more questions.",
+      "source": "Node016",
+      "target": "Node001_1"
+    },
+    {
+      "text": "Hmm. Gotta go. Bye.",
+      "source": "Node016",
+      "target": "Node999"
+    },
+    {
+      "text": "Dammit!",
+      "source": "Node014",
+      "target": "Node998a"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node019"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node021"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node001_1"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node002"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node017"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node018"
+    },
+    {
+      "text": "Yes. Do it or die.",
+      "source": "Node008",
+      "target": "Node1213"
+    },
+    {
+      "text": "No, I was just kidding.",
+      "source": "Node008",
+      "target": "Node001_1"
+    },
+    {
+      "text": "What new tech have you developed?",
+      "source": "Node005",
+      "target": "Node016"
+    },
+    {
+      "text": "So you're not an Hubologist?",
+      "source": "Node005",
+      "target": "Node015"
+    },
+    {
+      "text": "I got it. I have more questions.",
+      "source": "Node005",
+      "target": "Node001_1"
+    },
+    {
+      "text": "Loud and clear. See ya.",
+      "source": "Node005",
+      "target": "Node999"
+    },
+    {
+      "text": "I'll let you live.",
+      "source": "Node003",
+      "target": "Node008"
+    },
+    {
+      "text": "I can pay for it.",
+      "source": "Node003",
+      "target": "Node007_1"
+    },
+    {
+      "text": "Dr. Jing will probably be willing to sell you fuel for the spaceship.",
+      "source": "Node003",
+      "target": "Node006"
+    },
+    {
+      "text": "Nothing. Forget it.",
+      "source": "Node003",
+      "target": "Node999"
+    },
+    {
+      "text": "You'll get it, you'll get it. Now answer some questions.",
+      "source": "Node021",
+      "target": "Node999"
+    },
+    {
+      "text": "Yeah, well, I screwed you.",
+      "source": "Node021",
+      "target": "Node022"
+    },
+    {
+      "text": "",
+      "source": "Node320",
+      "target": "Node003"
+    },
+    {
+      "text": "",
+      "source": "Node320",
+      "target": "Node020"
+    },
+    {
+      "text": "",
+      "source": "Node999a",
+      "target": "Node999"
+    },
+    {
+      "text": "",
+      "source": "Node1213",
+      "target": "Node012"
+    },
+    {
+      "text": "",
+      "source": "Node1213",
+      "target": "Node013"
+    },
+    {
+      "text": "Then you can answer me some questions.",
+      "source": "Node020",
+      "target": "Node001_1"
+    },
+    {
+      "text": "Oh. Damn. Bye.",
+      "source": "Node020",
+      "target": "Node999"
+    },
+    {
+      "text": "Then you can die.",
+      "source": "Node020",
+      "target": "Node998a"
+    },
+    {
+      "text": "",
+      "source": "Node998a",
+      "target": "Node998"
+    },
+    {
+      "text": "",
+      "source": "Node009a",
+      "target": "Node010"
+    },
+    {
+      "text": "",
+      "source": "Node009a",
+      "target": "Node009_1"
+    },
+    {
+      "text": "I have more questions.",
+      "source": "Node010",
+      "target": "Node001_1"
+    },
+    {
+      "text": "Bye.",
+      "source": "Node010",
+      "target": "Node999"
+    },
+    {
+      "text": "Fine. Here.",
+      "source": "Node011",
+      "target": "Node009a"
+    },
+    {
+      "text": "I'll get back to you.",
+      "source": "Node011",
+      "target": "Node999"
+    },
+    {
+      "text": "Awww.",
+      "source": "Node002",
+      "target": "Node999"
+    },
+    {
+      "text": "Fine. I'll be back.",
+      "source": "Node018",
+      "target": "Node999"
+    },
+    {
+      "text": "All right. Here you go.",
+      "source": "Node007_1",
+      "target": "Node009a"
+    },
+    {
+      "text": "I'll get back to you.",
+      "source": "Node007_1",
+      "target": "Node999"
+    },
+    {
+      "text": "$10,000? That's outrageous! I don't have that kind of money!",
+      "source": "Node007_1",
+      "target": "Node011"
+    },
+    {
+      "text": "Yes.",
+      "source": "Node012",
+      "target": "Node009b"
+    },
+    {
+      "text": "No.",
+      "source": "Node012",
+      "target": "Node010"
+    },
+    {
+      "text": "Nothing, thanks.",
+      "source": "Node001_1",
+      "target": "Node999"
+    },
+    {
+      "text": "Agh. Um. Duur.",
+      "source": "Node001_1",
+      "target": "Node002"
+    },
+    {
+      "text": "Who are you?",
+      "source": "Node001_1",
+      "target": "Node004"
+    },
+    {
+      "text": "What do you do here?",
+      "source": "Node001_1",
+      "target": "Node005"
+    },
+    {
+      "text": "You can upgrade power armor?",
+      "source": "Node001_1",
+      "target": "Node320"
+    },
+    {
+      "text": "Dr. Jing sent me. He wants some hardened power armor.",
+      "source": "Node001_1",
+      "target": "Node003"
+    },
+    {
+      "text": "Shit. You called my bluff.",
+      "source": "Node013",
+      "target": "Node014"
+    },
+    {
+      "text": "Fine. Die, pencil neck.",
+      "source": "Node013",
+      "target": "Node998a"
+    },
+    {
+      "text": "Die, asshole.",
+      "source": "Node022",
+      "target": "Node998a"
+    },
+    {
+      "text": "Shit. I'm outta here.",
+      "source": "Node022",
+      "target": "Node999a"
+    }
+  ]
+}

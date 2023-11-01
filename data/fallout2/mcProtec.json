@@ -1,0 +1,109 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "",
+      "node_id": "node15",
+      "id": "damage_p_proc"
+    },
+    {
+      "text": "",
+      "node_id": "node7",
+      "id": "Node004"
+    },
+    {
+      "text": "",
+      "node_id": "node20",
+      "id": "Node999"
+    },
+    {
+      "text": "Surrender or die!",
+      "node_id": "node10",
+      "id": "Node000"
+    },
+    {
+      "text": "If you need to see Vegeir, we can escort you to him.",
+      "node_id": "node9",
+      "id": "Node002"
+    },
+    {
+      "text": "",
+      "node_id": "node19",
+      "id": "Node996"
+    },
+    {
+      "text": "",
+      "node_id": "node6",
+      "id": "talk_p_proc"
+    },
+    {
+      "text": "",
+      "node_id": "node5",
+      "id": "Node998"
+    },
+    {
+      "text": "",
+      "node_id": "node8",
+      "id": "Node003"
+    },
+    {
+      "text": "",
+      "node_id": "node4",
+      "id": "pickup_p_proc"
+    }
+  ],
+  "links": [
+    {
+      "text": "",
+      "source": "damage_p_proc",
+      "target": "Node998"
+    },
+    {
+      "text": "I surrender.",
+      "source": "Node000",
+      "target": "Node996"
+    },
+    {
+      "text": "Die!",
+      "source": "Node000",
+      "target": "Node998"
+    },
+    {
+      "text": "Yes, I need to see Vegeir immediately.",
+      "source": "Node002",
+      "target": "Node996"
+    },
+    {
+      "text": "Not now. I'll see Vegeir later.",
+      "source": "Node002",
+      "target": "Node999"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node003"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node002"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node000"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node004"
+    },
+    {
+      "text": "",
+      "source": "pickup_p_proc",
+      "target": "Node998"
+    }
+  ]
+}

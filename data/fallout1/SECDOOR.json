@@ -1,0 +1,149 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "You gain 25 experience points for picking the lock.",
+      "node_id": "node8",
+      "id": "give_exps"
+    },
+    {
+      "text": "You manage to trigger the passive alert on the door, clamping down the electronic lock. Good job, chromo.",
+      "node_id": "node5_2",
+      "id": "use_skill_on_p_proc_2"
+    },
+    {
+      "text": "The security door is locked.",
+      "node_id": "node6",
+      "id": "dude_use_door"
+    },
+    {
+      "text": "",
+      "node_id": "node1",
+      "id": "start"
+    },
+    {
+      "text": "",
+      "node_id": "node3",
+      "id": "use_p_proc"
+    },
+    {
+      "text": "You manage to trigger the passive alert on the door, clamping down the electronic lock. Good job, chromo.",
+      "node_id": "node4_2",
+      "id": "use_obj_on_p_proc_2"
+    },
+    {
+      "text": "You fail to unlock the security door.",
+      "node_id": "node4_3",
+      "id": "use_obj_on_p_proc_3"
+    },
+    {
+      "text": "You manage to unlock the security door.",
+      "node_id": "node4_1",
+      "id": "use_obj_on_p_proc_1"
+    },
+    {
+      "text": "You manage to unlock the security door.",
+      "node_id": "node5_1",
+      "id": "use_skill_on_p_proc_1"
+    },
+    {
+      "text": "",
+      "node_id": "node2",
+      "id": "map_enter_p_proc"
+    },
+    {
+      "text": "",
+      "node_id": "node7",
+      "id": "Officer_use_door"
+    },
+    {
+      "text": "You fail to unlock the security door.",
+      "node_id": "node5_3",
+      "id": "use_skill_on_p_proc_3"
+    }
+  ],
+  "links": [
+    {
+      "text": "",
+      "source": "use_skill_on_p_proc_2",
+      "target": "give_exps"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "use_obj_on_p_proc_2"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "use_skill_on_p_proc_3"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "use_skill_on_p_proc_2"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "use_obj_on_p_proc_3"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "map_enter_p_proc"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "use_skill_on_p_proc_1"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "use_obj_on_p_proc_1"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "use_p_proc"
+    },
+    {
+      "text": "",
+      "source": "use_p_proc",
+      "target": "dude_use_door"
+    },
+    {
+      "text": "",
+      "source": "use_p_proc",
+      "target": "Officer_use_door"
+    },
+    {
+      "text": "",
+      "source": "use_obj_on_p_proc_2",
+      "target": "give_exps"
+    },
+    {
+      "text": "",
+      "source": "use_obj_on_p_proc_3",
+      "target": "give_exps"
+    },
+    {
+      "text": "",
+      "source": "use_obj_on_p_proc_1",
+      "target": "give_exps"
+    },
+    {
+      "text": "",
+      "source": "use_skill_on_p_proc_1",
+      "target": "give_exps"
+    },
+    {
+      "text": "",
+      "source": "use_skill_on_p_proc_3",
+      "target": "give_exps"
+    }
+  ]
+}

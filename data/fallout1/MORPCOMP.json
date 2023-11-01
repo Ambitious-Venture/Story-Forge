@@ -1,0 +1,13 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "Before you is a Mach IV Computer.",
+      "node_id": "node1",
+      "id": "start"
+    }
+  ],
+  "links": []
+}

@@ -1,0 +1,134 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "",
+      "node_id": "node5",
+      "id": "critter_p_proc"
+    },
+    {
+      "text": "",
+      "node_id": "node3",
+      "id": "pickup_p_proc"
+    },
+    {
+      "text": "Scribe",
+      "node_id": "node2",
+      "id": "look_at_p_proc"
+    },
+    {
+      "text": "",
+      "node_id": "node1",
+      "id": "start"
+    },
+    {
+      "text": "That's Vree right there. She's also a scribe.",
+      "node_id": "node7_7",
+      "id": "ScribeARandom_7"
+    },
+    {
+      "text": "Sorry, I'm right in the middle of a possible breakthrough. I can't talk right now.",
+      "node_id": "node7_3",
+      "id": "ScribeARandom_3"
+    },
+    {
+      "text": "Being a scribe is the best. You get to study all the old technologies and try to develop new ones.",
+      "node_id": "node7_1",
+      "id": "ScribeARandom_1"
+    },
+    {
+      "text": "These terminals could use an enhancement. Maybe we should put the display over here.",
+      "node_id": "node7_2",
+      "id": "ScribeARandom_2"
+    },
+    {
+      "text": "",
+      "node_id": "node6",
+      "id": "destroy_p_proc"
+    },
+    {
+      "text": "Hey Initiate. You should train to be a Scribe, if you haven't decided yet.",
+      "node_id": "node7_4",
+      "id": "ScribeARandom_4"
+    },
+    {
+      "text": "",
+      "node_id": "node4",
+      "id": "talk_p_proc"
+    },
+    {
+      "text": "Us Scribes design all the equipment, weapons, and supplies. It's quite exciting.",
+      "node_id": "node7_5",
+      "id": "ScribeARandom_5"
+    },
+    {
+      "text": "Please don't disturb me. I'm trying to finish my research.",
+      "node_id": "node7_6",
+      "id": "ScribeARandom_6"
+    }
+  ],
+  "links": [
+    {
+      "text": "",
+      "source": "start",
+      "target": "pickup_p_proc"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "destroy_p_proc"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "talk_p_proc"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "critter_p_proc"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "look_at_p_proc"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "ScribeARandom_3"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "ScribeARandom_5"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "ScribeARandom_1"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "ScribeARandom_6"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "ScribeARandom_4"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "ScribeARandom_7"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "ScribeARandom_2"
+    }
+  ]
+}

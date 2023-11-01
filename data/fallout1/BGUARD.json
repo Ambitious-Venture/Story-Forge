@@ -1,0 +1,74 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "Got any donuts?",
+      "node_id": "node2_1",
+      "id": "do_dialogue_1"
+    },
+    {
+      "text": "I work for the Barterman.",
+      "node_id": "node2_6",
+      "id": "do_dialogue_6"
+    },
+    {
+      "text": "Are you gonna buy something? Perhaps in this century?",
+      "node_id": "node2_4",
+      "id": "do_dialogue_4"
+    },
+    {
+      "text": "You see a guard.",
+      "node_id": "node1",
+      "id": "start"
+    },
+    {
+      "text": "Shoplifters will be killed!",
+      "node_id": "node2_3",
+      "id": "do_dialogue_3"
+    },
+    {
+      "text": "Can't fight Rad Scorpions without this stuff.",
+      "node_id": "node2_5",
+      "id": "do_dialogue_5"
+    },
+    {
+      "text": "If you break it, you buy it!",
+      "node_id": "node2_2",
+      "id": "do_dialogue_2"
+    }
+  ],
+  "links": [
+    {
+      "text": "",
+      "source": "start",
+      "target": "do_dialogue_1"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "do_dialogue_6"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "do_dialogue_4"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "do_dialogue_5"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "do_dialogue_3"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "do_dialogue_2"
+    }
+  ]
+}

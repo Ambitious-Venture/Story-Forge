@@ -1,0 +1,144 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "These are sleeping quarters. Now get out of here before I  kick your butt.",
+      "node_id": "node10",
+      "id": "Beca00"
+    },
+    {
+      "text": "",
+      "node_id": "node12",
+      "id": "BecaEnd"
+    },
+    {
+      "text": "",
+      "node_id": "node2",
+      "id": "critter_p_proc"
+    },
+    {
+      "text": "",
+      "node_id": "node5",
+      "id": "pickup_p_proc"
+    },
+    {
+      "text": "",
+      "node_id": "node8",
+      "id": "show_false_name"
+    },
+    {
+      "text": "",
+      "node_id": "node4",
+      "id": "look_at_p_proc"
+    },
+    {
+      "text": "",
+      "node_id": "node1",
+      "id": "start"
+    },
+    {
+      "text": "",
+      "node_id": "node11",
+      "id": "BecaCombat"
+    },
+    {
+      "text": "No. These are for real Blades, not some wuss.",
+      "node_id": "node13",
+      "id": "Beca01"
+    },
+    {
+      "text": "You see Beca.",
+      "node_id": "node7_1",
+      "id": "show_true_name_1"
+    },
+    {
+      "text": "You see a member of the Blades.",
+      "node_id": "node7_2",
+      "id": "show_true_name_2"
+    },
+    {
+      "text": "",
+      "node_id": "node3",
+      "id": "destroy_p_proc"
+    },
+    {
+      "text": "",
+      "node_id": "node6",
+      "id": "talk_p_proc"
+    },
+    {
+      "text": "Hey, homie! Wazzup? Crash here if you need a safe place.",
+      "node_id": "node9",
+      "id": "Beca02"
+    }
+  ],
+  "links": [
+    {
+      "text": "Try it.",
+      "source": "Beca00",
+      "target": "BecaCombat"
+    },
+    {
+      "text": "Can I crash here?",
+      "source": "Beca00",
+      "target": "Beca01"
+    },
+    {
+      "text": "Sorry about that. Goodbye.",
+      "source": "Beca00",
+      "target": "BecaEnd"
+    },
+    {
+      "text": "",
+      "source": "look_at_p_proc",
+      "target": "show_true_name_2"
+    },
+    {
+      "text": "",
+      "source": "look_at_p_proc",
+      "target": "show_false_name"
+    },
+    {
+      "text": "",
+      "source": "look_at_p_proc",
+      "target": "show_true_name_1"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "pickup_p_proc"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "destroy_p_proc"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "talk_p_proc"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "critter_p_proc"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "look_at_p_proc"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Beca00"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Beca02"
+    }
+  ]
+}

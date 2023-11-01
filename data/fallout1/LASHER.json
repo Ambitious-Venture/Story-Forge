@@ -1,0 +1,759 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "I see no reason to converse with a fool. Away with you.",
+      "node_id": "node12",
+      "id": "lasher09"
+    },
+    {
+      "text": "There comes a time when you must find the answers to life\u2019s questions yourself, and that time is  now. Begone!",
+      "node_id": "node22",
+      "id": "lasher18"
+    },
+    {
+      "text": "I have not consulted him, but I am certain he is pleased with the righteous souls I have brought him. It is difficult work, but I do it well. Unfortunately, it is also quite time consuming, which is why I must order to you to leave right now.",
+      "node_id": "node50",
+      "id": "lasher21"
+    },
+    {
+      "text": "How dare you disturb me! Don\u2019t you know how important my position is? Get out!",
+      "node_id": "node8",
+      "id": "lasher03"
+    },
+    {
+      "text": "That is a privilege reserved for only the most faithful servants. Only baptism is a higher honor.",
+      "node_id": "node11",
+      "id": "lasher08"
+    },
+    {
+      "text": "Mutation is nothing to fear. Every birth is a mutation of our parents\u2019 DNA. We are all mutants. The only thing that matters is that the mutant is guided on a moral and productive path. This is my job. And this also ends this discussion. Leave me now.",
+      "node_id": "node36",
+      "id": "lasher31"
+    },
+    {
+      "text": "",
+      "node_id": "node44",
+      "id": "lasher17a"
+    },
+    {
+      "text": "You foul mouthed beast! Begone! Learn some manners before you return.",
+      "node_id": "node51",
+      "id": "lasher23"
+    },
+    {
+      "text": "You see Lasher of the Children.",
+      "node_id": "node1",
+      "id": "start"
+    },
+    {
+      "text": "The Cathedral teaches many things which an undisciplined mind is incapable of comprehending. Now I have other duties to perform. Away with you!",
+      "node_id": "node42",
+      "id": "lasher36"
+    },
+    {
+      "text": "I do not know these things with certainty, and I have never had the privilege to see him. Now if you will excuse me, I have work to do.",
+      "node_id": "node46_1",
+      "id": "lasher41_1_1"
+    },
+    {
+      "text": "As do I. It appears we have many things in common, but unfortunately, you irritate me beyond my ability to tolerate. Get out of here. Now.",
+      "node_id": "node43",
+      "id": "lasher37"
+    },
+    {
+      "text": "Your courtesy does you credit. Perhaps you are worthy to talk with Morpheus. If the Nightkin stops you, show them this symbol. Now, away with you!",
+      "node_id": "node31",
+      "id": "lasher28"
+    },
+    {
+      "text": "You were not particularly welcome here in the first place. Good riddance to you.",
+      "node_id": "node53",
+      "id": "lasher42"
+    },
+    {
+      "text": "You should speak to Father Morpheus. He is in the tower, but it is unlikely that the Nightkin will  allow you to pass.",
+      "node_id": "node13",
+      "id": "lasher10"
+    },
+    {
+      "text": "",
+      "node_id": "node20",
+      "id": "lasher06a"
+    },
+    {
+      "text": "I deal out pain. If the animal is worthy and can learn from it, it evolves into a righteous soul. If it does not, it does not deserve to exist. On rare occasions, the animal is removed the genetic pool, although not as often as I would like. This happens more often with failed grown animals.",
+      "node_id": "node37",
+      "id": "lasher32"
+    },
+    {
+      "text": "Once I did, but many of methods were abandoned in favor of the loud noises you hear in the Auditorium amphitheater. It is a source of bitterness for me. Fortunately, I can still instruct the children. Now if you will excuse me, I have to prepare for their lessons.",
+      "node_id": "node54",
+      "id": "lasher43"
+    },
+    {
+      "text": "Learn to embrace pain as your closest friend, for pain is the most instructive force in the universe. Break yourself until you can exist no longer as an individual, then remake yourself into the Master\u2019s tool. That is the solution to all of your problems.",
+      "node_id": "node18",
+      "id": "lasher15"
+    },
+    {
+      "text": "You are a fool if you think petty subterfuge will defeat the Nightkin. Get out of here!",
+      "node_id": "node32",
+      "id": "lasher29"
+    },
+    {
+      "text": "",
+      "node_id": "node10",
+      "id": "combat"
+    },
+    {
+      "text": "You are a woman, and therefore you are always troubled. It is an endemic condition of your breed. Tell me your problem, madam, and I will resolve it for you.",
+      "node_id": "node17_1",
+      "id": "lasher14_1"
+    },
+    {
+      "text": "",
+      "node_id": "node52",
+      "id": "lasher26a"
+    },
+    {
+      "text": "You filthy brainless abomination! How dare you defile my presence! Get out! Out! Now!",
+      "node_id": "node16",
+      "id": "lasher13"
+    },
+    {
+      "text": "I cannot help you with that. Begone.",
+      "node_id": "node34",
+      "id": "lasher25"
+    },
+    {
+      "text": "Righteousness is attained through struggle, trauma, and recovery. We are animals who must be continuously be broken until we accept the Master\u2019s truth without hesitation. Now that you have heard the truth, seek it with the body of your experiences. Get out of here.",
+      "node_id": "node40",
+      "id": "lasher34"
+    },
+    {
+      "text": "I instruct the children. It is my duty. All children are wicked beasts. It is my duty to force them into evolve into human beings. Perhaps you have heard that I do not tolerate frivolity. This is true. I want my charges to suffer as much as possible.",
+      "node_id": "node15",
+      "id": "lasher12"
+    },
+    {
+      "text": "It is not my place to judge. You must persuade the Nightkin. Good luck. You will need it.",
+      "node_id": "node48",
+      "id": "lasher39"
+    },
+    {
+      "text": "Uh\u2026 it is of course, a rare event, and the animal is given every chance to evolve. Now leave here!  Leave here at once!",
+      "node_id": "node55",
+      "id": "lasher44"
+    },
+    {
+      "text": "",
+      "node_id": "node23",
+      "id": "lasher07a"
+    },
+    {
+      "text": "",
+      "node_id": "node25",
+      "id": "lasher08a"
+    },
+    {
+      "text": "They serve the Master. They bring the pain of healing to the world. Angels in the Night, who redeem the world by bloodshed. Curiosity is a foolhardy emotion, but doubly so when it comes to the Nightkin. That is your only warning. I have much to do now. Away with you.",
+      "node_id": "node30",
+      "id": "lasher27"
+    },
+    {
+      "text": "A flatterer\u2019s tongue is in the mouth of a devil! A devil such as you! Get out of my sight!",
+      "node_id": "node26",
+      "id": "lasher22"
+    },
+    {
+      "text": "Your words are true. Very well, I will help you. But be quick.",
+      "node_id": "node21",
+      "id": "lasher17"
+    },
+    {
+      "text": "When I came, I saw this place lacked a moral center, and so I have endeavored to administer teaching pain to a place once consumed with idle pleasure. That is all you need to know.",
+      "node_id": "node45_1",
+      "id": "lasher40_1_1"
+    },
+    {
+      "text": "I know who you are. You are walking death, a plague in human form. Where you step, blood flows like a river. But such iniquities can be ended by a righteous soul!",
+      "node_id": "node7",
+      "id": "lasher02"
+    },
+    {
+      "text": "I know who you are. Your wickedness precedes you. You send the souls of children to Hades, before they can be cleansed of their perfidy. It is a black evil that you do, and you must be punished for it.",
+      "node_id": "node6",
+      "id": "lasher01"
+    },
+    {
+      "text": "My quarters are not open to those who have not been consecrated. I must ask you to leave at once.",
+      "node_id": "node9",
+      "id": "lasher07"
+    },
+    {
+      "text": "He is our leader. He is close to the Master\u2019s counsels and knows many of his purposes. Is that all?",
+      "node_id": "node29",
+      "id": "lasher26"
+    },
+    {
+      "text": "A reasonable request. Take this symbol. Show it to the Nightkin when you wish to pass.",
+      "node_id": "node33",
+      "id": "lasher24"
+    },
+    {
+      "text": "I know who you are. You are the devil in woman\u2019s form, but your shape will not save you.",
+      "node_id": "node5_1",
+      "id": "lasher00_1"
+    },
+    {
+      "text": "That is not my duty. Now begone.",
+      "node_id": "node24",
+      "id": "lasher19"
+    },
+    {
+      "text": "This may be of some use to you. Take this symbol. Show it to the Nightkin when you wish to pass. It will allow you to see Father Morpheus.",
+      "node_id": "node47",
+      "id": "lasher38"
+    },
+    {
+      "text": "",
+      "node_id": "node28",
+      "id": "lasher10a"
+    },
+    {
+      "text": "Decadence and ease prevents evolution, evolution that is necessary for survival in a harsh world. Fortunately, I am a hard man who cares nothing for seductive pleasures. I see that you disagree with me. I do not care about your opinion. Get out of here!",
+      "node_id": "node35",
+      "id": "lasher30"
+    },
+    {
+      "text": "",
+      "node_id": "node39",
+      "id": "lasher14a"
+    },
+    {
+      "text": "You are an evil man. You would do well to tread carefully here. The Nightkin do not enjoy rivals. Now begone!",
+      "node_id": "node38_1",
+      "id": "lasher33_1"
+    },
+    {
+      "text": "You are unwise to draw your weapon on me. The Master\u2019s shield is upon me, and I may not be touched  without retribution!",
+      "node_id": "node2",
+      "id": "lasher04"
+    },
+    {
+      "text": "By the endurance of pain, by the acquisition of wisdom, and the performance of service. Pain is knowledge, Wisdom is obedience, and Service is courage.",
+      "node_id": "node27_1",
+      "id": "lasher20_1_1"
+    },
+    {
+      "text": "Why have you come, initiate? You know that I do not like to be disturbed.",
+      "node_id": "node3",
+      "id": "lasher05"
+    },
+    {
+      "text": "Who do you think you are, entering my sanctum with a drawn weapon. Get out!",
+      "node_id": "node4_1",
+      "id": "lasher06_1"
+    },
+    {
+      "text": "The rod is a holy instrument, through which I instruct my charges. Pain clears the mind of evil thoughts and allows them to better comprehend the glory of the Master.",
+      "node_id": "node14",
+      "id": "lasher11"
+    },
+    {
+      "text": "Beasts chatter without meaning. Human beings think first, and then they talk. You must evolve into a human being before I will wish to speak you. Be gone.",
+      "node_id": "node19",
+      "id": "lasher16"
+    },
+    {
+      "text": "Your tongue is a wicked thing that is beyond redemption. Get out of my sight!",
+      "node_id": "node41",
+      "id": "lasher35"
+    }
+  ],
+  "links": [
+    {
+      "text": "Wow! You must be special!",
+      "source": "lasher08",
+      "target": "lasher22"
+    },
+    {
+      "text": "Too bad privileges ain\u2019t worth a rad scorpion\u2019s ass when you\u2019re dead.",
+      "source": "lasher08",
+      "target": "lasher13"
+    },
+    {
+      "text": "And how does one earn baptism?",
+      "source": "lasher08",
+      "target": "lasher08a"
+    },
+    {
+      "text": "I suppose you are teaching the children and preparing them for baptism.",
+      "source": "lasher08",
+      "target": "lasher12"
+    },
+    {
+      "text": "Can you help me to be baptized?",
+      "source": "lasher08",
+      "target": "lasher19"
+    },
+    {
+      "text": "",
+      "source": "lasher17a",
+      "target": "lasher39"
+    },
+    {
+      "text": "",
+      "source": "lasher17a",
+      "target": "lasher38"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "lasher01"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "lasher03"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "lasher07"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "lasher05"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "lasher04"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "lasher00_1"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "lasher06_1"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "lasher02"
+    },
+    {
+      "text": "Could you persuade the Nightkin to let me pass?",
+      "source": "lasher10",
+      "target": "lasher10a"
+    },
+    {
+      "text": "What can you tell me about the Nightkin.",
+      "source": "lasher10",
+      "target": "lasher27"
+    },
+    {
+      "text": "Thank you, sir.",
+      "source": "lasher10",
+      "target": "lasher28"
+    },
+    {
+      "text": "I have ways of getting around these sorts of problems.",
+      "source": "lasher10",
+      "target": "lasher29"
+    },
+    {
+      "text": "What can you tell me about Morpheus?",
+      "source": "lasher10",
+      "target": "lasher26"
+    },
+    {
+      "text": "",
+      "source": "lasher06a",
+      "target": "lasher18"
+    },
+    {
+      "text": "",
+      "source": "lasher06a",
+      "target": "lasher17"
+    },
+    {
+      "text": "Do you teach adults?",
+      "source": "lasher32",
+      "target": "lasher44"
+    },
+    {
+      "text": "You\u2019re a monster!",
+      "source": "lasher32",
+      "target": "lasher42"
+    },
+    {
+      "text": "And the Master approves of the teaching methods?",
+      "source": "lasher32",
+      "target": "lasher21"
+    },
+    {
+      "text": "Grown animals?",
+      "source": "lasher32",
+      "target": "lasher28"
+    },
+    {
+      "text": "I think I\u2019ll leave you now.",
+      "source": "lasher32",
+      "target": "lasher43"
+    },
+    {
+      "text": "Hey, I can remove them for you! No one else needs to know!",
+      "source": "lasher32",
+      "target": "lasher35"
+    },
+    {
+      "text": "So where can I find the most pain?",
+      "source": "lasher15",
+      "target": "lasher18"
+    },
+    {
+      "text": "Yeah, I want to get enough brain damage that I\u2019ll join a zombie cult!  Dream on, pal!",
+      "source": "lasher15",
+      "target": "lasher35"
+    },
+    {
+      "text": "It is? That sucks, pal!",
+      "source": "lasher15",
+      "target": "lasher09"
+    },
+    {
+      "text": "I already embrace pain. I just like to share it with my friends.",
+      "source": "lasher15",
+      "target": "lasher37"
+    },
+    {
+      "text": "I would never have thought of that!",
+      "source": "lasher15",
+      "target": "lasher36"
+    },
+    {
+      "text": "Tell me how to attain righteousness!",
+      "source": "lasher14_1",
+      "target": "lasher31"
+    },
+    {
+      "text": "I want to know about the Master.",
+      "source": "lasher14_1",
+      "target": "lasher02"
+    },
+    {
+      "text": "I want to know more about the Cathedral.",
+      "source": "lasher14_1",
+      "target": "lasher30"
+    },
+    {
+      "text": "",
+      "source": "lasher26a",
+      "target": "lasher24"
+    },
+    {
+      "text": "",
+      "source": "lasher26a",
+      "target": "lasher25"
+    },
+    {
+      "text": "Tell me more about your teaching methods.",
+      "source": "lasher12",
+      "target": "lasher32"
+    },
+    {
+      "text": "You heartless bastard!",
+      "source": "lasher12",
+      "target": "lasher30"
+    },
+    {
+      "text": "But what about the pleasure of killing? Ain\u2019t that allowed?",
+      "source": "lasher12",
+      "target": "lasher33_1"
+    },
+    {
+      "text": "And are mutants more evolved than human beings?",
+      "source": "lasher12",
+      "target": "lasher31"
+    },
+    {
+      "text": "You never got laid, did you?",
+      "source": "lasher12",
+      "target": "lasher02"
+    },
+    {
+      "text": "",
+      "source": "lasher07a",
+      "target": "lasher17"
+    },
+    {
+      "text": "",
+      "source": "lasher07a",
+      "target": "lasher18"
+    },
+    {
+      "text": "",
+      "source": "lasher08a",
+      "target": "lasher18"
+    },
+    {
+      "text": "",
+      "source": "lasher08a",
+      "target": "lasher20_1_1"
+    },
+    {
+      "text": "Tell me about the Cathedral.",
+      "source": "lasher17",
+      "target": "lasher40_1_1"
+    },
+    {
+      "text": "The only thing I know that\u2019s quick is Death.",
+      "source": "lasher17",
+      "target": "lasher35"
+    },
+    {
+      "text": "I was wondering about the Children.",
+      "source": "lasher17",
+      "target": "lasher12"
+    },
+    {
+      "text": "I must see Father Morpheus on an urgent matter.",
+      "source": "lasher17",
+      "target": "lasher17a"
+    },
+    {
+      "text": "I was wondering where I could find the Master.",
+      "source": "lasher17",
+      "target": "lasher41_1_1"
+    },
+    {
+      "text": "",
+      "source": "lasher02",
+      "target": "combat"
+    },
+    {
+      "text": "",
+      "source": "lasher01",
+      "target": "combat"
+    },
+    {
+      "text": "Forgive my intrusion, but I have important questions.",
+      "source": "lasher07",
+      "target": "lasher07a"
+    },
+    {
+      "text": "I just want to speak with the man in charge.",
+      "source": "lasher07",
+      "target": "lasher10"
+    },
+    {
+      "text": "I\u2019m here to talk about your treatment of the Children.",
+      "source": "lasher07",
+      "target": "lasher12"
+    },
+    {
+      "text": "Nice rod you\u2019ve got there! Is that why they call you Lasher?",
+      "source": "lasher07",
+      "target": "lasher11"
+    },
+    {
+      "text": "I wanted to ask you about consecration.",
+      "source": "lasher07",
+      "target": "lasher19"
+    },
+    {
+      "text": "This place don\u2019t look consecrated. I ain\u2019t killed anyone here yet.",
+      "source": "lasher07",
+      "target": "lasher02"
+    },
+    {
+      "text": "You stupid! I got plenty of conse\u2026cra\u2026tion\u2026",
+      "source": "lasher07",
+      "target": "lasher13"
+    },
+    {
+      "text": "Tell me more about Morpheus?",
+      "source": "lasher26",
+      "target": "lasher25"
+    },
+    {
+      "text": "So why do you follow this Morpheus bozo?",
+      "source": "lasher26",
+      "target": "lasher23"
+    },
+    {
+      "text": "What can you tell me about the Nightkin?",
+      "source": "lasher26",
+      "target": "lasher27"
+    },
+    {
+      "text": "Thank you, sir.",
+      "source": "lasher26",
+      "target": "lasher28"
+    },
+    {
+      "text": "Could you persuade the Nightkin to let me pass?",
+      "source": "lasher26",
+      "target": "lasher26a"
+    },
+    {
+      "text": "",
+      "source": "lasher10a",
+      "target": "lasher24"
+    },
+    {
+      "text": "",
+      "source": "lasher10a",
+      "target": "lasher25"
+    },
+    {
+      "text": "",
+      "source": "lasher14a",
+      "target": "lasher18"
+    },
+    {
+      "text": "",
+      "source": "lasher14a",
+      "target": "lasher34"
+    },
+    {
+      "text": "Is it true that you enjoy abusing children?",
+      "source": "lasher04",
+      "target": "lasher12"
+    },
+    {
+      "text": "I wouldn\u2019t mind the Master\u2019s shield myself.",
+      "source": "lasher04",
+      "target": "lasher08"
+    },
+    {
+      "text": "Nice rod you\u2019ve got there! Is that why they call you \"Lasher?\"",
+      "source": "lasher04",
+      "target": "lasher11"
+    },
+    {
+      "text": "You wanna see unwise? It\u2019s unwise to give me lip, bitch!",
+      "source": "lasher04",
+      "target": "lasher02"
+    },
+    {
+      "text": "I just want to speak with the man in charge.",
+      "source": "lasher04",
+      "target": "lasher10"
+    },
+    {
+      "text": "Nobody\u2019s ever accused me of being wise!",
+      "source": "lasher04",
+      "target": "lasher09"
+    },
+    {
+      "text": "Why you talk so funny?",
+      "source": "lasher04",
+      "target": "lasher13"
+    },
+    {
+      "text": "I just want to speak with the man in charge.",
+      "source": "lasher05",
+      "target": "lasher10"
+    },
+    {
+      "text": "I seek the guidance of the Cathedral.",
+      "source": "lasher05",
+      "target": "lasher15"
+    },
+    {
+      "text": "I\u2019m here to talk about your treatment of the Children.",
+      "source": "lasher05",
+      "target": "lasher12"
+    },
+    {
+      "text": "Nice rod you've got there! Is that why they call you Lasher?",
+      "source": "lasher05",
+      "target": "lasher11"
+    },
+    {
+      "text": "I just wanted to talk.",
+      "source": "lasher05",
+      "target": "lasher16"
+    },
+    {
+      "text": "How would you like to never be disturbed again. I can arrange that!",
+      "source": "lasher05",
+      "target": "lasher02"
+    },
+    {
+      "text": "Forgive me, Father, but I am troubled.",
+      "source": "lasher05",
+      "target": "lasher14_1"
+    },
+    {
+      "text": "I dunno. Why I come? You know?",
+      "source": "lasher05",
+      "target": "lasher13"
+    },
+    {
+      "text": "I\u2019m here to talk about your treatment of the Children.",
+      "source": "lasher06_1",
+      "target": "lasher12"
+    },
+    {
+      "text": "I just wanted to talk.",
+      "source": "lasher06_1",
+      "target": "lasher16"
+    },
+    {
+      "text": "Nice rod you\u2019ve got there! Is that why they call you Lasher?",
+      "source": "lasher06_1",
+      "target": "lasher11"
+    },
+    {
+      "text": "You don't like drawn weapons. You\u2019re gonna hate what I do with it next!",
+      "source": "lasher06_1",
+      "target": "lasher02"
+    },
+    {
+      "text": "I just want to speak with the man in charge.",
+      "source": "lasher06_1",
+      "target": "lasher10"
+    },
+    {
+      "text": "I seek the guidance of the Cathedral.",
+      "source": "lasher06_1",
+      "target": "lasher15"
+    },
+    {
+      "text": "Out? Which way out?",
+      "source": "lasher06_1",
+      "target": "lasher13"
+    },
+    {
+      "text": "Forgive me, sir. But the forces of darkness are everywhere, and one never knows when you must  defend yourself.",
+      "source": "lasher06_1",
+      "target": "lasher06a"
+    },
+    {
+      "text": "I see. So the Master\u2019s a pain?",
+      "source": "lasher11",
+      "target": "lasher09"
+    },
+    {
+      "text": "That\u2019s a horrible thing to do to children!",
+      "source": "lasher11",
+      "target": "lasher30"
+    },
+    {
+      "text": "Sounds kinky. How about trying some on me?",
+      "source": "lasher11",
+      "target": "lasher02"
+    }
+  ]
+}

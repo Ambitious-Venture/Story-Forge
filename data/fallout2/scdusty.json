@@ -1,0 +1,184 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "Daughter of President Aradesh, the guy who founded NCR. She's been president for years. Does a good job too.",
+      "node_id": "node19",
+      "id": "Node004"
+    },
+    {
+      "text": "",
+      "node_id": "node15",
+      "id": "Node999"
+    },
+    {
+      "text": "What can I get you?",
+      "node_id": "node7_2",
+      "id": "Node001_2"
+    },
+    {
+      "text": "",
+      "node_id": "node16",
+      "id": "NodeBarter"
+    },
+    {
+      "text": "Sure.",
+      "node_id": "node7_1",
+      "id": "Node001_1"
+    },
+    {
+      "text": "",
+      "node_id": "node5",
+      "id": "talk_p_proc"
+    },
+    {
+      "text": "Would you like a drink?",
+      "node_id": "node20",
+      "id": "Node006"
+    },
+    {
+      "text": "Don't know. Gunther, her aide, probably does. He's down at the Hall of Congress.",
+      "node_id": "node21",
+      "id": "Node005"
+    },
+    {
+      "text": "Not much. If you're looking for trouble, go drink someplace else, like the Rawhide. If you're looking for work, there's the Westin place west of town. Heard some things about President Tandi looking for a specialist, too.",
+      "node_id": "node18",
+      "id": "Node003"
+    },
+    {
+      "text": "That was Hoss, President's Tandi's son. Boy, you sure whupped his ass good!",
+      "node_id": "node17_1",
+      "id": "Node002_1"
+    },
+    {
+      "text": "Let me buy you a drink! I've been wanting to smack him around for years!",
+      "node_id": "node6",
+      "id": "Node007"
+    }
+  ],
+  "links": [
+    {
+      "text": "And she's looking for a specialist? What kind?",
+      "source": "Node004",
+      "target": "Node005"
+    },
+    {
+      "text": "Who's the big guy?",
+      "source": "Node004",
+      "target": "Node002_1"
+    },
+    {
+      "text": "Thanks.",
+      "source": "Node004",
+      "target": "Node006"
+    },
+    {
+      "text": "Goodbye.",
+      "source": "Node001_2",
+      "target": "Node999"
+    },
+    {
+      "text": "Drink.",
+      "source": "Node001_2",
+      "target": "NodeBarter"
+    },
+    {
+      "text": "What's to do in this town?",
+      "source": "Node001_2",
+      "target": "Node003"
+    },
+    {
+      "text": "Goodbye.",
+      "source": "Node001_1",
+      "target": "Node999"
+    },
+    {
+      "text": "Drink.",
+      "source": "Node001_1",
+      "target": "NodeBarter"
+    },
+    {
+      "text": "What's to do in this town?",
+      "source": "Node001_1",
+      "target": "Node003"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node001_2"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node001_1"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node007"
+    },
+    {
+      "text": "No.",
+      "source": "Node006",
+      "target": "Node999"
+    },
+    {
+      "text": "Sure.",
+      "source": "Node006",
+      "target": "NodeBarter"
+    },
+    {
+      "text": "Thanks",
+      "source": "Node005",
+      "target": "Node006"
+    },
+    {
+      "text": "Who's the big guy?",
+      "source": "Node005",
+      "target": "Node002_1"
+    },
+    {
+      "text": "Thanks.",
+      "source": "Node003",
+      "target": "Node006"
+    },
+    {
+      "text": "President Tandi?",
+      "source": "Node003",
+      "target": "Node004"
+    },
+    {
+      "text": "Specialist?",
+      "source": "Node003",
+      "target": "Node005"
+    },
+    {
+      "text": "Tough guy, eh? Thanks.",
+      "source": "Node002_1",
+      "target": "Node006"
+    },
+    {
+      "text": "President Tandi?",
+      "source": "Node002_1",
+      "target": "Node004"
+    },
+    {
+      "text": "Good! Bye.",
+      "source": "Node007",
+      "target": "Node999"
+    },
+    {
+      "text": "I've got some questions.",
+      "source": "Node007",
+      "target": "Node001_2"
+    },
+    {
+      "text": "I've got some questions.",
+      "source": "Node007",
+      "target": "Node001_1"
+    }
+  ]
+}

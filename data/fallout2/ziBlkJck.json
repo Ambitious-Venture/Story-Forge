@@ -1,0 +1,149 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "Sorry, I think you've reached your limit here. I'm gonna have to ask you to leave.",
+      "node_id": "node16_1",
+      "id": "Node006_1"
+    },
+    {
+      "text": "",
+      "node_id": "node10",
+      "id": "Node999"
+    },
+    {
+      "text": "",
+      "node_id": "node12",
+      "id": "Node002"
+    },
+    {
+      "text": "GiveCards(1)",
+      "node_id": "node14",
+      "id": "GiveCards(1)"
+    },
+    {
+      "text": "Dealer wins the hand.",
+      "node_id": "node15_2",
+      "id": "Node005_2"
+    },
+    {
+      "text": "Care to play some Black Jack? Minimum bet is $ .",
+      "node_id": "node6_1",
+      "id": "Node000_1"
+    },
+    {
+      "text": "GiveCards(0)",
+      "node_id": "node13",
+      "id": "GiveCards(0)"
+    },
+    {
+      "text": "",
+      "node_id": "node5",
+      "id": "talk_p_proc"
+    },
+    {
+      "text": "Sorry, you don't seem to have the minimum bet amount. Come back when  you have more money.",
+      "node_id": "node9",
+      "id": "Node001"
+    },
+    {
+      "text": "You're not allowed to play here anymore. Please leave.",
+      "node_id": "node6_2",
+      "id": "Node000_2"
+    },
+    {
+      "text": "",
+      "node_id": "node11",
+      "id": "Node998"
+    },
+    {
+      "text": "You win $ .",
+      "node_id": "node15_1",
+      "id": "Node005_1"
+    }
+  ],
+  "links": [
+    {
+      "text": "Sure.",
+      "source": "Node006_1",
+      "target": "Node001"
+    },
+    {
+      "text": "No thanks.",
+      "source": "Node006_1",
+      "target": "Node999"
+    },
+    {
+      "text": "I'll show you my limit.",
+      "source": "Node006_1",
+      "target": "Node998"
+    },
+    {
+      "text": "",
+      "source": "Node002",
+      "target": "Node005_1"
+    },
+    {
+      "text": "",
+      "source": "Node002",
+      "target": "Node005_2"
+    },
+    {
+      "text": "",
+      "source": "Node002",
+      "target": "GiveCards(0)"
+    },
+    {
+      "text": "",
+      "source": "Node002",
+      "target": "GiveCards(1)"
+    },
+    {
+      "text": "I'll show you my limit.",
+      "source": "Node000_1",
+      "target": "Node998"
+    },
+    {
+      "text": "Sure.",
+      "source": "Node000_1",
+      "target": "Node001"
+    },
+    {
+      "text": "No thanks.",
+      "source": "Node000_1",
+      "target": "Node999"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node000_2"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node000_1"
+    },
+    {
+      "text": "",
+      "source": "Node001",
+      "target": "Node002"
+    },
+    {
+      "text": "Sure.",
+      "source": "Node000_2",
+      "target": "Node001"
+    },
+    {
+      "text": "No thanks.",
+      "source": "Node000_2",
+      "target": "Node999"
+    },
+    {
+      "text": "I'll show you my limit.",
+      "source": "Node000_2",
+      "target": "Node998"
+    }
+  ]
+}

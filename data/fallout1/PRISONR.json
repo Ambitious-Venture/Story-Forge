@@ -1,0 +1,174 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "Wha-what do you want.",
+      "node_id": "node7",
+      "id": "prisonr00"
+    },
+    {
+      "text": "I stole some water. Hey, I was thirsty! It wasn't like I hurt somebody.",
+      "node_id": "node12",
+      "id": "prisonr03"
+    },
+    {
+      "text": "",
+      "node_id": "node4",
+      "id": "leave_map"
+    },
+    {
+      "text": "You see a ghoul prisoner.",
+      "node_id": "node1_1",
+      "id": "start_1"
+    },
+    {
+      "text": "",
+      "node_id": "node9",
+      "id": "prisonrend"
+    },
+    {
+      "text": "I would've died without the water. It was only a cupful. Just enough to keep me alive. You gotta get me out of here!  I'm going insane.",
+      "node_id": "node13",
+      "id": "prisonr04"
+    },
+    {
+      "text": "They pump it up from the wells below. There is a manhole in the cell next door that leads to the old vault. This is the source of the water. If it wasn't for those ones below, we would be a lot better off.",
+      "node_id": "node14",
+      "id": "prisonr07"
+    },
+    {
+      "text": "",
+      "node_id": "node2",
+      "id": "timeforwhat"
+    },
+    {
+      "text": "",
+      "node_id": "node3",
+      "id": "do_dialogue"
+    },
+    {
+      "text": "It's difficult to make the old tech work properly, sometimes. The glowing ones lash out whenever we go down there. Us ghouls just leave them alone. And the big mutants don't seem to care one bit.",
+      "node_id": "node15",
+      "id": "prisonr08"
+    },
+    {
+      "text": "Hey, I don't care about that, just get me outta here!",
+      "node_id": "node10",
+      "id": "prisonr01"
+    },
+    {
+      "text": "Please let me go.",
+      "node_id": "node6",
+      "id": "prisonr05"
+    },
+    {
+      "text": "You gained experience points for freeing the ghoul prisoner.",
+      "node_id": "node5_1",
+      "id": "prisonr06_1"
+    },
+    {
+      "text": "Great! Do it!",
+      "node_id": "node11",
+      "id": "prisonr02"
+    }
+  ],
+  "links": [
+    {
+      "text": "Uh, nothing.",
+      "source": "prisonr00",
+      "target": "prisonrend"
+    },
+    {
+      "text": "Hng.",
+      "source": "prisonr00",
+      "target": "prisonr01"
+    },
+    {
+      "text": "I'm here to let you out.",
+      "source": "prisonr00",
+      "target": "prisonr02"
+    },
+    {
+      "text": "What'd you expect.",
+      "source": "prisonr00",
+      "target": "prisonr03"
+    },
+    {
+      "text": "Ah, that's nothing. I'll get you out.",
+      "source": "prisonr03",
+      "target": "prisonr02"
+    },
+    {
+      "text": "You took more than your rightful share.",
+      "source": "prisonr03",
+      "target": "prisonr04"
+    },
+    {
+      "text": "",
+      "source": "start_1",
+      "target": "leave_map"
+    },
+    {
+      "text": "",
+      "source": "start_1",
+      "target": "timeforwhat"
+    },
+    {
+      "text": "",
+      "source": "start_1",
+      "target": "do_dialogue"
+    },
+    {
+      "text": "Ok, hold on a moment.",
+      "source": "prisonr04",
+      "target": "prisonr02"
+    },
+    {
+      "text": "I think I'll let the authorities deal with you.",
+      "source": "prisonr04",
+      "target": "prisonrend"
+    },
+    {
+      "text": "Thanks.",
+      "source": "prisonr07",
+      "target": "prisonrend"
+    },
+    {
+      "text": "What do you mean?",
+      "source": "prisonr07",
+      "target": "prisonr08"
+    },
+    {
+      "text": "",
+      "source": "do_dialogue",
+      "target": "prisonr00"
+    },
+    {
+      "text": "",
+      "source": "do_dialogue",
+      "target": "prisonr05"
+    },
+    {
+      "text": "",
+      "source": "do_dialogue",
+      "target": "prisonr06_1"
+    },
+    {
+      "text": "Good luck. Bye.",
+      "source": "prisonr08",
+      "target": "prisonrend"
+    },
+    {
+      "text": "Where does the water come from?",
+      "source": "prisonr06_1",
+      "target": "prisonr07"
+    },
+    {
+      "text": "No prob.",
+      "source": "prisonr06_1",
+      "target": "prisonrend"
+    }
+  ]
+}

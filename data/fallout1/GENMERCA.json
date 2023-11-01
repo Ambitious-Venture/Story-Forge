@@ -1,0 +1,149 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "",
+      "node_id": "node9",
+      "id": "GenMercA02"
+    },
+    {
+      "text": "Sorry, this company is already full.",
+      "node_id": "node12_1",
+      "id": "GenMercA04_1"
+    },
+    {
+      "text": "",
+      "node_id": "node2",
+      "id": "critter_p_proc"
+    },
+    {
+      "text": "",
+      "node_id": "node8",
+      "id": "GenMercA01"
+    },
+    {
+      "text": "",
+      "node_id": "node4",
+      "id": "pickup_p_proc"
+    },
+    {
+      "text": "",
+      "node_id": "node1",
+      "id": "start"
+    },
+    {
+      "text": "",
+      "node_id": "node6",
+      "id": "flee_dude"
+    },
+    {
+      "text": "Sorry, this company is already full.",
+      "node_id": "node12_2",
+      "id": "GenMercA04_2"
+    },
+    {
+      "text": "",
+      "node_id": "node3",
+      "id": "destroy_p_proc"
+    },
+    {
+      "text": "Aack!",
+      "node_id": "node10",
+      "id": "GenMercA03"
+    },
+    {
+      "text": "",
+      "node_id": "node5",
+      "id": "talk_p_proc"
+    },
+    {
+      "text": "Hello! What can I do for you?",
+      "node_id": "node7",
+      "id": "GenMercA00"
+    },
+    {
+      "text": "",
+      "node_id": "node11",
+      "id": "GenMercAEnd"
+    }
+  ],
+  "links": [
+    {
+      "text": "Do you mind if I join you?",
+      "source": "GenMercA02",
+      "target": "GenMercA04_1"
+    },
+    {
+      "text": "Hello! What can I do for you?",
+      "source": "GenMercA02",
+      "target": "GenMercAEnd"
+    },
+    {
+      "text": "Do you mind if I join you?",
+      "source": "GenMercA02",
+      "target": "GenMercA04_2"
+    },
+    {
+      "text": "",
+      "source": "critter_p_proc",
+      "target": "flee_dude"
+    },
+    {
+      "text": "What are you doing?",
+      "source": "GenMercA01",
+      "target": "GenMercA02"
+    },
+    {
+      "text": "Hello! What can I do for you?",
+      "source": "GenMercA01",
+      "target": "GenMercAEnd"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "pickup_p_proc"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "destroy_p_proc"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "talk_p_proc"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "critter_p_proc"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "GenMercA00"
+    },
+    {
+      "text": "Lub!",
+      "source": "GenMercA00",
+      "target": "GenMercAEnd"
+    },
+    {
+      "text": "Yeah, gimme everything you've got.",
+      "source": "GenMercA00",
+      "target": "GenMercA03"
+    },
+    {
+      "text": "Who are you?",
+      "source": "GenMercA00",
+      "target": "GenMercA01"
+    },
+    {
+      "text": "What are you doing?",
+      "source": "GenMercA00",
+      "target": "GenMercA02"
+    }
+  ]
+}

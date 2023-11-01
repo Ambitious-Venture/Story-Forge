@@ -1,0 +1,574 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "Very well, but don't waste too much time. Without the GECK,  we're doomed.",
+      "node_id": "node32",
+      "id": "Node004"
+    },
+    {
+      "text": "",
+      "node_id": "node16",
+      "id": "Node997"
+    },
+    {
+      "text": "People are dying here while you stroll about the lands. Perhaps you should be searching elsewhere instead of returning here.",
+      "node_id": "node54",
+      "id": "Node037"
+    },
+    {
+      "text": "I don't remember his name, just that he was old and loud -- too loud for proper manners -- but he knew many things. He was from Klamath, east  like I said.",
+      "node_id": "node6",
+      "id": "Node009"
+    },
+    {
+      "text": "Once again you return to us, Chosen One. Not empty-handed, I hope?",
+      "node_id": "node18",
+      "id": "Node036"
+    },
+    {
+      "text": "Welcome home, Chosen One! Did you find the vault? Have you returned with the GECK?",
+      "node_id": "node21",
+      "id": "Node027"
+    },
+    {
+      "text": "What news of the GECK, Chosen One?",
+      "node_id": "node23",
+      "id": "Node015"
+    },
+    {
+      "text": "Looks like a metal water gourd. Maybe the vault sent it to us as an omen.",
+      "node_id": "node35",
+      "id": "Node006"
+    },
+    {
+      "text": "No, I've no time for you.",
+      "node_id": "node41",
+      "id": "Node017"
+    },
+    {
+      "text": "",
+      "node_id": "node7",
+      "id": "Node000"
+    },
+    {
+      "text": "I am sorry, Chosen One, but I am beginning to question my faith in you. The very lives of our people are in your hands. Please find the holy Thirteen and return to us with the GECK!",
+      "node_id": "node52",
+      "id": "Node034"
+    },
+    {
+      "text": "Well, look, it's the Chosen One.",
+      "node_id": "node22",
+      "id": "Node016"
+    },
+    {
+      "text": "Well, why are you talking to me? Talk to them, and get the GECK.",
+      "node_id": "node40",
+      "id": "Node014"
+    },
+    {
+      "text": "Our crops fail, the brahmin die, everyone goes hungry now. The cries of the children at night allow no one any sleep. We are becoming a desperate people.",
+      "node_id": "node53",
+      "id": "Node035"
+    },
+    {
+      "text": "We are a simple people and have little to offer in trade. The few towns that we have contacted while you were away have shown no interest in helping us.",
+      "node_id": "node49",
+      "id": "Node029"
+    },
+    {
+      "text": "",
+      "node_id": "node5",
+      "id": "talk_p_proc"
+    },
+    {
+      "text": "Why? Look around you -- our village dies. The gardens wither and every day children and old ones collapse. You must bring Eden to us before  it is too late!",
+      "node_id": "node37",
+      "id": "Node008"
+    },
+    {
+      "text": "The traders? They come from Klamath about every two months. There won't be another here for a month or more, but Klamath's only a few days  east of here.",
+      "node_id": "node34",
+      "id": "Node005"
+    },
+    {
+      "text": "What do you want to know?",
+      "node_id": "node31",
+      "id": "Node003"
+    },
+    {
+      "text": "They say your aunt Morlis has been hoarding a piece. She's so ill-tempered I don't think anyone's asked her. Of course, the witch will want  something in return.",
+      "node_id": "node43",
+      "id": "Node021"
+    },
+    {
+      "text": "",
+      "node_id": "node14",
+      "id": "Node995"
+    },
+    {
+      "text": "You must hurry. Things are getting worse here at home. Soon there will be little food and the Elder speaks of rationing what we have. I fear for the future of Arroyo.",
+      "node_id": "node51",
+      "id": "Node032"
+    },
+    {
+      "text": "",
+      "node_id": "node29",
+      "id": "Node999"
+    },
+    {
+      "text": "It's a good piece. Give me your spear.",
+      "node_id": "node44",
+      "id": "Node023"
+    },
+    {
+      "text": "Things are not going well, Chosen One. The drought is getting worse and our crops are sure to fail. We are trying to salvage what we can to build up our food reserves.",
+      "node_id": "node48",
+      "id": "Node028"
+    },
+    {
+      "text": "You are our hope, Chosen One. Please do not fail us!",
+      "node_id": "node50",
+      "id": "Node030"
+    },
+    {
+      "text": "Hello, Chosen One. Off to find the GECK?",
+      "node_id": "node25",
+      "id": "Node001"
+    },
+    {
+      "text": "My father taught me how to make stronger blades than most. Get me a piece of flint and I'll fix your spear, too. You'll need it in the wilderness.",
+      "node_id": "node33",
+      "id": "Node020"
+    },
+    {
+      "text": "I hope you do.",
+      "node_id": "node36",
+      "id": "Node007"
+    },
+    {
+      "text": "Here is your new spear.",
+      "node_id": "node47",
+      "id": "Node026"
+    },
+    {
+      "text": "It is good to see you, Chosen One. How fares your quest?",
+      "node_id": "node20",
+      "id": "Node031"
+    },
+    {
+      "text": "Are you still here? You must go find the GECK. Staying here  doesn't help us.",
+      "node_id": "node27",
+      "id": "Node010"
+    },
+    {
+      "text": "Greetings, dull one! See bridge? You cross, you be careful. Bridge dangerous. You not want to fall. Okay?",
+      "node_id": "node46_1",
+      "id": "Node025_1"
+    },
+    {
+      "text": "That was quick! Have you found the holy Vault 13?",
+      "node_id": "node24",
+      "id": "Node011"
+    },
+    {
+      "text": "Well, may the gods watch over you.",
+      "node_id": "node30",
+      "id": "Node002"
+    },
+    {
+      "text": "Greetings, dull one! See bridge? You cross, you be careful. Bridge dangerous. You not want to fall. Okay?",
+      "node_id": "node17",
+      "id": "Node018"
+    },
+    {
+      "text": "You have? Wonderful! Did you bring back the  GECK?",
+      "node_id": "node38",
+      "id": "Node012"
+    },
+    {
+      "text": "",
+      "node_id": "node15",
+      "id": "Node996"
+    },
+    {
+      "text": "Chosen One! Please tell me that you have completed your quest. Our village is dying, and so  are our people.",
+      "node_id": "node19",
+      "id": "Node033"
+    },
+    {
+      "text": "No? Chosen One, three old ones have died since you left. You must  not waste any more time.",
+      "node_id": "node39",
+      "id": "Node013"
+    },
+    {
+      "text": "Greetings, dull one! See bridge? You cross, you be careful. Bridge dangerous. You not want to fall. Okay?",
+      "node_id": "node45_1",
+      "id": "Node024_1"
+    },
+    {
+      "text": "Did you talk your aunt out of her flint?",
+      "node_id": "node26",
+      "id": "Node022"
+    }
+  ],
+  "links": [
+    {
+      "text": "I know, don\u2019t worry -- I\u2019ve got it all under control.",
+      "source": "Node004",
+      "target": "Node007"
+    },
+    {
+      "text": "I must be going. Goodbye.",
+      "source": "Node004",
+      "target": "Node999"
+    },
+    {
+      "text": "Why?",
+      "source": "Node004",
+      "target": "Node008"
+    },
+    {
+      "text": "",
+      "source": "Node997",
+      "target": "Node010"
+    },
+    {
+      "text": "",
+      "source": "Node997",
+      "target": "Node033"
+    },
+    {
+      "text": "",
+      "source": "Node997",
+      "target": "Node001"
+    },
+    {
+      "text": "",
+      "source": "Node997",
+      "target": "Node036"
+    },
+    {
+      "text": "",
+      "source": "Node997",
+      "target": "Node027"
+    },
+    {
+      "text": "",
+      "source": "Node997",
+      "target": "Node011"
+    },
+    {
+      "text": "",
+      "source": "Node997",
+      "target": "Node015"
+    },
+    {
+      "text": "",
+      "source": "Node997",
+      "target": "Node031"
+    },
+    {
+      "text": "",
+      "source": "Node997",
+      "target": "Node018"
+    },
+    {
+      "text": "",
+      "source": "Node997",
+      "target": "Node022"
+    },
+    {
+      "text": "",
+      "source": "Node997",
+      "target": "Node016"
+    },
+    {
+      "text": "Thank you, goodbye.",
+      "source": "Node009",
+      "target": "Node999"
+    },
+    {
+      "text": "I've had enough of this.",
+      "source": "Node036",
+      "target": "Node999"
+    },
+    {
+      "text": "Me sorry, no find GECK yet.",
+      "source": "Node036",
+      "target": "Node037"
+    },
+    {
+      "text": "Me not find yet.",
+      "source": "Node027",
+      "target": "Node028"
+    },
+    {
+      "text": "I'm not in the mood for your questions. Goodbye.",
+      "source": "Node027",
+      "target": "Node999"
+    },
+    {
+      "text": "I have found the vault!",
+      "source": "Node015",
+      "target": "Node012"
+    },
+    {
+      "text": "I have not been able to find Vault 13.",
+      "source": "Node015",
+      "target": "Node013"
+    },
+    {
+      "text": "Can you tell me who brought this item to our village?",
+      "source": "Node006",
+      "target": "Node009"
+    },
+    {
+      "text": "Thank you. I must going. Goodbye.",
+      "source": "Node006",
+      "target": "Node999"
+    },
+    {
+      "text": "Whatever. Good bye.",
+      "source": "Node017",
+      "target": "Node996"
+    },
+    {
+      "text": "Oh well. See you around.",
+      "source": "Node017",
+      "target": "Node995"
+    },
+    {
+      "text": "",
+      "source": "Node000",
+      "target": "Node997"
+    },
+    {
+      "text": "Hello.",
+      "source": "Node016",
+      "target": "Node999"
+    },
+    {
+      "text": "Can I ask you a question?",
+      "source": "Node016",
+      "target": "Node017"
+    },
+    {
+      "text": "I will -- all in good time, my friend.",
+      "source": "Node014",
+      "target": "Node999"
+    },
+    {
+      "text": "Me continue look.",
+      "source": "Node035",
+      "target": "Node999"
+    },
+    {
+      "text": "Me see.",
+      "source": "Node029",
+      "target": "Node030"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node000"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node009"
+    },
+    {
+      "text": "I am the Chosen One -- I \"must\" do only as I  please. Goodbye.",
+      "source": "Node008",
+      "target": "Node996"
+    },
+    {
+      "text": "And I will take care of it. \u00a0Goodbye.",
+      "source": "Node008",
+      "target": "Node999"
+    },
+    {
+      "text": "What can you tell me about this object I have from  the sacred vault?",
+      "source": "Node005",
+      "target": "Node006"
+    },
+    {
+      "text": "Thank you. Goodbye.",
+      "source": "Node005",
+      "target": "Node999"
+    },
+    {
+      "text": "What can you tell me about this object I have from  a vault?",
+      "source": "Node003",
+      "target": "Node006"
+    },
+    {
+      "text": "Nothing, never mind.",
+      "source": "Node003",
+      "target": "Node999"
+    },
+    {
+      "text": "What can you tell me of the men who trade with our  village?",
+      "source": "Node003",
+      "target": "Node005"
+    },
+    {
+      "text": "Thanks. Goodbye.",
+      "source": "Node021",
+      "target": "Node999"
+    },
+    {
+      "text": "I guess I don't have one.",
+      "source": "Node023",
+      "target": "Node025_1"
+    },
+    {
+      "text": "Here you go.",
+      "source": "Node023",
+      "target": "Node024_1"
+    },
+    {
+      "text": "Why no trade with other village?",
+      "source": "Node028",
+      "target": "Node029"
+    },
+    {
+      "text": "Me doing best me can. Me find GECK. Me return.",
+      "source": "Node028",
+      "target": "Node030"
+    },
+    {
+      "text": "Yes. But before I go, I would like to ask you some  questions.",
+      "source": "Node001",
+      "target": "Node003"
+    },
+    {
+      "text": "Yes.",
+      "source": "Node001",
+      "target": "Node002"
+    },
+    {
+      "text": "Yes, but I was wondering about your spear. It looks a little  different.",
+      "source": "Node001",
+      "target": "Node020"
+    },
+    {
+      "text": "Not just yet. I\u2019m going to look around a little  bit more.",
+      "source": "Node001",
+      "target": "Node004"
+    },
+    {
+      "text": "Where would I get some of this flint?",
+      "source": "Node020",
+      "target": "Node021"
+    },
+    {
+      "text": "Goodbye.",
+      "source": "Node007",
+      "target": "Node999"
+    },
+    {
+      "text": "Your overconfidence makes all of us suffer! Goodbye!",
+      "source": "Node007",
+      "target": "Node996"
+    },
+    {
+      "text": "Thank you, my friend -- this will help a lot.",
+      "source": "Node026",
+      "target": "Node999"
+    },
+    {
+      "text": "I don't want to talk about it.",
+      "source": "Node031",
+      "target": "Node999"
+    },
+    {
+      "text": "Me still look.",
+      "source": "Node031",
+      "target": "Node032"
+    },
+    {
+      "text": "I will speak to you no longer, insubordinate pig!",
+      "source": "Node010",
+      "target": "Node996"
+    },
+    {
+      "text": "I would like to ask you another question.",
+      "source": "Node010",
+      "target": "Node003"
+    },
+    {
+      "text": "This bridge is all you need to worry about, friend. I can take care of myself.",
+      "source": "Node010",
+      "target": "Node999"
+    },
+    {
+      "text": "Yes, but I was wondering about your spear. It looks a little  different.",
+      "source": "Node010",
+      "target": "Node020"
+    },
+    {
+      "text": "Yes.",
+      "source": "Node011",
+      "target": "Node012"
+    },
+    {
+      "text": "No, not yet.",
+      "source": "Node011",
+      "target": "Node013"
+    },
+    {
+      "text": "Thank you, goodbye.",
+      "source": "Node002",
+      "target": "Node999"
+    },
+    {
+      "text": "Umm... Hunh?",
+      "source": "Node018",
+      "target": "Node999"
+    },
+    {
+      "text": "I don\u2019t believe that\u2019s any business of yours, my friend.",
+      "source": "Node012",
+      "target": "Node999"
+    },
+    {
+      "text": "No.",
+      "source": "Node012",
+      "target": "Node014"
+    },
+    {
+      "text": "How are things?",
+      "source": "Node033",
+      "target": "Node035"
+    },
+    {
+      "text": "No, me still look.",
+      "source": "Node033",
+      "target": "Node034"
+    },
+    {
+      "text": "I\u2019ll find it, don\u2019t worry.",
+      "source": "Node013",
+      "target": "Node999"
+    },
+    {
+      "text": "I\u2019m getting sick of your constant nagging.",
+      "source": "Node013",
+      "target": "Node996"
+    },
+    {
+      "text": "Not yet.",
+      "source": "Node022",
+      "target": "Node999"
+    },
+    {
+      "text": "Yes, I have some right here.",
+      "source": "Node022",
+      "target": "Node023"
+    }
+  ]
+}

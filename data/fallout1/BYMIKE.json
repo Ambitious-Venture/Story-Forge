@@ -1,0 +1,24 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "[Michael hands you some Stimpacks and some caps]",
+      "node_id": "node16",
+      "id": "BYMike08"
+    },
+    {
+      "text": "[Michael hands you some Stimpacks and some caps]",
+      "node_id": "node15",
+      "id": "BYMike07"
+    }
+  ],
+  "links": [
+    {
+      "text": "",
+      "source": "BYMike07",
+      "target": "BYMike08"
+    }
+  ]
+}

@@ -1,0 +1,929 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "A strange mist stole their minds and sent them to the land of Sleep. The evil ones walked among the dreamers, yet did not dream.",
+      "node_id": "node76",
+      "id": "Node121"
+    },
+    {
+      "text": "Yes, they traveled the wind south. I overheard the dark souls speaking. They planned to rest their beasts at a place named Navarro before crossing the great basin of our earth-mother's tears.",
+      "node_id": "node79",
+      "id": "Node116"
+    },
+    {
+      "text": "",
+      "node_id": "node23",
+      "id": "Node993"
+    },
+    {
+      "text": "To ask payment for a gift will bring you less than the gift itself. \u00a0I will give you such and add the lesson of your self-disappointment at the receiving.",
+      "node_id": "node29",
+      "id": "Node006"
+    },
+    {
+      "text": "Yes. Great sadness and pain. I stand between worlds to tell you, Chosen. Save your people.",
+      "node_id": "node68",
+      "id": "Node105"
+    },
+    {
+      "text": "Such is life. Two creates a third. You will need both xander root and broc flower for the healing powder.",
+      "node_id": "node56",
+      "id": "Node024"
+    },
+    {
+      "text": "For me, nothing. Chosen, you must seek the fold of the dark ones and rescue our people.",
+      "node_id": "node80",
+      "id": "Node117"
+    },
+    {
+      "text": "",
+      "node_id": "node25",
+      "id": "Node994"
+    },
+    {
+      "text": "The spirit was willing, but the spearheads were weak. The evil ones burned our warriors with the lights of hell.",
+      "node_id": "node73",
+      "id": "Node112"
+    },
+    {
+      "text": "The burden you carry now will grow ever heavier.",
+      "node_id": "node44",
+      "id": "Node008"
+    },
+    {
+      "text": "Yes. Gone. Many dark souls came, riding the metal birds like a flock of hungry chittick bugs, hiding their evil in shiny skins.",
+      "node_id": "node66",
+      "id": "Node103"
+    },
+    {
+      "text": "Surely you remember it is to the northeast, foolish one.",
+      "node_id": "node42",
+      "id": "Node007"
+    },
+    {
+      "text": "You may bear the mantle of the Chosen, but your dark soul cries from within.",
+      "node_id": "node7",
+      "id": "Node012"
+    },
+    {
+      "text": "May this be of no use.",
+      "node_id": "node57",
+      "id": "Node025"
+    },
+    {
+      "text": "May your aura grace my presence when you are... Oh, come to my door when you're done and I'll give you something good.",
+      "node_id": "node39",
+      "id": "Node004"
+    },
+    {
+      "text": "",
+      "node_id": "node30",
+      "id": "Node997"
+    },
+    {
+      "text": "Chosen, please let my words touch you. Go southwest. South and west. \u00a0Save our people. Save our people.",
+      "node_id": "node69",
+      "id": "Node106"
+    },
+    {
+      "text": "Ah, Chosen, my garden is well- how is yours?",
+      "node_id": "node14",
+      "id": "Node019"
+    },
+    {
+      "text": "In what way may I touch the chosen soul, Seed of the Dweller?",
+      "node_id": "node12",
+      "id": "Node017"
+    },
+    {
+      "text": "Chosen, once again the wholeness of your being is like a land blessed.",
+      "node_id": "node36",
+      "id": "Node014"
+    },
+    {
+      "text": "",
+      "node_id": "node24",
+      "id": "Node999"
+    },
+    {
+      "text": "No! Not shiny pretty! They kidnapped our people and took them to the southwest.",
+      "node_id": "node67",
+      "id": "Node104"
+    },
+    {
+      "text": "May the Waters soothe your journey.",
+      "node_id": "node58_1",
+      "id": "Node028_1"
+    },
+    {
+      "text": "Go!...",
+      "node_id": "node71",
+      "id": "Node108"
+    },
+    {
+      "text": "Thank the ancestors. Now my soul my join the eternal song. Safe journey, Chosen.",
+      "node_id": "node70",
+      "id": "Node107"
+    },
+    {
+      "text": "Greetings, Chosen. Why does the earth before me warm to the touch of your passing?",
+      "node_id": "node16",
+      "id": "Node001"
+    },
+    {
+      "text": "Dark souls came. They took everyone.",
+      "node_id": "node64",
+      "id": "Node109"
+    },
+    {
+      "text": "You are well.",
+      "node_id": "node51",
+      "id": "Node026"
+    },
+    {
+      "text": "Chosen, the sands of time are but a few grains. Please. Bring the GECK soon and make the future of the village like the beach of the ocean. Quickly, before the last grain falls.",
+      "node_id": "node8",
+      "id": "Node031"
+    },
+    {
+      "text": "Child of Nature, how could we put such a burden on your shoulders? (sigh) Your people have been taken.",
+      "node_id": "node63",
+      "id": "Node102"
+    },
+    {
+      "text": "Ha! The founder's spirit lives in you. Focus in to fortify the self to expand the greatness to enable such to touch the world. Of course, the rewards will be more than those of the spirit.",
+      "node_id": "node28",
+      "id": "Node010"
+    },
+    {
+      "text": "Time can neither be wasted or saved- it must always be now. The actions create the fabric of your life.",
+      "node_id": "node40",
+      "id": "Node011"
+    },
+    {
+      "text": "The Earth sings with the news of a champion upon the land.... Perhaps, before you go, you would bestow a kindness?",
+      "node_id": "node34",
+      "id": "Node002"
+    },
+    {
+      "text": "All were dead or taken. My spirit returned to flesh only to reveal the truth to the Chosen.",
+      "node_id": "node75",
+      "id": "Node113"
+    },
+    {
+      "text": "Cleanse your soul as you would banish demons from my garden.",
+      "node_id": "node31",
+      "id": "Node013"
+    },
+    {
+      "text": "Chosen - the shadow of darkness arrived before you.",
+      "node_id": "node6",
+      "id": "Node101"
+    },
+    {
+      "text": "Please reveal to clouded eyes the purpose of your passage.",
+      "node_id": "node35",
+      "id": "Node001a"
+    },
+    {
+      "text": "To make one whole instills a sense of fullness that you would be well to understand, Chosen.",
+      "node_id": "node46",
+      "id": "Node015"
+    },
+    {
+      "text": "May the gods bless your efforts, Chosen. May your aura grace my presence when the earth breathes clean again.",
+      "node_id": "node41",
+      "id": "Node009"
+    },
+    {
+      "text": "Welcome, Chosen. Bless us with words that the GECK will be found soon. Our village ails, our need is great, our time, short.",
+      "node_id": "node11",
+      "id": "Node027"
+    },
+    {
+      "text": "You are the Chosen. You must do.",
+      "node_id": "node82",
+      "id": "Node118"
+    },
+    {
+      "text": "May the Fire toast your bottom until you get this done.",
+      "node_id": "node58_3",
+      "id": "Node028_3"
+    },
+    {
+      "text": "Too many seasons and too many wounds, Chosen. Instead, you must listen.",
+      "node_id": "node65",
+      "id": "Node122"
+    },
+    {
+      "text": "Welcome back, Chosen. I see by your face the salvation of the GECK is not yet ours. Be tireless as the ant before our reserves run out. You are our last hope.",
+      "node_id": "node10",
+      "id": "Node029"
+    },
+    {
+      "text": "An ocean of tears, cried by a mother for her children.",
+      "node_id": "node81",
+      "id": "Node120"
+    },
+    {
+      "text": "The plants of dark soul have infested my garden again. Many seasons have touched my bones and I am too frail for that fight which is eternal in nature. I ask that you be my champion.",
+      "node_id": "node38",
+      "id": "Node005"
+    },
+    {
+      "text": "Did you never listen when I taught you the yearly dance of the wind spirits? South, of course.",
+      "node_id": "node78",
+      "id": "Node115"
+    },
+    {
+      "text": "Look to the north, Chosen, and the way will be open.",
+      "node_id": "node50",
+      "id": "Node022"
+    },
+    {
+      "text": "",
+      "node_id": "node15",
+      "id": "Node000"
+    },
+    {
+      "text": "The views of the world are many - a lesson you will learn soon.... Perhaps, before you reap the experiences of life, you would bestow a kindness?",
+      "node_id": "node37",
+      "id": "Node002a"
+    },
+    {
+      "text": "The beasts swallowed all, then took to the winds.",
+      "node_id": "node77",
+      "id": "Node114"
+    },
+    {
+      "text": "",
+      "node_id": "node5",
+      "id": "talk_p_proc"
+    },
+    {
+      "text": "A blessing on you, for you are truly a child of nature. Would you please use your special talents and rid my garden of the plants of dark soul?",
+      "node_id": "node33",
+      "id": "Node003"
+    },
+    {
+      "text": "We all have gardens. May your journeys act as tending. Be well. I must seek audience with the gods now.",
+      "node_id": "node53",
+      "id": "Node021"
+    },
+    {
+      "text": "I am honored to serve the Chosen.",
+      "node_id": "node54",
+      "id": "Node023"
+    },
+    {
+      "text": "And also, will I mix the broc flower with the xander root together whenever you bring both to me. May your pathways be true and your heart follow suit.",
+      "node_id": "node49",
+      "id": "Node018a"
+    },
+    {
+      "text": "Chosen - the village cries in desperation. The children are weak with hunger. Please, we can not hold out much longer.",
+      "node_id": "node9",
+      "id": "Node030"
+    },
+    {
+      "text": "",
+      "node_id": "node45",
+      "id": "Node007a"
+    },
+    {
+      "text": "May the Earth cushion the steps you must take.",
+      "node_id": "node58_2",
+      "id": "Node028_2"
+    },
+    {
+      "text": "The pleasure of these words fills me. Alas, the gods whisper for my ear. Goodbye.",
+      "node_id": "node52",
+      "id": "Node020"
+    },
+    {
+      "text": "A rush of wind came. On it were great dragonflies that spat flame. Evil men crawled from the beasts' bellies and brought death to our warriors.",
+      "node_id": "node72",
+      "id": "Node110"
+    },
+    {
+      "text": "Ahh. You return the spirit of the Dweller to the world and bring a smile to the soul of an old man in passing. For this, I give you powders of healing. Remember, they fog the mind as they cleanse the body.",
+      "node_id": "node13",
+      "id": "Node018"
+    },
+    {
+      "text": "If we speak the same words, do we mean the same thing? Do words always carry the same touch of a soul?",
+      "node_id": "node43",
+      "id": "Node006a"
+    },
+    {
+      "text": "",
+      "node_id": "node27",
+      "id": "Node996"
+    }
+  ],
+  "links": [
+    {
+      "text": "And then?",
+      "source": "Node121",
+      "target": "Node114"
+    },
+    {
+      "text": "What shall I do?",
+      "source": "Node116",
+      "target": "Node117"
+    },
+    {
+      "text": "Basin of tears?",
+      "source": "Node116",
+      "target": "Node120"
+    },
+    {
+      "text": "",
+      "source": "Node993",
+      "target": "Node001"
+    },
+    {
+      "text": "",
+      "source": "Node993",
+      "target": "Node999"
+    },
+    {
+      "text": "",
+      "source": "Node993",
+      "target": "Node019"
+    },
+    {
+      "text": "Good enough. Where's the garden?",
+      "source": "Node006",
+      "target": "Node007"
+    },
+    {
+      "text": "What if I give you a lesson in disappointment and leave right now? Bye.",
+      "source": "Node006",
+      "target": "Node008"
+    },
+    {
+      "text": "You know, a nice gift would be to SPEAK ENGLISH!",
+      "source": "Node006",
+      "target": "Node006a"
+    },
+    {
+      "text": "Uh?",
+      "source": "Node105",
+      "target": "Node106"
+    },
+    {
+      "text": "Oh. Thanks",
+      "source": "Node024",
+      "target": "Node999"
+    },
+    {
+      "text": "I will try.",
+      "source": "Node117",
+      "target": "Node118"
+    },
+    {
+      "text": "They killed everyone?",
+      "source": "Node112",
+      "target": "Node113"
+    },
+    {
+      "text": "Ooo! Shiny Purty!",
+      "source": "Node103",
+      "target": "Node104"
+    },
+    {
+      "text": "Thank you for your help.",
+      "source": "Node007",
+      "target": "Node007a"
+    },
+    {
+      "text": "Are you calling me a fool? I don't think I want to help you, after all.",
+      "source": "Node007",
+      "target": "Node008"
+    },
+    {
+      "text": "I beg your forgiveness, holy one. How can I cleanse my soul?",
+      "source": "Node012",
+      "target": "Node013"
+    },
+    {
+      "text": "That's right, Hakunin, and you'd be a real wise man not to forget it.",
+      "source": "Node012",
+      "target": "Node008"
+    },
+    {
+      "text": "My head aches from within listening to you. I'm gone.",
+      "source": "Node012",
+      "target": "Node999"
+    },
+    {
+      "text": "Okay. Thanks.",
+      "source": "Node025",
+      "target": "Node999"
+    },
+    {
+      "text": "Urgh.",
+      "source": "Node004",
+      "target": "Node999"
+    },
+    {
+      "text": "",
+      "source": "Node997",
+      "target": "Node010"
+    },
+    {
+      "text": "",
+      "source": "Node997",
+      "target": "Node013"
+    },
+    {
+      "text": "Uh-huh..",
+      "source": "Node106",
+      "target": "Node107"
+    },
+    {
+      "text": "I need healing.",
+      "source": "Node019",
+      "target": "Node026"
+    },
+    {
+      "text": "Oh, never mind. I've got to go.",
+      "source": "Node019",
+      "target": "Node999"
+    },
+    {
+      "text": "Where did you say the plants were?",
+      "source": "Node019",
+      "target": "Node022"
+    },
+    {
+      "text": "I'd like you to make some healing powder for me.",
+      "source": "Node019",
+      "target": "Node023"
+    },
+    {
+      "text": "I don't have a garden- what the hell are you talking about this time?",
+      "source": "Node019",
+      "target": "Node021"
+    },
+    {
+      "text": "I'm all right.",
+      "source": "Node019",
+      "target": "Node020"
+    },
+    {
+      "text": "Oh, nothing. Goodbye.",
+      "source": "Node017",
+      "target": "Node999"
+    },
+    {
+      "text": "Ooog! Bak!",
+      "source": "Node017",
+      "target": "Node014"
+    },
+    {
+      "text": "I'm hurt. Can you heal me?",
+      "source": "Node017",
+      "target": "Node015"
+    },
+    {
+      "text": "Uh, where exactly is your garden?",
+      "source": "Node017",
+      "target": "Node007"
+    },
+    {
+      "text": "Thank you.",
+      "source": "Node014",
+      "target": "Node001a"
+    },
+    {
+      "text": "Ow.",
+      "source": "Node104",
+      "target": "Node105"
+    },
+    {
+      "text": "Thanks.",
+      "source": "Node028_1",
+      "target": "Node999"
+    },
+    {
+      "text": "Bye bye.",
+      "source": "Node108",
+      "target": "Node999"
+    },
+    {
+      "text": "Go?",
+      "source": "Node107",
+      "target": "Node108"
+    },
+    {
+      "text": "You are doing just way too many chems. I'm outta here.",
+      "source": "Node001",
+      "target": "Node999"
+    },
+    {
+      "text": "I've come to say goodbye. I'm leaving on my holy quest.",
+      "source": "Node001",
+      "target": "Node002"
+    },
+    {
+      "text": "I'm hurt. Can you heal me?",
+      "source": "Node001",
+      "target": "Node014"
+    },
+    {
+      "text": "Uh?",
+      "source": "Node001",
+      "target": "Node003"
+    },
+    {
+      "text": "I'm heading out. I was hoping just this once you'd talk like a real person.",
+      "source": "Node001",
+      "target": "Node001a"
+    },
+    {
+      "text": "There were some pretty nasty plants infesting your garden- I've taken care of them for you.",
+      "source": "Node001",
+      "target": "Node018"
+    },
+    {
+      "text": "Dark souls? What do you mean?",
+      "source": "Node109",
+      "target": "Node110"
+    },
+    {
+      "text": "Thank you.",
+      "source": "Node026",
+      "target": "Node019"
+    },
+    {
+      "text": "Uh-huh.",
+      "source": "Node031",
+      "target": "Node028_3"
+    },
+    {
+      "text": "Uh-huh.",
+      "source": "Node031",
+      "target": "Node028_2"
+    },
+    {
+      "text": "Uh-huh.",
+      "source": "Node031",
+      "target": "Node028_1"
+    },
+    {
+      "text": "Uhh?",
+      "source": "Node102",
+      "target": "Node103"
+    },
+    {
+      "text": "Sounds good. I'll be back when I'm done.",
+      "source": "Node010",
+      "target": "Node007a"
+    },
+    {
+      "text": "I think you've been playing with those plants way too much. To avoid your fate, I'm staying away from the garden.",
+      "source": "Node010",
+      "target": "Node008"
+    },
+    {
+      "text": "If only I had your wisdom, wise one. Forgive me- of course I'll take care of it for you.",
+      "source": "Node011",
+      "target": "Node007a"
+    },
+    {
+      "text": "Uh, right. Like I said, I've got to go. Goodbye.",
+      "source": "Node011",
+      "target": "Node999"
+    },
+    {
+      "text": "Sure. What do you need?",
+      "source": "Node002",
+      "target": "Node005"
+    },
+    {
+      "text": "It depends\u2026 what'll you give me?",
+      "source": "Node002",
+      "target": "Node006"
+    },
+    {
+      "text": "What happened to the ones taken?",
+      "source": "Node113",
+      "target": "Node121"
+    },
+    {
+      "text": "I'm not worthy. I'll take my leave now.",
+      "source": "Node013",
+      "target": "Node999"
+    },
+    {
+      "text": "I kinda like my soul the way it is. Bye.",
+      "source": "Node013",
+      "target": "Node994"
+    },
+    {
+      "text": "It shall be done, wise one. I will come seek your forgiveness after I have purified your garden.",
+      "source": "Node013",
+      "target": "Node007a"
+    },
+    {
+      "text": "Owwww!",
+      "source": "Node101",
+      "target": "Node102"
+    },
+    {
+      "text": "What happened?",
+      "source": "Node101",
+      "target": "Node109"
+    },
+    {
+      "text": "You look bad. Let me help.",
+      "source": "Node101",
+      "target": "Node122"
+    },
+    {
+      "text": "There were some pretty nasty plants infesting your garden- I've taken care of them for you.",
+      "source": "Node001a",
+      "target": "Node018"
+    },
+    {
+      "text": "I'm heading out. I was hoping just this once you'd talk like a real person.",
+      "source": "Node001a",
+      "target": "Node002a"
+    },
+    {
+      "text": "You are doing just way too many chems. I'm outta here.",
+      "source": "Node001a",
+      "target": "Node999"
+    },
+    {
+      "text": "I've come to say goodbye. I'm leaving on my holy quest.",
+      "source": "Node001a",
+      "target": "Node002"
+    },
+    {
+      "text": "Uh?",
+      "source": "Node001a",
+      "target": "Node003"
+    },
+    {
+      "text": "Wait, don't tell me. I'm better and you felt good doing it, right? Thanks.",
+      "source": "Node015",
+      "target": "Node999"
+    },
+    {
+      "text": "I take it you want to see me again when I'm done... You could have just said so, you know.",
+      "source": "Node009",
+      "target": "Node999"
+    },
+    {
+      "text": "Nuh.",
+      "source": "Node027",
+      "target": "Node028_1"
+    },
+    {
+      "text": "Nuh.",
+      "source": "Node027",
+      "target": "Node028_3"
+    },
+    {
+      "text": "Nuh.",
+      "source": "Node027",
+      "target": "Node028_2"
+    },
+    {
+      "text": "Hakunin?",
+      "source": "Node118",
+      "target": "Node999"
+    },
+    {
+      "text": "Thanks.",
+      "source": "Node028_3",
+      "target": "Node999"
+    },
+    {
+      "text": "All right.",
+      "source": "Node122",
+      "target": "Node109"
+    },
+    {
+      "text": "Uh-huh.",
+      "source": "Node029",
+      "target": "Node028_1"
+    },
+    {
+      "text": "Uh-huh.",
+      "source": "Node029",
+      "target": "Node028_3"
+    },
+    {
+      "text": "Uh-huh.",
+      "source": "Node029",
+      "target": "Node028_2"
+    },
+    {
+      "text": "Oh, the ocean. But what shall I do?",
+      "source": "Node120",
+      "target": "Node117"
+    },
+    {
+      "text": "I don't think so. I need to start my quest right away.",
+      "source": "Node005",
+      "target": "Node011"
+    },
+    {
+      "text": "I'd be honored, holy one.",
+      "source": "Node005",
+      "target": "Node009"
+    },
+    {
+      "text": "Forget it. I'm the future leader of this tribe and it would be undignified for me to do your gardening for you.",
+      "source": "Node005",
+      "target": "Node997"
+    },
+    {
+      "text": "For a price.",
+      "source": "Node005",
+      "target": "Node996"
+    },
+    {
+      "text": "Your descriptions were so vivid and powerful, great Hakunin, that I was often stricken senseless for the duration of your lessons.",
+      "source": "Node115",
+      "target": "Node116"
+    },
+    {
+      "text": "Okay. Thanks.",
+      "source": "Node022",
+      "target": "Node999"
+    },
+    {
+      "text": "",
+      "source": "Node000",
+      "target": "Node001"
+    },
+    {
+      "text": "I'll do something for you, but since I have to work this hard just to understand you, this task will cost.",
+      "source": "Node002a",
+      "target": "Node006"
+    },
+    {
+      "text": "Did you just ask me to do you a favor? If so, sure, why not?",
+      "source": "Node002a",
+      "target": "Node005"
+    },
+    {
+      "text": "Uh, which way were the winds that they followed going?",
+      "source": "Node114",
+      "target": "Node115"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node019"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node031"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node101"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node012"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node030"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node029"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node017"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node001"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node027"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node000"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node018"
+    },
+    {
+      "text": "Uh-huh.",
+      "source": "Node003",
+      "target": "Node004"
+    },
+    {
+      "text": "Nuh-uh. Youuu. Giv. Hed hurt.",
+      "source": "Node003",
+      "target": "Node999"
+    },
+    {
+      "text": "See ya.",
+      "source": "Node021",
+      "target": "Node999"
+    },
+    {
+      "text": "",
+      "source": "Node023",
+      "target": "Node025"
+    },
+    {
+      "text": "",
+      "source": "Node023",
+      "target": "Node024"
+    },
+    {
+      "text": "Where can I find these things?",
+      "source": "Node018a",
+      "target": "Node022"
+    },
+    {
+      "text": "Thank you.",
+      "source": "Node018a",
+      "target": "Node999"
+    },
+    {
+      "text": "Uh-huh.",
+      "source": "Node030",
+      "target": "Node028_2"
+    },
+    {
+      "text": "Uh-huh.",
+      "source": "Node030",
+      "target": "Node028_1"
+    },
+    {
+      "text": "Uh-huh.",
+      "source": "Node030",
+      "target": "Node028_3"
+    },
+    {
+      "text": "Thanks.",
+      "source": "Node028_2",
+      "target": "Node999"
+    },
+    {
+      "text": "Bye.",
+      "source": "Node020",
+      "target": "Node999"
+    },
+    {
+      "text": "Our warriors couldn't stop them?",
+      "source": "Node110",
+      "target": "Node112"
+    },
+    {
+      "text": "Thank you.",
+      "source": "Node018",
+      "target": "Node018a"
+    },
+    {
+      "text": "Oh, yeah. Much better. And the lesson I learned is to shut up and just ask where the garden is.",
+      "source": "Node006a",
+      "target": "Node007"
+    },
+    {
+      "text": "Let's try the word, \"goodbye.\" It means I'm leaving.",
+      "source": "Node006a",
+      "target": "Node008"
+    },
+    {
+      "text": "",
+      "source": "Node996",
+      "target": "Node006"
+    },
+    {
+      "text": "",
+      "source": "Node996",
+      "target": "Node010"
+    }
+  ]
+}

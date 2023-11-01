@@ -1,0 +1,284 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "I'm a fuckin' provider, waddya think? I'm like a good Samurai-itan guy.",
+      "node_id": "node18",
+      "id": "Node004"
+    },
+    {
+      "text": "(Flick shrugs) I get by OK.",
+      "node_id": "node26",
+      "id": "Node009"
+    },
+    {
+      "text": "Pai-san-o, you know, the kids. My kids.",
+      "node_id": "node23",
+      "id": "Node006"
+    },
+    {
+      "text": "",
+      "node_id": "node5",
+      "id": "Node998"
+    },
+    {
+      "text": "",
+      "node_id": "node4",
+      "id": "pickup_p_proc"
+    },
+    {
+      "text": "",
+      "node_id": "node6",
+      "id": "talk_p_proc"
+    },
+    {
+      "text": "They bring me stuff what they find. Little, little things. Stuff no one ain't usin' no more. In return, I takes care of 'em.",
+      "node_id": "node25",
+      "id": "Node008"
+    },
+    {
+      "text": "I provide fer them little paisanos.",
+      "node_id": "node22",
+      "id": "Node005"
+    },
+    {
+      "text": "That 'bout do it for ya, pal?",
+      "node_id": "node21",
+      "id": "Node003"
+    },
+    {
+      "text": "",
+      "node_id": "node16",
+      "id": "Node999"
+    },
+    {
+      "text": "",
+      "node_id": "node20",
+      "id": "Node990"
+    },
+    {
+      "text": "",
+      "node_id": "node7",
+      "id": "Node001"
+    },
+    {
+      "text": "Yeah, well they work for me. They bring me things. Little things. You know.",
+      "node_id": "node24",
+      "id": "Node007"
+    },
+    {
+      "text": "What you talkin' about? You think I'm a fucking stupid pirla? Some dumb filio di puttana? You think I'm some kinda clown? Am I here to amuse you, is that it?",
+      "node_id": "node17",
+      "id": "Node010"
+    },
+    {
+      "text": "Hey der, I'm Flick. What the fuck do you want, huh?",
+      "node_id": "node8",
+      "id": "Node002"
+    },
+    {
+      "text": "Momma runs a food place over in da East side a town. Just past the graveyard. Nice place, she got good pasta, Mama mia.",
+      "node_id": "node28",
+      "id": "Node012"
+    },
+    {
+      "text": "That's right. Metzger, that stronzo, he's dead. I don't know what happen to Vic.",
+      "node_id": "node27",
+      "id": "Node013"
+    },
+    {
+      "text": "Vault huh? Maybe Momma knows about that, 'cause I don't. But that Vic guy - him I know. Metzger's got that porca pistola.",
+      "node_id": "node19_1",
+      "id": "Node011_1"
+    }
+  ],
+  "links": [
+    {
+      "text": "Say what?",
+      "source": "Node004",
+      "target": "Node005"
+    },
+    {
+      "text": "Uh, oh. OK. Goodbye, Flick.",
+      "source": "Node004",
+      "target": "Node999"
+    },
+    {
+      "text": "Yeah, uh, well\u2026let me ask you something else.",
+      "source": "Node004",
+      "target": "Node002"
+    },
+    {
+      "text": "They must have brought you some real bargains. Let's see what you've got.",
+      "source": "Node009",
+      "target": "Node990"
+    },
+    {
+      "text": "Just checking. Well, goodbye Flick.",
+      "source": "Node009",
+      "target": "Node999"
+    },
+    {
+      "text": "Let me ask you about something else then.",
+      "source": "Node009",
+      "target": "Node002"
+    },
+    {
+      "text": "Your kids?",
+      "source": "Node006",
+      "target": "Node007"
+    },
+    {
+      "text": "Well, I'm not really interested in music lessons for children. Let me ask you about something else.",
+      "source": "Node006",
+      "target": "Node002"
+    },
+    {
+      "text": "",
+      "source": "pickup_p_proc",
+      "target": "Node998"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node001"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node002"
+    },
+    {
+      "text": "Sounds like a nice arrangement.",
+      "source": "Node008",
+      "target": "Node009"
+    },
+    {
+      "text": "You provide little pianos?",
+      "source": "Node005",
+      "target": "Node006"
+    },
+    {
+      "text": "That did it. See you around Flick.",
+      "source": "Node003",
+      "target": "Node999"
+    },
+    {
+      "text": "Actually, I'd like to ask you a question.",
+      "source": "Node003",
+      "target": "Node002"
+    },
+    {
+      "text": "Actually I'd like to take another look at your goods if I may.",
+      "source": "Node003",
+      "target": "Node990"
+    },
+    {
+      "text": "",
+      "source": "Node990",
+      "target": "Node003"
+    },
+    {
+      "text": "Ah, I see. Well, I don't want to cramp your, uh, style. Goodbye.",
+      "source": "Node007",
+      "target": "Node999"
+    },
+    {
+      "text": "Oh, OK. Let me ask you something else then.",
+      "source": "Node007",
+      "target": "Node002"
+    },
+    {
+      "text": "Uh, no.",
+      "source": "Node007",
+      "target": "Node008"
+    },
+    {
+      "text": "Yeah, that's right, shithead. And nothing's going to amuse me more than your death-throes.",
+      "source": "Node010",
+      "target": "Node998"
+    },
+    {
+      "text": "Well, if you're going to get all huffy about it, I'm leaving.",
+      "source": "Node010",
+      "target": "Node999"
+    },
+    {
+      "text": "Uh, no. Sorry, I was just curious. Let me ask you about something else.",
+      "source": "Node010",
+      "target": "Node002"
+    },
+    {
+      "text": "What the hell do you do here?",
+      "source": "Node002",
+      "target": "Node004"
+    },
+    {
+      "text": "I'd like to trade with you.",
+      "source": "Node002",
+      "target": "Node990"
+    },
+    {
+      "text": "I'm looking for a Vault - oh yeah, and some trader named Vic, too. Know where they might be?",
+      "source": "Node002",
+      "target": "Node011_1"
+    },
+    {
+      "text": "What's with the wacky accent, Flick?",
+      "source": "Node002",
+      "target": "Node010"
+    },
+    {
+      "text": "Thanks, What about that Metzger fellow that's got Vic?",
+      "source": "Node012",
+      "target": "Node013"
+    },
+    {
+      "text": "Thanks, that's all I need to know. Goodbye.",
+      "source": "Node012",
+      "target": "Node999"
+    },
+    {
+      "text": "Thanks. Let me ask you something else.",
+      "source": "Node012",
+      "target": "Node002"
+    },
+    {
+      "text": "Thanks, now what about Momma?",
+      "source": "Node013",
+      "target": "Node012"
+    },
+    {
+      "text": "Thanks, that's all I need to know. Goodbye.",
+      "source": "Node013",
+      "target": "Node999"
+    },
+    {
+      "text": "Thanks. Let me ask you something else.",
+      "source": "Node013",
+      "target": "Node002"
+    },
+    {
+      "text": "Thanks, that's all I need to know. Goodbye.",
+      "source": "Node011_1",
+      "target": "Node999"
+    },
+    {
+      "text": "Who's Metzger?",
+      "source": "Node011_1",
+      "target": "Node013"
+    },
+    {
+      "text": "Thanks. Let me ask you something else.",
+      "source": "Node011_1",
+      "target": "Node002"
+    },
+    {
+      "text": "Who's Momma?",
+      "source": "Node011_1",
+      "target": "Node012"
+    }
+  ]
+}

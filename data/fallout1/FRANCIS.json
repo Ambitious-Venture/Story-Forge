@@ -1,0 +1,204 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "Now, if you'll excuse me, I must go back to meditating.",
+      "node_id": "node6_1",
+      "id": "Francis08_1_1"
+    },
+    {
+      "text": "Hi! Oh, it's you! I hope you're not here to kill me. If you don't mind, could you wait until after I finish meditating?",
+      "node_id": "node1_1",
+      "id": "start_1"
+    },
+    {
+      "text": "Is this a trick question? It's the Master, right?",
+      "node_id": "node14",
+      "id": "Francis16"
+    },
+    {
+      "text": "Now, if you'll excuse me, I must go back to meditating.",
+      "node_id": "node10_1",
+      "id": "Francis12_1_1"
+    },
+    {
+      "text": "Oh, it's you again. I don't mean to be rude, but I am meditating . . .",
+      "node_id": "node1_2",
+      "id": "start_2"
+    },
+    {
+      "text": "Hello, sister. No I've been meditating like a good initiate, waiting to be christened by the Servitors. I'm sure there's nothing to worry about.",
+      "node_id": "node12_1",
+      "id": "Francis14_1"
+    },
+    {
+      "text": "You know, there are people who say really bad things about you. You ought to do something about that . . .",
+      "node_id": "node1_4",
+      "id": "start_4"
+    },
+    {
+      "text": "Now, if you'll excuse me, I must go back to meditating.",
+      "node_id": "node19_1",
+      "id": "Francis21_1_1"
+    },
+    {
+      "text": "I am armed, of course, if reason will not sway our enemies, but I do not arm myself to excess. Is there no ammo in the Gift Shoppe?",
+      "node_id": "node17",
+      "id": "Francis19"
+    },
+    {
+      "text": "I don't know. Perhaps he will reveal himself in time.",
+      "node_id": "node20",
+      "id": "Francis22"
+    },
+    {
+      "text": "He who submits will be christened by the Holy Flame, but the faithful will not be burned. He who goes through Fire without burning shall have life everlasting . . .",
+      "node_id": "node13_1",
+      "id": "Francis15_1_1"
+    },
+    {
+      "text": "Now, if you'll excuse me, I must go back to meditating.",
+      "node_id": "node8_1",
+      "id": "Francis10_1_1"
+    },
+    {
+      "text": "Hi. I'm meditating. Did you notice? Can I help you?",
+      "node_id": "node2",
+      "id": "Francis04"
+    },
+    {
+      "text": "Hello, sister. Can I help you?",
+      "node_id": "node3_1",
+      "id": "Francis05_1"
+    },
+    {
+      "text": "Now, if you'll excuse me, I must go back to meditating.",
+      "node_id": "node5_1",
+      "id": "Francis07_1_1"
+    },
+    {
+      "text": "That Father Morpheus, he sure can talk; and he's handsome, too!",
+      "node_id": "node7_1",
+      "id": "Francis09_1_1"
+    },
+    {
+      "text": "Hello, miss. Can I help you?",
+      "node_id": "node4_1",
+      "id": "Francis06_1"
+    },
+    {
+      "text": "Excuse me, could you put away your weapon? I can't meditate on peace when I'm, like, uh, staring certain death in the face. Thank you very much.",
+      "node_id": "node1_3",
+      "id": "start_3"
+    },
+    {
+      "text": "I'm not sure which of these is a metaphor. Maybe he's everywhere.",
+      "node_id": "node15_1",
+      "id": "Francis17_1_1"
+    },
+    {
+      "text": "I hope I didn't miss anything . . .",
+      "node_id": "node13_2",
+      "id": "Francis15_1_2"
+    },
+    {
+      "text": "Oh no, sister, I do not require assistance. Please excuse me.",
+      "node_id": "node18_1",
+      "id": "Francis20_1"
+    },
+    {
+      "text": "Now, if you'll excuse me, I must go back to meditating.",
+      "node_id": "node9_1",
+      "id": "Francis11_1_1"
+    },
+    {
+      "text": "Why sister, nothing so impure profanes the Cathedral. I would let the high priests know if such sins were being committed.",
+      "node_id": "node16_1",
+      "id": "Francis18_1"
+    },
+    {
+      "text": "Why no. No help at all. Goodbye.",
+      "node_id": "node11",
+      "id": "Francis13"
+    }
+  ],
+  "links": [
+    {
+      "text": "",
+      "source": "start_1",
+      "target": "Francis04"
+    },
+    {
+      "text": "",
+      "source": "start_2",
+      "target": "Francis04"
+    },
+    {
+      "text": "",
+      "source": "start_4",
+      "target": "Francis04"
+    },
+    {
+      "text": "Sure. You notice anything unusual around here?",
+      "source": "Francis04",
+      "target": "Francis07_1_1"
+    },
+    {
+      "text": "Who's in charge here?",
+      "source": "Francis04",
+      "target": "Francis09_1_1"
+    },
+    {
+      "text": "Where can I find the Master?",
+      "source": "Francis04",
+      "target": "Francis10_1_1"
+    },
+    {
+      "text": "Hep! Me hep?",
+      "source": "Francis04",
+      "target": "Francis13"
+    },
+    {
+      "text": "I'm looking for large quantities of liquor. I'd like to remove them  from the premises . . .",
+      "source": "Francis04",
+      "target": "Francis11_1_1"
+    },
+    {
+      "text": "Got any ammo?",
+      "source": "Francis04",
+      "target": "Francis12_1_1"
+    },
+    {
+      "text": "Care to share any favorite meditations with me?",
+      "source": "Francis04",
+      "target": "Francis08_1_1"
+    },
+    {
+      "text": "Who's in charge here?",
+      "source": "Francis05_1",
+      "target": "Francis16"
+    },
+    {
+      "text": "Got any ammo?",
+      "source": "Francis05_1",
+      "target": "Francis19"
+    },
+    {
+      "text": "Hep! Me hep?",
+      "source": "Francis06_1",
+      "target": "Francis13"
+    },
+    {
+      "text": "Where can I find the Master?",
+      "source": "Francis06_1",
+      "target": "Francis22"
+    },
+    {
+      "text": "",
+      "source": "start_3",
+      "target": "Francis04"
+    }
+  ]
+}

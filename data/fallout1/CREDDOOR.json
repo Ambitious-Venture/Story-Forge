@@ -1,0 +1,134 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "",
+      "node_id": "node6",
+      "id": "damage_p_proc"
+    },
+    {
+      "text": "You fail to pick the lock on the door.",
+      "node_id": "node5_4",
+      "id": "use_obj_on_p_proc_4"
+    },
+    {
+      "text": "",
+      "node_id": "node7",
+      "id": "map_update_p_proc"
+    },
+    {
+      "text": "You pick the lock on the door.",
+      "node_id": "node4_2",
+      "id": "use_skill_on_p_proc_2"
+    },
+    {
+      "text": "You pick the lock on the door.",
+      "node_id": "node2",
+      "id": "look_at_p_proc"
+    },
+    {
+      "text": "",
+      "node_id": "node1",
+      "id": "start"
+    },
+    {
+      "text": "You pick the lock on the door.",
+      "node_id": "node3",
+      "id": "use_p_proc"
+    },
+    {
+      "text": "You pick the lock on the door.",
+      "node_id": "node5_2",
+      "id": "use_obj_on_p_proc_2"
+    },
+    {
+      "text": "The door is closed, but it is unlocked.",
+      "node_id": "node5_3",
+      "id": "use_obj_on_p_proc_3"
+    },
+    {
+      "text": "You fail to pick the lock on the door.",
+      "node_id": "node5_1",
+      "id": "use_obj_on_p_proc_1"
+    },
+    {
+      "text": "You fail to pick the lock on the door.",
+      "node_id": "node4_1",
+      "id": "use_skill_on_p_proc_1"
+    },
+    {
+      "text": "You fail to pick the lock on the door.",
+      "node_id": "node4_3",
+      "id": "use_skill_on_p_proc_3"
+    },
+    {
+      "text": "The door is locked. You have never seen a lock quite like this.",
+      "node_id": "node5_5",
+      "id": "use_obj_on_p_proc_5"
+    }
+  ],
+  "links": [
+    {
+      "text": "",
+      "source": "start",
+      "target": "use_obj_on_p_proc_1"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "use_obj_on_p_proc_5"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "map_update_p_proc"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "use_obj_on_p_proc_2"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "use_obj_on_p_proc_3"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "look_at_p_proc"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "use_obj_on_p_proc_4"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "use_skill_on_p_proc_3"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "use_skill_on_p_proc_1"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "use_p_proc"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "damage_p_proc"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "use_skill_on_p_proc_2"
+    }
+  ]
+}

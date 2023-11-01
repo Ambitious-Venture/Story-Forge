@@ -1,0 +1,74 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "We estimate we have four to five months before the vault runs out of water. We need that chip!",
+      "node_id": "node33",
+      "id": "over03"
+    },
+    {
+      "text": "You have two months, maybe less, before the vault runs out of water.  We need that chip!",
+      "node_id": "node32",
+      "id": "over02"
+    },
+    {
+      "text": "If we didn't have to do this, I'd never ask. And if you don't do this, I don't know who else can. Help us. You're our only . . . chance, I guess.",
+      "node_id": "node30_1",
+      "id": "over04_1"
+    },
+    {
+      "text": "You have three months to retrieve the chip before the vault runs out  of water.",
+      "node_id": "node29",
+      "id": "over01"
+    },
+    {
+      "text": "If you need help, come back here. Obviously, we'll do whatever we can. But we don't have a lot of time. \u00a0Be safe, find that chip, and get back here.",
+      "node_id": "node34",
+      "id": "over05"
+    },
+    {
+      "text": "There's a picture on your PIP to help you identify it.",
+      "node_id": "node28_1",
+      "id": "over00_1"
+    },
+    {
+      "text": "We marked your map with the location of another Vault. Not a bad place to start, I think. Then again, what the heck do I know about the outside? I . . . look. Y' You know you're important to me and to . . . I-I really . . . just be safe, OK?",
+      "node_id": "node35",
+      "id": "over06"
+    }
+  ],
+  "links": [
+    {
+      "text": "",
+      "source": "over03",
+      "target": "over04_1"
+    },
+    {
+      "text": "",
+      "source": "over02",
+      "target": "over04_1"
+    },
+    {
+      "text": "",
+      "source": "over04_1",
+      "target": "over05"
+    },
+    {
+      "text": "",
+      "source": "over01",
+      "target": "over04_1"
+    },
+    {
+      "text": "",
+      "source": "over05",
+      "target": "over06"
+    },
+    {
+      "text": "",
+      "source": "over00_1",
+      "target": "over01"
+    }
+  ]
+}

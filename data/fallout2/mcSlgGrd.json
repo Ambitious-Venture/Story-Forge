@@ -1,0 +1,64 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "I'm not going to say a word.",
+      "node_id": "node17_2",
+      "id": "Node002_2"
+    },
+    {
+      "text": "What an idiot!",
+      "node_id": "node17_3",
+      "id": "Node002_3"
+    },
+    {
+      "text": "",
+      "node_id": "node16",
+      "id": "map_update_p_proc"
+    },
+    {
+      "text": "",
+      "node_id": "node23",
+      "id": "timed_event_p_proc"
+    },
+    {
+      "text": "You do know you can enter from the back door...",
+      "node_id": "node17_1",
+      "id": "Node002_1"
+    }
+  ],
+  "links": [
+    {
+      "text": "",
+      "source": "map_update_p_proc",
+      "target": "Node002_3"
+    },
+    {
+      "text": "",
+      "source": "map_update_p_proc",
+      "target": "Node002_1"
+    },
+    {
+      "text": "",
+      "source": "map_update_p_proc",
+      "target": "Node002_2"
+    },
+    {
+      "text": "",
+      "source": "timed_event_p_proc",
+      "target": "Node002_3"
+    },
+    {
+      "text": "",
+      "source": "timed_event_p_proc",
+      "target": "Node002_1"
+    },
+    {
+      "text": "",
+      "source": "timed_event_p_proc",
+      "target": "Node002_2"
+    }
+  ]
+}

@@ -1,0 +1,204 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "",
+      "node_id": "node8",
+      "id": "use_all_fields_off"
+    },
+    {
+      "text": "",
+      "node_id": "node1",
+      "id": "start"
+    },
+    {
+      "text": "You play a game of 21 but aren't good enough to break it.",
+      "node_id": "node3_2",
+      "id": "use_p_proc_2"
+    },
+    {
+      "text": "You don't understand the computer operating system.",
+      "node_id": "node5_3",
+      "id": "use_skill_on_p_proc_3"
+    },
+    {
+      "text": "",
+      "node_id": "node7",
+      "id": "use_all_fields_on"
+    },
+    {
+      "text": "You cannot deactivate the Field Control computer. All the controls are locked and encrypted.",
+      "node_id": "node5_2",
+      "id": "use_skill_on_p_proc_2"
+    },
+    {
+      "text": "You have broken into the main system and now need to reprogram the force field controls.",
+      "node_id": "node6_4",
+      "id": "Command01_4"
+    },
+    {
+      "text": "You gain 800 experience points for your unusual hacking procedures. Blackjack!",
+      "node_id": "node3_1",
+      "id": "use_p_proc_1"
+    },
+    {
+      "text": "It appears to have a transmitter for field signaling, a receiver for remote commands, and a standard radio data communications port.",
+      "node_id": "node2_1",
+      "id": "description_p_proc_1"
+    },
+    {
+      "text": "The force field subsystems are not nearly protected well enough against the likes of your talents. You turn off all the force fields on this level.",
+      "node_id": "node5_4",
+      "id": "use_skill_on_p_proc_4"
+    },
+    {
+      "text": "The force field subsystems are well protected, but you manage to turn half of them off. It's the best you can do.",
+      "node_id": "node5_5",
+      "id": "use_skill_on_p_proc_5"
+    },
+    {
+      "text": "The force field subsystems are protected against electronic intrusion. You spend some time working on it, but haven't broken them yet.",
+      "node_id": "node5_6",
+      "id": "use_skill_on_p_proc_6"
+    },
+    {
+      "text": "Your attempt to wire the radio into the computer fails.",
+      "node_id": "node4_1",
+      "id": "use_obj_on_p_proc_1"
+    },
+    {
+      "text": "You think all the folders are protected but you haven't completed your search.",
+      "node_id": "node6_3",
+      "id": "Command01_3"
+    },
+    {
+      "text": "You look at the computer in disgust.",
+      "node_id": "node6_2",
+      "id": "Command01_2"
+    },
+    {
+      "text": "You do not use the computer properly.",
+      "node_id": "node5_1",
+      "id": "use_skill_on_p_proc_1"
+    },
+    {
+      "text": "The only folder not protected is the Recreational Games folder.",
+      "node_id": "node6_1",
+      "id": "Command01_1"
+    }
+  ],
+  "links": [
+    {
+      "text": "",
+      "source": "start",
+      "target": "use_skill_on_p_proc_4"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "use_skill_on_p_proc_3"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "use_skill_on_p_proc_2"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "use_p_proc_2"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "description_p_proc_1"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "use_skill_on_p_proc_5"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "use_skill_on_p_proc_6"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "use_p_proc_1"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "use_skill_on_p_proc_1"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "use_obj_on_p_proc_1"
+    },
+    {
+      "text": "",
+      "source": "use_skill_on_p_proc_3",
+      "target": "use_all_fields_off"
+    },
+    {
+      "text": "",
+      "source": "use_skill_on_p_proc_3",
+      "target": "use_all_fields_on"
+    },
+    {
+      "text": "",
+      "source": "use_skill_on_p_proc_2",
+      "target": "use_all_fields_on"
+    },
+    {
+      "text": "",
+      "source": "use_skill_on_p_proc_2",
+      "target": "use_all_fields_off"
+    },
+    {
+      "text": "",
+      "source": "use_skill_on_p_proc_4",
+      "target": "use_all_fields_off"
+    },
+    {
+      "text": "",
+      "source": "use_skill_on_p_proc_4",
+      "target": "use_all_fields_on"
+    },
+    {
+      "text": "",
+      "source": "use_skill_on_p_proc_5",
+      "target": "use_all_fields_off"
+    },
+    {
+      "text": "",
+      "source": "use_skill_on_p_proc_5",
+      "target": "use_all_fields_on"
+    },
+    {
+      "text": "",
+      "source": "use_skill_on_p_proc_6",
+      "target": "use_all_fields_off"
+    },
+    {
+      "text": "",
+      "source": "use_skill_on_p_proc_6",
+      "target": "use_all_fields_on"
+    },
+    {
+      "text": "",
+      "source": "use_skill_on_p_proc_1",
+      "target": "use_all_fields_off"
+    },
+    {
+      "text": "",
+      "source": "use_skill_on_p_proc_1",
+      "target": "use_all_fields_on"
+    }
+  ]
+}

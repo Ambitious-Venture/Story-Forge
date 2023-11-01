@@ -1,0 +1,49 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "",
+      "node_id": "node1",
+      "id": "start"
+    },
+    {
+      "text": "Arrrr!",
+      "node_id": "node2",
+      "id": "timetomove"
+    },
+    {
+      "text": "",
+      "node_id": "node4",
+      "id": "Critter_Action"
+    },
+    {
+      "text": "Arrrr!",
+      "node_id": "node3",
+      "id": "do_dialogue"
+    }
+  ],
+  "links": [
+    {
+      "text": "",
+      "source": "start",
+      "target": "Critter_Action"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "do_dialogue"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "timetomove"
+    },
+    {
+      "text": "",
+      "source": "timetomove",
+      "target": "Critter_Action"
+    }
+  ]
+}

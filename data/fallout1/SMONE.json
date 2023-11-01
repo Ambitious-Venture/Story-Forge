@@ -1,0 +1,184 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "Well, how do you feel now? [chuckles]",
+      "node_id": "node5_5",
+      "id": "goto00_5"
+    },
+    {
+      "text": "",
+      "node_id": "node1",
+      "id": "start"
+    },
+    {
+      "text": "",
+      "node_id": "node9",
+      "id": "zamin"
+    },
+    {
+      "text": "Well, how do you feel now? [laughs] Yeah, that would be a shame.",
+      "node_id": "node5_4",
+      "id": "goto00_4"
+    },
+    {
+      "text": "",
+      "node_id": "node8",
+      "id": "combat"
+    },
+    {
+      "text": "",
+      "node_id": "node7",
+      "id": "destroy_p_proc"
+    },
+    {
+      "text": "Excellent. When I get my hands on that little human, I'm going to crush her.",
+      "node_id": "node10_1",
+      "id": "goto01_1"
+    },
+    {
+      "text": "Good, good. Keep using your medication and you should be good as new.",
+      "node_id": "node5_2",
+      "id": "goto00_2"
+    },
+    {
+      "text": "Imagine if all of our plans were ruined because of one little human.",
+      "node_id": "node5_3",
+      "id": "goto00_3"
+    },
+    {
+      "text": "",
+      "node_id": "node2",
+      "id": "look_at_p_proc"
+    },
+    {
+      "text": "Well, how do you feel now? [moves his shoulder] Ah, it's still a little sore. At least the bleeding stopped.",
+      "node_id": "node5_1",
+      "id": "goto00_1"
+    },
+    {
+      "text": "",
+      "node_id": "node6",
+      "id": "critter_p_proc"
+    },
+    {
+      "text": "",
+      "node_id": "node3",
+      "id": "pickup_p_proc"
+    },
+    {
+      "text": "",
+      "node_id": "node12",
+      "id": "goto03"
+    },
+    {
+      "text": "She did enough damage that last time. I hope they get her soon.",
+      "node_id": "node11_1",
+      "id": "goto02_1"
+    },
+    {
+      "text": "",
+      "node_id": "node4",
+      "id": "talk_p_proc"
+    }
+  ],
+  "links": [
+    {
+      "text": "",
+      "source": "goto00_5",
+      "target": "goto03"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "pickup_p_proc"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "look_at_p_proc"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "goto00_4"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "goto00_1"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "destroy_p_proc"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "goto00_3"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "talk_p_proc"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "critter_p_proc"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "goto00_5"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "goto00_2"
+    },
+    {
+      "text": "",
+      "source": "goto00_4",
+      "target": "goto03"
+    },
+    {
+      "text": "",
+      "source": "goto00_2",
+      "target": "goto03"
+    },
+    {
+      "text": "",
+      "source": "goto00_3",
+      "target": "goto03"
+    },
+    {
+      "text": "",
+      "source": "goto00_1",
+      "target": "goto03"
+    },
+    {
+      "text": "",
+      "source": "critter_p_proc",
+      "target": "zamin"
+    },
+    {
+      "text": "",
+      "source": "critter_p_proc",
+      "target": "combat"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "zamin"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "combat"
+    }
+  ]
+}

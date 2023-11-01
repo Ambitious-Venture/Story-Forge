@@ -1,0 +1,299 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "There is a KER-KLANK. The safe is now unlocked.",
+      "node_id": "node23_1",
+      "id": "Node003_1"
+    },
+    {
+      "text": "Close inspection of the safe reveals a black wire running into the dirt just beneath the safe. Brushing away the dirt, you discover that the fuse runs to a stick of dynamite with a timer on it.",
+      "node_id": "node8",
+      "id": "Node004"
+    },
+    {
+      "text": "You don't have time to try the safe during combat.",
+      "node_id": "node15",
+      "id": "use_skill_on_p_proc"
+    },
+    {
+      "text": "You don't find any traps on the safe.",
+      "node_id": "node10",
+      "id": "Node006"
+    },
+    {
+      "text": "You see a black square thing with a big nose.",
+      "node_id": "node23_4",
+      "id": "Node003_4"
+    },
+    {
+      "text": "",
+      "node_id": "node16",
+      "id": "spin_dial"
+    },
+    {
+      "text": "You turn the knob, but the tiny door won't open!",
+      "node_id": "node12",
+      "id": "Node008"
+    },
+    {
+      "text": "You turn the dial slowly for several minutes, but you can't make out anything.",
+      "node_id": "node9",
+      "id": "Node005"
+    },
+    {
+      "text": "Hoo you?",
+      "node_id": "node7_1",
+      "id": "Node002_1"
+    },
+    {
+      "text": "You see a huge black iron safe.",
+      "node_id": "node23_3",
+      "id": "Node003_3"
+    },
+    {
+      "text": "",
+      "node_id": "node24",
+      "id": "Node999"
+    },
+    {
+      "text": "You see a black square thing with a big nose.",
+      "node_id": "node21_1",
+      "id": "disarm_trap_1"
+    },
+    {
+      "text": "",
+      "node_id": "node6",
+      "id": "timed_event_p_proc"
+    },
+    {
+      "text": "You are turning the knob...when suddenly there is a KER-KLANK. The safe is now unlocked!",
+      "node_id": "node11",
+      "id": "Node007"
+    },
+    {
+      "text": "You have cracked the raiders' safe.",
+      "node_id": "node23_2",
+      "id": "Node003_2"
+    },
+    {
+      "text": "",
+      "node_id": "node17",
+      "id": "check_trap"
+    },
+    {
+      "text": "With surgical precision, you disarm the fuse and pull the dynamite from beneath the dirt. The trap is now disarmed.",
+      "node_id": "node13",
+      "id": "Node010"
+    },
+    {
+      "text": "",
+      "node_id": "node22",
+      "id": "combo_known"
+    }
+  ],
+  "links": [
+    {
+      "text": "Hmmmm. Maybe the numbers on the three dog tags can open the safe...",
+      "source": "Node004",
+      "target": "combo_known"
+    },
+    {
+      "text": "Try and disarm the trap.",
+      "source": "Node004",
+      "target": "disarm_trap_1"
+    },
+    {
+      "text": "Leave the safe alone.",
+      "source": "Node004",
+      "target": "Node999"
+    },
+    {
+      "text": "",
+      "source": "use_skill_on_p_proc",
+      "target": "spin_dial"
+    },
+    {
+      "text": "",
+      "source": "use_skill_on_p_proc",
+      "target": "check_trap"
+    },
+    {
+      "text": "Hmmmm. Maybe the numbers on the three dog tags can open the safe...",
+      "source": "Node006",
+      "target": "combo_known"
+    },
+    {
+      "text": "Leave the safe alone.",
+      "source": "Node006",
+      "target": "Node999"
+    },
+    {
+      "text": "Examine the safe for traps again.",
+      "source": "Node006",
+      "target": "check_trap"
+    },
+    {
+      "text": "",
+      "source": "spin_dial",
+      "target": "Node005"
+    },
+    {
+      "text": "",
+      "source": "spin_dial",
+      "target": "Node007"
+    },
+    {
+      "text": "",
+      "source": "spin_dial",
+      "target": "Node008"
+    },
+    {
+      "text": "Keep twisting its nose.",
+      "source": "Node008",
+      "target": "spin_dial"
+    },
+    {
+      "text": "Hmmmm. Maybe the numbers on these three dog tags can open the safe...",
+      "source": "Node008",
+      "target": "combo_known"
+    },
+    {
+      "text": "Wander off",
+      "source": "Node008",
+      "target": "Node999"
+    },
+    {
+      "text": "Hmmmm. Maybe the numbers on these three dog tags can open the safe...",
+      "source": "Node005",
+      "target": "combo_known"
+    },
+    {
+      "text": "Leave the safe alone.",
+      "source": "Node005",
+      "target": "Node999"
+    },
+    {
+      "text": "Twist its nose",
+      "source": "Node002_1",
+      "target": "spin_dial"
+    },
+    {
+      "text": "Hmmmm. Maybe the numbers on these three dog tags can open the safe...",
+      "source": "Node002_1",
+      "target": "combo_known"
+    },
+    {
+      "text": "Wander off",
+      "source": "Node002_1",
+      "target": "Node999"
+    },
+    {
+      "text": "Examine the safe for traps.",
+      "source": "Node002_1",
+      "target": "check_trap"
+    },
+    {
+      "text": "",
+      "source": "disarm_trap_1",
+      "target": "Node010"
+    },
+    {
+      "text": "",
+      "source": "timed_event_p_proc",
+      "target": "Node008"
+    },
+    {
+      "text": "",
+      "source": "timed_event_p_proc",
+      "target": "Node004"
+    },
+    {
+      "text": "",
+      "source": "timed_event_p_proc",
+      "target": "Node005"
+    },
+    {
+      "text": "",
+      "source": "timed_event_p_proc",
+      "target": "Node007"
+    },
+    {
+      "text": "",
+      "source": "timed_event_p_proc",
+      "target": "Node002_1"
+    },
+    {
+      "text": "",
+      "source": "timed_event_p_proc",
+      "target": "Node006"
+    },
+    {
+      "text": "",
+      "source": "timed_event_p_proc",
+      "target": "Node010"
+    },
+    {
+      "text": "Hullo? Hulllooo? Anbody hoome?",
+      "source": "Node007",
+      "target": "Node003_4"
+    },
+    {
+      "text": "Hullo? Hulllooo? Anbody hoome?",
+      "source": "Node007",
+      "target": "Node003_3"
+    },
+    {
+      "text": "Hullo? Hulllooo? Anbody hoome?",
+      "source": "Node007",
+      "target": "Node003_1"
+    },
+    {
+      "text": "Hullo? Hulllooo? Anbody hoome?",
+      "source": "Node007",
+      "target": "Node003_2"
+    },
+    {
+      "text": "",
+      "source": "check_trap",
+      "target": "Node006"
+    },
+    {
+      "text": "",
+      "source": "check_trap",
+      "target": "Node004"
+    },
+    {
+      "text": "Now to crack this safe...",
+      "source": "Node010",
+      "target": "Node002_1"
+    },
+    {
+      "text": "Leave the safe alone.",
+      "source": "Node010",
+      "target": "Node999"
+    },
+    {
+      "text": "",
+      "source": "combo_known",
+      "target": "Node003_2"
+    },
+    {
+      "text": "",
+      "source": "combo_known",
+      "target": "Node003_4"
+    },
+    {
+      "text": "",
+      "source": "combo_known",
+      "target": "Node003_3"
+    },
+    {
+      "text": "",
+      "source": "combo_known",
+      "target": "Node003_1"
+    }
+  ]
+}

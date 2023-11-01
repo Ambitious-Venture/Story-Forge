@@ -1,0 +1,54 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "You see Paladin Farli.",
+      "node_id": "node1",
+      "id": "start"
+    },
+    {
+      "text": "The Brotherhood reminds me of home.",
+      "node_id": "node2",
+      "id": "farli4"
+    },
+    {
+      "text": "Greetings.",
+      "node_id": "node4",
+      "id": "farli0"
+    },
+    {
+      "text": "Farli, nee ko mat'chak o Drake.",
+      "node_id": "node5_1",
+      "id": "farli1_1"
+    },
+    {
+      "text": "Say hello to our mutual friend if you see him again.",
+      "node_id": "node3",
+      "id": "farli3"
+    }
+  ],
+  "links": [
+    {
+      "text": "",
+      "source": "start",
+      "target": "farli3"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "farli4"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "farli0"
+    },
+    {
+      "text": "Chad'ra chu ka?",
+      "source": "farli0",
+      "target": "farli1_1"
+    }
+  ]
+}

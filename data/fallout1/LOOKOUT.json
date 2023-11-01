@@ -1,0 +1,49 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "You see a Ghoul Lookout.",
+      "node_id": "node1",
+      "id": "start"
+    },
+    {
+      "text": "Please talk to our Leader before you leave.",
+      "node_id": "node3_1",
+      "id": "guilt_1"
+    },
+    {
+      "text": "I can't talk now. I'm watching out for danger.",
+      "node_id": "node4",
+      "id": "spies"
+    },
+    {
+      "text": "",
+      "node_id": "node2",
+      "id": "talk_p_proc"
+    }
+  ],
+  "links": [
+    {
+      "text": "",
+      "source": "start",
+      "target": "talk_p_proc"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "guilt_1"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "spies"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "guilt_1"
+    }
+  ]
+}

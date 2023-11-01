@@ -1,0 +1,124 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "Please leave. You shouldn't be here.",
+      "node_id": "node7_3",
+      "id": "PaladinBRandom_3"
+    },
+    {
+      "text": "Hey, no Initiates.",
+      "node_id": "node7_4",
+      "id": "PaladinBRandom_4"
+    },
+    {
+      "text": "This is not the library, my girl. If you want to browse, please go to the library.",
+      "node_id": "node7_6",
+      "id": "PaladinBRandom_6"
+    },
+    {
+      "text": "",
+      "node_id": "node5",
+      "id": "critter_p_proc"
+    },
+    {
+      "text": "",
+      "node_id": "node3",
+      "id": "pickup_p_proc"
+    },
+    {
+      "text": "Paladin",
+      "node_id": "node2",
+      "id": "look_at_p_proc"
+    },
+    {
+      "text": "",
+      "node_id": "node1",
+      "id": "start"
+    },
+    {
+      "text": "This is not the library, my boy. If you want to browse, go to the library.",
+      "node_id": "node7_5",
+      "id": "PaladinBRandom_5"
+    },
+    {
+      "text": "What are you doing in here?",
+      "node_id": "node7_1",
+      "id": "PaladinBRandom_1"
+    },
+    {
+      "text": "",
+      "node_id": "node6",
+      "id": "destroy_p_proc"
+    },
+    {
+      "text": "The guard room is for guards. You are not a guard. You are in the guardroom. Therefore, YOU should leave.",
+      "node_id": "node7_2",
+      "id": "PaladinBRandom_2"
+    },
+    {
+      "text": "",
+      "node_id": "node4",
+      "id": "talk_p_proc"
+    }
+  ],
+  "links": [
+    {
+      "text": "",
+      "source": "start",
+      "target": "pickup_p_proc"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "destroy_p_proc"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "talk_p_proc"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "critter_p_proc"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "look_at_p_proc"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "PaladinBRandom_5"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "PaladinBRandom_1"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "PaladinBRandom_2"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "PaladinBRandom_4"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "PaladinBRandom_6"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "PaladinBRandom_3"
+    }
+  ]
+}

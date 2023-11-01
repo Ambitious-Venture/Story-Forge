@@ -1,0 +1,44 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "You find some old bottlecaps.",
+      "node_id": "node4",
+      "id": "Coke01"
+    },
+    {
+      "text": "It's broken.",
+      "node_id": "node3",
+      "id": "Coke00"
+    },
+    {
+      "text": "",
+      "node_id": "node1",
+      "id": "start"
+    },
+    {
+      "text": "",
+      "node_id": "node2",
+      "id": "use_p_proc"
+    }
+  ],
+  "links": [
+    {
+      "text": "",
+      "source": "start",
+      "target": "use_p_proc"
+    },
+    {
+      "text": "",
+      "source": "use_p_proc",
+      "target": "Coke01"
+    },
+    {
+      "text": "",
+      "source": "use_p_proc",
+      "target": "Coke00"
+    }
+  ]
+}

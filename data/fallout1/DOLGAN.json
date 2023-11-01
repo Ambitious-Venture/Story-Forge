@@ -1,0 +1,194 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "",
+      "node_id": "node8",
+      "id": "show_false_name"
+    },
+    {
+      "text": "",
+      "node_id": "node1",
+      "id": "start"
+    },
+    {
+      "text": "Now you are a little better at that. Go kick Tangler's butt into next year for me.",
+      "node_id": "node12",
+      "id": "Dolgan02"
+    },
+    {
+      "text": "Sure thing. But it will take most of the day for a little improvement. You still want that?",
+      "node_id": "node13",
+      "id": "Dolgan04"
+    },
+    {
+      "text": "You see Dolgan.",
+      "node_id": "node7_1",
+      "id": "show_true_name_1"
+    },
+    {
+      "text": "",
+      "node_id": "node3",
+      "id": "destroy_p_proc"
+    },
+    {
+      "text": "There you go. You've shown a little improvement. Good luck  to you.",
+      "node_id": "node17",
+      "id": "Dolgan05"
+    },
+    {
+      "text": "",
+      "node_id": "node15",
+      "id": "DolganEnd"
+    },
+    {
+      "text": "",
+      "node_id": "node16",
+      "id": "Train"
+    },
+    {
+      "text": "",
+      "node_id": "node4",
+      "id": "look_at_p_proc"
+    },
+    {
+      "text": "So, you think you can take on Tangler and his wimps? Here, I'll teach you to use that blade.",
+      "node_id": "node10",
+      "id": "Dolgan01"
+    },
+    {
+      "text": "Get lost! This is only for real fighters.",
+      "node_id": "node11",
+      "id": "Dolgan00"
+    },
+    {
+      "text": "",
+      "node_id": "node2",
+      "id": "critter_p_proc"
+    },
+    {
+      "text": "Seems like we let in a fool. Well, if you want to get into their place, there is a slight break in their moat. Look for it and run like mad. You may even make it across.",
+      "node_id": "node14",
+      "id": "Dolgan07"
+    },
+    {
+      "text": "",
+      "node_id": "node5",
+      "id": "pickup_p_proc"
+    },
+    {
+      "text": "You see a member of the Blades.",
+      "node_id": "node7_2",
+      "id": "show_true_name_2"
+    },
+    {
+      "text": "",
+      "node_id": "node6",
+      "id": "talk_p_proc"
+    },
+    {
+      "text": "Great job on hacking those Rippers. What can I do for you?",
+      "node_id": "node9",
+      "id": "Dolgan03"
+    }
+  ],
+  "links": [
+    {
+      "text": "",
+      "source": "start",
+      "target": "pickup_p_proc"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "look_at_p_proc"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "destroy_p_proc"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "talk_p_proc"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "critter_p_proc"
+    },
+    {
+      "text": "Yes.",
+      "source": "Dolgan04",
+      "target": "Train"
+    },
+    {
+      "text": "No.",
+      "source": "Dolgan04",
+      "target": "DolganEnd"
+    },
+    {
+      "text": "",
+      "source": "Train",
+      "target": "Dolgan05"
+    },
+    {
+      "text": "",
+      "source": "look_at_p_proc",
+      "target": "show_true_name_2"
+    },
+    {
+      "text": "",
+      "source": "look_at_p_proc",
+      "target": "show_true_name_1"
+    },
+    {
+      "text": "",
+      "source": "look_at_p_proc",
+      "target": "show_false_name"
+    },
+    {
+      "text": "",
+      "source": "Dolgan01",
+      "target": "Dolgan02"
+    },
+    {
+      "text": "Thanks.",
+      "source": "Dolgan07",
+      "target": "DolganEnd"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Dolgan00"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Dolgan01"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Dolgan03"
+    },
+    {
+      "text": "How can I get into the Gun Runners?",
+      "source": "Dolgan03",
+      "target": "Dolgan07"
+    },
+    {
+      "text": "Can you teach me some more blade skills?",
+      "source": "Dolgan03",
+      "target": "Dolgan04"
+    },
+    {
+      "text": "Nothing, thanks.",
+      "source": "Dolgan03",
+      "target": "DolganEnd"
+    }
+  ]
+}

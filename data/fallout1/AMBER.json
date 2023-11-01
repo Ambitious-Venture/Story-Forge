@@ -1,0 +1,284 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "Ah, a student of the arts is a rare thing in this world. Perhaps there is hope for you yet. Each song is long in time. Which would you like to hear?",
+      "node_id": "node17",
+      "id": "Amber10"
+    },
+    {
+      "text": "",
+      "node_id": "node1",
+      "id": "start"
+    },
+    {
+      "text": "I must rest. This teaching drains much from me. Good luck to you.",
+      "node_id": "node24_1",
+      "id": "Amber12_1"
+    },
+    {
+      "text": "I must rest. This teaching drains much from me. Good luck to you.",
+      "node_id": "node26_1",
+      "id": "Amber14_1"
+    },
+    {
+      "text": "You have no need of my talents. You have taught peaceful people the ways of war. I mourn for them now.",
+      "node_id": "node6",
+      "id": "Amber18"
+    },
+    {
+      "text": "I fear I have spent myself far too much. I am sorry.",
+      "node_id": "node18",
+      "id": "Amber15"
+    },
+    {
+      "text": "I can teach you the ways of the old bards and minstrels.",
+      "node_id": "node11",
+      "id": "Amber17"
+    },
+    {
+      "text": "I must rest. This teaching drains much from me. Good luck to you.",
+      "node_id": "node23_1",
+      "id": "Amber11_1"
+    },
+    {
+      "text": "I am skilled in many of the languages and arts. Perhaps you would like  to learn one of those?",
+      "node_id": "node10",
+      "id": "Amber3"
+    },
+    {
+      "text": "",
+      "node_id": "node14",
+      "id": "Amber3a"
+    },
+    {
+      "text": "",
+      "node_id": "node3",
+      "id": "destroy_p_proc"
+    },
+    {
+      "text": "You do not convince me. I think you seek to use my gifts for ill.  Good evening.",
+      "node_id": "node16",
+      "id": "Amber9"
+    },
+    {
+      "text": "",
+      "node_id": "node13",
+      "id": "AmberEnd"
+    },
+    {
+      "text": "As you see fit. May the future soften your heart and broaden your mind.",
+      "node_id": "node22",
+      "id": "Amber7"
+    },
+    {
+      "text": "You see Amber, a teacher for the Followers.",
+      "node_id": "node4",
+      "id": "look_at_p_proc"
+    },
+    {
+      "text": "You are an apt learner. May your trials be light. Go in peace.",
+      "node_id": "node21_1",
+      "id": "Amber6_1"
+    },
+    {
+      "text": "You need not be rude. Apologize now, or I won't teach you.",
+      "node_id": "node19",
+      "id": "Amber5"
+    },
+    {
+      "text": "Peace and Beauty are all I can teach. I am sorry that those are not appealing to you. Good day.",
+      "node_id": "node15",
+      "id": "Amber16"
+    },
+    {
+      "text": "You are an apt learner. May your trials be light. Go in peace.",
+      "node_id": "node20_1",
+      "id": "Amber8_1"
+    },
+    {
+      "text": "",
+      "node_id": "node2",
+      "id": "critter_p_proc"
+    },
+    {
+      "text": "Now is when I rest. Please, come back during the evening.",
+      "node_id": "node7",
+      "id": "Amber0"
+    },
+    {
+      "text": "Welcome noble traveler. Have you come here to study?",
+      "node_id": "node8",
+      "id": "Amber1"
+    },
+    {
+      "text": "I am truly sorry to hear that. The Followers believe in peace at all costs. For that reason, I have renounced violence. Good evening.",
+      "node_id": "node9",
+      "id": "Amber2"
+    },
+    {
+      "text": "",
+      "node_id": "node5",
+      "id": "talk_p_proc"
+    },
+    {
+      "text": "Ah, we have here a student of life. In a case like this, I can teach you some herbalism, but training takes a while for little result.",
+      "node_id": "node12",
+      "id": "Amber4"
+    },
+    {
+      "text": "I must rest. This teaching drains much from me. Good luck to you.",
+      "node_id": "node25_1",
+      "id": "Amber13_1"
+    }
+  ],
+  "links": [
+    {
+      "text": "The Ballad of Aires.",
+      "source": "Amber10",
+      "target": "Amber12_1"
+    },
+    {
+      "text": "In Remembrance of Artemis.",
+      "source": "Amber10",
+      "target": "Amber13_1"
+    },
+    {
+      "text": "The Rising of Dawn's Chariot.",
+      "source": "Amber10",
+      "target": "Amber14_1"
+    },
+    {
+      "text": "In the Wake of the Shadow.",
+      "source": "Amber10",
+      "target": "Amber11_1"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "look_at_p_proc"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "destroy_p_proc"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "talk_p_proc"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "critter_p_proc"
+    },
+    {
+      "text": "I was hoping to learn something that may help me more.",
+      "source": "Amber17",
+      "target": "Amber4"
+    },
+    {
+      "text": "Perhaps another time. Thank you.",
+      "source": "Amber17",
+      "target": "AmberEnd"
+    },
+    {
+      "text": "I would be honored to hear a song.",
+      "source": "Amber17",
+      "target": "Amber10"
+    },
+    {
+      "text": "I'm sorry, but I need to know things which will help me survive.",
+      "source": "Amber3",
+      "target": "Amber4"
+    },
+    {
+      "text": "Can you teach me anything else?",
+      "source": "Amber3",
+      "target": "Amber16"
+    },
+    {
+      "text": "Perhaps I can listen to a song or two.",
+      "source": "Amber3",
+      "target": "Amber3a"
+    },
+    {
+      "text": "I have no time for that type of stuff. I'm gone.",
+      "source": "Amber3",
+      "target": "AmberEnd"
+    },
+    {
+      "text": "",
+      "source": "Amber3a",
+      "target": "Amber10"
+    },
+    {
+      "text": "",
+      "source": "Amber3a",
+      "target": "Amber15"
+    },
+    {
+      "text": "",
+      "source": "Amber3a",
+      "target": "Amber9"
+    },
+    {
+      "text": "Forget it.",
+      "source": "Amber5",
+      "target": "Amber7"
+    },
+    {
+      "text": "I am sorry. Will you please teach me?",
+      "source": "Amber5",
+      "target": "Amber6_1"
+    },
+    {
+      "text": "No. I really came here just to kill things.",
+      "source": "Amber1",
+      "target": "Amber2"
+    },
+    {
+      "text": "Depends on what you want to teach me.",
+      "source": "Amber1",
+      "target": "Amber3"
+    },
+    {
+      "text": "Yes, I am willing to learn.",
+      "source": "Amber1",
+      "target": "Amber17"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Amber18"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Amber1"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Amber0"
+    },
+    {
+      "text": "Sorry, I really don't have time for plants. Goodbye.",
+      "source": "Amber4",
+      "target": "AmberEnd"
+    },
+    {
+      "text": "Fine, just teach me.",
+      "source": "Amber4",
+      "target": "Amber5"
+    },
+    {
+      "text": "Please, teach me what you can.",
+      "source": "Amber4",
+      "target": "Amber8_1"
+    }
+  ]
+}

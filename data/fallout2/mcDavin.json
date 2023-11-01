@@ -1,0 +1,234 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "Oh boy, I get to be the one that's in charge here.",
+      "node_id": "node6_1",
+      "id": "talk_p_proc_1"
+    },
+    {
+      "text": "Wow, I never thought such a beautiful woman would try to seduce me. What! You\u2019re not a woman! Don\u2019t worry, you\u2019re so pretty, I won\u2019t say anything if you won\u2019t.",
+      "node_id": "node24",
+      "id": "Node015"
+    },
+    {
+      "text": "",
+      "node_id": "node5",
+      "id": "Node998"
+    },
+    {
+      "text": "",
+      "node_id": "node4",
+      "id": "pickup_p_proc"
+    },
+    {
+      "text": "Hi! My name\u2019s Davin; I help my father run the slaughterhouse in Modoc.",
+      "node_id": "node9",
+      "id": "Node000"
+    },
+    {
+      "text": "Come back and see me if you want to\u2026 talk again.",
+      "node_id": "node23",
+      "id": "Node014"
+    },
+    {
+      "text": "Sure, I\u2019m not busy. Ask away.",
+      "node_id": "node25",
+      "id": "Node005"
+    },
+    {
+      "text": "I need a little space, Davin.",
+      "node_id": "node7_1",
+      "id": "Node002_1"
+    },
+    {
+      "text": "I need a little space, Davin.",
+      "node_id": "node7_2",
+      "id": "Node002_2"
+    },
+    {
+      "text": "",
+      "node_id": "node28",
+      "id": "Node999"
+    },
+    {
+      "text": "",
+      "node_id": "node14",
+      "id": "damage_p_proc"
+    },
+    {
+      "text": "Nope, haven\u2019t seen it anywhere.",
+      "node_id": "node19",
+      "id": "Node010"
+    },
+    {
+      "text": "Well, I uh\u2026 I mean, I\u2026 I supervise and take care of stuff. I\u2019m the owner\u2019s son after all. I\u2019m going to inherit this place when my dad kicks off.",
+      "node_id": "node20",
+      "id": "Node011"
+    },
+    {
+      "text": "It\u2019s a lie. I only go out to the barn at night to a\u2026 make sure everything is locked up. You know, with all the wild animals around and all.",
+      "node_id": "node21",
+      "id": "Node012"
+    },
+    {
+      "text": "I knew you\u2019d come back to me.",
+      "node_id": "node8_1",
+      "id": "Node001_1"
+    },
+    {
+      "text": "Dad runs the slaughterhouse. He\u2019s OK as far as fathers go. A word of advice if you do any business with him. There\u2019s usually more to his business deals than he lets on.",
+      "node_id": "node22",
+      "id": "Node013"
+    },
+    {
+      "text": "",
+      "node_id": "node27",
+      "id": "Node996"
+    }
+  ],
+  "links": [
+    {
+      "text": "",
+      "source": "talk_p_proc_1",
+      "target": "Node998"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc_1",
+      "target": "Node000"
+    },
+    {
+      "text": "There must be some mistake; I just wanted to ask you some questions.",
+      "source": "Node015",
+      "target": "Node005"
+    },
+    {
+      "text": "Stop talking; you\u2019re gonna ruin it for the both of us. Just sit back and enjoy.",
+      "source": "Node015",
+      "target": "Node996"
+    },
+    {
+      "text": "Thanks for the offer, but no. Uhhh... I'll be leaving now.",
+      "source": "Node015",
+      "target": "Node999"
+    },
+    {
+      "text": "",
+      "source": "pickup_p_proc",
+      "target": "Node998"
+    },
+    {
+      "text": "I hear rumors about you and the brahmin.",
+      "source": "Node000",
+      "target": "Node012"
+    },
+    {
+      "text": "I\u2019m looking for Cornelius\u2019s gold watch. Have you seen it anywhere?",
+      "source": "Node000",
+      "target": "Node010"
+    },
+    {
+      "text": "Tell me about your dad.",
+      "source": "Node000",
+      "target": "Node013"
+    },
+    {
+      "text": "What do you do at the slaughterhouse?",
+      "source": "Node000",
+      "target": "Node011"
+    },
+    {
+      "text": "I have to go. Bye.",
+      "source": "Node000",
+      "target": "Node014"
+    },
+    {
+      "text": "I hear rumors about you and the brahmin.",
+      "source": "Node005",
+      "target": "Node012"
+    },
+    {
+      "text": "I\u2019m looking for Cornelius\u2019s gold watch. Have you seen it anywhere?",
+      "source": "Node005",
+      "target": "Node010"
+    },
+    {
+      "text": "Tell me about your dad.",
+      "source": "Node005",
+      "target": "Node013"
+    },
+    {
+      "text": "What do you do at the slaughterhouse?",
+      "source": "Node005",
+      "target": "Node011"
+    },
+    {
+      "text": "Why don\u2019t we get more comfortable?",
+      "source": "Node005",
+      "target": "Node015"
+    },
+    {
+      "text": "I have to go. Bye.",
+      "source": "Node005",
+      "target": "Node014"
+    },
+    {
+      "text": "",
+      "source": "damage_p_proc",
+      "target": "Node998"
+    },
+    {
+      "text": "Can I ask you a few more questions?",
+      "source": "Node010",
+      "target": "Node005"
+    },
+    {
+      "text": "Can I ask you a few more questions?",
+      "source": "Node011",
+      "target": "Node005"
+    },
+    {
+      "text": "Can I ask you a few more questions?",
+      "source": "Node012",
+      "target": "Node005"
+    },
+    {
+      "text": "I\u2019m looking for Cornelius\u2019s gold watch. Have you seen it anywhere?",
+      "source": "Node001_1",
+      "target": "Node010"
+    },
+    {
+      "text": "Tell me about your dad.",
+      "source": "Node001_1",
+      "target": "Node013"
+    },
+    {
+      "text": "What do you do at the slaughterhouse?",
+      "source": "Node001_1",
+      "target": "Node011"
+    },
+    {
+      "text": "I have to go. Bye.",
+      "source": "Node001_1",
+      "target": "Node014"
+    },
+    {
+      "text": "Why don\u2019t we get more comfortable?",
+      "source": "Node001_1",
+      "target": "Node015"
+    },
+    {
+      "text": "I hear rumors about you and the brahmin.",
+      "source": "Node001_1",
+      "target": "Node012"
+    },
+    {
+      "text": "Can I ask you a few more questions?",
+      "source": "Node013",
+      "target": "Node005"
+    }
+  ]
+}

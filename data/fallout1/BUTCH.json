@@ -1,0 +1,1359 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "Well, what do you have?",
+      "node_id": "node13",
+      "id": "Butch37"
+    },
+    {
+      "text": "",
+      "node_id": "node16",
+      "id": "Butch00a"
+    },
+    {
+      "text": "",
+      "node_id": "node1",
+      "id": "start"
+    },
+    {
+      "text": "Hot damn, someone with guts! Done and done. Go talk with my second, Rutger, and get the details.",
+      "node_id": "node25",
+      "id": "Butch03"
+    },
+    {
+      "text": "Just stuff. you wanta' see the town, go look around yourself!",
+      "node_id": "node57",
+      "id": "Butch30"
+    },
+    {
+      "text": "Leave me alone! You got your reward, now get out!",
+      "node_id": "node11",
+      "id": "Butch60"
+    },
+    {
+      "text": "Well, some caravans have been disappearing on us lately. Damn if anyone can figure out what happened to 'em.",
+      "node_id": "node26",
+      "id": "Butch08"
+    },
+    {
+      "text": "Who the hell's Ralph?",
+      "node_id": "node86",
+      "id": "Butch56"
+    },
+    {
+      "text": "Well . . . okay. I'll tell the Committee, but I don't think they'll believe it. Although I have seen mighty big rats around . . .",
+      "node_id": "node80",
+      "id": "Butch52"
+    },
+    {
+      "text": "Well, you're a bright one, ain't you? Here's the job: Find out who's stealing my caravans. Money, big. You fail, hurt, big. Understand? Now get outta here!",
+      "node_id": "node88",
+      "id": "Butch67"
+    },
+    {
+      "text": "Simple. Find out who's doing it, and tell me. Or take 'em out. It makes no damn difference to me. Just get that job done!",
+      "node_id": "node34",
+      "id": "Butch09"
+    },
+    {
+      "text": "What do you want?",
+      "node_id": "node9",
+      "id": "Butch01"
+    },
+    {
+      "text": "Just one. [You notice that he seems tense.]",
+      "node_id": "node31_1",
+      "id": "Butch06_1"
+    },
+    {
+      "text": "Then what the hell am I doing still looking at you? Get out!",
+      "node_id": "node38",
+      "id": "Butch18"
+    },
+    {
+      "text": "You see Butch.",
+      "node_id": "node2",
+      "id": "look_at_p_proc"
+    },
+    {
+      "text": "Listen, I don't have time to swap stories with you.",
+      "node_id": "node33",
+      "id": "Butch11"
+    },
+    {
+      "text": "Time is money. Chit-chat is not money. You here about the job or what?",
+      "node_id": "node24",
+      "id": "Butch02"
+    },
+    {
+      "text": "Thanks. Now, is there anything else?",
+      "node_id": "node54",
+      "id": "Butch28"
+    },
+    {
+      "text": "Yeah, done and \u00a0. . . yeah, you do that! Uh, I need to talk to the Committee. They'll know what to do. N-N-Now get out! I've got a lot to do . . . okay?",
+      "node_id": "node74",
+      "id": "Butch44"
+    },
+    {
+      "text": "Hmmm. Whatta ya want'a know?",
+      "node_id": "node20",
+      "id": "Butch23"
+    },
+    {
+      "text": "",
+      "node_id": "node59",
+      "id": "Butch30a"
+    },
+    {
+      "text": "You . . . you killed it?",
+      "node_id": "node81",
+      "id": "Butch54"
+    },
+    {
+      "text": "",
+      "node_id": "node14",
+      "id": "ButchEndTransport"
+    },
+    {
+      "text": "",
+      "node_id": "node50",
+      "id": "Butch23a"
+    },
+    {
+      "text": "",
+      "node_id": "node82",
+      "id": "Butch53a"
+    },
+    {
+      "text": "Uhh, do that. \u00a0And come back and tell me \u00a0. . . okay?",
+      "node_id": "node85",
+      "id": "Butch55"
+    },
+    {
+      "text": "Really? \u00a0Who?",
+      "node_id": "node64",
+      "id": "Butch38"
+    },
+    {
+      "text": "Yeah, well I don't like going around talking about my personal life and such.",
+      "node_id": "node52",
+      "id": "Butch26"
+    },
+    {
+      "text": "I'm tired of your insults you . . . you pinhead! Don't come back! Rutger, take this annoying bug away!",
+      "node_id": "node44",
+      "id": "Butch15"
+    },
+    {
+      "text": "",
+      "node_id": "node103",
+      "id": "DownReact"
+    },
+    {
+      "text": "Get out of here, you moron.",
+      "node_id": "node4_3",
+      "id": "talk_p_proc_3"
+    },
+    {
+      "text": "Puhh. Maybe for you! If you like that, then the Glow's down south.  It's a radioactive pit.",
+      "node_id": "node63",
+      "id": "Butch35a"
+    },
+    {
+      "text": "Uh . . . what did you say?",
+      "node_id": "node32",
+      "id": "Butch21"
+    },
+    {
+      "text": "Well then, what is it?",
+      "node_id": "node78",
+      "id": "Butch50"
+    },
+    {
+      "text": "You uh . . . you really want to hear it, huh? Well, some say it's the Death Claw, but . . . but I don't know nothin' about that.",
+      "node_id": "node40",
+      "id": "Butch13"
+    },
+    {
+      "text": "",
+      "node_id": "node27",
+      "id": "UpReactLevel"
+    },
+    {
+      "text": "",
+      "node_id": "node79",
+      "id": "Butch51a"
+    },
+    {
+      "text": "Uh . . . what did you say?",
+      "node_id": "node60",
+      "id": "Butch31"
+    },
+    {
+      "text": "Just a bunch of different places. Go find out for yourself!",
+      "node_id": "node18",
+      "id": "Butch36"
+    },
+    {
+      "text": "Uh . . . what did you say?",
+      "node_id": "node35",
+      "id": "Butch19"
+    },
+    {
+      "text": "Well, I've run the Far Go Traders for about five years. Before that I was in Adytum. Before that, near the Glow.",
+      "node_id": "node51",
+      "id": "Butch24"
+    },
+    {
+      "text": "Not really.",
+      "node_id": "node53",
+      "id": "Butch25"
+    },
+    {
+      "text": "You know, I don't like you. But that doesn't matter. You want the job or not?",
+      "node_id": "node48",
+      "id": "Butch20"
+    },
+    {
+      "text": "",
+      "node_id": "node29",
+      "id": "ButchEndAccept"
+    },
+    {
+      "text": "Go talk to Rutger. He can tell you more about that crap.",
+      "node_id": "node95",
+      "id": "Butch68"
+    },
+    {
+      "text": "Make it quick.",
+      "node_id": "node10",
+      "id": "Butch73"
+    },
+    {
+      "text": "How do ya . . . Go talk to Beth, she knows more about that crap.",
+      "node_id": "node43",
+      "id": "Butch13a"
+    },
+    {
+      "text": "I'm busy right now. \u00a0Talk to Rutger. \u00a0He'll let me know if you're worth seeing.",
+      "node_id": "node4_4",
+      "id": "talk_p_proc_4"
+    },
+    {
+      "text": "",
+      "node_id": "node8",
+      "id": "get_reaction"
+    },
+    {
+      "text": "",
+      "node_id": "node19",
+      "id": "Butch00"
+    },
+    {
+      "text": "",
+      "node_id": "node23",
+      "id": "ButchEnd"
+    },
+    {
+      "text": "Snargle!!!",
+      "node_id": "node4_2",
+      "id": "talk_p_proc_2"
+    },
+    {
+      "text": "What, do I look a crate shy of a load? Did you even see  the Death Claw?",
+      "node_id": "node68",
+      "id": "Butch40"
+    },
+    {
+      "text": "Done and done. Now get on outta here, but come back and talk to me when you've found something.",
+      "node_id": "node37",
+      "id": "Butch16"
+    },
+    {
+      "text": "Yeah, right. Like I'd believe that. Get out until you can find me something useful.",
+      "node_id": "node84",
+      "id": "Butch58"
+    },
+    {
+      "text": "The Master? \u00a0H-He's more of a myth than the Death Claw. You . . . you don't think he's real, do you?",
+      "node_id": "node73",
+      "id": "Butch43"
+    },
+    {
+      "text": "Wha . . . what would mutants want with our caravans?",
+      "node_id": "node66",
+      "id": "Butch39"
+    },
+    {
+      "text": "",
+      "node_id": "node106",
+      "id": "BigUpReact"
+    },
+    {
+      "text": "Listen you, I ain't scared. I'm . . . cautious. You'd be stupid not to be, with the Death Claw. Go talk to Beth, she'll tell ya more.",
+      "node_id": "node41",
+      "id": "Butch14"
+    },
+    {
+      "text": "What! Well . . . well . . . I'm not afraid! Rutger!  I got guns! Rutger!",
+      "node_id": "node75",
+      "id": "Butch45"
+    },
+    {
+      "text": "Well, you got the Junktown to the north, and the Brotherhood of Steel to the northwest. And, of course, the Boneyard  to the south.",
+      "node_id": "node17",
+      "id": "Butch34"
+    },
+    {
+      "text": "Rats? You've got to be kidding me.",
+      "node_id": "node67",
+      "id": "Butch51"
+    },
+    {
+      "text": "Well there's uh . . . something, but I never listen to those rumors.",
+      "node_id": "node36",
+      "id": "Butch12"
+    },
+    {
+      "text": "",
+      "node_id": "node46",
+      "id": "ButchX3"
+    },
+    {
+      "text": "How do you know? Did you see the Death Claw?",
+      "node_id": "node65",
+      "id": "Butch53"
+    },
+    {
+      "text": "Well then, then who's stealing my caravans?",
+      "node_id": "node83",
+      "id": "Butch54a"
+    },
+    {
+      "text": "",
+      "node_id": "node107",
+      "id": "BigDownReact"
+    },
+    {
+      "text": "Make it quick.",
+      "node_id": "node42",
+      "id": "Butch17"
+    },
+    {
+      "text": "",
+      "node_id": "node72",
+      "id": "ButchX2"
+    },
+    {
+      "text": "Well, you got Old Town and the Heights, but that's just houses. Downtown's got all the stores and stuff.",
+      "node_id": "node56",
+      "id": "Butch29"
+    },
+    {
+      "text": "Well, whatta'ya got for me?",
+      "node_id": "node12",
+      "id": "Butch59"
+    },
+    {
+      "text": "Nah. Just the normal stuff.",
+      "node_id": "node21",
+      "id": "Butch10"
+    },
+    {
+      "text": "",
+      "node_id": "node55",
+      "id": "Butch27a"
+    },
+    {
+      "text": "You . . . you killed it? Well . . . I uh . . . um . . . uh, where did these mutants come from?",
+      "node_id": "node70",
+      "id": "Butch41"
+    },
+    {
+      "text": "",
+      "node_id": "node47",
+      "id": "Butch19a"
+    },
+    {
+      "text": "",
+      "node_id": "node45",
+      "id": "DownReactLevel"
+    },
+    {
+      "text": "What do I look like, a . . . a . . . one of those tourist things? Jeez.",
+      "node_id": "node22",
+      "id": "Butch27"
+    },
+    {
+      "text": "Well, you got the Maltese Falcon, a nice place to eat, believe you me. And then . . . let's see, the All in One Store, the Weapons Shop . . . and, of course, Bob's Iguana Bits.",
+      "node_id": "node58",
+      "id": "Butch32"
+    },
+    {
+      "text": "I don't have time for this. Get out, and don't come back until you find something useful!",
+      "node_id": "node77",
+      "id": "Butch49"
+    },
+    {
+      "text": "Ahh, don't spoil it! Make 'em quick.",
+      "node_id": "node28",
+      "id": "Butch04"
+    },
+    {
+      "text": "",
+      "node_id": "node6",
+      "id": "destroy_p_proc"
+    },
+    {
+      "text": "Hey! You're making fun of me, aren't you? Rutger, show this jerk the street! And don't come back without some real information!",
+      "node_id": "node87",
+      "id": "Butch57"
+    },
+    {
+      "text": "Got the Children of the Cathedral's hospital over on the west side of Downtown. And then, of course, you got the Water Merchants south, and the Crimson Caravan west.",
+      "node_id": "node61",
+      "id": "Butch33"
+    },
+    {
+      "text": "Well, Necropolis is east. But uh . . . I wouldn't spit there if it came out gold, if ya' get my drift. Those ghouls'll eat a man's face faster than an old lady shopping at bargain day.",
+      "node_id": "node62",
+      "id": "Butch35"
+    },
+    {
+      "text": "An outpost? Well . . . um . . . well uh. I'll have to talk to the Committee. Yeah . . . yeah, they'll know what to do. Done and done. Get out, 'cause I got stuff to do . . . okay?",
+      "node_id": "node71",
+      "id": "Butch42"
+    },
+    {
+      "text": "",
+      "node_id": "node39",
+      "id": "Butch12a"
+    },
+    {
+      "text": "What? Get out! I need to tell the Committee about this.  Go on, get out!",
+      "node_id": "node76",
+      "id": "Butch47"
+    },
+    {
+      "text": "",
+      "node_id": "node5",
+      "id": "critter_p_proc"
+    },
+    {
+      "text": "Alright, so it wasn't the Death Claw. But what would the mutants in Old Town want with our caravans? Unless it's some  kind of conspiracy.",
+      "node_id": "node69",
+      "id": "Butch46"
+    },
+    {
+      "text": "",
+      "node_id": "node3",
+      "id": "pickup_p_proc"
+    },
+    {
+      "text": "",
+      "node_id": "node102",
+      "id": "UpReact"
+    },
+    {
+      "text": "",
+      "node_id": "node100",
+      "id": "ReactToLevel"
+    },
+    {
+      "text": "I've got nothing to say to you.",
+      "node_id": "node4_1",
+      "id": "talk_p_proc_1"
+    },
+    {
+      "text": "Uh . . . Rutger'll handle that. He does all the trivial stuff for the Far Go Traders. Now get on out, cause I got work to do!",
+      "node_id": "node30",
+      "id": "Butch05"
+    },
+    {
+      "text": "",
+      "node_id": "node101",
+      "id": "LevelToReact"
+    }
+  ],
+  "links": [
+    {
+      "text": "Well, I found out who's taking the caravans.",
+      "source": "Butch37",
+      "target": "Butch38"
+    },
+    {
+      "text": "Well, I know it wasn't the Death Claw who took the caravans.",
+      "source": "Butch37",
+      "target": "Butch53"
+    },
+    {
+      "text": "Nothing right now. Goodbye.",
+      "source": "Butch37",
+      "target": "ButchEnd"
+    },
+    {
+      "text": "",
+      "source": "Butch00a",
+      "target": "Butch34"
+    },
+    {
+      "text": "",
+      "source": "Butch00a",
+      "target": "Butch36"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "pickup_p_proc"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "destroy_p_proc"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "critter_p_proc"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "look_at_p_proc"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "talk_p_proc_4"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "talk_p_proc_1"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "talk_p_proc_3"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "talk_p_proc_2"
+    },
+    {
+      "text": "",
+      "source": "Butch03",
+      "target": "UpReactLevel"
+    },
+    {
+      "text": "Wait! I have some questions about this job first!",
+      "source": "Butch03",
+      "target": "Butch04"
+    },
+    {
+      "text": "Okay, thanks.",
+      "source": "Butch03",
+      "target": "ButchEndAccept"
+    },
+    {
+      "text": "",
+      "source": "Butch30",
+      "target": "Butch00"
+    },
+    {
+      "text": "Uh, thanks for nothing.",
+      "source": "Butch30",
+      "target": "Butch30a"
+    },
+    {
+      "text": "",
+      "source": "Butch60",
+      "target": "ButchX2"
+    },
+    {
+      "text": "So what do you want me to do?",
+      "source": "Butch08",
+      "target": "Butch09"
+    },
+    {
+      "text": "I bet you didn't even look for them.",
+      "source": "Butch08",
+      "target": "Butch19"
+    },
+    {
+      "text": "He's coming for your soul!",
+      "source": "Butch56",
+      "target": "Butch57"
+    },
+    {
+      "text": "Nevermind. I'll get more info on the caravan problem.",
+      "source": "Butch56",
+      "target": "Butch55"
+    },
+    {
+      "text": "",
+      "source": "Butch52",
+      "target": "ButchX2"
+    },
+    {
+      "text": "",
+      "source": "Butch67",
+      "target": "ButchEnd"
+    },
+    {
+      "text": "Sounds scary . . . I better pass.",
+      "source": "Butch09",
+      "target": "Butch18"
+    },
+    {
+      "text": "I'll take them out.",
+      "source": "Butch09",
+      "target": "Butch16"
+    },
+    {
+      "text": "Any clues on who's doing this?",
+      "source": "Butch09",
+      "target": "Butch12"
+    },
+    {
+      "text": "Nothing, thanks.",
+      "source": "Butch01",
+      "target": "ButchEnd"
+    },
+    {
+      "text": "I need to ask you a few questions.",
+      "source": "Butch01",
+      "target": "Butch02"
+    },
+    {
+      "text": "Just how stupid are you?",
+      "source": "Butch06_1",
+      "target": "Butch21"
+    },
+    {
+      "text": "You seem tense. Want to talk about it?",
+      "source": "Butch06_1",
+      "target": "Butch11"
+    },
+    {
+      "text": "Uh, how much does it pay again?",
+      "source": "Butch06_1",
+      "target": "Butch05"
+    },
+    {
+      "text": "Uh . . . what's the job?",
+      "source": "Butch06_1",
+      "target": "Butch08"
+    },
+    {
+      "text": "What job?",
+      "source": "Butch02",
+      "target": "Butch08"
+    },
+    {
+      "text": "Yes.",
+      "source": "Butch02",
+      "target": "Butch03"
+    },
+    {
+      "text": "",
+      "source": "Butch28",
+      "target": "Butch00"
+    },
+    {
+      "text": "",
+      "source": "Butch44",
+      "target": "ButchX2"
+    },
+    {
+      "text": "Nevermind. \u00a0\u00a0I have some more questions.",
+      "source": "Butch23",
+      "target": "Butch17"
+    },
+    {
+      "text": "Just curious.",
+      "source": "Butch23",
+      "target": "Butch23a"
+    },
+    {
+      "text": "",
+      "source": "Butch30a",
+      "target": "Butch15"
+    },
+    {
+      "text": "",
+      "source": "Butch30a",
+      "target": "Butch31"
+    },
+    {
+      "text": "",
+      "source": "Butch30a",
+      "target": "DownReactLevel"
+    },
+    {
+      "text": "Yep, sure did.",
+      "source": "Butch54",
+      "target": "Butch54a"
+    },
+    {
+      "text": "",
+      "source": "Butch23a",
+      "target": "Butch24"
+    },
+    {
+      "text": "",
+      "source": "Butch23a",
+      "target": "Butch26"
+    },
+    {
+      "text": "",
+      "source": "Butch53a",
+      "target": "Butch58"
+    },
+    {
+      "text": "",
+      "source": "Butch53a",
+      "target": "Butch54a"
+    },
+    {
+      "text": "",
+      "source": "Butch55",
+      "target": "ButchX3"
+    },
+    {
+      "text": "It's these big mutant guys.",
+      "source": "Butch38",
+      "target": "Butch39"
+    },
+    {
+      "text": "Rats! BIG rats with BIG teeth . . .",
+      "source": "Butch38",
+      "target": "Butch51"
+    },
+    {
+      "text": "Oh come on, please?",
+      "source": "Butch26",
+      "target": "Butch24"
+    },
+    {
+      "text": "",
+      "source": "Butch26",
+      "target": "Butch00"
+    },
+    {
+      "text": "",
+      "source": "DownReact",
+      "target": "ReactToLevel"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc_3",
+      "target": "get_reaction"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc_3",
+      "target": "Butch73"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc_3",
+      "target": "Butch59"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc_3",
+      "target": "Butch01"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc_3",
+      "target": "Butch60"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc_3",
+      "target": "ButchEndTransport"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc_3",
+      "target": "Butch37"
+    },
+    {
+      "text": "",
+      "source": "Butch35a",
+      "target": "Butch00"
+    },
+    {
+      "text": "Nothing. So, what do you want me to do?",
+      "source": "Butch21",
+      "target": "Butch08"
+    },
+    {
+      "text": "You heard me.",
+      "source": "Butch21",
+      "target": "Butch15"
+    },
+    {
+      "text": "",
+      "source": "Butch21",
+      "target": "DownReactLevel"
+    },
+    {
+      "text": "Rats, I tell you! Big, hairy . . .",
+      "source": "Butch50",
+      "target": "Butch49"
+    },
+    {
+      "text": "Actually, it IS these big mutant guys . . .",
+      "source": "Butch50",
+      "target": "Butch39"
+    },
+    {
+      "text": "Thanks. Can I ask you a few questions?",
+      "source": "Butch13",
+      "target": "Butch17"
+    },
+    {
+      "text": "How do I find out about the Death Claw?",
+      "source": "Butch13",
+      "target": "Butch13a"
+    },
+    {
+      "text": "You sound scared.",
+      "source": "Butch13",
+      "target": "Butch14"
+    },
+    {
+      "text": "",
+      "source": "UpReactLevel",
+      "target": "LevelToReact"
+    },
+    {
+      "text": "",
+      "source": "Butch51a",
+      "target": "Butch49"
+    },
+    {
+      "text": "",
+      "source": "Butch51a",
+      "target": "Butch52"
+    },
+    {
+      "text": "Are you deaf?",
+      "source": "Butch31",
+      "target": "Butch15"
+    },
+    {
+      "text": "Nothing. I need to ask you a few more questions, though.",
+      "source": "Butch31",
+      "target": "Butch17"
+    },
+    {
+      "text": "",
+      "source": "Butch36",
+      "target": "Butch00"
+    },
+    {
+      "text": "Well, thanks for nothing.",
+      "source": "Butch36",
+      "target": "Butch30a"
+    },
+    {
+      "text": "Nothing. So what do you want me to do?",
+      "source": "Butch19",
+      "target": "Butch19a"
+    },
+    {
+      "text": "I was implying that you were too frightened to go look for them.",
+      "source": "Butch19",
+      "target": "Butch15"
+    },
+    {
+      "text": "Anything else?",
+      "source": "Butch24",
+      "target": "Butch25"
+    },
+    {
+      "text": "",
+      "source": "Butch24",
+      "target": "Butch00"
+    },
+    {
+      "text": "",
+      "source": "Butch25",
+      "target": "Butch00"
+    },
+    {
+      "text": "No thanks.",
+      "source": "Butch20",
+      "target": "Butch18"
+    },
+    {
+      "text": "",
+      "source": "Butch20",
+      "target": "DownReactLevel"
+    },
+    {
+      "text": "Sure.",
+      "source": "Butch20",
+      "target": "Butch16"
+    },
+    {
+      "text": "",
+      "source": "Butch68",
+      "target": "ButchEnd"
+    },
+    {
+      "text": "Where do I get my reward?",
+      "source": "Butch73",
+      "target": "Butch68"
+    },
+    {
+      "text": "I'll go check it out.",
+      "source": "Butch13a",
+      "target": "Butch16"
+    },
+    {
+      "text": "Yep, you're as scared as a whipped dog.",
+      "source": "Butch13a",
+      "target": "Butch15"
+    },
+    {
+      "text": "I need some more information.",
+      "source": "Butch13a",
+      "target": "Butch17"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc_4",
+      "target": "ButchEndTransport"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc_4",
+      "target": "Butch37"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc_4",
+      "target": "Butch60"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc_4",
+      "target": "get_reaction"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc_4",
+      "target": "Butch73"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc_4",
+      "target": "Butch59"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc_4",
+      "target": "Butch01"
+    },
+    {
+      "text": "",
+      "source": "get_reaction",
+      "target": "ReactToLevel"
+    },
+    {
+      "text": "What else is around here, besides the Hub?",
+      "source": "Butch00",
+      "target": "Butch00a"
+    },
+    {
+      "text": "Thanks, that's it.",
+      "source": "Butch00",
+      "target": "ButchEnd"
+    },
+    {
+      "text": "Heard any good rumors?",
+      "source": "Butch00",
+      "target": "Butch10"
+    },
+    {
+      "text": "Tell me about yourself.",
+      "source": "Butch00",
+      "target": "Butch23"
+    },
+    {
+      "text": "What's in the Hub?",
+      "source": "Butch00",
+      "target": "Butch27"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc_2",
+      "target": "ButchEndTransport"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc_2",
+      "target": "Butch73"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc_2",
+      "target": "Butch37"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc_2",
+      "target": "Butch60"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc_2",
+      "target": "Butch01"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc_2",
+      "target": "get_reaction"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc_2",
+      "target": "Butch59"
+    },
+    {
+      "text": "Been there, saw that, killed it.",
+      "source": "Butch40",
+      "target": "Butch41"
+    },
+    {
+      "text": "I'm telling you that it wasn't the Death Claw.",
+      "source": "Butch40",
+      "target": "Butch46"
+    },
+    {
+      "text": "",
+      "source": "Butch16",
+      "target": "ButchX3"
+    },
+    {
+      "text": "",
+      "source": "Butch58",
+      "target": "ButchX3"
+    },
+    {
+      "text": "Yep, I've seen him! And he's coming to get you!",
+      "source": "Butch43",
+      "target": "Butch45"
+    },
+    {
+      "text": "I'm not sure. But I intend to find out.",
+      "source": "Butch43",
+      "target": "Butch44"
+    },
+    {
+      "text": "I don't know, but they seem to be taking the humans prisoner.",
+      "source": "Butch39",
+      "target": "Butch40"
+    },
+    {
+      "text": "I don't know for sure. But it's mutants, not the Death Claw.",
+      "source": "Butch39",
+      "target": "Butch46"
+    },
+    {
+      "text": "",
+      "source": "BigUpReact",
+      "target": "ReactToLevel"
+    },
+    {
+      "text": "I need some more information.",
+      "source": "Butch14",
+      "target": "Butch17"
+    },
+    {
+      "text": "You sound as scared as a whipped dog.",
+      "source": "Butch14",
+      "target": "Butch15"
+    },
+    {
+      "text": "",
+      "source": "Butch14",
+      "target": "DownReactLevel"
+    },
+    {
+      "text": "Sorrrry. I'll go check it out.",
+      "source": "Butch14",
+      "target": "Butch16"
+    },
+    {
+      "text": "",
+      "source": "Butch45",
+      "target": "ButchX2"
+    },
+    {
+      "text": "",
+      "source": "Butch34",
+      "target": "Butch00"
+    },
+    {
+      "text": "Anything else?",
+      "source": "Butch34",
+      "target": "Butch35"
+    },
+    {
+      "text": "No, really. BIG rats!",
+      "source": "Butch51",
+      "target": "Butch51a"
+    },
+    {
+      "text": "You're right. I was just kidding.",
+      "source": "Butch51",
+      "target": "Butch50"
+    },
+    {
+      "text": "Okay, thanks.",
+      "source": "Butch12",
+      "target": "ButchEndAccept"
+    },
+    {
+      "text": "Well, I do. What is it?",
+      "source": "Butch12",
+      "target": "Butch12a"
+    },
+    {
+      "text": "Been there, saw that, killed it.",
+      "source": "Butch53",
+      "target": "Butch54"
+    },
+    {
+      "text": "Just trust me. I know.",
+      "source": "Butch53",
+      "target": "Butch53a"
+    },
+    {
+      "text": "Ralph did it.",
+      "source": "Butch54a",
+      "target": "Butch56"
+    },
+    {
+      "text": "I don't know yet, but I'll find out.",
+      "source": "Butch54a",
+      "target": "Butch55"
+    },
+    {
+      "text": "",
+      "source": "BigDownReact",
+      "target": "ReactToLevel"
+    },
+    {
+      "text": "",
+      "source": "Butch17",
+      "target": "Butch00"
+    },
+    {
+      "text": "",
+      "source": "Butch29",
+      "target": "Butch00"
+    },
+    {
+      "text": "What stores?",
+      "source": "Butch29",
+      "target": "Butch32"
+    },
+    {
+      "text": "Well, I know it wasn't the Death Claw who took the caravans.",
+      "source": "Butch59",
+      "target": "Butch54a"
+    },
+    {
+      "text": "It was Mutants.",
+      "source": "Butch59",
+      "target": "Butch40"
+    },
+    {
+      "text": "What was I supposed to do again?",
+      "source": "Butch59",
+      "target": "Butch67"
+    },
+    {
+      "text": "Nothing yet.",
+      "source": "Butch59",
+      "target": "Butch49"
+    },
+    {
+      "text": "Oh come on. There has to be something I can use.",
+      "source": "Butch10",
+      "target": "Butch12"
+    },
+    {
+      "text": "",
+      "source": "Butch27a",
+      "target": "Butch29"
+    },
+    {
+      "text": "",
+      "source": "Butch27a",
+      "target": "Butch30"
+    },
+    {
+      "text": "They work for The Master. They aren't your regular mutants, either.",
+      "source": "Butch41",
+      "target": "Butch34"
+    },
+    {
+      "text": "I don't know yet. But they have an outpost in the mountains.",
+      "source": "Butch41",
+      "target": "Butch42"
+    },
+    {
+      "text": "",
+      "source": "Butch19a",
+      "target": "Butch20"
+    },
+    {
+      "text": "",
+      "source": "Butch19a",
+      "target": "Butch09"
+    },
+    {
+      "text": "",
+      "source": "DownReactLevel",
+      "target": "LevelToReact"
+    },
+    {
+      "text": "I just want to know some general places.",
+      "source": "Butch27",
+      "target": "Butch27a"
+    },
+    {
+      "text": "No, you seem to be a brilliant man.",
+      "source": "Butch27",
+      "target": "Butch28"
+    },
+    {
+      "text": "",
+      "source": "Butch32",
+      "target": "Butch00"
+    },
+    {
+      "text": "",
+      "source": "Butch49",
+      "target": "ButchX3"
+    },
+    {
+      "text": "How much does it pay?",
+      "source": "Butch04",
+      "target": "Butch05"
+    },
+    {
+      "text": "Uh . . . what is the job?",
+      "source": "Butch04",
+      "target": "Butch08"
+    },
+    {
+      "text": "Well, if you feel that way, I'll just go talk to Rutger.",
+      "source": "Butch04",
+      "target": "ButchEndAccept"
+    },
+    {
+      "text": "",
+      "source": "Butch57",
+      "target": "ButchX3"
+    },
+    {
+      "text": "",
+      "source": "Butch33",
+      "target": "Butch00"
+    },
+    {
+      "text": "Sounds like fun.",
+      "source": "Butch35",
+      "target": "Butch35a"
+    },
+    {
+      "text": "",
+      "source": "Butch42",
+      "target": "ButchX2"
+    },
+    {
+      "text": "",
+      "source": "Butch12a",
+      "target": "Butch13"
+    },
+    {
+      "text": "",
+      "source": "Butch47",
+      "target": "ButchX2"
+    },
+    {
+      "text": "You really are stupid, aren't you? You're not listening!",
+      "source": "Butch46",
+      "target": "Butch47"
+    },
+    {
+      "text": "No, no, no, you pinhead. These mutants are big and green and they have an army in the mountains to the north.",
+      "source": "Butch46",
+      "target": "Butch42"
+    },
+    {
+      "text": "",
+      "source": "UpReact",
+      "target": "ReactToLevel"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc_1",
+      "target": "ButchEndTransport"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc_1",
+      "target": "Butch37"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc_1",
+      "target": "Butch60"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc_1",
+      "target": "get_reaction"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc_1",
+      "target": "Butch73"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc_1",
+      "target": "Butch59"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc_1",
+      "target": "Butch01"
+    },
+    {
+      "text": "Okay, thanks.",
+      "source": "Butch05",
+      "target": "ButchEndAccept"
+    },
+    {
+      "text": "One more question, okay?",
+      "source": "Butch05",
+      "target": "Butch06_1"
+    }
+  ]
+}

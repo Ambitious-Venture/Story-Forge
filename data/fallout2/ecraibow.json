@@ -1,0 +1,34 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "The Rainbow Confederation will live on.",
+      "node_id": "node14",
+      "id": "NodeFleeing"
+    },
+    {
+      "text": "Proud to be a dyke!",
+      "node_id": "node15_1",
+      "id": "NodeFighting_1"
+    },
+    {
+      "text": "",
+      "node_id": "node13",
+      "id": "combat_p_proc"
+    }
+  ],
+  "links": [
+    {
+      "text": "",
+      "source": "combat_p_proc",
+      "target": "NodeFighting_1"
+    },
+    {
+      "text": "",
+      "source": "combat_p_proc",
+      "target": "NodeFleeing"
+    }
+  ]
+}

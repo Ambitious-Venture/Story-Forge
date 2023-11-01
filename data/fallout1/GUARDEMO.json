@@ -1,0 +1,84 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "Don't tell me what to do, loser boy.",
+      "node_id": "node4_2",
+      "id": "guard00_2"
+    },
+    {
+      "text": "I like my boss.",
+      "node_id": "node5_1",
+      "id": "guard02a_1"
+    },
+    {
+      "text": "A Junktown guard.",
+      "node_id": "node1_1",
+      "id": "start_1"
+    },
+    {
+      "text": "",
+      "node_id": "node2",
+      "id": "do_dialogue"
+    },
+    {
+      "text": "Put what away?",
+      "node_id": "node4_1",
+      "id": "guard00_1"
+    },
+    {
+      "text": "Sounds fair. By the way, what is the local law regarding weapons?",
+      "node_id": "node4_3",
+      "id": "guard00_3"
+    },
+    {
+      "text": "Uh oh.",
+      "node_id": "node4_4",
+      "id": "guard00_4"
+    },
+    {
+      "text": "",
+      "node_id": "node3",
+      "id": "weapon_check"
+    }
+  ],
+  "links": [
+    {
+      "text": "",
+      "source": "start_1",
+      "target": "weapon_check"
+    },
+    {
+      "text": "",
+      "source": "start_1",
+      "target": "do_dialogue"
+    },
+    {
+      "text": "",
+      "source": "do_dialogue",
+      "target": "guard00_2"
+    },
+    {
+      "text": "",
+      "source": "do_dialogue",
+      "target": "guard00_3"
+    },
+    {
+      "text": "",
+      "source": "do_dialogue",
+      "target": "guard00_4"
+    },
+    {
+      "text": "",
+      "source": "do_dialogue",
+      "target": "guard02a_1"
+    },
+    {
+      "text": "",
+      "source": "do_dialogue",
+      "target": "guard00_1"
+    }
+  ]
+}

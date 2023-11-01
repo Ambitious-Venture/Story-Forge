@@ -1,0 +1,474 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "Whatever.",
+      "node_id": "node21_4",
+      "id": "Node007_4"
+    },
+    {
+      "text": "What are you chump, blind? This is a slave pen. You want to know more, talk to Vortis.",
+      "node_id": "node18",
+      "id": "Node004"
+    },
+    {
+      "text": "Everybody's heard of Vault 13. When I was a kid, me and my friends used to go prospecting for it. Supposed to be east of here, so we searched everything but never did find it.",
+      "node_id": "node23",
+      "id": "Node009"
+    },
+    {
+      "text": "",
+      "node_id": "node3",
+      "id": "critter_p_proc"
+    },
+    {
+      "text": "That'd be Vortis, the old guy.",
+      "node_id": "node20",
+      "id": "Node006"
+    },
+    {
+      "text": "",
+      "node_id": "node5",
+      "id": "anim_end_call"
+    },
+    {
+      "text": "",
+      "node_id": "node4",
+      "id": "talk_p_proc"
+    },
+    {
+      "text": "Those bastards killed my brother and then said it was for the good of the people! \u00a0I want them dead. If you can help, talk to Vortis.",
+      "node_id": "node22",
+      "id": "Node008"
+    },
+    {
+      "text": "I know more than old Vortis gives me credit for, you know.",
+      "node_id": "node21_2",
+      "id": "Node007_2"
+    },
+    {
+      "text": "It that so? Well, I'm sending you back in a body bag.",
+      "node_id": "node19",
+      "id": "Node005"
+    },
+    {
+      "text": "Go on, get out of here. I've already got enough idiot guards!",
+      "node_id": "node17",
+      "id": "Node003"
+    },
+    {
+      "text": "",
+      "node_id": "node16",
+      "id": "Node999"
+    },
+    {
+      "text": "What the hell are you? Some kind of burglar?",
+      "node_id": "node7",
+      "id": "Node001"
+    },
+    {
+      "text": "Well, I've done a lot more than most people suspect. Like this job, though. It's nice and cushy.",
+      "node_id": "node21_3",
+      "id": "Node007_3"
+    },
+    {
+      "text": "GECK, eh? Back when I was studying Vault tech, I read about those. Supposedly every vault got one and it was supposed to be the first thing used once a vault got opened. They say that's how Shady Sands got its start - from a GECK. That help at all?",
+      "node_id": "node24",
+      "id": "Node010"
+    },
+    {
+      "text": "The Enclave.... You know, there's a doc in town, goes by the name of Henry. One night when he was drunk he started going on about some guys he called the Enclave.",
+      "node_id": "node25",
+      "id": "Node011"
+    },
+    {
+      "text": "What do you want?",
+      "node_id": "node8",
+      "id": "Node002"
+    },
+    {
+      "text": "Thanks, stranger.",
+      "node_id": "node21_1",
+      "id": "Node007_1"
+    },
+    {
+      "text": "Me, I'm always on the lookout - problem is, nobody ever wants to hire a slaver anymore. Vortis, my boss, has got something hush-hush. And in town the ranchers at the Stockmen's Association are always hiring plus Dorothy can always use a hand at the powerplant if you got skills. Word is even President Tandi's looking for a specialist.",
+      "node_id": "node26",
+      "id": "Node012"
+    },
+    {
+      "text": "You cut their... you knows... off for me, okay?",
+      "node_id": "node27",
+      "id": "Node013"
+    }
+  ],
+  "links": [
+    {
+      "text": "Forget it. I don't want to take up your time.",
+      "source": "Node007_4",
+      "target": "Node999"
+    },
+    {
+      "text": "I'm looking for work. Know anybody who's hiring?",
+      "source": "Node007_4",
+      "target": "Node012"
+    },
+    {
+      "text": "Ever hear of a GECK?",
+      "source": "Node007_4",
+      "target": "Node010"
+    },
+    {
+      "text": "Know anything about an outfit called the Enclave?",
+      "source": "Node007_4",
+      "target": "Node011"
+    },
+    {
+      "text": "I'm looking for Vault 13. Ever hear of it?",
+      "source": "Node007_4",
+      "target": "Node009"
+    },
+    {
+      "text": "What's the deal with these Rangers I hear about?",
+      "source": "Node007_4",
+      "target": "Node008"
+    },
+    {
+      "text": "I'm sure you tried hard. I'd like to ask some more questions, since you know so much.",
+      "source": "Node009",
+      "target": "Node007_4"
+    },
+    {
+      "text": "I'm sure you tried hard. I'd like to ask some more questions, since you know so much.",
+      "source": "Node009",
+      "target": "Node007_2"
+    },
+    {
+      "text": "I'm sure you tried hard. I'd like to ask some more questions, since you know so much.",
+      "source": "Node009",
+      "target": "Node007_3"
+    },
+    {
+      "text": "Well, I got to go.",
+      "source": "Node009",
+      "target": "Node999"
+    },
+    {
+      "text": "I'm sure you tried hard. I'd like to ask some more questions, since you know so much.",
+      "source": "Node009",
+      "target": "Node007_1"
+    },
+    {
+      "text": "",
+      "source": "critter_p_proc",
+      "target": "anim_end_call"
+    },
+    {
+      "text": "",
+      "source": "critter_p_proc",
+      "target": "talk_p_proc"
+    },
+    {
+      "text": "Thanks. Say, you seem like a bright guy. I'll bet you can help me out with a few questions",
+      "source": "Node006",
+      "target": "Node007_1"
+    },
+    {
+      "text": "The old guy, eh? Okay.",
+      "source": "Node006",
+      "target": "Node999"
+    },
+    {
+      "text": "Thanks. Say, you seem like a bright guy. I'll bet you can help me out with a few questions",
+      "source": "Node006",
+      "target": "Node007_4"
+    },
+    {
+      "text": "Thanks. Say, you seem like a bright guy. I'll bet you can help me out with a few questions",
+      "source": "Node006",
+      "target": "Node007_2"
+    },
+    {
+      "text": "Thanks. Say, you seem like a bright guy. I'll bet you can help me out with a few questions",
+      "source": "Node006",
+      "target": "Node007_3"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node002"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node001"
+    },
+    {
+      "text": "Sounds like a good idea to me.",
+      "source": "Node008",
+      "target": "Node013"
+    },
+    {
+      "text": "Right. Think I'll do that right now.",
+      "source": "Node008",
+      "target": "Node999"
+    },
+    {
+      "text": "Vortis, eh? You're a fountain of wisdom. What else do you know?",
+      "source": "Node008",
+      "target": "Node007_1"
+    },
+    {
+      "text": "Vortis, eh? You're a fountain of wisdom. What else do you know?",
+      "source": "Node008",
+      "target": "Node007_4"
+    },
+    {
+      "text": "Vortis, eh? You're a fountain of wisdom. What else do you know?",
+      "source": "Node008",
+      "target": "Node007_2"
+    },
+    {
+      "text": "Vortis, eh? You're a fountain of wisdom. What else do you know?",
+      "source": "Node008",
+      "target": "Node007_3"
+    },
+    {
+      "text": "What's the deal with these Rangers I hear about?",
+      "source": "Node007_2",
+      "target": "Node008"
+    },
+    {
+      "text": "Forget it. I don't want to take up your time.",
+      "source": "Node007_2",
+      "target": "Node999"
+    },
+    {
+      "text": "I'm looking for work. Know anybody who's hiring?",
+      "source": "Node007_2",
+      "target": "Node012"
+    },
+    {
+      "text": "Ever hear of a GECK?",
+      "source": "Node007_2",
+      "target": "Node010"
+    },
+    {
+      "text": "Know anything about an outfit called the Enclave?",
+      "source": "Node007_2",
+      "target": "Node011"
+    },
+    {
+      "text": "I'm looking for Vault 13. Ever hear of it?",
+      "source": "Node007_2",
+      "target": "Node009"
+    },
+    {
+      "text": "Know anything about an outfit called the Enclave?",
+      "source": "Node007_3",
+      "target": "Node011"
+    },
+    {
+      "text": "Forget it. I don't want to take up your time.",
+      "source": "Node007_3",
+      "target": "Node999"
+    },
+    {
+      "text": "What's the deal with these Rangers I hear about?",
+      "source": "Node007_3",
+      "target": "Node008"
+    },
+    {
+      "text": "I'm looking for work. Know anybody who's hiring?",
+      "source": "Node007_3",
+      "target": "Node012"
+    },
+    {
+      "text": "Ever hear of a GECK?",
+      "source": "Node007_3",
+      "target": "Node010"
+    },
+    {
+      "text": "I'm looking for Vault 13. Ever hear of it?",
+      "source": "Node007_3",
+      "target": "Node009"
+    },
+    {
+      "text": "You studied vault tech? Impressive. Say, I got some more questions for you.",
+      "source": "Node010",
+      "target": "Node007_1"
+    },
+    {
+      "text": "Well, I got to go.",
+      "source": "Node010",
+      "target": "Node999"
+    },
+    {
+      "text": "You studied vault tech? Impressive. Say, I got some more questions for you.",
+      "source": "Node010",
+      "target": "Node007_4"
+    },
+    {
+      "text": "You studied vault tech? Impressive. Say, I got some more questions for you.",
+      "source": "Node010",
+      "target": "Node007_2"
+    },
+    {
+      "text": "You studied vault tech? Impressive. Say, I got some more questions for you.",
+      "source": "Node010",
+      "target": "Node007_3"
+    },
+    {
+      "text": "That's just what I needed to know. You are a well-informed man.",
+      "source": "Node011",
+      "target": "Node007_4"
+    },
+    {
+      "text": "That's just what I needed to know. You are a well-informed man.",
+      "source": "Node011",
+      "target": "Node007_2"
+    },
+    {
+      "text": "That's just what I needed to know. You are a well-informed man.",
+      "source": "Node011",
+      "target": "Node007_3"
+    },
+    {
+      "text": "That's all I need bother you with. Thanks.",
+      "source": "Node011",
+      "target": "Node999"
+    },
+    {
+      "text": "That's just what I needed to know. You are a well-informed man.",
+      "source": "Node011",
+      "target": "Node007_1"
+    },
+    {
+      "text": "Brother slaver, I've got a few questions.",
+      "source": "Node002",
+      "target": "Node007_4"
+    },
+    {
+      "text": "Kurg?",
+      "source": "Node002",
+      "target": "Node003"
+    },
+    {
+      "text": "Brother slaver, I've got a few questions.",
+      "source": "Node002",
+      "target": "Node007_2"
+    },
+    {
+      "text": "Brother slaver, I've got a few questions.",
+      "source": "Node002",
+      "target": "Node007_3"
+    },
+    {
+      "text": "Brother slaver, I've got a few questions.",
+      "source": "Node002",
+      "target": "Node007_1"
+    },
+    {
+      "text": "What is this place?",
+      "source": "Node002",
+      "target": "Node004"
+    },
+    {
+      "text": "The Rangers sent me.",
+      "source": "Node002",
+      "target": "Node005"
+    },
+    {
+      "text": "I'm looking for the owner.",
+      "source": "Node002",
+      "target": "Node006"
+    },
+    {
+      "text": "Sorry, wrong guy.",
+      "source": "Node002",
+      "target": "Node999"
+    },
+    {
+      "text": "What's the deal with these Rangers I hear about?",
+      "source": "Node007_1",
+      "target": "Node008"
+    },
+    {
+      "text": "I'm looking for work. Know anybody who's hiring?",
+      "source": "Node007_1",
+      "target": "Node012"
+    },
+    {
+      "text": "Forget it. I don't want to take up your time.",
+      "source": "Node007_1",
+      "target": "Node999"
+    },
+    {
+      "text": "Ever hear of a GECK?",
+      "source": "Node007_1",
+      "target": "Node010"
+    },
+    {
+      "text": "I'm looking for Vault 13. Ever hear of it?",
+      "source": "Node007_1",
+      "target": "Node009"
+    },
+    {
+      "text": "Know anything about an outfit called the Enclave?",
+      "source": "Node007_1",
+      "target": "Node011"
+    },
+    {
+      "text": "Man, you know a lot. I could spend all day asking you questions.",
+      "source": "Node012",
+      "target": "Node007_2"
+    },
+    {
+      "text": "Man, you know a lot. I could spend all day asking you questions.",
+      "source": "Node012",
+      "target": "Node007_3"
+    },
+    {
+      "text": "Well, I'll get right on these leads.",
+      "source": "Node012",
+      "target": "Node999"
+    },
+    {
+      "text": "Man, you know a lot. I could spend all day asking you questions.",
+      "source": "Node012",
+      "target": "Node007_1"
+    },
+    {
+      "text": "Man, you know a lot. I could spend all day asking you questions.",
+      "source": "Node012",
+      "target": "Node007_4"
+    },
+    {
+      "text": "I'll take care of them, don't worry.",
+      "source": "Node013",
+      "target": "Node999"
+    },
+    {
+      "text": "No problem. There's some other stuff I'd like to know, though.",
+      "source": "Node013",
+      "target": "Node007_4"
+    },
+    {
+      "text": "No problem. There's some other stuff I'd like to know, though.",
+      "source": "Node013",
+      "target": "Node007_2"
+    },
+    {
+      "text": "No problem. There's some other stuff I'd like to know, though.",
+      "source": "Node013",
+      "target": "Node007_3"
+    },
+    {
+      "text": "No problem. There's some other stuff I'd like to know, though.",
+      "source": "Node013",
+      "target": "Node007_1"
+    }
+  ]
+}

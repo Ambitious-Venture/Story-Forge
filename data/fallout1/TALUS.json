@@ -1,0 +1,24 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "",
+      "node_id": "node39",
+      "id": "Talus14a"
+    },
+    {
+      "text": "No. I think you should leave.",
+      "node_id": "node40",
+      "id": "Talus34"
+    }
+  ],
+  "links": [
+    {
+      "text": "",
+      "source": "Talus14a",
+      "target": "Talus34"
+    }
+  ]
+}

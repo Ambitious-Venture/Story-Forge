@@ -1,0 +1,74 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "You temporarily disable the force field with the damage to the emitter.",
+      "node_id": "node5_1",
+      "id": "damage_p_proc_1"
+    },
+    {
+      "text": "You fail to do anything with the force field emitter.",
+      "node_id": "node4_2",
+      "id": "use_skill_on_p_proc_2"
+    },
+    {
+      "text": "",
+      "node_id": "node1",
+      "id": "start"
+    },
+    {
+      "text": "You do not see a control panel on this emitter. Perhaps there is another way to lower this force field.",
+      "node_id": "node2",
+      "id": "use_p_proc"
+    },
+    {
+      "text": "You fail to do anything with the force field emitter.",
+      "node_id": "node3_2",
+      "id": "use_obj_on_p_proc_2"
+    },
+    {
+      "text": "You enable the force field emitter.",
+      "node_id": "node3_1",
+      "id": "use_obj_on_p_proc_1"
+    },
+    {
+      "text": "You enable the force field emitter.",
+      "node_id": "node4_1",
+      "id": "use_skill_on_p_proc_1"
+    }
+  ],
+  "links": [
+    {
+      "text": "",
+      "source": "start",
+      "target": "use_obj_on_p_proc_2"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "damage_p_proc_1"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "use_skill_on_p_proc_1"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "use_obj_on_p_proc_1"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "use_p_proc"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "use_skill_on_p_proc_2"
+    }
+  ]
+}

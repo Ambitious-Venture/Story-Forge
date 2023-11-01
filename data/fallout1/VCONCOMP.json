@@ -1,0 +1,689 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "Patient file #23781. Subject: Female. Age 20. Radiation count: 10. FEV exposure: 55%. Original DNA strands remaining: 45%. Vital signs are within normal  parameters.",
+      "node_id": "node46",
+      "id": "VConComp25"
+    },
+    {
+      "text": "Invalid command. End input session.",
+      "node_id": "node14",
+      "id": "VConComp11"
+    },
+    {
+      "text": "Executing 31914-1041-1251514",
+      "node_id": "node19",
+      "id": "VConComp06"
+    },
+    {
+      "text": "",
+      "node_id": "node1",
+      "id": "start"
+    },
+    {
+      "text": "Command?",
+      "node_id": "node13",
+      "id": "VConComp02"
+    },
+    {
+      "text": "Increasing dosage of original DNA to 100%. WARNING: Auto-correction has  been disabled.",
+      "node_id": "node51",
+      "id": "VConComp31"
+    },
+    {
+      "text": "Invalid authorization code. Command?",
+      "node_id": "node36",
+      "id": "VConComp20"
+    },
+    {
+      "text": "Executing 67209-5574-7805564",
+      "node_id": "node18",
+      "id": "VConComp04"
+    },
+    {
+      "text": "",
+      "node_id": "node12",
+      "id": "VConComp01a"
+    },
+    {
+      "text": "Executing 17652-1028-1285362",
+      "node_id": "node17",
+      "id": "VConComp03"
+    },
+    {
+      "text": "",
+      "node_id": "node40",
+      "id": "VConComp19a"
+    },
+    {
+      "text": "Executing 44309-3674-1254730",
+      "node_id": "node21",
+      "id": "VConComp08"
+    },
+    {
+      "text": "",
+      "node_id": "node33",
+      "id": "VConComp17a"
+    },
+    {
+      "text": "Available options are:",
+      "node_id": "node35",
+      "id": "VConComp18"
+    },
+    {
+      "text": "",
+      "node_id": "node28",
+      "id": "VConComp12a"
+    },
+    {
+      "text": "Download log of Capt. Maxson?",
+      "node_id": "node27",
+      "id": "VConComp13"
+    },
+    {
+      "text": "Are you sure you wish to terminate the life support systems on FEV batch  #23872-A?",
+      "node_id": "node41",
+      "id": "VConComp27"
+    },
+    {
+      "text": "The explosion destroys the vat control system. Without regulation, it will certainly cycle out of control in minutes.",
+      "node_id": "node2",
+      "id": "damage_p_proc"
+    },
+    {
+      "text": "Patient file #23870. Subject: Male. Age 23. Radiation count: 15. FEV exposure: 60%. Original DNA strands remaining: 40%. Vital signs are within  normal parameters.",
+      "node_id": "node45",
+      "id": "VConComp24"
+    },
+    {
+      "text": "[You have successfully hacked into the encryption table.] Command?",
+      "node_id": "node23",
+      "id": "VConComp09"
+    },
+    {
+      "text": "Patient file #23869. Subject: Male. Age 25. Radiation count: 40. FEV exposure: 50%. Original DNA strands remaining: 50%. Vital signs are high but within normal  parameters.",
+      "node_id": "node44",
+      "id": "VConComp23"
+    },
+    {
+      "text": "You try to use the computer, but are unable to get any useful information  out of it.",
+      "node_id": "node6",
+      "id": "use_p_proc"
+    },
+    {
+      "text": "Patient file #23782. Subject: Male. Age 26. Radiation count: 35. FEV exposure: 60%. Original DNA strands remaining: 40%. Vital signs are above normal but within acceptable parameters.",
+      "node_id": "node47",
+      "id": "VConComp26"
+    },
+    {
+      "text": "Access granted. Command?",
+      "node_id": "node10",
+      "id": "VConComp01"
+    },
+    {
+      "text": "Invalid command. End input session.",
+      "node_id": "node24",
+      "id": "VConComp10"
+    },
+    {
+      "text": "",
+      "node_id": "node34",
+      "id": "VConComp17b"
+    },
+    {
+      "text": "FEV batch #23872-A terminated. Command?",
+      "node_id": "node48",
+      "id": "VConComp28"
+    },
+    {
+      "text": "Please enter authorization code.",
+      "node_id": "node38",
+      "id": "VConComp19"
+    },
+    {
+      "text": "Access denied.",
+      "node_id": "node11",
+      "id": "VConComp00"
+    },
+    {
+      "text": "",
+      "node_id": "node16",
+      "id": "VConCompEnd"
+    },
+    {
+      "text": "Are you sure you wish to increase the dosage? Auto-correction will be  disabled if you do this.",
+      "node_id": "node42",
+      "id": "VConComp30"
+    },
+    {
+      "text": "",
+      "node_id": "node30",
+      "id": "VConComp13a"
+    },
+    {
+      "text": "You slide the security card across the terminal's reader. The terminal clicks and whirrs, and an unencrypted screen comes up.",
+      "node_id": "node7",
+      "id": "use_obj_on_p_proc"
+    },
+    {
+      "text": "You see the Vats Control Computer.",
+      "node_id": "node3",
+      "id": "look_at_p_proc"
+    },
+    {
+      "text": "Download log of Richard Grey?",
+      "node_id": "node25",
+      "id": "VConComp12"
+    },
+    {
+      "text": "Command?",
+      "node_id": "node29",
+      "id": "VConComp15"
+    },
+    {
+      "text": "Available options are:",
+      "node_id": "node49",
+      "id": "VConComp29"
+    },
+    {
+      "text": "Executing 53478-2565-7763929",
+      "node_id": "node20",
+      "id": "VConComp07"
+    },
+    {
+      "text": "",
+      "node_id": "node22",
+      "id": "VConComp02a"
+    },
+    {
+      "text": "",
+      "node_id": "node37",
+      "id": "VConComp18a"
+    },
+    {
+      "text": "",
+      "node_id": "node9",
+      "id": "Update_Invasion"
+    },
+    {
+      "text": "Access granted. Which patient file would you like to examine?",
+      "node_id": "node43",
+      "id": "VConComp22"
+    },
+    {
+      "text": "Current status on patients as follows: FEV batch #23872-A consists of four male units and two female units. All individuals suffering from FEV exposure. Vital signs are within normal parameters. FEV process on all subjects is approxiamtely 50% complete. Expect full FEV transformation within 12 hours.",
+      "node_id": "node32",
+      "id": "VConComp17"
+    },
+    {
+      "text": "Unexpected end of line. Bad data encountered. Command?",
+      "node_id": "node26",
+      "id": "VConComp14"
+    },
+    {
+      "text": "You try to use the computer, but the system is too complex for you to understand easily. You'll have to keep trying.",
+      "node_id": "node8_1",
+      "id": "use_skill_on_p_proc_1"
+    },
+    {
+      "text": "Uplink successful. What is your command?",
+      "node_id": "node31",
+      "id": "VConComp16"
+    },
+    {
+      "text": "",
+      "node_id": "node5",
+      "id": "talk_p_proc"
+    },
+    {
+      "text": "Executing 55658-8678-1251533",
+      "node_id": "node15",
+      "id": "VConComp05"
+    },
+    {
+      "text": "You notice that the maintenance panel is removed, exposing the fragile  computer components.",
+      "node_id": "node4",
+      "id": "description_p_proc"
+    },
+    {
+      "text": "Authorization code accepted. Please stand by. Accessing data. Ready to process request.",
+      "node_id": "node39",
+      "id": "VConComp21"
+    },
+    {
+      "text": "You manage to get an interface screen out of the vats control computer.",
+      "node_id": "node50",
+      "id": "VConComp32"
+    }
+  ],
+  "links": [
+    {
+      "text": "I would like to examine another patient file.",
+      "source": "VConComp25",
+      "target": "VConComp22"
+    },
+    {
+      "text": "Return to main menu.",
+      "source": "VConComp25",
+      "target": "VConComp18"
+    },
+    {
+      "text": "Boyarsky",
+      "source": "VConComp11",
+      "target": "VConComp14"
+    },
+    {
+      "text": "Maxson",
+      "source": "VConComp11",
+      "target": "VConComp13"
+    },
+    {
+      "text": "Grey",
+      "source": "VConComp11",
+      "target": "VConComp12"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "description_p_proc"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "look_at_p_proc"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "damage_p_proc"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "talk_p_proc"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "use_skill_on_p_proc_1"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "use_p_proc"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "use_obj_on_p_proc"
+    },
+    {
+      "text": "[Attempt to hack the firewall to get more data] Display security code  encryption table.",
+      "source": "VConComp02",
+      "target": "VConComp02a"
+    },
+    {
+      "text": "55658-8678-1251533",
+      "source": "VConComp02",
+      "target": "VConComp05"
+    },
+    {
+      "text": "44309-3674-1254730",
+      "source": "VConComp02",
+      "target": "VConComp08"
+    },
+    {
+      "text": "53478-2565-7763929",
+      "source": "VConComp02",
+      "target": "VConComp07"
+    },
+    {
+      "text": "17652-1028-1285362",
+      "source": "VConComp02",
+      "target": "VConComp03"
+    },
+    {
+      "text": "67209-5574-7805564",
+      "source": "VConComp02",
+      "target": "VConComp04"
+    },
+    {
+      "text": "31914-1041-1251514",
+      "source": "VConComp02",
+      "target": "VConComp06"
+    },
+    {
+      "text": "Log off.",
+      "source": "VConComp31",
+      "target": "VConCompEnd"
+    },
+    {
+      "text": "Return to main menu.",
+      "source": "VConComp31",
+      "target": "VConComp32"
+    },
+    {
+      "text": "",
+      "source": "VConComp20",
+      "target": "VConComp18a"
+    },
+    {
+      "text": "Search logs.",
+      "source": "VConComp01a",
+      "target": "VConComp11"
+    },
+    {
+      "text": "[Exit system]",
+      "source": "VConComp01a",
+      "target": "VConCompEnd"
+    },
+    {
+      "text": "Display security codes.",
+      "source": "VConComp01a",
+      "target": "VConComp02"
+    },
+    {
+      "text": "Set base to alert status.",
+      "source": "VConComp01a",
+      "target": "VConComp05"
+    },
+    {
+      "text": "",
+      "source": "VConComp19a",
+      "target": "VConComp20"
+    },
+    {
+      "text": "",
+      "source": "VConComp19a",
+      "target": "VConComp21"
+    },
+    {
+      "text": "",
+      "source": "VConComp17a",
+      "target": "VConComp20"
+    },
+    {
+      "text": "",
+      "source": "VConComp17a",
+      "target": "VConComp18"
+    },
+    {
+      "text": "",
+      "source": "VConComp18",
+      "target": "VConComp18a"
+    },
+    {
+      "text": "",
+      "source": "VConComp12a",
+      "target": "VConComp15"
+    },
+    {
+      "text": "Yes.",
+      "source": "VConComp13",
+      "target": "VConComp13a"
+    },
+    {
+      "text": "Yes.",
+      "source": "VConComp27",
+      "target": "VConComp28"
+    },
+    {
+      "text": "No.",
+      "source": "VConComp27",
+      "target": "VConComp29"
+    },
+    {
+      "text": "",
+      "source": "damage_p_proc",
+      "target": "Update_Invasion"
+    },
+    {
+      "text": "I would like to examine another patient file.",
+      "source": "VConComp24",
+      "target": "VConComp22"
+    },
+    {
+      "text": "Return to main menu.",
+      "source": "VConComp24",
+      "target": "VConComp18"
+    },
+    {
+      "text": "44309-3674-1254730 immediate self-destruct",
+      "source": "VConComp09",
+      "target": "VConComp08"
+    },
+    {
+      "text": "53478-2565-7763929 initiate 3 minute self-destruct sequence and set base  to alert",
+      "source": "VConComp09",
+      "target": "VConComp07"
+    },
+    {
+      "text": "17652-1028-1285362 initiate 1 minute silent self destruct sequence",
+      "source": "VConComp09",
+      "target": "VConComp03"
+    },
+    {
+      "text": "67209-5574-7805564 initiate 30 second self destruct sequence and  set base to alert",
+      "source": "VConComp09",
+      "target": "VConComp04"
+    },
+    {
+      "text": "31914-1041-1251514 initiate 3 minute silent self-destruct sequence",
+      "source": "VConComp09",
+      "target": "VConComp06"
+    },
+    {
+      "text": "55658-8678-1251533 set base to alert status",
+      "source": "VConComp09",
+      "target": "VConComp05"
+    },
+    {
+      "text": "I would like to examine another patient file.",
+      "source": "VConComp23",
+      "target": "VConComp22"
+    },
+    {
+      "text": "Return to main menu.",
+      "source": "VConComp23",
+      "target": "VConComp18"
+    },
+    {
+      "text": "Return to main menu.",
+      "source": "VConComp26",
+      "target": "VConComp18"
+    },
+    {
+      "text": "I would like to examine another patient file.",
+      "source": "VConComp26",
+      "target": "VConComp22"
+    },
+    {
+      "text": "",
+      "source": "VConComp01",
+      "target": "VConComp01a"
+    },
+    {
+      "text": "",
+      "source": "VConComp17b",
+      "target": "VConComp18"
+    },
+    {
+      "text": "",
+      "source": "VConComp17b",
+      "target": "VConComp20"
+    },
+    {
+      "text": "Log off.",
+      "source": "VConComp28",
+      "target": "VConCompEnd"
+    },
+    {
+      "text": "Return to main menu.",
+      "source": "VConComp28",
+      "target": "VConComp32"
+    },
+    {
+      "text": "[Attempt to hack the computer]",
+      "source": "VConComp19",
+      "target": "VConComp19a"
+    },
+    {
+      "text": "Authorization 3578X287A.",
+      "source": "VConComp19",
+      "target": "VConComp20"
+    },
+    {
+      "text": "Z876342BCD",
+      "source": "VConComp19",
+      "target": "VConComp21"
+    },
+    {
+      "text": "No.",
+      "source": "VConComp30",
+      "target": "VConComp29"
+    },
+    {
+      "text": "Yes.",
+      "source": "VConComp30",
+      "target": "VConComp31"
+    },
+    {
+      "text": "",
+      "source": "VConComp13a",
+      "target": "VConComp15"
+    },
+    {
+      "text": "Yes.",
+      "source": "VConComp12",
+      "target": "VConComp12a"
+    },
+    {
+      "text": "Return to main menu.",
+      "source": "VConComp12",
+      "target": "VConComp15"
+    },
+    {
+      "text": "",
+      "source": "VConComp15",
+      "target": "VConComp01a"
+    },
+    {
+      "text": "",
+      "source": "VConComp29",
+      "target": "VConComp18a"
+    },
+    {
+      "text": "",
+      "source": "VConComp02a",
+      "target": "VConComp10"
+    },
+    {
+      "text": "",
+      "source": "VConComp02a",
+      "target": "VConComp09"
+    },
+    {
+      "text": "Log off.",
+      "source": "VConComp18a",
+      "target": "VConCompEnd"
+    },
+    {
+      "text": "Status report on individual patients.",
+      "source": "VConComp18a",
+      "target": "VConComp19"
+    },
+    {
+      "text": "Patient file #23871.",
+      "source": "VConComp22",
+      "target": "VConComp25"
+    },
+    {
+      "text": "Patient file #23872.",
+      "source": "VConComp22",
+      "target": "VConComp26"
+    },
+    {
+      "text": "Patient file #23870.",
+      "source": "VConComp22",
+      "target": "VConComp24"
+    },
+    {
+      "text": "Patient file #23869.",
+      "source": "VConComp22",
+      "target": "VConComp23"
+    },
+    {
+      "text": "Patient suffering arrhythmia. Display patient status logs.",
+      "source": "VConComp17",
+      "target": "VConComp17b"
+    },
+    {
+      "text": "I think something is happening to one of the patients. Is there anything  I can do?",
+      "source": "VConComp17",
+      "target": "VConComp17a"
+    },
+    {
+      "text": "Search logs.",
+      "source": "VConComp17",
+      "target": "VConCompEnd"
+    },
+    {
+      "text": "",
+      "source": "VConComp14",
+      "target": "VConComp01a"
+    },
+    {
+      "text": "Return to main menu.",
+      "source": "VConComp16",
+      "target": "VConComp15"
+    },
+    {
+      "text": "What is the current status of the patients?",
+      "source": "VConComp16",
+      "target": "VConComp17"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "VConComp01"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "VConComp00"
+    },
+    {
+      "text": "Terminate life support systems on FEV batch #23872-A.",
+      "source": "VConComp21",
+      "target": "VConComp27"
+    },
+    {
+      "text": "Increase original DNA strand dosage to 100% on all subjects.",
+      "source": "VConComp21",
+      "target": "VConComp30"
+    },
+    {
+      "text": "Log off.",
+      "source": "VConComp21",
+      "target": "VConCompEnd"
+    },
+    {
+      "text": "Search logs.",
+      "source": "VConComp32",
+      "target": "VConComp11"
+    },
+    {
+      "text": "Display security codes.",
+      "source": "VConComp32",
+      "target": "VConComp02"
+    },
+    {
+      "text": "Uplink to medical computers.",
+      "source": "VConComp32",
+      "target": "VConComp05"
+    }
+  ]
+}

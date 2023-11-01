@@ -1,0 +1,849 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "I don't believe you.",
+      "node_id": "node69",
+      "id": "Node054"
+    },
+    {
+      "text": "",
+      "node_id": "node67",
+      "id": "Node038"
+    },
+    {
+      "text": "You should talk to my daughter, Maida, about that. I don\u2019t really keep track of what\u2019s going on lately. Too much just keeping an eye on my own business.",
+      "node_id": "node43",
+      "id": "Node006"
+    },
+    {
+      "text": "Well, I don\u2019t rightly know what all he said, but he seemed real excited about going. But I shouldn\u2019t have let him go. He\u2019s two weeks later getting back than he said he\u2019d be and I\u2019m worried.",
+      "node_id": "node55",
+      "id": "Node024"
+    },
+    {
+      "text": "",
+      "node_id": "node65",
+      "id": "Node044"
+    },
+    {
+      "text": "Maida free Sulik. Maida friend.",
+      "node_id": "node49_1",
+      "id": "Node014_1"
+    },
+    {
+      "text": "Well, Smiley and me were getting downright serious with each other. I thought I had finally gotten him to agree to settle down here and help me run this place. But, he said he needed to go off  on one last quest.",
+      "node_id": "node42",
+      "id": "Node008"
+    },
+    {
+      "text": "Well, somehow that doesn\u2019t surprise me much. Oh my, I yelled at my poor boy when it wasn\u2019t even his fault. (sob) I\u2019ll get those Duntons. They\u2019ve gone too far this time.",
+      "node_id": "node53",
+      "id": "Node028"
+    },
+    {
+      "text": "",
+      "node_id": "node60",
+      "id": "Node040"
+    },
+    {
+      "text": "",
+      "node_id": "node47",
+      "id": "Node13a"
+    },
+    {
+      "text": "Oh, thank you. Let me mark on your map where he talked about looking. I sure hope you can find him. He isn\u2019t much, but I still love him and I miss him more than I thought I could. Please find  him for me.",
+      "node_id": "node56",
+      "id": "Node025"
+    },
+    {
+      "text": "You remind me of my boy Torr. I bet the two of you would get along just fine. Why don\u2019t you run and talk to him? Goodbye.",
+      "node_id": "node41",
+      "id": "Node004"
+    },
+    {
+      "text": "",
+      "node_id": "node40",
+      "id": "Node997"
+    },
+    {
+      "text": "",
+      "node_id": "node68",
+      "id": "Node039"
+    },
+    {
+      "text": "Well, he kept saying that he was going to go get the bugmen where they live. You see, there\u2019s a canyon just east of the field where we graze the brahmin. Lately, there\u2019ve been some strange noises  coming from there.",
+      "node_id": "node52",
+      "id": "Node019"
+    },
+    {
+      "text": "I just don\u2019t know what to think. My boy Torr\u2019s missing. I sure wish someone would help me find him. He\u2019s never been gone from home so long before.",
+      "node_id": "node10",
+      "id": "Node017"
+    },
+    {
+      "text": "My poor Torr's run off.",
+      "node_id": "node13_3",
+      "id": "Node053_3"
+    },
+    {
+      "text": "Have you found my son, Torr, yet? I'm so worried about him.",
+      "node_id": "node13_1",
+      "id": "Node053_1"
+    },
+    {
+      "text": "You didn't see a trapper named Smiley outside of town did you? (half to herself) He's been gone for too long. Never should have let him go off on that fool quest of his.",
+      "node_id": "node14_1",
+      "id": "Node005_1"
+    },
+    {
+      "text": "",
+      "node_id": "node63",
+      "id": "Node042"
+    },
+    {
+      "text": "",
+      "node_id": "node34",
+      "id": "Node999"
+    },
+    {
+      "text": "",
+      "node_id": "node25",
+      "id": "Node920"
+    },
+    {
+      "text": "Have you found my Smiley yet?",
+      "node_id": "node57",
+      "id": "Node026"
+    },
+    {
+      "text": "I thought they were up to their usual tricks! My poor little Torr. I'll take care of those two bullies right away. They won't be doing that again. Thank you.",
+      "node_id": "node66",
+      "id": "Node031"
+    },
+    {
+      "text": "Well, let\u2019s see here. We should have a room available. That will be $25.",
+      "node_id": "node44",
+      "id": "Node010"
+    },
+    {
+      "text": "I\u2019m afraid you don\u2019t have enough money for that.",
+      "node_id": "node26",
+      "id": "Node011"
+    },
+    {
+      "text": "I hear you hurt my boy Torr. I don\u2019t know exactly what happened, but I don\u2019t want you anywhere  near here. Now get out.",
+      "node_id": "node9",
+      "id": "Node002"
+    },
+    {
+      "text": "Well, I just don\u2019t know what we could ever do to thank you.",
+      "node_id": "node36",
+      "id": "Node013"
+    },
+    {
+      "text": "",
+      "node_id": "node61",
+      "id": "Node041"
+    },
+    {
+      "text": "I don\u2019t have much, but here\u2019s $100. I wish it could be more, but with all the Brahmin we\u2019ve lost that\u2019s all we can afford. I\u2019m sorry.",
+      "node_id": "node48",
+      "id": "Node015"
+    },
+    {
+      "text": "I just handle the rooms here. If you want to buy or trade something, talk to my daughter, Maida.",
+      "node_id": "node45",
+      "id": "Node009"
+    },
+    {
+      "text": "I think something horrible must have happened to my poor boy, Torr. I was counting on you (sob) to find him before it was too late. That poor simple boy. I can\u2019t believe I counted on you.",
+      "node_id": "node58",
+      "id": "Node027"
+    },
+    {
+      "text": "",
+      "node_id": "node7",
+      "id": "Node055"
+    },
+    {
+      "text": "Well, surely there must be something that I can do to show you how grateful I am. Hmm, I\u2019ll forgive Sulik\u2019s debt. He\u2019s free to go. I guess that not all tribals are troublemakers.",
+      "node_id": "node50",
+      "id": "Node016"
+    },
+    {
+      "text": "Have you found my Smiley yet?",
+      "node_id": "node59",
+      "id": "Node029"
+    },
+    {
+      "text": "",
+      "node_id": "node28",
+      "id": "Node935"
+    },
+    {
+      "text": "",
+      "node_id": "node35",
+      "id": "Node975"
+    },
+    {
+      "text": "How can I help you, friend?",
+      "node_id": "node15_1",
+      "id": "Node007_1"
+    },
+    {
+      "text": "",
+      "node_id": "node30",
+      "id": "Node950"
+    },
+    {
+      "text": "You're the one that found my Smiley. Thank you, thank you so much.",
+      "node_id": "node12",
+      "id": "Node52b"
+    },
+    {
+      "text": "",
+      "node_id": "node29",
+      "id": "Node940"
+    },
+    {
+      "text": "",
+      "node_id": "node32",
+      "id": "Node960"
+    },
+    {
+      "text": "Torr canyon.",
+      "node_id": "node54_1",
+      "id": "Node022_1"
+    },
+    {
+      "text": "",
+      "node_id": "node6",
+      "id": "Node998"
+    },
+    {
+      "text": "Torr was sure that\u2019s where the bugmen that he said were taking our brahmin came from. Said something about proving himself to us. I just wish someone would bring my boy back to me. go Torr.",
+      "node_id": "node54_2",
+      "id": "Node022_2"
+    },
+    {
+      "text": "You've found my son Torr. Thank you so much.",
+      "node_id": "node11",
+      "id": "Node52a"
+    },
+    {
+      "text": "We\u2019re pretty full right now. Sorry.",
+      "node_id": "node37",
+      "id": "Node980"
+    },
+    {
+      "text": "",
+      "node_id": "node5",
+      "id": "talk_p_proc"
+    },
+    {
+      "text": "",
+      "node_id": "node33",
+      "id": "Node970"
+    },
+    {
+      "text": "Hello there. My name\u2019s Ardin Buckner and this is Buckner house.",
+      "node_id": "node8",
+      "id": "Node003"
+    },
+    {
+      "text": "",
+      "node_id": "node24",
+      "id": "Node910"
+    },
+    {
+      "text": "Well, he called it a quest. He told me he thought he knew where all the golden geckos came from, and he wanted to find out for sure. He thought that maybe it was some kind of magical spring, or maybe a hidden cave or vault of some sort.",
+      "node_id": "node46",
+      "id": "Node023"
+    },
+    {
+      "text": "Eaten by geckos? I just don't believe you. Geckos would never catch my Smilely, he's too good a trapper for that. You must be mistaken.",
+      "node_id": "node62",
+      "id": "Node030"
+    },
+    {
+      "text": "Thank you for promising to look for my boy. I sure hope you can find him. I\u2019m so worried about  him. Hurry, please.",
+      "node_id": "node31",
+      "id": "Node020"
+    },
+    {
+      "text": "Have you found my Smiley yet?",
+      "node_id": "node13_2",
+      "id": "Node053_2"
+    },
+    {
+      "text": "He took off last night. I got mad at him after we lost those last few brahmin. We just can\u2019t afford to lose any more, but all he would talk about is the bugmen taking them. That fool boy.",
+      "node_id": "node51",
+      "id": "Node018"
+    },
+    {
+      "text": "",
+      "node_id": "node27",
+      "id": "Node930"
+    },
+    {
+      "text": "",
+      "node_id": "node64",
+      "id": "Node043"
+    }
+  ],
+  "links": [
+    {
+      "text": "Uh, I guess that was a bad *joke*, sorry.",
+      "source": "Node054",
+      "target": "Node039"
+    },
+    {
+      "text": "Oh, it's true. They're probably both worm food by now - well, the few scraps that haven't been turned into gecko shit anyway. Well, them's the breaks. See ya.",
+      "source": "Node054",
+      "target": "Node038"
+    },
+    {
+      "text": "",
+      "source": "Node038",
+      "target": "Node999"
+    },
+    {
+      "text": "Oh, okay, I\u2019ll do that. Right now, though, I need some information about something else.",
+      "source": "Node006",
+      "target": "Node007_1"
+    },
+    {
+      "text": "Well, I\u2019ll talk to her about that then. Goodbye.",
+      "source": "Node006",
+      "target": "Node999"
+    },
+    {
+      "text": "I\u2019d like to help. I could look for him for you.",
+      "source": "Node024",
+      "target": "Node025"
+    },
+    {
+      "text": "Sorry to hear that. Let me ask you about something else.",
+      "source": "Node024",
+      "target": "Node007_1"
+    },
+    {
+      "text": "That\u2019s too bad, Mrs. Buckner. Maybe he just ran out on you. I think I know why he would, too.  Goodbye.",
+      "source": "Node024",
+      "target": "Node999"
+    },
+    {
+      "text": "",
+      "source": "Node044",
+      "target": "Node999"
+    },
+    {
+      "text": "I\u2019m glad that you don\u2019t need Sulik anymore. There\u2019s something I want to ask you.",
+      "source": "Node014_1",
+      "target": "Node935"
+    },
+    {
+      "text": "Thank-you. I\u2019m sure Sulik will be grateful for your forgiving his debt to you. I\u2019ll talk to Maida right away. Goodbye.",
+      "source": "Node014_1",
+      "target": "Node930"
+    },
+    {
+      "text": "A quest?",
+      "source": "Node008",
+      "target": "Node023"
+    },
+    {
+      "text": "I\u2019m sorry about that. Where do you think Torr went?",
+      "source": "Node028",
+      "target": "Node019"
+    },
+    {
+      "text": "",
+      "source": "Node040",
+      "target": "Node030"
+    },
+    {
+      "text": "",
+      "source": "Node13a",
+      "target": "Node016"
+    },
+    {
+      "text": "",
+      "source": "Node13a",
+      "target": "Node015"
+    },
+    {
+      "text": "I\u2019ll do what I can. Let me ask you something first, though.",
+      "source": "Node025",
+      "target": "Node960"
+    },
+    {
+      "text": "You know, I just don\u2019t think I can help you right now. Goodbye.",
+      "source": "Node025",
+      "target": "Node999"
+    },
+    {
+      "text": "I\u2019ll do my best, Mrs. Buckner. Goodbye",
+      "source": "Node025",
+      "target": "Node970"
+    },
+    {
+      "text": "",
+      "source": "Node997",
+      "target": "Node004"
+    },
+    {
+      "text": "",
+      "source": "Node997",
+      "target": "Node005_1"
+    },
+    {
+      "text": "",
+      "source": "Node039",
+      "target": "Node999"
+    },
+    {
+      "text": "Noises?",
+      "source": "Node019",
+      "target": "Node022_2"
+    },
+    {
+      "text": "Noises?",
+      "source": "Node019",
+      "target": "Node022_1"
+    },
+    {
+      "text": "Well, I can tell you\u2019re busy. I\u2019ll come back later. Goodbye.",
+      "source": "Node017",
+      "target": "Node999"
+    },
+    {
+      "text": "That\u2019s nice, lady, but I need something from you.",
+      "source": "Node017",
+      "target": "Node007_1"
+    },
+    {
+      "text": "Torr?",
+      "source": "Node017",
+      "target": "Node018"
+    },
+    {
+      "text": "They're both dead as doornails.",
+      "source": "Node053_3",
+      "target": "Node054"
+    },
+    {
+      "text": "Smiley's dead.",
+      "source": "Node053_3",
+      "target": "Node029"
+    },
+    {
+      "text": "I'm still looking for them. I better get back to it. Goodbye.",
+      "source": "Node053_3",
+      "target": "Node999"
+    },
+    {
+      "text": "Torr left? What do you mean?",
+      "source": "Node053_3",
+      "target": "Node017"
+    },
+    {
+      "text": "Torr's dead.",
+      "source": "Node053_3",
+      "target": "Node027"
+    },
+    {
+      "text": "Smiley's dead.",
+      "source": "Node053_1",
+      "target": "Node029"
+    },
+    {
+      "text": "I'm still looking for them. I better get back to it. Goodbye.",
+      "source": "Node053_1",
+      "target": "Node999"
+    },
+    {
+      "text": "Torr left? What do you mean?",
+      "source": "Node053_1",
+      "target": "Node017"
+    },
+    {
+      "text": "Torr's dead.",
+      "source": "Node053_1",
+      "target": "Node027"
+    },
+    {
+      "text": "They're both dead as doornails.",
+      "source": "Node053_1",
+      "target": "Node054"
+    },
+    {
+      "text": "Smiley? No, I haven\u2019t seen a trapper by that name. Tell me about him.",
+      "source": "Node005_1",
+      "target": "Node008"
+    },
+    {
+      "text": "Hello, Ardin. I think I\u2019ll be moving along now. Goodbye.",
+      "source": "Node005_1",
+      "target": "Node999"
+    },
+    {
+      "text": "",
+      "source": "Node042",
+      "target": "Node007_1"
+    },
+    {
+      "text": "Sorry, Mrs. Buckner. I\u2019m still looking for him. Let me ask you something else first, though.",
+      "source": "Node026",
+      "target": "Node007_1"
+    },
+    {
+      "text": "No, I\u2019m just about to go look for him though. Goodbye.",
+      "source": "Node026",
+      "target": "Node999"
+    },
+    {
+      "text": "Those Duntons make me sick. I'm glad you'll take care of them. Goodbye now.",
+      "source": "Node031",
+      "target": "Node999"
+    },
+    {
+      "text": "Happy to help, ma'am. Let me ask you about something.",
+      "source": "Node031",
+      "target": "Node007_1"
+    },
+    {
+      "text": "I don\u2019t think I want that right now. Let me ask you something else.",
+      "source": "Node010",
+      "target": "Node007_1"
+    },
+    {
+      "text": "I\u2019ll take it. Here\u2019s the $25. Thanks.",
+      "source": "Node010",
+      "target": "Node910"
+    },
+    {
+      "text": "I don\u2019t think I need the room after all. Goodbye.",
+      "source": "Node010",
+      "target": "Node999"
+    },
+    {
+      "text": "Oops. I guess I am a bit light right now. Let me ask you something else.",
+      "source": "Node011",
+      "target": "Node007_1"
+    },
+    {
+      "text": "I\u2019m sorry. I better go make some more. Goodbye.",
+      "source": "Node011",
+      "target": "Node999"
+    },
+    {
+      "text": "If you could consider Sulik\u2019s debt paid, that would be reward enough.",
+      "source": "Node013",
+      "target": "Node014_1"
+    },
+    {
+      "text": "Well, money is always a nice way of saying thanks.",
+      "source": "Node013",
+      "target": "Node015"
+    },
+    {
+      "text": "No thanks is necessary. Help was needed and I was there.",
+      "source": "Node013",
+      "target": "Node13a"
+    },
+    {
+      "text": "",
+      "source": "Node041",
+      "target": "Node999"
+    },
+    {
+      "text": "Thanks Ms. Buckner. Goodbye.",
+      "source": "Node015",
+      "target": "Node940"
+    },
+    {
+      "text": "Thanks. Goodbye.",
+      "source": "Node009",
+      "target": "Node999"
+    },
+    {
+      "text": "Oh, I see. Tell me something else then.",
+      "source": "Node009",
+      "target": "Node007_1"
+    },
+    {
+      "text": "Maybe I can help recover what\u2019s left of his body for you. Goodbye.",
+      "source": "Node027",
+      "target": "Node999"
+    },
+    {
+      "text": "Sorry, Mrs. Buckner. I tried my best to find him for you. Uh, there was something I wanted  though.",
+      "source": "Node027",
+      "target": "Node007_1"
+    },
+    {
+      "text": "That sounds good to me. Goodbye.",
+      "source": "Node016",
+      "target": "Node930"
+    },
+    {
+      "text": "I, uh, saw him. He said he was running off with another woman. Whoa! Look at the time. I've gotta run.",
+      "source": "Node029",
+      "target": "Node041"
+    },
+    {
+      "text": "Uh, I, uh, we, that is...Uh, no. I'm still looking for him. I'm sure he'll show up any day now. Uh, Goodbye.",
+      "source": "Node029",
+      "target": "Node999"
+    },
+    {
+      "text": "Who? Oh, uh, no. I don't know where he went. Uh, say, let me ask you about something else.",
+      "source": "Node029",
+      "target": "Node007_1"
+    },
+    {
+      "text": "He's dead. He was eaten by geckos.",
+      "source": "Node029",
+      "target": "Node040"
+    },
+    {
+      "text": "",
+      "source": "Node935",
+      "target": "Node007_1"
+    },
+    {
+      "text": "",
+      "source": "Node935",
+      "target": "Node930"
+    },
+    {
+      "text": "",
+      "source": "Node975",
+      "target": "Node013"
+    },
+    {
+      "text": "",
+      "source": "Node975",
+      "target": "Node999"
+    },
+    {
+      "text": "Tell me about Smiley, the trapper.",
+      "source": "Node007_1",
+      "target": "Node008"
+    },
+    {
+      "text": "I was wondering if you\u2019re the person to talk to about local news and events?",
+      "source": "Node007_1",
+      "target": "Node006"
+    },
+    {
+      "text": "I guess I don\u2019t need anything right now. Goodbye.",
+      "source": "Node007_1",
+      "target": "Node999"
+    },
+    {
+      "text": "I need a room, please.",
+      "source": "Node007_1",
+      "target": "Node010"
+    },
+    {
+      "text": "I want to buy something.",
+      "source": "Node007_1",
+      "target": "Node009"
+    },
+    {
+      "text": "",
+      "source": "Node950",
+      "target": "Node020"
+    },
+    {
+      "text": "Smiley got lucky this time. You just tell him to be a bit more careful.",
+      "source": "Node52b",
+      "target": "Node013"
+    },
+    {
+      "text": "",
+      "source": "Node960",
+      "target": "Node007_1"
+    },
+    {
+      "text": "Sounds as though that canyon would be a good place to start looking. I\u2019ll go look for your boy,  Mrs. Buckner.",
+      "source": "Node022_1",
+      "target": "Node950"
+    },
+    {
+      "text": "No go Torr.",
+      "source": "Node022_1",
+      "target": "Node999"
+    },
+    {
+      "text": "Sounds as though that canyon would be a good place to start looking. I\u2019ll go look for your boy,  Mrs. Buckner.",
+      "source": "Node022_2",
+      "target": "Node950"
+    },
+    {
+      "text": "No go Torr.",
+      "source": "Node022_2",
+      "target": "Node999"
+    },
+    {
+      "text": "Torr just needs a little help from time to time. I'm glad I was there for him.",
+      "source": "Node52a",
+      "target": "Node013"
+    },
+    {
+      "text": "Ok.",
+      "source": "Node980",
+      "target": "Node999"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node053_1"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node055"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node007_1"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node053_3"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node52a"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node053_2"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node002"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node017"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node998"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node003"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node52b"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node005_1"
+    },
+    {
+      "text": "",
+      "source": "Node970",
+      "target": "Node999"
+    },
+    {
+      "text": "Argl. Goop",
+      "source": "Node003",
+      "target": "Node004"
+    },
+    {
+      "text": "",
+      "source": "Node910",
+      "target": "Node011"
+    },
+    {
+      "text": "",
+      "source": "Node910",
+      "target": "Node920"
+    },
+    {
+      "text": "Hmmm.",
+      "source": "Node023",
+      "target": "Node024"
+    },
+    {
+      "text": "Nope, I saw him, or what was left of him anyway. Not a pretty sight. Well, see ya later. Goodbye.",
+      "source": "Node030",
+      "target": "Node043"
+    },
+    {
+      "text": "Yeah, you're probably right. Sorry for the scare. Let me ask you about something.",
+      "source": "Node030",
+      "target": "Node042"
+    },
+    {
+      "text": "I guess you've got me there. Heh, heh, I was just pulling your, ah, leg. Yeah, that's it. Well, Goodbye.",
+      "source": "Node030",
+      "target": "Node044"
+    },
+    {
+      "text": "Ok.",
+      "source": "Node020",
+      "target": "Node999"
+    },
+    {
+      "text": "Torr's dead.",
+      "source": "Node053_2",
+      "target": "Node027"
+    },
+    {
+      "text": "They're both dead as doornails.",
+      "source": "Node053_2",
+      "target": "Node054"
+    },
+    {
+      "text": "Smiley's dead.",
+      "source": "Node053_2",
+      "target": "Node029"
+    },
+    {
+      "text": "I'm still looking for them. I better get back to it. Goodbye.",
+      "source": "Node053_2",
+      "target": "Node999"
+    },
+    {
+      "text": "Torr left? What do you mean?",
+      "source": "Node053_2",
+      "target": "Node017"
+    },
+    {
+      "text": "I think that the Duntons had something to do with the missing brahmin. You shouldn\u2019t be too hard on Torr about it. Where do you think he went?",
+      "source": "Node018",
+      "target": "Node028"
+    },
+    {
+      "text": "Torr go?",
+      "source": "Node018",
+      "target": "Node019"
+    },
+    {
+      "text": "",
+      "source": "Node043",
+      "target": "Node999"
+    }
+  ]
+}

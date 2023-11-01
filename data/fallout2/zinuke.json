@@ -1,0 +1,44 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "Dooohhhh!",
+      "node_id": "node8_2",
+      "id": "checkHit_2"
+    },
+    {
+      "text": "",
+      "node_id": "node13",
+      "id": "Missile_Fired"
+    },
+    {
+      "text": "The machine seems to be out of stock.",
+      "node_id": "node7_2",
+      "id": "use_obj_on_p_proc_2"
+    },
+    {
+      "text": "You get a not so fresh bottle of Nuka-Cola.",
+      "node_id": "node7_1",
+      "id": "use_obj_on_p_proc_1"
+    },
+    {
+      "text": "You dodge the can of Nuka-Cola. skillfully dodges a can of Nuka-Cola.",
+      "node_id": "node8_1",
+      "id": "checkHit_1"
+    }
+  ],
+  "links": [
+    {
+      "text": "",
+      "source": "checkHit_2",
+      "target": "Missile_Fired"
+    },
+    {
+      "text": "",
+      "source": "checkHit_1",
+      "target": "Missile_Fired"
+    }
+  ]
+}

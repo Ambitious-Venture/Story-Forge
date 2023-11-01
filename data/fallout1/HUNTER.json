@@ -1,0 +1,119 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "None of your business.",
+      "node_id": "node10",
+      "id": "Hunter03"
+    },
+    {
+      "text": "That joke wasn't even funny the first time. You're about to discover why I'm one of the most fearsome bounty hunters in the wasteland. And I won't even get paid for it.",
+      "node_id": "node9_1",
+      "id": "Hunter02_1"
+    },
+    {
+      "text": "",
+      "node_id": "node3",
+      "id": "critter_p_proc"
+    },
+    {
+      "text": "",
+      "node_id": "node6",
+      "id": "pickup_p_proc"
+    },
+    {
+      "text": "You see a burly bounty hunter with a button that reads, 'I'm Christopher and you're meat.'",
+      "node_id": "node5",
+      "id": "look_at_p_proc"
+    },
+    {
+      "text": "Did you know that there's a bounty of 1,500 caps on your head for killing children? Time to collect!",
+      "node_id": "node2",
+      "id": "Hunter05"
+    },
+    {
+      "text": "",
+      "node_id": "node1",
+      "id": "start"
+    },
+    {
+      "text": "",
+      "node_id": "node4",
+      "id": "destroy_p_proc"
+    },
+    {
+      "text": "What do you want?",
+      "node_id": "node8",
+      "id": "Hunter01"
+    },
+    {
+      "text": "",
+      "node_id": "node7",
+      "id": "talk_p_proc"
+    },
+    {
+      "text": "Well, go poke around somewhere else.",
+      "node_id": "node11",
+      "id": "Hunter04"
+    }
+  ],
+  "links": [
+    {
+      "text": "",
+      "source": "critter_p_proc",
+      "target": "Hunter05"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "pickup_p_proc"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "destroy_p_proc"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "talk_p_proc"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "critter_p_proc"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "look_at_p_proc"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "Hunter05"
+    },
+    {
+      "text": "Just looking around.",
+      "source": "Hunter01",
+      "target": "Hunter04"
+    },
+    {
+      "text": "What are you doing here?",
+      "source": "Hunter01",
+      "target": "Hunter03"
+    },
+    {
+      "text": "A donut.",
+      "source": "Hunter01",
+      "target": "Hunter02_1"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Hunter01"
+    }
+  ]
+}

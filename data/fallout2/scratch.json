@@ -1,0 +1,304 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "",
+      "node_id": "node9",
+      "id": "startRepair"
+    },
+    {
+      "text": "",
+      "node_id": "node19",
+      "id": "NodeBarter"
+    },
+    {
+      "text": "Gimme a little more time. I'm still working on the cussed thing.",
+      "node_id": "node7",
+      "id": "Node009"
+    },
+    {
+      "text": "Well, gimme six hours. I should have it fixed up by then.",
+      "node_id": "node26",
+      "id": "Node006"
+    },
+    {
+      "text": "Thanks for the money, but I don't know anything more.",
+      "node_id": "node25_4",
+      "id": "Node005_4"
+    },
+    {
+      "text": "",
+      "node_id": "node28",
+      "id": "figureWalkTile"
+    },
+    {
+      "text": "There's talk in town that what happened to Westin wasn't no accident. Some folks thinking there's too many suspicious strangers around...",
+      "node_id": "node25_3",
+      "id": "Node005_3"
+    },
+    {
+      "text": "",
+      "node_id": "node5",
+      "id": "talk_p_proc"
+    },
+    {
+      "text": "There she is! Claudia's all installed.",
+      "node_id": "node8",
+      "id": "Node008"
+    },
+    {
+      "text": "Well, thank god that stranger didn't take you child...My stuff is like my children, see.",
+      "node_id": "node23",
+      "id": "Node003"
+    },
+    {
+      "text": "Then there's Saltbeef. Old coot says he's found a gold mine...",
+      "node_id": "node25_1",
+      "id": "Node005_1"
+    },
+    {
+      "text": "You're messing with all my children!",
+      "node_id": "node22_1",
+      "id": "Node002_1"
+    },
+    {
+      "text": "",
+      "node_id": "node17",
+      "id": "Node999"
+    },
+    {
+      "text": "Miss Dorothy and Toto was out here last week, looking for some parts to fix the powerplant. I couldn't help them, though...",
+      "node_id": "node25_2",
+      "id": "Node005_2"
+    },
+    {
+      "text": "Look, if you get the cash, come back. I'll probably still have it.",
+      "node_id": "node27",
+      "id": "Node007"
+    },
+    {
+      "text": "Dummy, we already talked about that.",
+      "node_id": "node20_1",
+      "id": "Node004_1"
+    },
+    {
+      "text": "Whoa! I don't think I've got a spare brain for you.",
+      "node_id": "node18",
+      "id": "Node010"
+    },
+    {
+      "text": "",
+      "node_id": "node21",
+      "id": "Node005a"
+    },
+    {
+      "text": "Sure, whatever.",
+      "node_id": "node6_1",
+      "id": "Node001_1"
+    },
+    {
+      "text": "",
+      "node_id": "node24",
+      "id": "Node0607a"
+    }
+  ],
+  "links": [
+    {
+      "text": "",
+      "source": "NodeBarter",
+      "target": "Node001_1"
+    },
+    {
+      "text": "Good enough. I'll see you later.",
+      "source": "Node006",
+      "target": "Node999"
+    },
+    {
+      "text": "Before you do, a little more of your time.",
+      "source": "Node006",
+      "target": "Node001_1"
+    },
+    {
+      "text": "Can I see your stuff?",
+      "source": "Node005_4",
+      "target": "NodeBarter"
+    },
+    {
+      "text": "Here's another fiver.",
+      "source": "Node005_4",
+      "target": "Node005a"
+    },
+    {
+      "text": "Well, thanks for the info.",
+      "source": "Node005_4",
+      "target": "Node999"
+    },
+    {
+      "text": "Well, thanks for the info.",
+      "source": "Node005_3",
+      "target": "Node999"
+    },
+    {
+      "text": "Can I see your stuff?",
+      "source": "Node005_3",
+      "target": "NodeBarter"
+    },
+    {
+      "text": "Here's another fiver.",
+      "source": "Node005_3",
+      "target": "Node005a"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node008"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node001_1"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "startRepair"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node009"
+    },
+    {
+      "text": "",
+      "source": "Node008",
+      "target": "figureWalkTile"
+    },
+    {
+      "text": "Well, I think I'll be going now.",
+      "source": "Node003",
+      "target": "Node999"
+    },
+    {
+      "text": "Uhh - of course.",
+      "source": "Node003",
+      "target": "Node001_1"
+    },
+    {
+      "text": "Can I see your stuff?",
+      "source": "Node005_1",
+      "target": "NodeBarter"
+    },
+    {
+      "text": "Here's another fiver.",
+      "source": "Node005_1",
+      "target": "Node005a"
+    },
+    {
+      "text": "Well, thanks for the info.",
+      "source": "Node005_1",
+      "target": "Node999"
+    },
+    {
+      "text": "O-kay - aren't you just special! Maybe I should shop someplace else.",
+      "source": "Node002_1",
+      "target": "Node003"
+    },
+    {
+      "text": "Yeah, right. Here's a fiver. You know any good gossip?",
+      "source": "Node002_1",
+      "target": "Node005a"
+    },
+    {
+      "text": "I think me and Edna will be going now.",
+      "source": "Node002_1",
+      "target": "Node999"
+    },
+    {
+      "text": "Let me look at your stock again.",
+      "source": "Node002_1",
+      "target": "NodeBarter"
+    },
+    {
+      "text": "Here's another fiver.",
+      "source": "Node005_2",
+      "target": "Node005a"
+    },
+    {
+      "text": "Well, thanks for the info.",
+      "source": "Node005_2",
+      "target": "Node999"
+    },
+    {
+      "text": "Can I see your stuff?",
+      "source": "Node005_2",
+      "target": "NodeBarter"
+    },
+    {
+      "text": "Goodbye.",
+      "source": "Node007",
+      "target": "Node999"
+    },
+    {
+      "text": "Fair enough.",
+      "source": "Node007",
+      "target": "Node001_1"
+    },
+    {
+      "text": "You bet, Claudia's my kind of - whatever.",
+      "source": "Node004_1",
+      "target": "Node0607a"
+    },
+    {
+      "text": "",
+      "source": "Node005a",
+      "target": "Node005_1"
+    },
+    {
+      "text": "",
+      "source": "Node005a",
+      "target": "Node005_2"
+    },
+    {
+      "text": "",
+      "source": "Node005a",
+      "target": "Node005_4"
+    },
+    {
+      "text": "",
+      "source": "Node005a",
+      "target": "Node005_3"
+    },
+    {
+      "text": "Uh...huh.",
+      "source": "Node001_1",
+      "target": "Node010"
+    },
+    {
+      "text": "Goodbye.",
+      "source": "Node001_1",
+      "target": "Node999"
+    },
+    {
+      "text": "So what's for sale?",
+      "source": "Node001_1",
+      "target": "NodeBarter"
+    },
+    {
+      "text": "I got $5. You got any good gossip?",
+      "source": "Node001_1",
+      "target": "Node005a"
+    },
+    {
+      "text": "",
+      "source": "Node0607a",
+      "target": "Node007"
+    },
+    {
+      "text": "",
+      "source": "Node0607a",
+      "target": "Node006"
+    }
+  ]
+}

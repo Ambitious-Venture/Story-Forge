@@ -1,0 +1,44 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "You find a hidden latch and unlock it.",
+      "node_id": "node1",
+      "id": "start"
+    },
+    {
+      "text": "You find a hidden latch and unlock it.",
+      "node_id": "node2_1",
+      "id": "use_stuff_1"
+    },
+    {
+      "text": "It shows signs of being recently greased.",
+      "node_id": "node2_3",
+      "id": "use_stuff_3"
+    },
+    {
+      "text": "The bookshelf slides quietly out of the way.",
+      "node_id": "node2_2",
+      "id": "use_stuff_2"
+    }
+  ],
+  "links": [
+    {
+      "text": "",
+      "source": "start",
+      "target": "use_stuff_2"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "use_stuff_3"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "use_stuff_1"
+    }
+  ]
+}

@@ -1,0 +1,319 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "You cannot get in without papers.",
+      "node_id": "node22",
+      "id": "Node004"
+    },
+    {
+      "text": "Just finish up your business, thank you.",
+      "node_id": "node6_1",
+      "id": "talk_p_proc_1"
+    },
+    {
+      "text": "Hello again. You can go on in.",
+      "node_id": "node16",
+      "id": "Node009"
+    },
+    {
+      "text": "Only one of you are allowed in at a time.",
+      "node_id": "node3_1",
+      "id": "critter_p_proc_1"
+    },
+    {
+      "text": "What do you people want?",
+      "node_id": "node17",
+      "id": "Node006"
+    },
+    {
+      "text": "",
+      "node_id": "node4",
+      "id": "Node998"
+    },
+    {
+      "text": "",
+      "node_id": "node5",
+      "id": "pickup_p_proc"
+    },
+    {
+      "text": "",
+      "node_id": "node8",
+      "id": "Node000"
+    },
+    {
+      "text": "Good morning.",
+      "node_id": "node6_4",
+      "id": "talk_p_proc_4"
+    },
+    {
+      "text": "",
+      "node_id": "node26",
+      "id": "Node994"
+    },
+    {
+      "text": "What is your business here?",
+      "node_id": "node19",
+      "id": "Node008"
+    },
+    {
+      "text": "[Embarrassed] No...um...alright, just go on in...",
+      "node_id": "node25",
+      "id": "Node005"
+    },
+    {
+      "text": "[Looking nervous] Sorry...I didn\u2019t know. Do you have any papers?",
+      "node_id": "node23",
+      "id": "Node003"
+    },
+    {
+      "text": "Good evening.",
+      "node_id": "node6_2",
+      "id": "talk_p_proc_2"
+    },
+    {
+      "text": "",
+      "node_id": "node24",
+      "id": "Node995"
+    },
+    {
+      "text": "",
+      "node_id": "node21",
+      "id": "Node999"
+    },
+    {
+      "text": "Good afternoon.",
+      "node_id": "node6_3",
+      "id": "talk_p_proc_3"
+    },
+    {
+      "text": "How dare you show your face again!",
+      "node_id": "node7",
+      "id": "Node001"
+    },
+    {
+      "text": "I would have heard if a group was sent here. Be off!",
+      "node_id": "node27",
+      "id": "Node007"
+    },
+    {
+      "text": "",
+      "node_id": "node13",
+      "id": "damage_p_proc"
+    },
+    {
+      "text": "You know, pal, I've had enough of your shit!",
+      "node_id": "node28",
+      "id": "Node010"
+    },
+    {
+      "text": "Ho! No one enters the Family Wright warehouse at night!",
+      "node_id": "node18",
+      "id": "Node002"
+    },
+    {
+      "text": "",
+      "node_id": "node20",
+      "id": "Node996"
+    }
+  ],
+  "links": [
+    {
+      "text": "I\u2019ll come back.",
+      "source": "Node004",
+      "target": "Node999"
+    },
+    {
+      "text": "Here\u2019s my authorization! Attack!",
+      "source": "Node004",
+      "target": "Node998"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc_1",
+      "target": "Node001"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc_1",
+      "target": "Node000"
+    },
+    {
+      "text": "Thanks.",
+      "source": "Node009",
+      "target": "Node994"
+    },
+    {
+      "text": "",
+      "source": "critter_p_proc_1",
+      "target": "Node998"
+    },
+    {
+      "text": "We were sent here by the boss.",
+      "source": "Node006",
+      "target": "Node007"
+    },
+    {
+      "text": "We need to go inside.",
+      "source": "Node006",
+      "target": "Node004"
+    },
+    {
+      "text": "",
+      "source": "pickup_p_proc",
+      "target": "Node998"
+    },
+    {
+      "text": "",
+      "source": "Node000",
+      "target": "Node006"
+    },
+    {
+      "text": "",
+      "source": "Node000",
+      "target": "Node002"
+    },
+    {
+      "text": "",
+      "source": "Node000",
+      "target": "Node008"
+    },
+    {
+      "text": "",
+      "source": "Node000",
+      "target": "Node009"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc_4",
+      "target": "Node000"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc_4",
+      "target": "Node001"
+    },
+    {
+      "text": "I\u2019ve been sent on official business by the boss. Stand aside!",
+      "source": "Node008",
+      "target": "Node003"
+    },
+    {
+      "text": "Sorry, wrong place.",
+      "source": "Node008",
+      "target": "Node999"
+    },
+    {
+      "text": "Removing your head from your shoulders.",
+      "source": "Node008",
+      "target": "Node998"
+    },
+    {
+      "text": "I need to go inside.",
+      "source": "Node008",
+      "target": "Node004"
+    },
+    {
+      "text": "Thank you.",
+      "source": "Node005",
+      "target": "Node994"
+    },
+    {
+      "text": "Please! Can you even read?",
+      "source": "Node003",
+      "target": "Node995"
+    },
+    {
+      "text": "I left them back with my guard. I\u2019ll go fetch them.",
+      "source": "Node003",
+      "target": "Node999"
+    },
+    {
+      "text": "No, he didn\u2019t give me any.",
+      "source": "Node003",
+      "target": "Node004"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc_2",
+      "target": "Node001"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc_2",
+      "target": "Node000"
+    },
+    {
+      "text": "",
+      "source": "Node995",
+      "target": "Node005"
+    },
+    {
+      "text": "",
+      "source": "Node995",
+      "target": "Node004"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc_3",
+      "target": "Node000"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc_3",
+      "target": "Node001"
+    },
+    {
+      "text": "",
+      "source": "Node001",
+      "target": "Node998"
+    },
+    {
+      "text": "OK, OK; we\u2019re going.",
+      "source": "Node007",
+      "target": "Node999"
+    },
+    {
+      "text": "Off with your head!",
+      "source": "Node007",
+      "target": "Node998"
+    },
+    {
+      "text": "",
+      "source": "damage_p_proc",
+      "target": "Node998"
+    },
+    {
+      "text": "[END]",
+      "source": "Node010",
+      "target": "Node998"
+    },
+    {
+      "text": "I need to get in there now.",
+      "source": "Node002",
+      "target": "Node004"
+    },
+    {
+      "text": "Well, Mr. Wright himself sent me on an errand. If you don\u2019t know about it, too bad.",
+      "source": "Node002",
+      "target": "Node996"
+    },
+    {
+      "text": "I\u2019ll come back tomorrow.",
+      "source": "Node002",
+      "target": "Node999"
+    },
+    {
+      "text": "",
+      "source": "Node996",
+      "target": "Node004"
+    },
+    {
+      "text": "",
+      "source": "Node996",
+      "target": "Node003"
+    }
+  ]
+}

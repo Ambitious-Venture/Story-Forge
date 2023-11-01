@@ -1,0 +1,74 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "Be good in this town or you'll answer to me.",
+      "node_id": "node2_1",
+      "id": "do_dialogue_1"
+    },
+    {
+      "text": "You don't look very tough to me.",
+      "node_id": "node2_6",
+      "id": "do_dialogue_6"
+    },
+    {
+      "text": "Did you hear what the Rad Scorpion did to Bill? They're still trying to locate his legs.",
+      "node_id": "node2_4",
+      "id": "do_dialogue_4"
+    },
+    {
+      "text": "",
+      "node_id": "node1",
+      "id": "start"
+    },
+    {
+      "text": "Ever get the feeling you're being watched? Like you're being controlled by some distant being? I do.",
+      "node_id": "node2_3",
+      "id": "do_dialogue_3"
+    },
+    {
+      "text": "So you think you can handle a Rad Scorpion, huh?",
+      "node_id": "node2_5",
+      "id": "do_dialogue_5"
+    },
+    {
+      "text": "Got any donuts?",
+      "node_id": "node2_2",
+      "id": "do_dialogue_2"
+    }
+  ],
+  "links": [
+    {
+      "text": "",
+      "source": "start",
+      "target": "do_dialogue_1"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "do_dialogue_6"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "do_dialogue_4"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "do_dialogue_5"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "do_dialogue_3"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "do_dialogue_2"
+    }
+  ]
+}

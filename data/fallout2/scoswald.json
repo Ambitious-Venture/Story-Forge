@@ -1,0 +1,74 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "Look, I'm just a guy, not the guy in charge - that's Darion. He's the one you want. He's got this thing about Shady Sands and that old bitch Tandi. He's got a hideout in Vault 15, even got the locals thinking he's on their side. \u00a0That's all I know. Honest!",
+      "node_id": "node19",
+      "id": "Node004"
+    },
+    {
+      "text": "What the hell? You're trying to kill me! Guard!",
+      "node_id": "node6",
+      "id": "Node002"
+    },
+    {
+      "text": "",
+      "node_id": "node5",
+      "id": "talk_p_proc"
+    },
+    {
+      "text": "You're wasting your time. I ain't got word one to say to you or anybody else.",
+      "node_id": "node9",
+      "id": "Node001"
+    },
+    {
+      "text": "No way! I\u2019m not falling for this trick. BANG! \u2013 shot down while escaping. Forget it!",
+      "node_id": "node7",
+      "id": "Node006"
+    },
+    {
+      "text": "Really, I don't know anything else! I told you everything I know, really! Don't hurt me any more.",
+      "node_id": "node8",
+      "id": "Node005"
+    },
+    {
+      "text": "Okay, okay! What do you want to know? Just don't hurt me again.",
+      "node_id": "node18",
+      "id": "Node003"
+    }
+  ],
+  "links": [
+    {
+      "text": "Talk or me kill you.",
+      "source": "Node002",
+      "target": "Node003"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node001"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node006"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node002"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node005"
+    },
+    {
+      "text": "Vault 15 - you tell.",
+      "source": "Node003",
+      "target": "Node004"
+    }
+  ]
+}

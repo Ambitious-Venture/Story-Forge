@@ -1,0 +1,64 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "",
+      "node_id": "node7",
+      "id": "use_success"
+    },
+    {
+      "text": "",
+      "node_id": "node8",
+      "id": "use_fail"
+    },
+    {
+      "text": "",
+      "node_id": "node14",
+      "id": "close_slave_doors"
+    },
+    {
+      "text": "Hmmm, these computer thingies are complicated.",
+      "node_id": "node4_1",
+      "id": "use_skill_on_p_proc_1"
+    },
+    {
+      "text": "",
+      "node_id": "node3",
+      "id": "use_p_proc"
+    },
+    {
+      "text": "",
+      "node_id": "node13",
+      "id": "open_slave_doors"
+    }
+  ],
+  "links": [
+    {
+      "text": "",
+      "source": "use_success",
+      "target": "open_slave_doors"
+    },
+    {
+      "text": "",
+      "source": "use_success",
+      "target": "close_slave_doors"
+    },
+    {
+      "text": "",
+      "source": "use_skill_on_p_proc_1",
+      "target": "use_fail"
+    },
+    {
+      "text": "",
+      "source": "use_skill_on_p_proc_1",
+      "target": "use_success"
+    },
+    {
+      "text": "",
+      "source": "use_p_proc",
+      "target": "use_skill_on_p_proc_1"
+    }
+  ]
+}

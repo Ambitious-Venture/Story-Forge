@@ -1,0 +1,1429 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "",
+      "node_id": "node59",
+      "id": "Killianx1"
+    },
+    {
+      "text": "",
+      "node_id": "node35",
+      "id": "Killian03ba"
+    },
+    {
+      "text": "",
+      "node_id": "node1",
+      "id": "start"
+    },
+    {
+      "text": "I'll tell you what. Anything in the store, even the most expensive, it's yours. No charge. If it's a gun, I'll give you all the ammo you can carry.  Does that sound fair?",
+      "node_id": "node79",
+      "id": "Killian51"
+    },
+    {
+      "text": "Can I help you?",
+      "node_id": "node22_3",
+      "id": "Killian01_3"
+    },
+    {
+      "text": "",
+      "node_id": "node23",
+      "id": "put_stuff_in_safe"
+    },
+    {
+      "text": "",
+      "node_id": "node113",
+      "id": "Killian02b"
+    },
+    {
+      "text": "It's obvious your mama didn't teach you manners. Am I gonna have to?",
+      "node_id": "node14",
+      "id": "Killian29"
+    },
+    {
+      "text": "",
+      "node_id": "node95",
+      "id": "Killian63a"
+    },
+    {
+      "text": "",
+      "node_id": "node64",
+      "id": "Killianx2"
+    },
+    {
+      "text": "Oh yeah, sure you do. And when you were a baby, your crib was a safe.",
+      "node_id": "node33",
+      "id": "Killian05"
+    },
+    {
+      "text": "",
+      "node_id": "node111",
+      "id": "Killian_give_doctor_bag"
+    },
+    {
+      "text": "You again. What do you want now?",
+      "node_id": "node21",
+      "id": "Killian26"
+    },
+    {
+      "text": "You see Killian.",
+      "node_id": "node4",
+      "id": "look_at_p_proc"
+    },
+    {
+      "text": "I'm not gonna lie to you, it will be dangerous. But I'll owe you one, and Killian Darkwater always pays his debts.",
+      "node_id": "node78",
+      "id": "Killian49"
+    },
+    {
+      "text": "",
+      "node_id": "node50",
+      "id": "Killian13a"
+    },
+    {
+      "text": "",
+      "node_id": "node63",
+      "id": "Killian32a"
+    },
+    {
+      "text": "Uh, no. You got stupid. Get out of here!",
+      "node_id": "node60",
+      "id": "Killian34"
+    },
+    {
+      "text": "All right, I owe you. Here's the bug and the wire tap. You let me know when it's done. And good luck.",
+      "node_id": "node80",
+      "id": "Killian53"
+    },
+    {
+      "text": "See ya 'round town then. Be careful not to get into too much trouble.",
+      "node_id": "node73",
+      "id": "Killian46"
+    },
+    {
+      "text": "Well, travelers tell me there's a bunch of crazies up north called the Vipers. Another group of yahoos out east called the Khans. Neither one of them likely to invite you to supper as anything but the main course,  if you know what I mean.",
+      "node_id": "node38",
+      "id": "Killian08"
+    },
+    {
+      "text": "",
+      "node_id": "node8",
+      "id": "sleeping"
+    },
+    {
+      "text": "",
+      "node_id": "node108",
+      "id": "Killian_give_stuff"
+    },
+    {
+      "text": "",
+      "node_id": "node109",
+      "id": "Killian_give_shotgun"
+    },
+    {
+      "text": "So, did you get the evidence?",
+      "node_id": "node19",
+      "id": "Killian54"
+    },
+    {
+      "text": "From outside, we've had the occasional to-do with the Khans. But they've been pretty quiet lately. Inside, trouble's been from the Skulz. And I hear of some strange things happening down by the Hub, but they haven't affected us yet, knock on my mother-in-law's head.",
+      "node_id": "node46",
+      "id": "Killian12"
+    },
+    {
+      "text": "",
+      "node_id": "node9",
+      "id": "get_stuff_from_safe"
+    },
+    {
+      "text": "All right. Fine. Let's see if a night in the locker will  cool you off a bit.",
+      "node_id": "node17",
+      "id": "Killian44"
+    },
+    {
+      "text": "",
+      "node_id": "node116",
+      "id": "DownReact"
+    },
+    {
+      "text": "Well, howdy! What can I do for you today?",
+      "node_id": "node20",
+      "id": "Killian24"
+    },
+    {
+      "text": "Hello, darlin'. What can I get ya?",
+      "node_id": "node22_1",
+      "id": "Killian01_1"
+    },
+    {
+      "text": "",
+      "node_id": "node31",
+      "id": "Killian02a"
+    },
+    {
+      "text": "",
+      "node_id": "node110",
+      "id": "Killian_give_armor"
+    },
+    {
+      "text": "Good enough. Go see Lars, he'll give you the details.",
+      "node_id": "node93",
+      "id": "Killian62"
+    },
+    {
+      "text": "",
+      "node_id": "node49",
+      "id": "Killian13b"
+    },
+    {
+      "text": "Oh, we got tons to do. The Skum Pitt's on the east side, by the entrance. Great drinkin' place. Gizmo's is near there. And if you're hurtin', Doc  Morbid's your man.",
+      "node_id": "node47",
+      "id": "Killian13"
+    },
+    {
+      "text": "",
+      "node_id": "node121",
+      "id": "UpReactLevel"
+    },
+    {
+      "text": "You're damn straight this is my place! Now get the hell out before I make your head a wall decoration!",
+      "node_id": "node61",
+      "id": "Killian32"
+    },
+    {
+      "text": "",
+      "node_id": "node112",
+      "id": "Killian_give_stimpaks"
+    },
+    {
+      "text": "What do you want?",
+      "node_id": "node22_2",
+      "id": "Killian01_2"
+    },
+    {
+      "text": "",
+      "node_id": "node34",
+      "id": "Killian03aa"
+    },
+    {
+      "text": "An honest thief. Hmpf. Well, I'm still gonna have to take you in. Come along quietly and you won't get hurt.",
+      "node_id": "node62",
+      "id": "Killian35"
+    },
+    {
+      "text": "",
+      "node_id": "node72",
+      "id": "Killian45a"
+    },
+    {
+      "text": "You leaving so soon? Better pay first.",
+      "node_id": "node15",
+      "id": "Killian42"
+    },
+    {
+      "text": "",
+      "node_id": "node29",
+      "id": "killian00"
+    },
+    {
+      "text": "You have to wear a recorder and tape Gizmo confessing, or plant this wire tap in his office. Either way, and we got him.",
+      "node_id": "node56",
+      "id": "Killian23"
+    },
+    {
+      "text": "Well, damn. That's too bad. But, you know, I'm gonna have to lock you up until this thing's done. Can't risk Gizmo finding out. Sorry.",
+      "node_id": "node77",
+      "id": "Killian52"
+    },
+    {
+      "text": "",
+      "node_id": "node81",
+      "id": "Killianx4"
+    },
+    {
+      "text": "Gizmo owns the casino. Named it after himself. Be very careful around him.",
+      "node_id": "node106",
+      "id": "Killian88"
+    },
+    {
+      "text": "My name is . I come from up north.",
+      "node_id": "node30_2",
+      "id": "Killian02_2"
+    },
+    {
+      "text": "Listen. Thanks for saving my life. It's a mighty brave thing to do. Looks like we got ourselves a situation here. I know Gizmo's behind this, but I need proof. \u00a0You interested in helpin'?",
+      "node_id": "node18",
+      "id": "Killian47"
+    },
+    {
+      "text": "Listen, that's all I'm offering. Thanks for getting the evidence, but I'm not going to beg for your services.",
+      "node_id": "node94",
+      "id": "Killian63"
+    },
+    {
+      "text": "",
+      "node_id": "node107",
+      "id": "Killianx3"
+    },
+    {
+      "text": "",
+      "node_id": "node11",
+      "id": "get_reaction"
+    },
+    {
+      "text": "Yeah, okay. But make it quick, I got work to do.",
+      "node_id": "node42_1",
+      "id": "Killian10_1"
+    },
+    {
+      "text": "You gain 500 experience points for securing Gizmo's confession.",
+      "node_id": "node7_2",
+      "id": "talk_p_proc_2"
+    },
+    {
+      "text": "Now what the Uncle Sam-hell do you think you're doing here?",
+      "node_id": "node13",
+      "id": "Killian31"
+    },
+    {
+      "text": "",
+      "node_id": "node119",
+      "id": "BigUpReact"
+    },
+    {
+      "text": "You bet. May not be as big as some in the Hub, but people usually find what they're looking for. Take a look around . . .",
+      "node_id": "node55",
+      "id": "Killian22"
+    },
+    {
+      "text": "Well, thanks again. Oh, listen, I'm gonna take the guards and run Gizmo and his cronies out of town. I could use another gun. You up for it? Might be good for a laugh.",
+      "node_id": "node88",
+      "id": "Killian59"
+    },
+    {
+      "text": "Well, Junktown's not much, but it's home. Mostly we trade with people or let 'em forget their troubles for a bit. Of course, we have our share of problems.",
+      "node_id": "node45",
+      "id": "Killian11"
+    },
+    {
+      "text": "Which, bug or tape?",
+      "node_id": "node83",
+      "id": "Killian56"
+    },
+    {
+      "text": "I'm here to take you in, Gizmo. This time, I've got the proof I need.",
+      "node_id": "node5",
+      "id": "map_enter_p_proc"
+    },
+    {
+      "text": "",
+      "node_id": "node48",
+      "id": "Killian11a"
+    },
+    {
+      "text": "Go to Lars at the guard station. He'll fill you in. And listen, this town owes you . . . a lot.",
+      "node_id": "node89",
+      "id": "Killian60"
+    },
+    {
+      "text": "By a damn sight.",
+      "node_id": "node52",
+      "id": "Killian15"
+    },
+    {
+      "text": "You want to buy something, friend?",
+      "node_id": "node28",
+      "id": "Killian0a"
+    },
+    {
+      "text": "",
+      "node_id": "node25",
+      "id": "Killianx"
+    },
+    {
+      "text": "",
+      "node_id": "node36",
+      "id": "Killian03ca"
+    },
+    {
+      "text": "Well that's a damn fine coincidence! That's what this store's here for! We got about everything you can need. Let me show you some  things over here . . .",
+      "node_id": "node54",
+      "id": "Killian21"
+    },
+    {
+      "text": "",
+      "node_id": "node120",
+      "id": "BigDownReact"
+    },
+    {
+      "text": "Great! Let me make sure it's working.",
+      "node_id": "node84",
+      "id": "Killian57"
+    },
+    {
+      "text": "You moved against Gizmo without evidence. Y'know, he wasn't on the up-and-up, but neither are you. Go see Lars.",
+      "node_id": "node10",
+      "id": "Killian89"
+    },
+    {
+      "text": "Well, if we're too fast for ya, just pass on by, pal. It is pal,  ain't it?",
+      "node_id": "node51",
+      "id": "Killian14"
+    },
+    {
+      "text": "Well, congratulations. You just earned yourself a night in a cell. Boys . . .",
+      "node_id": "node12",
+      "id": "Killian30"
+    },
+    {
+      "text": "Well, he's not going to come here and confess! You shouldn't even be seen with me until this is done. Now go.",
+      "node_id": "node82",
+      "id": "Killian55"
+    },
+    {
+      "text": "",
+      "node_id": "node27",
+      "id": "KillianCbt"
+    },
+    {
+      "text": "You're not too bright, are ya. Boys . . .",
+      "node_id": "node58",
+      "id": "Killian28"
+    },
+    {
+      "text": "",
+      "node_id": "node43",
+      "id": "Killian09a"
+    },
+    {
+      "text": "It'll work best if it's you. Gizmo doesn't know you, so he might trust you. Or, at least he'll have a hard time blaming me. Either way, you're the best  person for the job.",
+      "node_id": "node75",
+      "id": "Killian50"
+    },
+    {
+      "text": "Oh, you obviously have me confused with someone who has to take your lip. Why don't you come back when your mama teaches you some manners.",
+      "node_id": "node53",
+      "id": "Killian16"
+    },
+    {
+      "text": "",
+      "node_id": "node44",
+      "id": "DownReactLevel"
+    },
+    {
+      "text": "Hey, you sound like you're hopin' I'll fill in some gaps for you.",
+      "node_id": "node37",
+      "id": "Killian03a"
+    },
+    {
+      "text": "Yeah, if you say so. So what do you need?",
+      "node_id": "node39",
+      "id": "Killian04"
+    },
+    {
+      "text": "",
+      "node_id": "node24",
+      "id": "Killian_barter"
+    },
+    {
+      "text": "Loud and clear. We're going to get him. In the mean time, we've  got some business . . .",
+      "node_id": "node86",
+      "id": "soundcheck"
+    },
+    {
+      "text": "",
+      "node_id": "node3",
+      "id": "destroy_p_proc"
+    },
+    {
+      "text": "Well, ya got the Hub southwest. Don't go south, though. That'd be Necropolis; the, uh . . . climate's bad there, rain or shine. If you understand what I'm  saying.",
+      "node_id": "node41",
+      "id": "Killian09"
+    },
+    {
+      "text": "Any more questions?",
+      "node_id": "node71",
+      "id": "Killian45"
+    },
+    {
+      "text": "That's the first time I've been happy to hear his voice. Thanks, friend. \u00a0Now, time for you and me to take care of the other business.",
+      "node_id": "node87",
+      "id": "playback"
+    },
+    {
+      "text": "Good luck in your travels. Now if you'll excuse me, I have a fat ass  to move.",
+      "node_id": "node91",
+      "id": "Killian64"
+    },
+    {
+      "text": "Not much up that way 'cept desert and Shady Sands. You from there?",
+      "node_id": "node32",
+      "id": "Killian03"
+    },
+    {
+      "text": "Well, I can pay you the standard rate for mercenary work,  500 caps.",
+      "node_id": "node90",
+      "id": "Killian61"
+    },
+    {
+      "text": "Now, if I get proof, the people of Junktown will kick him out. Way I figure it, you need to either plant a bug at his place or wear a wire and get him to confess to you. Can you handle that?",
+      "node_id": "node74",
+      "id": "Killian48"
+    },
+    {
+      "text": "",
+      "node_id": "node2",
+      "id": "critter_p_proc"
+    },
+    {
+      "text": "Let's hear it.",
+      "node_id": "node85",
+      "id": "Killian58"
+    },
+    {
+      "text": "",
+      "node_id": "node6",
+      "id": "pickup_p_proc"
+    },
+    {
+      "text": "You have to wear a recorder and tape Gizmo confessing, or plant this wire tap in his office. Either way, and we got him.",
+      "node_id": "node76",
+      "id": "Killian90"
+    },
+    {
+      "text": "Don't feel bad, ain't the worst story I've been told. So . . . what can I do for ya?",
+      "node_id": "node40",
+      "id": "Killian06"
+    },
+    {
+      "text": "",
+      "node_id": "node115",
+      "id": "UpReact"
+    },
+    {
+      "text": "",
+      "node_id": "node114",
+      "id": "ReactToLevel"
+    },
+    {
+      "text": "This is not something I take as a joke. Now. Pay up.",
+      "node_id": "node16",
+      "id": "Killian43"
+    },
+    {
+      "text": "Well, howdy! What can I do for you today?",
+      "node_id": "node7_1",
+      "id": "talk_p_proc_1"
+    },
+    {
+      "text": "I'm .",
+      "node_id": "node30_1",
+      "id": "Killian02_1"
+    },
+    {
+      "text": "",
+      "node_id": "node92",
+      "id": "LevelToReact"
+    }
+  ],
+  "links": [
+    {
+      "text": "All right, I'll come along quietly.",
+      "source": "Killianx1",
+      "target": "Killianx3"
+    },
+    {
+      "text": "Right . . . I don't think so.",
+      "source": "Killianx1",
+      "target": "KillianCbt"
+    },
+    {
+      "text": "",
+      "source": "Killian03ba",
+      "target": "Killian03a"
+    },
+    {
+      "text": "",
+      "source": "Killian03ba",
+      "target": "DownReactLevel"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "map_enter_p_proc"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "pickup_p_proc"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "destroy_p_proc"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "critter_p_proc"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "look_at_p_proc"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "talk_p_proc_1"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "talk_p_proc_2"
+    },
+    {
+      "text": "Yeah. I'll do it.",
+      "source": "Killian51",
+      "target": "Killian53"
+    },
+    {
+      "text": "Not even close. I'm not risking my neck for that.",
+      "source": "Killian51",
+      "target": "Killian52"
+    },
+    {
+      "text": "",
+      "source": "Killian01_3",
+      "target": "killian00"
+    },
+    {
+      "text": "",
+      "source": "Killian02b",
+      "target": "killian00"
+    },
+    {
+      "text": "",
+      "source": "Killian63a",
+      "target": "DownReactLevel"
+    },
+    {
+      "text": "",
+      "source": "Killian63a",
+      "target": "Killian64"
+    },
+    {
+      "text": "Heh, you got my joke. I actually come from a village not far from Shady Sands.",
+      "source": "Killian05",
+      "target": "Killian04"
+    },
+    {
+      "text": "No, no. It's called a Vault. It protected us from the war. It's been full of people for 80 years!",
+      "source": "Killian05",
+      "target": "Killian06"
+    },
+    {
+      "text": "",
+      "source": "Killian_give_doctor_bag",
+      "target": "Killian59"
+    },
+    {
+      "text": "",
+      "source": "Killian26",
+      "target": "killian00"
+    },
+    {
+      "text": "What do you mean, 'pays his debts.'",
+      "source": "Killian49",
+      "target": "Killian51"
+    },
+    {
+      "text": "You sure you can't find someone else?",
+      "source": "Killian49",
+      "target": "Killian50"
+    },
+    {
+      "text": "I don't think so. Sounds too dangerous to me.",
+      "source": "Killian49",
+      "target": "Killian52"
+    },
+    {
+      "text": "",
+      "source": "Killian13a",
+      "target": "DownReactLevel"
+    },
+    {
+      "text": "",
+      "source": "Killian13a",
+      "target": "Killian14"
+    },
+    {
+      "text": "",
+      "source": "Killian32a",
+      "target": "DownReactLevel"
+    },
+    {
+      "text": "",
+      "source": "Killian32a",
+      "target": "Killianx2"
+    },
+    {
+      "text": "Who's going to make me? You? Don't make me laugh . . .",
+      "source": "Killian34",
+      "target": "KillianCbt"
+    },
+    {
+      "text": "Okay. Sorry about the inconvenience.",
+      "source": "Killian34",
+      "target": "Killianx2"
+    },
+    {
+      "text": "",
+      "source": "Killian53",
+      "target": "Killianx4"
+    },
+    {
+      "text": "",
+      "source": "Killian46",
+      "target": "Killianx"
+    },
+    {
+      "text": "What else is outside Junktown?",
+      "source": "Killian08",
+      "target": "Killian09"
+    },
+    {
+      "text": "Thanks.",
+      "source": "Killian08",
+      "target": "killian00"
+    },
+    {
+      "text": "I'll take a suit of leather armor.",
+      "source": "Killian_give_stuff",
+      "target": "Killian_give_armor"
+    },
+    {
+      "text": "I'll take a doctor's medical kit.",
+      "source": "Killian_give_stuff",
+      "target": "Killian_give_doctor_bag"
+    },
+    {
+      "text": "I'll take a shotgun and shells.",
+      "source": "Killian_give_stuff",
+      "target": "Killian_give_shotgun"
+    },
+    {
+      "text": "I'll take all the stimpaks you can spare.",
+      "source": "Killian_give_stuff",
+      "target": "Killian_give_stimpaks"
+    },
+    {
+      "text": "No thanks. Knowing that Gizmo's going to get his due is thanks enough.",
+      "source": "Killian_give_stuff",
+      "target": "Killian59"
+    },
+    {
+      "text": "",
+      "source": "Killian_give_shotgun",
+      "target": "Killian59"
+    },
+    {
+      "text": "I sure did.",
+      "source": "Killian54",
+      "target": "Killian56"
+    },
+    {
+      "text": "Not yet. But I will, believe me!",
+      "source": "Killian54",
+      "target": "Killian55"
+    },
+    {
+      "text": "",
+      "source": "Killian12",
+      "target": "killian00"
+    },
+    {
+      "text": "",
+      "source": "Killian44",
+      "target": "Killianx1"
+    },
+    {
+      "text": "",
+      "source": "DownReact",
+      "target": "ReactToLevel"
+    },
+    {
+      "text": "",
+      "source": "Killian24",
+      "target": "killian00"
+    },
+    {
+      "text": "",
+      "source": "Killian01_1",
+      "target": "killian00"
+    },
+    {
+      "text": "",
+      "source": "Killian02a",
+      "target": "DownReactLevel"
+    },
+    {
+      "text": "",
+      "source": "Killian02a",
+      "target": "Killian16"
+    },
+    {
+      "text": "",
+      "source": "Killian_give_armor",
+      "target": "Killian59"
+    },
+    {
+      "text": "",
+      "source": "Killian62",
+      "target": "Killianx"
+    },
+    {
+      "text": "",
+      "source": "Killian13b",
+      "target": "killian00"
+    },
+    {
+      "text": "Thanks.",
+      "source": "Killian13",
+      "target": "Killian13b"
+    },
+    {
+      "text": "That's all there is to do around here?",
+      "source": "Killian13",
+      "target": "Killian13a"
+    },
+    {
+      "text": "",
+      "source": "UpReactLevel",
+      "target": "LevelToReact"
+    },
+    {
+      "text": "Okay, okay, I'm going.",
+      "source": "Killian32",
+      "target": "Killian32a"
+    },
+    {
+      "text": "You? Wake up, pal, you're still dreaming.",
+      "source": "Killian32",
+      "target": "KillianCbt"
+    },
+    {
+      "text": "",
+      "source": "Killian_give_stimpaks",
+      "target": "Killian59"
+    },
+    {
+      "text": "",
+      "source": "Killian01_2",
+      "target": "killian00"
+    },
+    {
+      "text": "",
+      "source": "Killian03aa",
+      "target": "Killian04"
+    },
+    {
+      "text": "",
+      "source": "Killian03aa",
+      "target": "DownReactLevel"
+    },
+    {
+      "text": "",
+      "source": "Killian35",
+      "target": "Killianx1"
+    },
+    {
+      "text": "",
+      "source": "Killian45a",
+      "target": "killian00"
+    },
+    {
+      "text": "",
+      "source": "Killian42",
+      "target": "Killianx"
+    },
+    {
+      "text": "I want to buy something.",
+      "source": "killian00",
+      "target": "Killian21"
+    },
+    {
+      "text": "Do you own this store?",
+      "source": "killian00",
+      "target": "Killian22"
+    },
+    {
+      "text": "Nu-uhh?",
+      "source": "killian00",
+      "target": "Killian0a"
+    },
+    {
+      "text": "What's there to do around here?",
+      "source": "killian00",
+      "target": "Killian13"
+    },
+    {
+      "text": "Who are you?",
+      "source": "killian00",
+      "target": "Killian02_1"
+    },
+    {
+      "text": "I'd better go.",
+      "source": "killian00",
+      "target": "Killianx"
+    },
+    {
+      "text": "What do you know about this Gizmo character?",
+      "source": "killian00",
+      "target": "Killian88"
+    },
+    {
+      "text": "Who are you?",
+      "source": "killian00",
+      "target": "Killian02_2"
+    },
+    {
+      "text": "What do I have to do to help you get rid of Gizmo?",
+      "source": "killian00",
+      "target": "Killian23"
+    },
+    {
+      "text": "How about telling me a bit about this town?",
+      "source": "killian00",
+      "target": "Killian11"
+    },
+    {
+      "text": "",
+      "source": "Killian52",
+      "target": "Killianx1"
+    },
+    {
+      "text": "Yeah, he's dangerous. I'm here to kill you for him.",
+      "source": "Killian88",
+      "target": "KillianCbt"
+    },
+    {
+      "text": "Okay.",
+      "source": "Killian88",
+      "target": "Killianx"
+    },
+    {
+      "text": "I'll say . . . that fat slob just tried to hire me to kill you. Why don't you do something about him?",
+      "source": "Killian88",
+      "target": "Killian48"
+    },
+    {
+      "text": "What's it to you?",
+      "source": "Killian02_2",
+      "target": "Killian02a"
+    },
+    {
+      "text": "Can't you get someone else? I'm kinda busy . . .",
+      "source": "Killian47",
+      "target": "Killian50"
+    },
+    {
+      "text": "Me? What do you need me for?",
+      "source": "Killian47",
+      "target": "Killian48"
+    },
+    {
+      "text": "I'm in.",
+      "source": "Killian47",
+      "target": "Killian90"
+    },
+    {
+      "text": "Nuh-uh.",
+      "source": "Killian47",
+      "target": "Killian52"
+    },
+    {
+      "text": "Oh, well. See ya around.",
+      "source": "Killian63",
+      "target": "Killian63a"
+    },
+    {
+      "text": "All right, I'll do it for that fee.",
+      "source": "Killian63",
+      "target": "Killian62"
+    },
+    {
+      "text": "",
+      "source": "get_reaction",
+      "target": "ReactToLevel"
+    },
+    {
+      "text": "",
+      "source": "Killian10_1",
+      "target": "killian00"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc_2",
+      "target": "Killian29"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc_2",
+      "target": "Killian54"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc_2",
+      "target": "put_stuff_in_safe"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc_2",
+      "target": "Killian31"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc_2",
+      "target": "get_stuff_from_safe"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc_2",
+      "target": "Killian26"
+    },
+    {
+      "text": "I want to buy something.",
+      "source": "talk_p_proc_2",
+      "target": "Killian_barter"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc_2",
+      "target": "Killian43"
+    },
+    {
+      "text": "I'd better go.",
+      "source": "talk_p_proc_2",
+      "target": "Killianx"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc_2",
+      "target": "get_reaction"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc_2",
+      "target": "Killian44"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc_2",
+      "target": "Killian24"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc_2",
+      "target": "Killian30"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc_2",
+      "target": "Killian89"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc_2",
+      "target": "Killian47"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc_2",
+      "target": "Killian42"
+    },
+    {
+      "text": "Oh, this is your place?",
+      "source": "Killian31",
+      "target": "Killian32"
+    },
+    {
+      "text": "Well . . . I broke in.",
+      "source": "Killian31",
+      "target": "Killian35"
+    },
+    {
+      "text": "Uh . . . I got lost?",
+      "source": "Killian31",
+      "target": "Killian34"
+    },
+    {
+      "text": "",
+      "source": "BigUpReact",
+      "target": "ReactToLevel"
+    },
+    {
+      "text": "Again? I don't think so. I've got way too much stuff going on.",
+      "source": "Killian59",
+      "target": "Killian64"
+    },
+    {
+      "text": "Kinda depends on what you're willing to give me.",
+      "source": "Killian59",
+      "target": "Killian61"
+    },
+    {
+      "text": "Sure. It'll be worth it just to see him try to walk more than ten feet.",
+      "source": "Killian59",
+      "target": "Killian60"
+    },
+    {
+      "text": "What other cities are around here?",
+      "source": "Killian11",
+      "target": "Killian08"
+    },
+    {
+      "text": "What's there to do in this town?",
+      "source": "Killian11",
+      "target": "Killian13"
+    },
+    {
+      "text": "Problems?",
+      "source": "Killian11",
+      "target": "Killian12"
+    },
+    {
+      "text": "Thanks.",
+      "source": "Killian11",
+      "target": "Killian11a"
+    },
+    {
+      "text": "The bug.",
+      "source": "Killian56",
+      "target": "Killian57"
+    },
+    {
+      "text": "The confession.",
+      "source": "Killian56",
+      "target": "Killian58"
+    },
+    {
+      "text": "",
+      "source": "Killian11a",
+      "target": "killian00"
+    },
+    {
+      "text": "",
+      "source": "Killian60",
+      "target": "Killianx"
+    },
+    {
+      "text": "",
+      "source": "Killian60",
+      "target": "LevelToReact"
+    },
+    {
+      "text": "",
+      "source": "Killian15",
+      "target": "killian00"
+    },
+    {
+      "text": "",
+      "source": "Killian03ca",
+      "target": "DownReactLevel"
+    },
+    {
+      "text": "",
+      "source": "Killian03ca",
+      "target": "Killian16"
+    },
+    {
+      "text": "What do I have to do to help you get rid of Gizmo?",
+      "source": "Killian21",
+      "target": "Killian_barter"
+    },
+    {
+      "text": "",
+      "source": "BigDownReact",
+      "target": "ReactToLevel"
+    },
+    {
+      "text": "",
+      "source": "Killian57",
+      "target": "soundcheck"
+    },
+    {
+      "text": "Better than nothing, I guess.",
+      "source": "Killian14",
+      "target": "Killian15"
+    },
+    {
+      "text": "Then there won't be anything exciting in town.",
+      "source": "Killian14",
+      "target": "Killian16"
+    },
+    {
+      "text": "",
+      "source": "Killian30",
+      "target": "Killianx1"
+    },
+    {
+      "text": "",
+      "source": "Killian55",
+      "target": "Killianx"
+    },
+    {
+      "text": "",
+      "source": "Killian28",
+      "target": "Killianx1"
+    },
+    {
+      "text": "",
+      "source": "Killian09a",
+      "target": "DownReactLevel"
+    },
+    {
+      "text": "",
+      "source": "Killian09a",
+      "target": "Killian04"
+    },
+    {
+      "text": "Fair enough, I'll do it.",
+      "source": "Killian50",
+      "target": "Killian53"
+    },
+    {
+      "text": "Pass. Getting killed doesn't seem like a fun thing for me.",
+      "source": "Killian50",
+      "target": "Killian52"
+    },
+    {
+      "text": "What do I get out of this?",
+      "source": "Killian50",
+      "target": "Killian51"
+    },
+    {
+      "text": "",
+      "source": "DownReactLevel",
+      "target": "LevelToReact"
+    },
+    {
+      "text": "",
+      "source": "Killian03a",
+      "target": "Killian08"
+    },
+    {
+      "text": "",
+      "source": "Killian04",
+      "target": "killian00"
+    },
+    {
+      "text": "Nu-uhh?",
+      "source": "Killian_barter",
+      "target": "Killianx"
+    },
+    {
+      "text": "",
+      "source": "soundcheck",
+      "target": "Killian_give_stuff"
+    },
+    {
+      "text": "I'd better be going now.",
+      "source": "Killian09",
+      "target": "Killianx"
+    },
+    {
+      "text": "You just know everything, don't you?",
+      "source": "Killian09",
+      "target": "Killian09a"
+    },
+    {
+      "text": "Well, thanks for the information. Can I ask you a few more questions?",
+      "source": "Killian09",
+      "target": "Killian10_1"
+    },
+    {
+      "text": "You bet.",
+      "source": "Killian45",
+      "target": "Killian45a"
+    },
+    {
+      "text": "Nope. That's it, thanks.",
+      "source": "Killian45",
+      "target": "Killian46"
+    },
+    {
+      "text": "",
+      "source": "playback",
+      "target": "Killian_give_stuff"
+    },
+    {
+      "text": "",
+      "source": "Killian64",
+      "target": "Killianx"
+    },
+    {
+      "text": "No. My . . . um . . . village is a little west, in the mountains.",
+      "source": "Killian03",
+      "target": "Killian03aa"
+    },
+    {
+      "text": "No. I come from a Vault, to the west.",
+      "source": "Killian03",
+      "target": "Killian05"
+    },
+    {
+      "text": "Of course, I come from there, you idiot.",
+      "source": "Killian03",
+      "target": "Killian03ca"
+    },
+    {
+      "text": "Not really. Is there anything else up there?",
+      "source": "Killian03",
+      "target": "Killian03ba"
+    },
+    {
+      "text": "Sorry, not enough.",
+      "source": "Killian61",
+      "target": "Killian63"
+    },
+    {
+      "text": "Done.",
+      "source": "Killian61",
+      "target": "Killian62"
+    },
+    {
+      "text": "Ummm . . . no. Getting involved in other people's problems never works out.",
+      "source": "Killian48",
+      "target": "Killian52"
+    },
+    {
+      "text": "What do I get in return?",
+      "source": "Killian48",
+      "target": "Killian51"
+    },
+    {
+      "text": "Whoa. Sounds kinda dangerous . . .",
+      "source": "Killian48",
+      "target": "Killian49"
+    },
+    {
+      "text": "",
+      "source": "critter_p_proc",
+      "target": "sleeping"
+    },
+    {
+      "text": "What do I have to do to help you get rid of Gizmo?",
+      "source": "Killian58",
+      "target": "playback"
+    },
+    {
+      "text": "What do I have to do to help you get rid of Gizmo?",
+      "source": "Killian90",
+      "target": "Killian53"
+    },
+    {
+      "text": "",
+      "source": "Killian06",
+      "target": "killian00"
+    },
+    {
+      "text": "",
+      "source": "UpReact",
+      "target": "ReactToLevel"
+    },
+    {
+      "text": "",
+      "source": "Killian43",
+      "target": "Killianx"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc_1",
+      "target": "Killian54"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc_1",
+      "target": "Killian43"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc_1",
+      "target": "get_reaction"
+    },
+    {
+      "text": "I want to buy something.",
+      "source": "talk_p_proc_1",
+      "target": "Killian_barter"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc_1",
+      "target": "Killian44"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc_1",
+      "target": "Killian24"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc_1",
+      "target": "Killian89"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc_1",
+      "target": "Killian47"
+    },
+    {
+      "text": "I'd better go.",
+      "source": "talk_p_proc_1",
+      "target": "Killianx"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc_1",
+      "target": "Killian42"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc_1",
+      "target": "Killian30"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc_1",
+      "target": "put_stuff_in_safe"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc_1",
+      "target": "Killian26"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc_1",
+      "target": "Killian29"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc_1",
+      "target": "Killian31"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc_1",
+      "target": "get_stuff_from_safe"
+    },
+    {
+      "text": "What's it to you?",
+      "source": "Killian02_1",
+      "target": "Killian02a"
+    }
+  ]
+}

@@ -1,0 +1,319 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "Those creatures are the only thing that are stopping Vault City from making us their so-called  servants.",
+      "node_id": "node23",
+      "id": "Node004"
+    },
+    {
+      "text": "You believed them at face value? \u00a0You've a lot to learn about the world, friend.",
+      "node_id": "node28",
+      "id": "Node009"
+    },
+    {
+      "text": "With these, we'll be able to make something of this place over the next months. If you ever need a place to rest, you will always be welcome here.",
+      "node_id": "node38",
+      "id": "Node015"
+    },
+    {
+      "text": "",
+      "node_id": "node37",
+      "id": "Node013a"
+    },
+    {
+      "text": "",
+      "node_id": "node32",
+      "id": "Node008a"
+    },
+    {
+      "text": "They'll come for us if you do that, you know.",
+      "node_id": "node27",
+      "id": "Node006"
+    },
+    {
+      "text": "",
+      "node_id": "node21",
+      "id": "Node998"
+    },
+    {
+      "text": "Greetings! The village has expanded again as we have hoped. You are welcome as always.",
+      "node_id": "node12",
+      "id": "Node019"
+    },
+    {
+      "text": "Hello again! Things have been going well, as you can see. Look around if you have the time.",
+      "node_id": "node10",
+      "id": "Node017"
+    },
+    {
+      "text": "Welcome back. Things are going well. We're going to work on expanding the Village.",
+      "node_id": "node11",
+      "id": "Node016"
+    },
+    {
+      "text": "We need three rifles and a shotgun. The sooner you can get them to us, the better.",
+      "node_id": "node36",
+      "id": "Node014"
+    },
+    {
+      "text": "",
+      "node_id": "node5",
+      "id": "talk_p_proc"
+    },
+    {
+      "text": "Well, we can't let you do that.",
+      "node_id": "node30",
+      "id": "Node008"
+    },
+    {
+      "text": "You idiot! Why the hell did you do that!",
+      "node_id": "node26",
+      "id": "Node005"
+    },
+    {
+      "text": "I bet those bastards at Vault City sent you. Well you best be off, and leave everything else  alive.",
+      "node_id": "node24",
+      "id": "Node003"
+    },
+    {
+      "text": "Just don't kill anything out there, you simpleton.",
+      "node_id": "node25",
+      "id": "Node021"
+    },
+    {
+      "text": "",
+      "node_id": "node22",
+      "id": "Node999"
+    },
+    {
+      "text": "",
+      "node_id": "node31",
+      "id": "Node007a"
+    },
+    {
+      "text": "Hey you! What are you doing!",
+      "node_id": "node6",
+      "id": "Node001"
+    },
+    {
+      "text": "We have nothing to fear from Vault City any longer, and will be able to live here in peace. Thank you again, wanderer.",
+      "node_id": "node14",
+      "id": "Node020"
+    },
+    {
+      "text": "Well I hope you choke on it. They'll be here for us soon.",
+      "node_id": "node29",
+      "id": "Node007"
+    },
+    {
+      "text": "The Vault City boys aren't the bravest. You show them any kind of a fight and they run for the hills. If we had a few guns, I think we could hold them off.",
+      "node_id": "node33",
+      "id": "Node010"
+    },
+    {
+      "text": "",
+      "node_id": "node35",
+      "id": "Node011a"
+    },
+    {
+      "text": "Well, I'm good with a shotgun, and we have some people in here that can handle a rifle. I think  three of those would do.",
+      "node_id": "node34",
+      "id": "Node011"
+    },
+    {
+      "text": "Stay where you are for now, wanderer. What are you doing here?",
+      "node_id": "node7",
+      "id": "Node002"
+    },
+    {
+      "text": "We're still building. We're hoping to expand the walls again in the next month.",
+      "node_id": "node13",
+      "id": "Node018"
+    },
+    {
+      "text": "You're not wanted here. Leave now.",
+      "node_id": "node8",
+      "id": "Node012"
+    },
+    {
+      "text": "You're back! Do you have the guns for us?",
+      "node_id": "node9",
+      "id": "Node013"
+    }
+  ],
+  "links": [
+    {
+      "text": "They're paying me to get rid of them, and the job's done.",
+      "source": "Node004",
+      "target": "Node005"
+    },
+    {
+      "text": "They didn't tell me that.",
+      "source": "Node004",
+      "target": "Node009"
+    },
+    {
+      "text": "Well they're paying me to get rid of the monsters, and that's what I'm going to do.",
+      "source": "Node004",
+      "target": "Node006"
+    },
+    {
+      "text": "Is there anything I could do to help?",
+      "source": "Node009",
+      "target": "Node010"
+    },
+    {
+      "text": "You're welcome.",
+      "source": "Node015",
+      "target": "Node999"
+    },
+    {
+      "text": "",
+      "source": "Node013a",
+      "target": "Node015"
+    },
+    {
+      "text": "",
+      "source": "Node013a",
+      "target": "Node014"
+    },
+    {
+      "text": "",
+      "source": "Node008a",
+      "target": "Node998"
+    },
+    {
+      "text": "Not my problem.",
+      "source": "Node006",
+      "target": "Node008"
+    },
+    {
+      "text": "Okay.",
+      "source": "Node014",
+      "target": "Node999"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node001"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node013"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node002"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node019"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node020"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node017"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node018"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node012"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node016"
+    },
+    {
+      "text": "You gotta do what you gotta do.",
+      "source": "Node008",
+      "target": "Node008a"
+    },
+    {
+      "text": "I needed the money.",
+      "source": "Node005",
+      "target": "Node007"
+    },
+    {
+      "text": "Why?",
+      "source": "Node003",
+      "target": "Node004"
+    },
+    {
+      "text": "Well, it's a little late for that.",
+      "source": "Node003",
+      "target": "Node005"
+    },
+    {
+      "text": "I didn't know this was why they wanted the job done.",
+      "source": "Node007",
+      "target": "Node009"
+    },
+    {
+      "text": "Yeah, well, I don't deal with trash like you anyway.",
+      "source": "Node007",
+      "target": "Node007a"
+    },
+    {
+      "text": "What sort of guns?",
+      "source": "Node010",
+      "target": "Node011"
+    },
+    {
+      "text": "I'll see what I can do.",
+      "source": "Node011",
+      "target": "Node011a"
+    },
+    {
+      "text": "I'm killing off the monsters here.",
+      "source": "Node002",
+      "target": "Node004"
+    },
+    {
+      "text": "Why, what's it to you?",
+      "source": "Node002",
+      "target": "Node003"
+    },
+    {
+      "text": "Why you Yell!",
+      "source": "Node002",
+      "target": "Node021"
+    },
+    {
+      "text": "Yeah, well, you're not going to be here for long anyway.",
+      "source": "Node012",
+      "target": "Node999"
+    },
+    {
+      "text": "I changed my mind. What can I do to help?",
+      "source": "Node012",
+      "target": "Node011"
+    },
+    {
+      "text": "What was it that you needed again?",
+      "source": "Node013",
+      "target": "Node014"
+    },
+    {
+      "text": "Yep, here they are.",
+      "source": "Node013",
+      "target": "Node013a"
+    }
+  ]
+}

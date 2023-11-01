@@ -1,0 +1,134 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "I've got to find time between patrols and training to keep up with my studies. I think I'm getting a little rusty.",
+      "node_id": "node7_3",
+      "id": "PaladinCRandom_3"
+    },
+    {
+      "text": "",
+      "node_id": "node5",
+      "id": "critter_p_proc"
+    },
+    {
+      "text": "Being a Paladin isn't just combat, son.",
+      "node_id": "node7_6",
+      "id": "PaladinCRandom_6"
+    },
+    {
+      "text": "",
+      "node_id": "node3",
+      "id": "pickup_p_proc"
+    },
+    {
+      "text": "Being a Paladin isn't just combat, my lady.",
+      "node_id": "node7_7",
+      "id": "PaladinCRandom_7"
+    },
+    {
+      "text": "Paladin",
+      "node_id": "node2",
+      "id": "look_at_p_proc"
+    },
+    {
+      "text": "",
+      "node_id": "node1",
+      "id": "start"
+    },
+    {
+      "text": "Vree's right over there if you need to talk to someone.",
+      "node_id": "node7_2",
+      "id": "PaladinCRandom_2"
+    },
+    {
+      "text": "You've got to keep your mind and body in top condition at all times, Initiate.",
+      "node_id": "node7_4",
+      "id": "PaladinCRandom_4"
+    },
+    {
+      "text": "If you need anything, you should talk to Vree.",
+      "node_id": "node7_1",
+      "id": "PaladinCRandom_1"
+    },
+    {
+      "text": "",
+      "node_id": "node6",
+      "id": "destroy_p_proc"
+    },
+    {
+      "text": "",
+      "node_id": "node4",
+      "id": "talk_p_proc"
+    },
+    {
+      "text": "Us Scribes design all the equipment, weapons, and supplies. It's quite exciting.",
+      "node_id": "node7_5",
+      "id": "PaladinCRandom_5"
+    }
+  ],
+  "links": [
+    {
+      "text": "",
+      "source": "start",
+      "target": "pickup_p_proc"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "destroy_p_proc"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "talk_p_proc"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "critter_p_proc"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "look_at_p_proc"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "PaladinCRandom_1"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "PaladinCRandom_5"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "PaladinCRandom_6"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "PaladinCRandom_2"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "PaladinCRandom_3"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "PaladinCRandom_7"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "PaladinCRandom_4"
+    }
+  ]
+}

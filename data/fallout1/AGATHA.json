@@ -1,0 +1,389 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "You see an aged woman.",
+      "node_id": "node5_1",
+      "id": "look_at_p_proc_1"
+    },
+    {
+      "text": "It is a terrible thing when our youth are threatened. The loss of Tandi would be a terrible thing.",
+      "node_id": "node13",
+      "id": "Agatha01"
+    },
+    {
+      "text": "Good day, my child. You look well. You remind me of my own baby.",
+      "node_id": "node9",
+      "id": "Agatha16"
+    },
+    {
+      "text": "",
+      "node_id": "node1",
+      "id": "start"
+    },
+    {
+      "text": "",
+      "node_id": "node32",
+      "id": "get_reaction"
+    },
+    {
+      "text": "You definitely remind me of my baby. When she was just a few months old, as a matter of fact.",
+      "node_id": "node27",
+      "id": "Agatha17"
+    },
+    {
+      "text": "",
+      "node_id": "node35",
+      "id": "DownReact"
+    },
+    {
+      "text": "",
+      "node_id": "node31",
+      "id": "DownReactLevel"
+    },
+    {
+      "text": "",
+      "node_id": "node28",
+      "id": "Agatha20"
+    },
+    {
+      "text": "",
+      "node_id": "node7",
+      "id": "timed_event_p_proc"
+    },
+    {
+      "text": "Aradesh loves his daughter very much. It is that love that makes him the man that he is and a pillar of this community. Without that love he would be lost, and Shady Sands would surely follow . . .",
+      "node_id": "node15",
+      "id": "Agatha03"
+    },
+    {
+      "text": "Hello. You must be the stranger everyone is talking about. [Agatha sighs.] How can I help you?",
+      "node_id": "node11",
+      "id": "Agatha08"
+    },
+    {
+      "text": "I'm sorry, child, I am tired right now. I need my rest. Please come  back later.",
+      "node_id": "node24",
+      "id": "Agatha11"
+    },
+    {
+      "text": "You need more help than I can give you, child. May Dharma be with you.",
+      "node_id": "node21",
+      "id": "Agatha09"
+    },
+    {
+      "text": "",
+      "node_id": "node4",
+      "id": "destroy_p_proc"
+    },
+    {
+      "text": "Thank you for asking. I'm just old, that's all. I cannot sleep at night. I close my eyes . . . [Agatha pauses.] But I get no rest. Please, it is just my old tired bones . . .",
+      "node_id": "node23",
+      "id": "Agatha13"
+    },
+    {
+      "text": "How very true. [Agatha stares at you for a moment.] It is good for the young to remember, but it is very hard to act within the flow of history. Sometimes, the very course we take is determined by events long ago. May Dharma be with you. I must rest for a little while. Come back again, when I am stronger,  and we will speak again.",
+      "node_id": "node25",
+      "id": "Agatha12"
+    },
+    {
+      "text": "",
+      "node_id": "node38",
+      "id": "BigUpReact"
+    },
+    {
+      "text": "My name is Agatha. I am the storyteller of Shady Sands. It is my job to keep the history so that we may remember and never forget.",
+      "node_id": "node22",
+      "id": "Agatha10"
+    },
+    {
+      "text": "I'm sorry, I'm very tired. Could you please come back later?",
+      "node_id": "node8",
+      "id": "Agatha14"
+    },
+    {
+      "text": "",
+      "node_id": "node40",
+      "id": "UpReactLevel"
+    },
+    {
+      "text": "I know you will do your best, dearie. Find Tandi, help her escape those beasts and return her to Aradesh. You will do this community a favor and build good karma as well.",
+      "node_id": "node14",
+      "id": "Agatha02"
+    },
+    {
+      "text": "I don't sleep well at night, my child. It must be my age.",
+      "node_id": "node26",
+      "id": "Agatha15"
+    },
+    {
+      "text": "I feel that she is imprisoned. She was the target of hatred. That hate is very strong to the southeast. I'm sure you will find her there. Good luck.",
+      "node_id": "node16",
+      "id": "Agatha04"
+    },
+    {
+      "text": "I hear that you have saved Tandi. That was the right thing to do. Your karma is strong. I have high hopes for your future.",
+      "node_id": "node18",
+      "id": "Agatha06"
+    },
+    {
+      "text": "",
+      "node_id": "node2",
+      "id": "critter_p_proc"
+    },
+    {
+      "text": "You insult your elders. You should know better.",
+      "node_id": "node30",
+      "id": "Agatha19"
+    },
+    {
+      "text": "",
+      "node_id": "node19",
+      "id": "UpReact"
+    },
+    {
+      "text": "",
+      "node_id": "node33",
+      "id": "ReactToLevel"
+    },
+    {
+      "text": "",
+      "node_id": "node6",
+      "id": "talk_p_proc"
+    },
+    {
+      "text": "Thank you. Dharma always said that the farmer who plants politeness will walk easy when the season is over.",
+      "node_id": "node29",
+      "id": "Agatha18"
+    },
+    {
+      "text": "",
+      "node_id": "node39",
+      "id": "BigDownReact"
+    },
+    {
+      "text": "This woman is wrinkled and gray, yet has a spry step and a bright  personality.",
+      "node_id": "node3",
+      "id": "description_p_proc"
+    },
+    {
+      "text": "",
+      "node_id": "node10",
+      "id": "AgathaEnd"
+    },
+    {
+      "text": "",
+      "node_id": "node34",
+      "id": "LevelToReact"
+    }
+  ],
+  "links": [
+    {
+      "text": "What do you mean?",
+      "source": "Agatha01",
+      "target": "Agatha04"
+    },
+    {
+      "text": "Hnng.",
+      "source": "Agatha01",
+      "target": "Agatha02"
+    },
+    {
+      "text": "Okay.",
+      "source": "Agatha01",
+      "target": "AgathaEnd"
+    },
+    {
+      "text": "Why?",
+      "source": "Agatha01",
+      "target": "Agatha03"
+    },
+    {
+      "text": "Hng.",
+      "source": "Agatha16",
+      "target": "Agatha17"
+    },
+    {
+      "text": "I'm glad you are feeling better.",
+      "source": "Agatha16",
+      "target": "Agatha18"
+    },
+    {
+      "text": "Thank you. Goodbye.",
+      "source": "Agatha16",
+      "target": "AgathaEnd"
+    },
+    {
+      "text": "I want a story, then.",
+      "source": "Agatha16",
+      "target": "Agatha20"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "timed_event_p_proc"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "description_p_proc"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "look_at_p_proc_1"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "destroy_p_proc"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "talk_p_proc"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "critter_p_proc"
+    },
+    {
+      "text": "",
+      "source": "get_reaction",
+      "target": "ReactToLevel"
+    },
+    {
+      "text": "",
+      "source": "DownReact",
+      "target": "ReactToLevel"
+    },
+    {
+      "text": "",
+      "source": "DownReactLevel",
+      "target": "LevelToReact"
+    },
+    {
+      "text": "I will do my best. Goodbye.",
+      "source": "Agatha03",
+      "target": "AgathaEnd"
+    },
+    {
+      "text": "I could use some help.",
+      "source": "Agatha03",
+      "target": "Agatha04"
+    },
+    {
+      "text": "Who are you?",
+      "source": "Agatha08",
+      "target": "Agatha10"
+    },
+    {
+      "text": "Hngh.",
+      "source": "Agatha08",
+      "target": "Agatha09"
+    },
+    {
+      "text": "You look very tired. Is there anything wrong?",
+      "source": "Agatha08",
+      "target": "Agatha13"
+    },
+    {
+      "text": "",
+      "source": "Agatha12",
+      "target": "UpReact"
+    },
+    {
+      "text": "",
+      "source": "BigUpReact",
+      "target": "ReactToLevel"
+    },
+    {
+      "text": "Okay, whatever.",
+      "source": "Agatha10",
+      "target": "AgathaEnd"
+    },
+    {
+      "text": "It is good not to forget.",
+      "source": "Agatha10",
+      "target": "Agatha12"
+    },
+    {
+      "text": "Tell me a story.",
+      "source": "Agatha10",
+      "target": "Agatha11"
+    },
+    {
+      "text": "Why are you so tired?",
+      "source": "Agatha14",
+      "target": "Agatha15"
+    },
+    {
+      "text": "Baba.",
+      "source": "Agatha14",
+      "target": "AgathaEnd"
+    },
+    {
+      "text": "",
+      "source": "UpReactLevel",
+      "target": "LevelToReact"
+    },
+    {
+      "text": "Thank you.",
+      "source": "Agatha04",
+      "target": "AgathaEnd"
+    },
+    {
+      "text": "",
+      "source": "Agatha06",
+      "target": "UpReact"
+    },
+    {
+      "text": "",
+      "source": "Agatha19",
+      "target": "DownReactLevel"
+    },
+    {
+      "text": "",
+      "source": "UpReact",
+      "target": "ReactToLevel"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Agatha14"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "AgathaEnd"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Agatha08"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Agatha16"
+    },
+    {
+      "text": "Please tell me a story.",
+      "source": "Agatha18",
+      "target": "Agatha20"
+    },
+    {
+      "text": "This Dharma fellow sounds like an idiot.",
+      "source": "Agatha18",
+      "target": "Agatha19"
+    },
+    {
+      "text": "",
+      "source": "BigDownReact",
+      "target": "ReactToLevel"
+    }
+  ]
+}

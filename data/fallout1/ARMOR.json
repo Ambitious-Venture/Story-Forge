@@ -1,0 +1,129 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "",
+      "node_id": "node8",
+      "id": "chance"
+    },
+    {
+      "text": "You gain experience points for repairing the power armor.",
+      "node_id": "node9_1",
+      "id": "fixed_1"
+    },
+    {
+      "text": "That does nothing.",
+      "node_id": "node6",
+      "id": "use_obj_on_p_proc"
+    },
+    {
+      "text": "You fail to repair the armor.",
+      "node_id": "node10",
+      "id": "failure"
+    },
+    {
+      "text": "It seems to be missing a part that you can't find.",
+      "node_id": "node7_1",
+      "id": "try_skill_1"
+    },
+    {
+      "text": "",
+      "node_id": "node4",
+      "id": "pickup_p_proc"
+    },
+    {
+      "text": "You see damaged Power Armor.",
+      "node_id": "node2",
+      "id": "look_at_p_proc"
+    },
+    {
+      "text": "",
+      "node_id": "node1",
+      "id": "start"
+    },
+    {
+      "text": "That does nothing.",
+      "node_id": "node7_2",
+      "id": "try_skill_2"
+    },
+    {
+      "text": "You cannot use this until it is repaired.",
+      "node_id": "node3",
+      "id": "use_p_proc"
+    },
+    {
+      "text": "",
+      "node_id": "node5",
+      "id": "use_skill_on_p_proc"
+    }
+  ],
+  "links": [
+    {
+      "text": "",
+      "source": "chance",
+      "target": "failure"
+    },
+    {
+      "text": "",
+      "source": "chance",
+      "target": "fixed_1"
+    },
+    {
+      "text": "",
+      "source": "use_obj_on_p_proc",
+      "target": "use_skill_on_p_proc"
+    },
+    {
+      "text": "",
+      "source": "try_skill_1",
+      "target": "chance"
+    },
+    {
+      "text": "",
+      "source": "pickup_p_proc",
+      "target": "use_p_proc"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "pickup_p_proc"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "look_at_p_proc"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "use_skill_on_p_proc"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "use_obj_on_p_proc"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "use_p_proc"
+    },
+    {
+      "text": "",
+      "source": "try_skill_2",
+      "target": "chance"
+    },
+    {
+      "text": "",
+      "source": "use_skill_on_p_proc",
+      "target": "try_skill_1"
+    },
+    {
+      "text": "",
+      "source": "use_skill_on_p_proc",
+      "target": "try_skill_2"
+    }
+  ]
+}

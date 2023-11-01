@@ -1,0 +1,314 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "Oh gosh. I thought you were from the Casino. You scared me.",
+      "node_id": "node16",
+      "id": "bob11"
+    },
+    {
+      "text": "You see the haggard shape of Bob.",
+      "node_id": "node1",
+      "id": "start"
+    },
+    {
+      "text": "",
+      "node_id": "node15",
+      "id": "bobend"
+    },
+    {
+      "text": "Some goons. They say they work for the Casino Boss, but I never saw him. One was called Izo, I think, and the other was some big Guido looking guy. Damn cheaters.",
+      "node_id": "node13",
+      "id": "bob7"
+    },
+    {
+      "text": "",
+      "node_id": "node2",
+      "id": "Do_Dialogue"
+    },
+    {
+      "text": "Hey, what are you doing in my room? Are you from the Casino?",
+      "node_id": "node6",
+      "id": "bob10"
+    },
+    {
+      "text": "Geez, I thought you were from the Casino. Sure as sand in the desert, I owe them a lot of money.",
+      "node_id": "node11",
+      "id": "bob5"
+    },
+    {
+      "text": "Ack! You must be Dumb Fred, Merciless Killer of the Dirt. Please  don't kill me!",
+      "node_id": "node7",
+      "id": "bob1"
+    },
+    {
+      "text": "Here. Here. Take this. It's all I have.",
+      "node_id": "node8",
+      "id": "bob2"
+    },
+    {
+      "text": "Ack! Ohmygawd! I'm in trouble! Bye.",
+      "node_id": "node19",
+      "id": "bob15"
+    },
+    {
+      "text": "You mean you're not here to kill me?",
+      "node_id": "node9",
+      "id": "bob3"
+    },
+    {
+      "text": "Oh, it's you again. You scared me for a moment. You haven't seen anyone from the Casino around here, have you?",
+      "node_id": "node5",
+      "id": "bob13"
+    },
+    {
+      "text": "Oh, it's you again. I hope you did better than me.",
+      "node_id": "node4",
+      "id": "bob9"
+    },
+    {
+      "text": "Well, I got into some trouble there. I owe them a lot of money.",
+      "node_id": "node17",
+      "id": "bob12"
+    },
+    {
+      "text": "They cheat. I played a little slots and some poker. But I'm a better player than that. I swear those machines are rigged. I lost a lot of money.",
+      "node_id": "node12",
+      "id": "bob6"
+    },
+    {
+      "text": "Thanks. I just got a little nervous when you walked in here with a in your hand.",
+      "node_id": "node10_1",
+      "id": "bob4_1"
+    },
+    {
+      "text": "Good, good. I just need a couple more days, and I'll make their money back and much more. I'm a better gambler than they think.",
+      "node_id": "node18",
+      "id": "bob14"
+    },
+    {
+      "text": "Go ahead, shoot. Oh, bad choice of words, Bob. Bad choice of words.",
+      "node_id": "node20",
+      "id": "bob16"
+    },
+    {
+      "text": "Oh, not too much. A couple thousand. I only played for four or five hours. Well, maybe a little longer. They gave me some markers, and I don't have enough here to cover it. I gotta get back to the Hub and get some cash. I'm afraid they'll beat me up if I try to leave.",
+      "node_id": "node14",
+      "id": "bob8"
+    },
+    {
+      "text": "Please don't kill me! I swear I'll get you your money.!",
+      "node_id": "node3",
+      "id": "bob0"
+    }
+  ],
+  "links": [
+    {
+      "text": "Why?",
+      "source": "bob11",
+      "target": "bob12"
+    },
+    {
+      "text": "Oh, Ok. Bye.",
+      "source": "bob11",
+      "target": "bobend"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "Do_Dialogue"
+    },
+    {
+      "text": "Hmmm. Thanks for the info.",
+      "source": "bob7",
+      "target": "bobend"
+    },
+    {
+      "text": "Why do you owe them so much money?",
+      "source": "bob7",
+      "target": "bob6"
+    },
+    {
+      "text": "How much money do you owe?",
+      "source": "bob7",
+      "target": "bob8"
+    },
+    {
+      "text": "",
+      "source": "Do_Dialogue",
+      "target": "bob9"
+    },
+    {
+      "text": "",
+      "source": "Do_Dialogue",
+      "target": "bob10"
+    },
+    {
+      "text": "",
+      "source": "Do_Dialogue",
+      "target": "bob13"
+    },
+    {
+      "text": "",
+      "source": "Do_Dialogue",
+      "target": "bob0"
+    },
+    {
+      "text": "Nhhh!",
+      "source": "bob10",
+      "target": "bob1"
+    },
+    {
+      "text": "Yeah, I'm from the Casino.",
+      "source": "bob10",
+      "target": "bob2"
+    },
+    {
+      "text": "No, I'm just looking around.",
+      "source": "bob10",
+      "target": "bob11"
+    },
+    {
+      "text": "What's wrong with the Casino?",
+      "source": "bob10",
+      "target": "bob5"
+    },
+    {
+      "text": "How much money do you owe?",
+      "source": "bob5",
+      "target": "bob8"
+    },
+    {
+      "text": "Hmmm. Thanks for the info.",
+      "source": "bob5",
+      "target": "bobend"
+    },
+    {
+      "text": "Who at the casino do you owe this money to?",
+      "source": "bob5",
+      "target": "bob7"
+    },
+    {
+      "text": "Why do you owe them so much money?",
+      "source": "bob5",
+      "target": "bob6"
+    },
+    {
+      "text": "Nope. It's your lucky day.",
+      "source": "bob3",
+      "target": "bob4_1"
+    },
+    {
+      "text": "No. Who would be threatening you?",
+      "source": "bob3",
+      "target": "bob5"
+    },
+    {
+      "text": "Hey, I got some questions for you.",
+      "source": "bob13",
+      "target": "bob16"
+    },
+    {
+      "text": "Yep, sure did.",
+      "source": "bob13",
+      "target": "bob15"
+    },
+    {
+      "text": "No.",
+      "source": "bob13",
+      "target": "bob14"
+    },
+    {
+      "text": "Hnnn!",
+      "source": "bob13",
+      "target": "bob1"
+    },
+    {
+      "text": "Who at the casino do you owe this money to?",
+      "source": "bob12",
+      "target": "bob7"
+    },
+    {
+      "text": "Why do you owe them so much money?",
+      "source": "bob12",
+      "target": "bob6"
+    },
+    {
+      "text": "How much money do you owe?",
+      "source": "bob12",
+      "target": "bob8"
+    },
+    {
+      "text": "Hmmm. Thanks for the info.",
+      "source": "bob12",
+      "target": "bobend"
+    },
+    {
+      "text": "How much money do you owe?",
+      "source": "bob6",
+      "target": "bob8"
+    },
+    {
+      "text": "Hmmm. Thanks for the info.",
+      "source": "bob6",
+      "target": "bobend"
+    },
+    {
+      "text": "Who at the casino do you owe this money to?",
+      "source": "bob6",
+      "target": "bob7"
+    },
+    {
+      "text": "How much money do you owe?",
+      "source": "bob16",
+      "target": "bob8"
+    },
+    {
+      "text": "Hmmm. Thanks for the info.",
+      "source": "bob16",
+      "target": "bobend"
+    },
+    {
+      "text": "Who at the casino do you owe this money to?",
+      "source": "bob16",
+      "target": "bob7"
+    },
+    {
+      "text": "Why do you owe them so much money?",
+      "source": "bob16",
+      "target": "bob6"
+    },
+    {
+      "text": "Hmmm. Thanks for the info.",
+      "source": "bob8",
+      "target": "bobend"
+    },
+    {
+      "text": "Who at the casino do you owe this money to?",
+      "source": "bob8",
+      "target": "bob7"
+    },
+    {
+      "text": "Why do you owe them so much money?",
+      "source": "bob8",
+      "target": "bob6"
+    },
+    {
+      "text": "Duh-huh.",
+      "source": "bob0",
+      "target": "bob1"
+    },
+    {
+      "text": "Yeah, you'd better pay up.",
+      "source": "bob0",
+      "target": "bob2"
+    },
+    {
+      "text": "I think I have the wrong room.",
+      "source": "bob0",
+      "target": "bob3"
+    }
+  ]
+}

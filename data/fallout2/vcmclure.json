@@ -1,0 +1,2249 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "What is it you would like to know?",
+      "node_id": "node22_2",
+      "id": "Node008_2"
+    },
+    {
+      "text": "Hmmm. As far as medical assistance goes, I'm not unsympathetic to the plight of the ghouls. They have certainly suffered enough... but how could we optimize their plant?",
+      "node_id": "node82",
+      "id": "Node054"
+    },
+    {
+      "text": "Very well. Give me a moment...",
+      "node_id": "node76",
+      "id": "Node049"
+    },
+    {
+      "text": "This is sad news, we need to find a way to put a stop to this. If this keeps up, our ore supplies will dwindle to nothing. Please help us.",
+      "node_id": "node66",
+      "id": "Node038"
+    },
+    {
+      "text": "Excellent! I was worried that the radiation build-up might force us to relocate. You are to be commended on a job well done.",
+      "node_id": "node39_2",
+      "id": "Node046_2"
+    },
+    {
+      "text": "Yes, you mentioned that.",
+      "node_id": "node40_2",
+      "id": "Node047_2"
+    },
+    {
+      "text": "",
+      "node_id": "node31",
+      "id": "Node008a"
+    },
+    {
+      "text": "",
+      "node_id": "node70",
+      "id": "Node041a"
+    },
+    {
+      "text": "On top of all of this, we have ghouls in Gecko contaminating our groundwater.",
+      "node_id": "node53_3",
+      "id": "Node029_3"
+    },
+    {
+      "text": "On top of all of this, we have ghouls in Gecko contaminating our groundwater.",
+      "node_id": "node53_7",
+      "id": "Node029_7"
+    },
+    {
+      "text": "I am the Senior Council Member. I oversee the council meetings.",
+      "node_id": "node25",
+      "id": "Node024"
+    },
+    {
+      "text": "I'll keep the economic disk and study it some more... Perhaps I can persuade the Council to enter negotiations with Gecko to trade for their power. The data disk would be a strong argument in of itself.",
+      "node_id": "node88_6",
+      "id": "Node057_6"
+    },
+    {
+      "text": "Well done, Captain.",
+      "node_id": "node40_3",
+      "id": "Node047_3"
+    },
+    {
+      "text": "I am Senior Councilor McClure. And you are...? . Pleased to meet you.",
+      "node_id": "node23_1",
+      "id": "Node009_1"
+    },
+    {
+      "text": "If you fix their plant, I'll give you Citizenship, and there's not a damn thing she can do about it.",
+      "node_id": "node72",
+      "id": "Node044"
+    },
+    {
+      "text": "What is it? Anything you could tell me would be a great help.",
+      "node_id": "node30",
+      "id": "Node035"
+    },
+    {
+      "text": "Of course, Citizen.",
+      "node_id": "node22_3",
+      "id": "Node008_3"
+    },
+    {
+      "text": "Things have been tough these last two years. The NCR has been getting more aggressive in their attempts to get Vault City to join the Republic.",
+      "node_id": "node53_6",
+      "id": "Node029_6"
+    },
+    {
+      "text": "",
+      "node_id": "node87",
+      "id": "Node055a"
+    },
+    {
+      "text": "Yes, you mentioned that.",
+      "node_id": "node40_4",
+      "id": "Node047_4"
+    },
+    {
+      "text": "You'll find him in the East Wing. His office is across from the First Citizen's.",
+      "node_id": "node59",
+      "id": "Node028"
+    },
+    {
+      "text": "How did you get into our City? Guards! We have an Outworlder that needs to be escorted to the gate!",
+      "node_id": "node21",
+      "id": "Node007"
+    },
+    {
+      "text": "",
+      "node_id": "node41",
+      "id": "Node009a"
+    },
+    {
+      "text": "Thank you! Now all we can do is wait. Hopefully, this fixes our problem. Thank you again for all of your assistance.",
+      "node_id": "node63",
+      "id": "Node040"
+    },
+    {
+      "text": "Very well, Citizen.",
+      "node_id": "node85_3",
+      "id": "Node056_3"
+    },
+    {
+      "text": "You see Senior Council Member McClure.",
+      "node_id": "node61_1",
+      "id": "Node035a_1"
+    },
+    {
+      "text": "It is done. Here you go.",
+      "node_id": "node88_5",
+      "id": "Node057_5"
+    },
+    {
+      "text": "I find that hard to believe. Let me see your papers.",
+      "node_id": "node46",
+      "id": "Node012"
+    },
+    {
+      "text": "",
+      "node_id": "node11",
+      "id": "Node1000"
+    },
+    {
+      "text": "You will? It is not in my power to pay you, but your aid will be much appreciated.",
+      "node_id": "node60",
+      "id": "Node033"
+    },
+    {
+      "text": "",
+      "node_id": "node78",
+      "id": "Node049a"
+    },
+    {
+      "text": "",
+      "node_id": "node84",
+      "id": "Node054a"
+    },
+    {
+      "text": "Well, Citizenship isn't for everyone, you understand. You seem more like an adventurer to me... I really don't think that Citizenship is for you.",
+      "node_id": "node37",
+      "id": "Node025"
+    },
+    {
+      "text": "Let me take the reactor disk, and I'll have the Vault central computer optimize it.",
+      "node_id": "node36_1",
+      "id": "Node059_1"
+    },
+    {
+      "text": "You see Senior Council Member McClure.",
+      "node_id": "node68_1",
+      "id": "Node040b_1"
+    },
+    {
+      "text": "You see an elderly Vault City official. His hair is graying around the edges.",
+      "node_id": "node68_2",
+      "id": "Node040b_2"
+    },
+    {
+      "text": "A mutant?! Guards! Guards!",
+      "node_id": "node10",
+      "id": "Node004"
+    },
+    {
+      "text": "Here's your Citizenship papers. If you ever need anything, come see me.",
+      "node_id": "node39_5",
+      "id": "Node046_5"
+    },
+    {
+      "text": "",
+      "node_id": "node89",
+      "id": "Node059a"
+    },
+    {
+      "text": "It is done. Here you go.",
+      "node_id": "node88_1",
+      "id": "Node057_1"
+    },
+    {
+      "text": "",
+      "node_id": "node74",
+      "id": "Node045a"
+    },
+    {
+      "text": "Hello... can I help you?",
+      "node_id": "node8_2",
+      "id": "Node006_2"
+    },
+    {
+      "text": "Go see Randal, the Chief Amenities Officer. He should have the part in stock.",
+      "node_id": "node73",
+      "id": "Node045"
+    },
+    {
+      "text": "Water Chips, a hundred or so. I don't know why they sent so many... we have never needed to replace ours. We have had the same water chip since the day our people lived underground in the Vault.",
+      "node_id": "node51",
+      "id": "Node019"
+    },
+    {
+      "text": "A GECK? As I understand it, we only had one. I read that it lasted a long time but it broke down a number of years before I was even born. We were supposed to have two...",
+      "node_id": "node26",
+      "id": "Node017"
+    },
+    {
+      "text": "I'm sorry... an economic data disk? What do you mean?",
+      "node_id": "node34",
+      "id": "Node048"
+    },
+    {
+      "text": "Don't ever speak to me again. If you do, I will have your Citizenship revoked. Good day.",
+      "node_id": "node44",
+      "id": "Node014"
+    },
+    {
+      "text": "You see Senior Council Member McClure.",
+      "node_id": "node67_1",
+      "id": "Node040a_1"
+    },
+    {
+      "text": "Are you suggesting we SEIZE Gecko and take their power plant? I will NOT lis --",
+      "node_id": "node81",
+      "id": "Node053"
+    },
+    {
+      "text": "I wish I could help, but I'm afraid my knowledge of reactors is... limited. Perhaps one of the technicians at the Gecko plant would know how to optimize the plant?",
+      "node_id": "node75",
+      "id": "Node047a"
+    },
+    {
+      "text": "What do you mean?",
+      "node_id": "node32",
+      "id": "Node042"
+    },
+    {
+      "text": "",
+      "node_id": "node20",
+      "id": "Node999"
+    },
+    {
+      "text": "You see an elderly Vault City official. His hair is graying around the edges.",
+      "node_id": "node61_2",
+      "id": "Node035a_2"
+    },
+    {
+      "text": "Very well, Captain.",
+      "node_id": "node85_1",
+      "id": "Node056_1"
+    },
+    {
+      "text": "I have heard of your act of heroism. We are all in your debt... Chosen One.",
+      "node_id": "node6",
+      "id": "Node001"
+    },
+    {
+      "text": "You wish to become a Citizen? Well, we would be pleased to have you. All you need to do is talk to Proconsul Gregory and he will give you the Citizenship test.",
+      "node_id": "node38",
+      "id": "Node026"
+    },
+    {
+      "text": "It is a forsaken place, a shantytown built around the remnants of an old atomic power plant.",
+      "node_id": "node55",
+      "id": "Node031"
+    },
+    {
+      "text": "Things have been tough these last two years. The NCR has been getting more aggressive in their attempts to get Vault City to join the Republic.",
+      "node_id": "node53_4",
+      "id": "Node029_4"
+    },
+    {
+      "text": "I expect that kind of rudeness from an Outworlder, not a Citizen. I am a member of the Vault City Council, and you will show me the proper respect, or I will have your Citizenship revoked. Do you understand me?",
+      "node_id": "node42",
+      "id": "Node010"
+    },
+    {
+      "text": "Well, this is the rudeness I've come to expect from Outworlders! Give me your Day Pass and go with the guards. There is no place for your kind in our city.",
+      "node_id": "node43",
+      "id": "Node011"
+    },
+    {
+      "text": "I have to tabulate these lists before I leave. Return in the morning, and I will speak to you then.",
+      "node_id": "node7",
+      "id": "Node002"
+    },
+    {
+      "text": "I don't know how someone of your inferior breeding became a Citizen but these papers seem to be in order. Strange... I don't recall seeing you around before. No matter, I shall honor your Citizenship.",
+      "node_id": "node47",
+      "id": "Node013"
+    },
+    {
+      "text": "If it is money you want, money you will receive. Here's $500 for your troubles. Now good day.",
+      "node_id": "node69",
+      "id": "Node041"
+    },
+    {
+      "text": "Please keep me posted.",
+      "node_id": "node65",
+      "id": "Node037"
+    },
+    {
+      "text": "Vault City prevails, Citizen.",
+      "node_id": "node39_1",
+      "id": "Node046_1"
+    },
+    {
+      "text": "Excellent! I was worried that the radiation build-up might force us to relocate. You are to be commended on a job well done.",
+      "node_id": "node39_4",
+      "id": "Node046_4"
+    },
+    {
+      "text": "That's it! Citizen or not, you're out of here. Guards, show this degenerate to the gates!",
+      "node_id": "node48",
+      "id": "Node015"
+    },
+    {
+      "text": "Good day, Captain. Everything is well, I trust?",
+      "node_id": "node8_3",
+      "id": "Node006_3"
+    },
+    {
+      "text": "Very well. All you need do is talk to Proconsul Gregory and he will give you the Citizenship test.",
+      "node_id": "node58",
+      "id": "Node027"
+    },
+    {
+      "text": "What is it?",
+      "node_id": "node35",
+      "id": "Node060"
+    },
+    {
+      "text": "You have my permission to use the Vault computer and optimize the reactor disk. You can find it on the third level of the Vault, near the Operations Room.",
+      "node_id": "node85_2",
+      "id": "Node056_2"
+    },
+    {
+      "text": "Well done.",
+      "node_id": "node40_5",
+      "id": "Node047_5"
+    },
+    {
+      "text": "I have no objections to your proposal. If you can find some means of optimizing the plant, let me know.",
+      "node_id": "node83",
+      "id": "Node055"
+    },
+    {
+      "text": "Redding is a week or so west of here. I've never been there. Never been outside Vault City, for that matter. As I understand it, Redding is supposed to be one of the more pleasant settlements in the wastes.",
+      "node_id": "node57",
+      "id": "Node034"
+    },
+    {
+      "text": "What can I do for you?",
+      "node_id": "node49",
+      "id": "Node016"
+    },
+    {
+      "text": "I have nothing to say to you. Leave, or I will call the guards.",
+      "node_id": "node12",
+      "id": "Node005"
+    },
+    {
+      "text": "Good day... Citizen, is it? I'd heard we had gained a new member of the community. Is there anything I could help you with?",
+      "node_id": "node8_1",
+      "id": "Node006_1"
+    },
+    {
+      "text": "Let me take the reactor disk, and I'll have the Vault central computer optimize it.",
+      "node_id": "node36_3",
+      "id": "Node059_3"
+    },
+    {
+      "text": "You see an elderly Vault City official. His hair is graying around the edges.",
+      "node_id": "node88_4",
+      "id": "Node057_4"
+    },
+    {
+      "text": "You see an elderly Vault City official. His hair is graying around the edges.",
+      "node_id": "node67_2",
+      "id": "Node040a_2"
+    },
+    {
+      "text": "You see Senior Council Member McClure.",
+      "node_id": "node88_3",
+      "id": "Node057_3"
+    },
+    {
+      "text": "",
+      "node_id": "node24",
+      "id": "Node1001"
+    },
+    {
+      "text": "That's an acceptable solution. Stopping the radiation poisoning is all I care about.",
+      "node_id": "node71",
+      "id": "Node043"
+    },
+    {
+      "text": "Yes? Was there something else you wanted?",
+      "node_id": "node8_5",
+      "id": "Node006_5"
+    },
+    {
+      "text": "Well done, Citizen.",
+      "node_id": "node40_1",
+      "id": "Node047_1"
+    },
+    {
+      "text": "Gecko? What do you want to know?",
+      "node_id": "node28",
+      "id": "Node022"
+    },
+    {
+      "text": "What is it you would like to know?",
+      "node_id": "node22_4",
+      "id": "Node008_4"
+    },
+    {
+      "text": "",
+      "node_id": "node33",
+      "id": "Node008b"
+    },
+    {
+      "text": "I know, you already told me. Please take it to Redding and see if you can help them.",
+      "node_id": "node62_1",
+      "id": "Node039_1"
+    },
+    {
+      "text": "Hmmm. How did you come by this disk?",
+      "node_id": "node79",
+      "id": "Node050"
+    },
+    {
+      "text": "What is this \"Jet\" that they are all reliant on?",
+      "node_id": "node64",
+      "id": "Node036"
+    },
+    {
+      "text": "",
+      "node_id": "node19",
+      "id": "Node998"
+    },
+    {
+      "text": "",
+      "node_id": "node5",
+      "id": "talk_p_proc"
+    },
+    {
+      "text": "They tell us that if we were to join, they would be able to defend us from the raider attacks on our city. As of late, these raider attacks have become more brutal.",
+      "node_id": "node53_2",
+      "id": "Node029_2"
+    },
+    {
+      "text": "A ghoul?! Guards! Guards!",
+      "node_id": "node9",
+      "id": "Node003"
+    },
+    {
+      "text": "She is the leader of the people. The Citizens of Vault City look to her for guidance, but the Citizens, through the Council, still have final say on matters. In these trying times, she is a pillar of our society.",
+      "node_id": "node27",
+      "id": "Node021"
+    },
+    {
+      "text": "Hmmm. Well, I cannot allow you access to the Vault, but I could optimize the reactor disk for you.",
+      "node_id": "node86",
+      "id": "Node058"
+    },
+    {
+      "text": "Vault City, prevails, Captain.",
+      "node_id": "node39_3",
+      "id": "Node046_3"
+    },
+    {
+      "text": "No. I don't understand it at all. We are willing to pay top dollar for their ore, but whenever we try to talk to them about it, they become evasive. If only I knew what was going on...",
+      "node_id": "node56",
+      "id": "Node032"
+    },
+    {
+      "text": "Of course, Captain.",
+      "node_id": "node22_1",
+      "id": "Node008_1"
+    },
+    {
+      "text": "Not much to tell, other than the fact that our ore shipments have become few and far between.",
+      "node_id": "node29",
+      "id": "Node023"
+    },
+    {
+      "text": "They tell us that if we were to join, they would be able to defend us from the raider attacks on our city. As of late, these raider attacks have become more brutal.",
+      "node_id": "node53_5",
+      "id": "Node029_5"
+    },
+    {
+      "text": "It is just northeast of here, but if you are planning on going there, I would advise you to purchase some anti-radiation chems. If they are contaminating our water, it is likely their town itself is irradiated.",
+      "node_id": "node54",
+      "id": "Node030"
+    },
+    {
+      "text": "Good day, Citizen. Can I help you?",
+      "node_id": "node8_4",
+      "id": "Node006_4"
+    },
+    {
+      "text": "It was disassembled, and its parts were used for other applications.",
+      "node_id": "node52",
+      "id": "Node020"
+    },
+    {
+      "text": "",
+      "node_id": "node45",
+      "id": "Node010a"
+    },
+    {
+      "text": "All right.",
+      "node_id": "node36_2",
+      "id": "Node059_2"
+    },
+    {
+      "text": "I'm not going to ask you how you came by that information, but if it were true, what are you proposing?",
+      "node_id": "node80",
+      "id": "Node052"
+    },
+    {
+      "text": "... but apparently the old government messed up the shipments and we received a shipment that was meant to go to a Vault number... thirteen, I think it was. They probably received our other GECK.",
+      "node_id": "node50",
+      "id": "Node018"
+    },
+    {
+      "text": "You gave the economic data disk to McClure.",
+      "node_id": "node88_2",
+      "id": "Node057_2"
+    },
+    {
+      "text": "You have my permission to use the Vault computer and optimize the reactor disk. You can find it on the third level of the Vault, near the Operations Room.",
+      "node_id": "node85_4",
+      "id": "Node056_4"
+    },
+    {
+      "text": "Things have been tough these last two years. The NCR has been getting more aggressive in their attempts to get Vault City to join the Republic.",
+      "node_id": "node53_1",
+      "id": "Node029_1"
+    },
+    {
+      "text": "I... see. So. What does this have to do with me?",
+      "node_id": "node77",
+      "id": "Node051"
+    }
+  ],
+  "links": [
+    {
+      "text": "What's your job here?",
+      "source": "Node008_2",
+      "target": "Node024"
+    },
+    {
+      "text": "I think you might have a part that could fix Gecko's power plant.",
+      "source": "Node008_2",
+      "target": "Node042"
+    },
+    {
+      "text": "I'd like to ask you some questions about Gecko.",
+      "source": "Node008_2",
+      "target": "Node022"
+    },
+    {
+      "text": "I need to speak to you about Redding.",
+      "source": "Node008_2",
+      "target": "Node035"
+    },
+    {
+      "text": "How does one become a Citizen?",
+      "source": "Node008_2",
+      "target": "Node008a"
+    },
+    {
+      "text": "I'm looking for a Garden of Eden Creation Kit.",
+      "source": "Node008_2",
+      "target": "Node017"
+    },
+    {
+      "text": "What can you tell me about the First Citizen?",
+      "source": "Node008_2",
+      "target": "Node021"
+    },
+    {
+      "text": "Nothing today, thanks.",
+      "source": "Node008_2",
+      "target": "Node999"
+    },
+    {
+      "text": "I found a way to optimize the Gecko reactor.",
+      "source": "Node008_2",
+      "target": "Node060"
+    },
+    {
+      "text": "I have an economic data disk here you might find interesting.",
+      "source": "Node008_2",
+      "target": "Node048"
+    },
+    {
+      "text": "What can you tell me about Redding?",
+      "source": "Node008_2",
+      "target": "Node023"
+    },
+    {
+      "text": "I repaired Gecko's plant.",
+      "source": "Node008_2",
+      "target": "Node008b"
+    },
+    {
+      "text": "I don't know. Maybe there's someone I can talk to once the plant is repaired.",
+      "source": "Node054",
+      "target": "Node055"
+    },
+    {
+      "text": "I would just need access to the Vault City computer. It could optimize the power plant reactor disk and allow the plant to run more smoothly.",
+      "source": "Node054",
+      "target": "Node054a"
+    },
+    {
+      "text": "All right.",
+      "source": "Node049",
+      "target": "Node049a"
+    },
+    {
+      "text": "I'll see what I can do.",
+      "source": "Node038",
+      "target": "Node037"
+    },
+    {
+      "text": "I'm still looking for a way to optimize the power plant.",
+      "source": "Node046_2",
+      "target": "Node047a"
+    },
+    {
+      "text": "Vault City prevails, Councilor.",
+      "source": "Node046_2",
+      "target": "Node999"
+    },
+    {
+      "text": "I'm still looking for a way to optimize the power plant.",
+      "source": "Node047_2",
+      "target": "Node047a"
+    },
+    {
+      "text": "Thanks.",
+      "source": "Node047_2",
+      "target": "Node999"
+    },
+    {
+      "text": "",
+      "source": "Node008a",
+      "target": "Node025"
+    },
+    {
+      "text": "",
+      "source": "Node008a",
+      "target": "Node026"
+    },
+    {
+      "text": "What is Gecko?",
+      "source": "Node029_3",
+      "target": "Node031"
+    },
+    {
+      "text": "Sorry to hear it. Thanks for your time. Goodbye.",
+      "source": "Node029_3",
+      "target": "Node999"
+    },
+    {
+      "text": "Where is Gecko?",
+      "source": "Node029_3",
+      "target": "Node030"
+    },
+    {
+      "text": "What is Gecko?",
+      "source": "Node029_7",
+      "target": "Node031"
+    },
+    {
+      "text": "Sorry to hear it. Thanks for your time. Goodbye.",
+      "source": "Node029_7",
+      "target": "Node999"
+    },
+    {
+      "text": "Where is Gecko?",
+      "source": "Node029_7",
+      "target": "Node030"
+    },
+    {
+      "text": "Then what does the First Citizen do?",
+      "source": "Node024",
+      "target": "Node021"
+    },
+    {
+      "text": "Can I ask you another question?",
+      "source": "Node024",
+      "target": "Node008_1"
+    },
+    {
+      "text": "Can I ask you another question?",
+      "source": "Node024",
+      "target": "Node008_2"
+    },
+    {
+      "text": "Can I ask you another question?",
+      "source": "Node024",
+      "target": "Node008_3"
+    },
+    {
+      "text": "Can I ask you another question?",
+      "source": "Node024",
+      "target": "Node008_4"
+    },
+    {
+      "text": "Thank you for you time. Goodbye.",
+      "source": "Node024",
+      "target": "Node999"
+    },
+    {
+      "text": "I appreciate it. Thanks.",
+      "source": "Node057_6",
+      "target": "Node999"
+    },
+    {
+      "text": "I'm still looking for a way to optimize the power plant.",
+      "source": "Node047_3",
+      "target": "Node047a"
+    },
+    {
+      "text": "Thanks.",
+      "source": "Node047_3",
+      "target": "Node999"
+    },
+    {
+      "text": "I really have to run. Maybe we can do introductions some other time.",
+      "source": "Node009_1",
+      "target": "Node999"
+    },
+    {
+      "text": "None of your business.",
+      "source": "Node009_1",
+      "target": "Node009a"
+    },
+    {
+      "text": "Excellent! Where can I get the part?",
+      "source": "Node044",
+      "target": "Node045"
+    },
+    {
+      "text": "I delivered the antidote to Redding.",
+      "source": "Node035",
+      "target": "Node040"
+    },
+    {
+      "text": "I found that a large part of Redding is reliant on a chem called Jet. The miners are trading most of their ore to New Reno just to keep supplied.",
+      "source": "Node035",
+      "target": "Node035a_2"
+    },
+    {
+      "text": "I found that a large part of Redding is reliant on a chem called Jet. The miners are trading most of their ore to New Reno just to keep supplied.",
+      "source": "Node035",
+      "target": "Node035a_1"
+    },
+    {
+      "text": "Dr. Troy has created an antidote for Jet.",
+      "source": "Node035",
+      "target": "Node039_1"
+    },
+    {
+      "text": "What can you tell me about Redding?",
+      "source": "Node008_3",
+      "target": "Node023"
+    },
+    {
+      "text": "What's your job here?",
+      "source": "Node008_3",
+      "target": "Node024"
+    },
+    {
+      "text": "I'd like to ask you some questions about Gecko.",
+      "source": "Node008_3",
+      "target": "Node022"
+    },
+    {
+      "text": "I need to speak to you about Redding.",
+      "source": "Node008_3",
+      "target": "Node035"
+    },
+    {
+      "text": "How does one become a Citizen?",
+      "source": "Node008_3",
+      "target": "Node008a"
+    },
+    {
+      "text": "I'm looking for a Garden of Eden Creation Kit.",
+      "source": "Node008_3",
+      "target": "Node017"
+    },
+    {
+      "text": "I think you might have a part that could fix Gecko's power plant.",
+      "source": "Node008_3",
+      "target": "Node042"
+    },
+    {
+      "text": "What can you tell me about the First Citizen?",
+      "source": "Node008_3",
+      "target": "Node021"
+    },
+    {
+      "text": "Nothing today, thanks.",
+      "source": "Node008_3",
+      "target": "Node999"
+    },
+    {
+      "text": "I found a way to optimize the Gecko reactor.",
+      "source": "Node008_3",
+      "target": "Node060"
+    },
+    {
+      "text": "I have an economic data disk here you might find interesting.",
+      "source": "Node008_3",
+      "target": "Node048"
+    },
+    {
+      "text": "I repaired Gecko's plant.",
+      "source": "Node008_3",
+      "target": "Node008b"
+    },
+    {
+      "text": "Where is Gecko?",
+      "source": "Node029_6",
+      "target": "Node030"
+    },
+    {
+      "text": "What is Gecko?",
+      "source": "Node029_6",
+      "target": "Node031"
+    },
+    {
+      "text": "Sorry to hear it. Thanks for your time. Goodbye.",
+      "source": "Node029_6",
+      "target": "Node999"
+    },
+    {
+      "text": "",
+      "source": "Node055a",
+      "target": "Node057_3"
+    },
+    {
+      "text": "",
+      "source": "Node055a",
+      "target": "Node999"
+    },
+    {
+      "text": "",
+      "source": "Node055a",
+      "target": "Node057_4"
+    },
+    {
+      "text": "",
+      "source": "Node055a",
+      "target": "Node057_2"
+    },
+    {
+      "text": "",
+      "source": "Node055a",
+      "target": "Node057_6"
+    },
+    {
+      "text": "",
+      "source": "Node055a",
+      "target": "Node057_1"
+    },
+    {
+      "text": "",
+      "source": "Node055a",
+      "target": "Node057_5"
+    },
+    {
+      "text": "I'm still looking for a way to optimize the power plant.",
+      "source": "Node047_4",
+      "target": "Node047a"
+    },
+    {
+      "text": "Thanks.",
+      "source": "Node047_4",
+      "target": "Node999"
+    },
+    {
+      "text": "Can I ask you another question?",
+      "source": "Node028",
+      "target": "Node008_4"
+    },
+    {
+      "text": "Can I ask you another question?",
+      "source": "Node028",
+      "target": "Node008_1"
+    },
+    {
+      "text": "Can I ask you another question?",
+      "source": "Node028",
+      "target": "Node008_2"
+    },
+    {
+      "text": "Can I ask you another question?",
+      "source": "Node028",
+      "target": "Node008_3"
+    },
+    {
+      "text": "Thanks for you time. Goodbye.",
+      "source": "Node028",
+      "target": "Node999"
+    },
+    {
+      "text": "I go no I GO NO",
+      "source": "Node007",
+      "target": "Node1000"
+    },
+    {
+      "text": "Ahhh... Ples no go? Me be good",
+      "source": "Node007",
+      "target": "Node1001"
+    },
+    {
+      "text": "",
+      "source": "Node009a",
+      "target": "Node011"
+    },
+    {
+      "text": "",
+      "source": "Node009a",
+      "target": "Node010"
+    },
+    {
+      "text": "Not a problem. Could I ask you some other questions?",
+      "source": "Node040",
+      "target": "Node040b_1"
+    },
+    {
+      "text": "Not a problem. Could I ask you some other questions?",
+      "source": "Node040",
+      "target": "Node040b_2"
+    },
+    {
+      "text": "You're welcome. I was glad to be of service.",
+      "source": "Node040",
+      "target": "Node040a_1"
+    },
+    {
+      "text": "Whoa... don't I get anything for my troubles?",
+      "source": "Node040",
+      "target": "Node041"
+    },
+    {
+      "text": "You're welcome. I was glad to be of service.",
+      "source": "Node040",
+      "target": "Node040a_2"
+    },
+    {
+      "text": "Excellent. Thank you, Councilor. I'll go do that.",
+      "source": "Node056_3",
+      "target": "Node055a"
+    },
+    {
+      "text": "",
+      "source": "Node035a_1",
+      "target": "Node036"
+    },
+    {
+      "text": "I appreciate it. Thanks.",
+      "source": "Node057_5",
+      "target": "Node999"
+    },
+    {
+      "text": "You want them? You come get them.",
+      "source": "Node012",
+      "target": "Node1000"
+    },
+    {
+      "text": "Here, take them!",
+      "source": "Node012",
+      "target": "Node013"
+    },
+    {
+      "text": "",
+      "source": "Node1000",
+      "target": "Node998"
+    },
+    {
+      "text": "Where is Redding?",
+      "source": "Node033",
+      "target": "Node034"
+    },
+    {
+      "text": "No problem. I'll check it out and return when I find out what's wrong.",
+      "source": "Node033",
+      "target": "Node999"
+    },
+    {
+      "text": "",
+      "source": "Node049a",
+      "target": "Node050"
+    },
+    {
+      "text": "",
+      "source": "Node054a",
+      "target": "Node058"
+    },
+    {
+      "text": "",
+      "source": "Node054a",
+      "target": "Node056_4"
+    },
+    {
+      "text": "",
+      "source": "Node054a",
+      "target": "Node056_3"
+    },
+    {
+      "text": "",
+      "source": "Node054a",
+      "target": "Node056_1"
+    },
+    {
+      "text": "",
+      "source": "Node054a",
+      "target": "Node056_2"
+    },
+    {
+      "text": "Can I ask you another question?",
+      "source": "Node025",
+      "target": "Node008_3"
+    },
+    {
+      "text": "Can I ask you another question?",
+      "source": "Node025",
+      "target": "Node008_4"
+    },
+    {
+      "text": "Nevermind then.",
+      "source": "Node025",
+      "target": "Node999"
+    },
+    {
+      "text": "Can I ask you another question?",
+      "source": "Node025",
+      "target": "Node008_1"
+    },
+    {
+      "text": "Aw, c'mon... just tell me what I need to do to become a Citizen.",
+      "source": "Node025",
+      "target": "Node027"
+    },
+    {
+      "text": "Can I ask you another question?",
+      "source": "Node025",
+      "target": "Node008_2"
+    },
+    {
+      "text": "Great. Thanks.",
+      "source": "Node059_1",
+      "target": "Node059a"
+    },
+    {
+      "text": "Vault City prevails, Councilor.",
+      "source": "Node046_5",
+      "target": "Node999"
+    },
+    {
+      "text": "I'm still looking for a way to optimize the power plant.",
+      "source": "Node046_5",
+      "target": "Node047a"
+    },
+    {
+      "text": "",
+      "source": "Node059a",
+      "target": "Node057_1"
+    },
+    {
+      "text": "",
+      "source": "Node059a",
+      "target": "Node057_3"
+    },
+    {
+      "text": "",
+      "source": "Node059a",
+      "target": "Node057_4"
+    },
+    {
+      "text": "",
+      "source": "Node059a",
+      "target": "Node057_2"
+    },
+    {
+      "text": "",
+      "source": "Node059a",
+      "target": "Node057_6"
+    },
+    {
+      "text": "",
+      "source": "Node059a",
+      "target": "Node057_5"
+    },
+    {
+      "text": "I appreciate it. Thanks.",
+      "source": "Node057_1",
+      "target": "Node999"
+    },
+    {
+      "text": "San-tah Klass?",
+      "source": "Node006_2",
+      "target": "Node007"
+    },
+    {
+      "text": "Shamble off",
+      "source": "Node006_2",
+      "target": "Node999"
+    },
+    {
+      "text": "There's one other thing. You might find this economic data disk interesting.",
+      "source": "Node045",
+      "target": "Node048"
+    },
+    {
+      "text": "Thanks. I'll go see him right now.",
+      "source": "Node045",
+      "target": "Node045a"
+    },
+    {
+      "text": "Can I ask you another question?",
+      "source": "Node019",
+      "target": "Node008_4"
+    },
+    {
+      "text": "Interesting. Thanks for your time.",
+      "source": "Node019",
+      "target": "Node999"
+    },
+    {
+      "text": "Can I ask you another question?",
+      "source": "Node019",
+      "target": "Node008_1"
+    },
+    {
+      "text": "Can I ask you another question?",
+      "source": "Node019",
+      "target": "Node008_2"
+    },
+    {
+      "text": "What happened to the GECK that broke down?",
+      "source": "Node019",
+      "target": "Node020"
+    },
+    {
+      "text": "Can I ask you another question?",
+      "source": "Node019",
+      "target": "Node008_3"
+    },
+    {
+      "text": "Supposed to?",
+      "source": "Node017",
+      "target": "Node018"
+    },
+    {
+      "text": "Never mind. I had some other questions.",
+      "source": "Node048",
+      "target": "Node008_4"
+    },
+    {
+      "text": "Nothing. Sorry to disturb you.",
+      "source": "Node048",
+      "target": "Node999"
+    },
+    {
+      "text": "It's an economic data disk that shows the amount of energy that Gecko's atomic power plant produced before the war... and could produce again.",
+      "source": "Node048",
+      "target": "Node051"
+    },
+    {
+      "text": "Here, take a look.",
+      "source": "Node048",
+      "target": "Node049"
+    },
+    {
+      "text": "Never mind. I had some other questions.",
+      "source": "Node048",
+      "target": "Node008_1"
+    },
+    {
+      "text": "Never mind. I had some other questions.",
+      "source": "Node048",
+      "target": "Node008_2"
+    },
+    {
+      "text": "Never mind. I had some other questions.",
+      "source": "Node048",
+      "target": "Node008_3"
+    },
+    {
+      "text": "Good day.",
+      "source": "Node014",
+      "target": "Node999"
+    },
+    {
+      "text": "You try and revoke my Citizenship, you'll regret it.",
+      "source": "Node014",
+      "target": "Node015"
+    },
+    {
+      "text": "",
+      "source": "Node040a_1",
+      "target": "Node999"
+    },
+    {
+      "text": "No, no... if Gecko could receive the optimization data for their plant, I'm betting they would be willing to trade their excess power for medical assistance.",
+      "source": "Node053",
+      "target": "Node054"
+    },
+    {
+      "text": "Maybe so. I'll go see.",
+      "source": "Node047a",
+      "target": "Node999"
+    },
+    {
+      "text": "Perhaps. I had some other questions...",
+      "source": "Node047a",
+      "target": "Node008_1"
+    },
+    {
+      "text": "Perhaps. I had some other questions...",
+      "source": "Node047a",
+      "target": "Node008_2"
+    },
+    {
+      "text": "Perhaps. I had some other questions...",
+      "source": "Node047a",
+      "target": "Node008_3"
+    },
+    {
+      "text": "Perhaps. I had some other questions...",
+      "source": "Node047a",
+      "target": "Node008_4"
+    },
+    {
+      "text": "If I had a hydroelectric magnetosphere regulator, I could make their plant run clean.",
+      "source": "Node042",
+      "target": "Node043"
+    },
+    {
+      "text": "Oh, nothing. Sorry to trouble you.",
+      "source": "Node042",
+      "target": "Node999"
+    },
+    {
+      "text": "",
+      "source": "Node035a_2",
+      "target": "Node036"
+    },
+    {
+      "text": "Excellent. Thank you, Councilor. I'll go do that.",
+      "source": "Node056_1",
+      "target": "Node055a"
+    },
+    {
+      "text": "Can I ask you another question?",
+      "source": "Node026",
+      "target": "Node008_1"
+    },
+    {
+      "text": "Can I ask you another question?",
+      "source": "Node026",
+      "target": "Node008_2"
+    },
+    {
+      "text": "Can I ask you another question?",
+      "source": "Node026",
+      "target": "Node008_3"
+    },
+    {
+      "text": "Where can I find Proconsul Gregory?",
+      "source": "Node026",
+      "target": "Node028"
+    },
+    {
+      "text": "Thanks. I'll go find him now. Goodbye.",
+      "source": "Node026",
+      "target": "Node999"
+    },
+    {
+      "text": "Can I ask you another question?",
+      "source": "Node026",
+      "target": "Node008_4"
+    },
+    {
+      "text": "Can I ask you another question?",
+      "source": "Node031",
+      "target": "Node008_1"
+    },
+    {
+      "text": "Can I ask you another question?",
+      "source": "Node031",
+      "target": "Node008_2"
+    },
+    {
+      "text": "Can I ask you another question?",
+      "source": "Node031",
+      "target": "Node008_3"
+    },
+    {
+      "text": "Thanks for you time. Goodbye.",
+      "source": "Node031",
+      "target": "Node999"
+    },
+    {
+      "text": "Can I ask you another question?",
+      "source": "Node031",
+      "target": "Node008_4"
+    },
+    {
+      "text": "Where is Gecko located?",
+      "source": "Node031",
+      "target": "Node030"
+    },
+    {
+      "text": "Where is Gecko?",
+      "source": "Node029_4",
+      "target": "Node030"
+    },
+    {
+      "text": "What is Gecko?",
+      "source": "Node029_4",
+      "target": "Node031"
+    },
+    {
+      "text": "Sorry to hear it. Thanks for your time. Goodbye.",
+      "source": "Node029_4",
+      "target": "Node999"
+    },
+    {
+      "text": "Screw you, old man.",
+      "source": "Node010",
+      "target": "Node014"
+    },
+    {
+      "text": "Whatever. I'm done talking to you anyway.",
+      "source": "Node010",
+      "target": "Node010a"
+    },
+    {
+      "text": "Sorry. Didn't mean to offend you.",
+      "source": "Node010",
+      "target": "Node999"
+    },
+    {
+      "text": "I'm NOT an Outworlder. I'm a Citizen.",
+      "source": "Node011",
+      "target": "Node012"
+    },
+    {
+      "text": "Okay, okay, I'm going.",
+      "source": "Node011",
+      "target": "Node1001"
+    },
+    {
+      "text": "I'm not giving you anything. You want it? You come get it.",
+      "source": "Node011",
+      "target": "Node1000"
+    },
+    {
+      "text": "Yeah, right. I'm outta here.",
+      "source": "Node013",
+      "target": "Node999"
+    },
+    {
+      "text": "You're damn right you'll honor my Citizenship!",
+      "source": "Node013",
+      "target": "Node014"
+    },
+    {
+      "text": "Five hun --? You better cough up some more and fast, or your life won't be worth $2.",
+      "source": "Node041",
+      "target": "Node1000"
+    },
+    {
+      "text": "THANK you.",
+      "source": "Node041",
+      "target": "Node041a"
+    },
+    {
+      "text": "Can I ask you some other questions?",
+      "source": "Node037",
+      "target": "Node008_2"
+    },
+    {
+      "text": "Sure.",
+      "source": "Node037",
+      "target": "Node999"
+    },
+    {
+      "text": "Can I ask you some other questions?",
+      "source": "Node037",
+      "target": "Node008_4"
+    },
+    {
+      "text": "Can I ask you some other questions?",
+      "source": "Node037",
+      "target": "Node008_1"
+    },
+    {
+      "text": "Can I ask you some other questions?",
+      "source": "Node037",
+      "target": "Node008_3"
+    },
+    {
+      "text": "I'm still looking for a way to optimize the power plant.",
+      "source": "Node046_1",
+      "target": "Node047a"
+    },
+    {
+      "text": "Vault City prevails, Councilor.",
+      "source": "Node046_1",
+      "target": "Node999"
+    },
+    {
+      "text": "I'm still looking for a way to optimize the power plant.",
+      "source": "Node046_4",
+      "target": "Node047a"
+    },
+    {
+      "text": "Vault City prevails, Councilor.",
+      "source": "Node046_4",
+      "target": "Node999"
+    },
+    {
+      "text": "I'm not going anywhere.",
+      "source": "Node015",
+      "target": "Node1000"
+    },
+    {
+      "text": "I'm going. This place sucked anyway.",
+      "source": "Node015",
+      "target": "Node1001"
+    },
+    {
+      "text": "San-tah Klass?",
+      "source": "Node006_3",
+      "target": "Node007"
+    },
+    {
+      "text": "Shamble off",
+      "source": "Node006_3",
+      "target": "Node999"
+    },
+    {
+      "text": "Where can I find Proconsul Gregory?",
+      "source": "Node027",
+      "target": "Node028"
+    },
+    {
+      "text": "All right. I'll go speak to the Proconsul now.",
+      "source": "Node027",
+      "target": "Node999"
+    },
+    {
+      "text": "Can I ask you another question?",
+      "source": "Node027",
+      "target": "Node008_4"
+    },
+    {
+      "text": "Can I ask you another question?",
+      "source": "Node027",
+      "target": "Node008_1"
+    },
+    {
+      "text": "Can I ask you another question?",
+      "source": "Node027",
+      "target": "Node008_2"
+    },
+    {
+      "text": "Can I ask you another question?",
+      "source": "Node027",
+      "target": "Node008_3"
+    },
+    {
+      "text": "I have a reactor data disk here from Gecko. According to... the... uh, technician at the power plant, the Vault City computer can optimize the reactor disk and make the plant run more smoothly.",
+      "source": "Node060",
+      "target": "Node054a"
+    },
+    {
+      "text": "Excellent. Thank you, Councilor. I'll go do that.",
+      "source": "Node056_2",
+      "target": "Node055a"
+    },
+    {
+      "text": "I'm still looking for a way to optimize the power plant.",
+      "source": "Node047_5",
+      "target": "Node047a"
+    },
+    {
+      "text": "Thanks.",
+      "source": "Node047_5",
+      "target": "Node999"
+    },
+    {
+      "text": "All right. I'll go get that part from Randal and see about repairing the reactor first.",
+      "source": "Node055",
+      "target": "Node055a"
+    },
+    {
+      "text": "I see. Thanks for the information.",
+      "source": "Node055",
+      "target": "Node999"
+    },
+    {
+      "text": "Do you have any idea what's causing the shipments to drop off?",
+      "source": "Node034",
+      "target": "Node032"
+    },
+    {
+      "text": "I see. Thanks for the information.",
+      "source": "Node034",
+      "target": "Node999"
+    },
+    {
+      "text": "Can I ask you some questions?",
+      "source": "Node016",
+      "target": "Node008_4"
+    },
+    {
+      "text": "Nothing today. I was just taking a tour of the council building.",
+      "source": "Node016",
+      "target": "Node999"
+    },
+    {
+      "text": "I don't know, old man. What CAN you do for me?",
+      "source": "Node016",
+      "target": "Node009a"
+    },
+    {
+      "text": "I'm looking for a Garden of Eden Creation Kit.",
+      "source": "Node016",
+      "target": "Node017"
+    },
+    {
+      "text": "Can I ask you some questions?",
+      "source": "Node016",
+      "target": "Node008_1"
+    },
+    {
+      "text": "Can I ask you some questions?",
+      "source": "Node016",
+      "target": "Node008_2"
+    },
+    {
+      "text": "Can I ask you some questions?",
+      "source": "Node016",
+      "target": "Node008_3"
+    },
+    {
+      "text": "Shamble off",
+      "source": "Node006_1",
+      "target": "Node999"
+    },
+    {
+      "text": "San-tah Klass?",
+      "source": "Node006_1",
+      "target": "Node007"
+    },
+    {
+      "text": "Great. Thanks.",
+      "source": "Node059_3",
+      "target": "Node059a"
+    },
+    {
+      "text": "I appreciate it. Thanks.",
+      "source": "Node057_4",
+      "target": "Node999"
+    },
+    {
+      "text": "",
+      "source": "Node040a_2",
+      "target": "Node999"
+    },
+    {
+      "text": "I appreciate it. Thanks.",
+      "source": "Node057_3",
+      "target": "Node999"
+    },
+    {
+      "text": "Great! Where can I get the part?",
+      "source": "Node043",
+      "target": "Node045"
+    },
+    {
+      "text": "I'm worried that Lynette will withhold my Citizenship if I fix the plant.",
+      "source": "Node043",
+      "target": "Node044"
+    },
+    {
+      "text": "I'll keep that in mind.",
+      "source": "Node043",
+      "target": "Node999"
+    },
+    {
+      "text": "Shamble off",
+      "source": "Node006_5",
+      "target": "Node999"
+    },
+    {
+      "text": "San-tah Klass?",
+      "source": "Node006_5",
+      "target": "Node007"
+    },
+    {
+      "text": "I'm still looking for a way to optimize the power plant.",
+      "source": "Node047_1",
+      "target": "Node047a"
+    },
+    {
+      "text": "Thanks.",
+      "source": "Node047_1",
+      "target": "Node999"
+    },
+    {
+      "text": "Where is Gecko?",
+      "source": "Node022",
+      "target": "Node030"
+    },
+    {
+      "text": "Can I ask you another question?",
+      "source": "Node022",
+      "target": "Node008_1"
+    },
+    {
+      "text": "Can I ask you another question?",
+      "source": "Node022",
+      "target": "Node008_2"
+    },
+    {
+      "text": "What is Gecko?",
+      "source": "Node022",
+      "target": "Node031"
+    },
+    {
+      "text": "Can I ask you another question?",
+      "source": "Node022",
+      "target": "Node008_3"
+    },
+    {
+      "text": "Thanks for you time. Goodbye.",
+      "source": "Node022",
+      "target": "Node999"
+    },
+    {
+      "text": "Can I ask you another question?",
+      "source": "Node022",
+      "target": "Node008_4"
+    },
+    {
+      "text": "How does one become a Citizen?",
+      "source": "Node008_4",
+      "target": "Node008a"
+    },
+    {
+      "text": "I'm looking for a Garden of Eden Creation Kit.",
+      "source": "Node008_4",
+      "target": "Node017"
+    },
+    {
+      "text": "What's your job here?",
+      "source": "Node008_4",
+      "target": "Node024"
+    },
+    {
+      "text": "I think you might have a part that could fix Gecko's power plant.",
+      "source": "Node008_4",
+      "target": "Node042"
+    },
+    {
+      "text": "I'd like to ask you some questions about Gecko.",
+      "source": "Node008_4",
+      "target": "Node022"
+    },
+    {
+      "text": "What can you tell me about the First Citizen?",
+      "source": "Node008_4",
+      "target": "Node021"
+    },
+    {
+      "text": "I need to speak to you about Redding.",
+      "source": "Node008_4",
+      "target": "Node035"
+    },
+    {
+      "text": "I repaired Gecko's plant.",
+      "source": "Node008_4",
+      "target": "Node008b"
+    },
+    {
+      "text": "Nothing today, thanks.",
+      "source": "Node008_4",
+      "target": "Node999"
+    },
+    {
+      "text": "I found a way to optimize the Gecko reactor.",
+      "source": "Node008_4",
+      "target": "Node060"
+    },
+    {
+      "text": "I have an economic data disk here you might find interesting.",
+      "source": "Node008_4",
+      "target": "Node048"
+    },
+    {
+      "text": "What can you tell me about Redding?",
+      "source": "Node008_4",
+      "target": "Node023"
+    },
+    {
+      "text": "",
+      "source": "Node008b",
+      "target": "Node046_4"
+    },
+    {
+      "text": "",
+      "source": "Node008b",
+      "target": "Node046_3"
+    },
+    {
+      "text": "",
+      "source": "Node008b",
+      "target": "Node046_1"
+    },
+    {
+      "text": "",
+      "source": "Node008b",
+      "target": "Node047_2"
+    },
+    {
+      "text": "",
+      "source": "Node008b",
+      "target": "Node046_2"
+    },
+    {
+      "text": "",
+      "source": "Node008b",
+      "target": "Node047_1"
+    },
+    {
+      "text": "",
+      "source": "Node008b",
+      "target": "Node047_4"
+    },
+    {
+      "text": "",
+      "source": "Node008b",
+      "target": "Node047_5"
+    },
+    {
+      "text": "",
+      "source": "Node008b",
+      "target": "Node047_3"
+    },
+    {
+      "text": "",
+      "source": "Node008b",
+      "target": "Node046_5"
+    },
+    {
+      "text": "Okay, goodbye.",
+      "source": "Node039_1",
+      "target": "Node999"
+    },
+    {
+      "text": "I... found it.",
+      "source": "Node050",
+      "target": "Node051"
+    },
+    {
+      "text": "It's a chem with a 100% reliance rate, and severe withdrawals.",
+      "source": "Node036",
+      "target": "Node038"
+    },
+    {
+      "text": "I'll tell you later when I find out more.",
+      "source": "Node036",
+      "target": "Node037"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node004"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node006_5"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node001"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node1000"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node003"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node006_1"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node006_2"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node005"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node002"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node006_3"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node006_4"
+    },
+    {
+      "text": "Sorry to hear it. Thanks for your time. Goodbye.",
+      "source": "Node029_2",
+      "target": "Node999"
+    },
+    {
+      "text": "Where is Gecko?",
+      "source": "Node029_2",
+      "target": "Node030"
+    },
+    {
+      "text": "What is Gecko?",
+      "source": "Node029_2",
+      "target": "Node031"
+    },
+    {
+      "text": "\"Trying times?\" What do you mean?",
+      "source": "Node021",
+      "target": "Node029_3"
+    },
+    {
+      "text": "Can I ask you another question?",
+      "source": "Node021",
+      "target": "Node008_3"
+    },
+    {
+      "text": "\"Trying times?\" What do you mean?",
+      "source": "Node021",
+      "target": "Node029_7"
+    },
+    {
+      "text": "\"Trying times?\" What do you mean?",
+      "source": "Node021",
+      "target": "Node029_1"
+    },
+    {
+      "text": "What is it you do?",
+      "source": "Node021",
+      "target": "Node024"
+    },
+    {
+      "text": "\"Trying times?\" What do you mean?",
+      "source": "Node021",
+      "target": "Node029_6"
+    },
+    {
+      "text": "Can I ask you another question?",
+      "source": "Node021",
+      "target": "Node008_2"
+    },
+    {
+      "text": "Thanks for you time. Goodbye.",
+      "source": "Node021",
+      "target": "Node999"
+    },
+    {
+      "text": "\"Trying times?\" What do you mean?",
+      "source": "Node021",
+      "target": "Node029_4"
+    },
+    {
+      "text": "Can I ask you another question?",
+      "source": "Node021",
+      "target": "Node008_4"
+    },
+    {
+      "text": "\"Trying times?\" What do you mean?",
+      "source": "Node021",
+      "target": "Node029_2"
+    },
+    {
+      "text": "\"Trying times?\" What do you mean?",
+      "source": "Node021",
+      "target": "Node029_5"
+    },
+    {
+      "text": "Can I ask you another question?",
+      "source": "Node021",
+      "target": "Node008_1"
+    },
+    {
+      "text": "That'd be great.",
+      "source": "Node058",
+      "target": "Node059_3"
+    },
+    {
+      "text": "That'd be great.",
+      "source": "Node058",
+      "target": "Node059_1"
+    },
+    {
+      "text": "That'd be great.",
+      "source": "Node058",
+      "target": "Node059_2"
+    },
+    {
+      "text": "All right. But I don't have the reactor disk on me. I'll be back with it.",
+      "source": "Node058",
+      "target": "Node055a"
+    },
+    {
+      "text": "I'm still looking for a way to optimize the power plant.",
+      "source": "Node046_3",
+      "target": "Node047a"
+    },
+    {
+      "text": "Vault City prevails, Councilor.",
+      "source": "Node046_3",
+      "target": "Node999"
+    },
+    {
+      "text": "Thanks for you time. Goodbye.",
+      "source": "Node032",
+      "target": "Node999"
+    },
+    {
+      "text": "I could go check it out for you.",
+      "source": "Node032",
+      "target": "Node033"
+    },
+    {
+      "text": "Where is Redding?",
+      "source": "Node032",
+      "target": "Node034"
+    },
+    {
+      "text": "I think you might have a part that could fix Gecko's power plant.",
+      "source": "Node008_1",
+      "target": "Node042"
+    },
+    {
+      "text": "What can you tell me about the First Citizen?",
+      "source": "Node008_1",
+      "target": "Node021"
+    },
+    {
+      "text": "Nothing today, thanks.",
+      "source": "Node008_1",
+      "target": "Node999"
+    },
+    {
+      "text": "I have an economic data disk here you might find interesting.",
+      "source": "Node008_1",
+      "target": "Node048"
+    },
+    {
+      "text": "I repaired Gecko's plant.",
+      "source": "Node008_1",
+      "target": "Node008b"
+    },
+    {
+      "text": "I found a way to optimize the Gecko reactor.",
+      "source": "Node008_1",
+      "target": "Node060"
+    },
+    {
+      "text": "What can you tell me about Redding?",
+      "source": "Node008_1",
+      "target": "Node023"
+    },
+    {
+      "text": "I'd like to ask you some questions about Gecko.",
+      "source": "Node008_1",
+      "target": "Node022"
+    },
+    {
+      "text": "I need to speak to you about Redding.",
+      "source": "Node008_1",
+      "target": "Node035"
+    },
+    {
+      "text": "How does one become a Citizen?",
+      "source": "Node008_1",
+      "target": "Node008a"
+    },
+    {
+      "text": "I'm looking for a Garden of Eden Creation Kit.",
+      "source": "Node008_1",
+      "target": "Node017"
+    },
+    {
+      "text": "What's your job here?",
+      "source": "Node008_1",
+      "target": "Node024"
+    },
+    {
+      "text": "Where is Redding?",
+      "source": "Node023",
+      "target": "Node034"
+    },
+    {
+      "text": "Can I ask you another question?",
+      "source": "Node023",
+      "target": "Node008_1"
+    },
+    {
+      "text": "Can I ask you another question?",
+      "source": "Node023",
+      "target": "Node008_3"
+    },
+    {
+      "text": "Can I ask you another question?",
+      "source": "Node023",
+      "target": "Node008_2"
+    },
+    {
+      "text": "Thanks for you time. Goodbye.",
+      "source": "Node023",
+      "target": "Node999"
+    },
+    {
+      "text": "Any idea why?",
+      "source": "Node023",
+      "target": "Node032"
+    },
+    {
+      "text": "Can I ask you another question?",
+      "source": "Node023",
+      "target": "Node008_4"
+    },
+    {
+      "text": "Where is Gecko?",
+      "source": "Node029_5",
+      "target": "Node030"
+    },
+    {
+      "text": "What is Gecko?",
+      "source": "Node029_5",
+      "target": "Node031"
+    },
+    {
+      "text": "Sorry to hear it. Thanks for your time. Goodbye.",
+      "source": "Node029_5",
+      "target": "Node999"
+    },
+    {
+      "text": "Can I ask you another question?",
+      "source": "Node030",
+      "target": "Node008_2"
+    },
+    {
+      "text": "What is Gecko?",
+      "source": "Node030",
+      "target": "Node031"
+    },
+    {
+      "text": "Thanks for the warning. Goodbye.",
+      "source": "Node030",
+      "target": "Node999"
+    },
+    {
+      "text": "Can I ask you another question?",
+      "source": "Node030",
+      "target": "Node008_4"
+    },
+    {
+      "text": "Can I ask you another question?",
+      "source": "Node030",
+      "target": "Node008_1"
+    },
+    {
+      "text": "Can I ask you another question?",
+      "source": "Node030",
+      "target": "Node008_3"
+    },
+    {
+      "text": "Shamble off",
+      "source": "Node006_4",
+      "target": "Node999"
+    },
+    {
+      "text": "San-tah Klass?",
+      "source": "Node006_4",
+      "target": "Node007"
+    },
+    {
+      "text": "I see. Thanks for your time.",
+      "source": "Node020",
+      "target": "Node999"
+    },
+    {
+      "text": "What was in the shipment meant for Vault 13?",
+      "source": "Node020",
+      "target": "Node019"
+    },
+    {
+      "text": "Can I ask you another question?",
+      "source": "Node020",
+      "target": "Node008_4"
+    },
+    {
+      "text": "Can I ask you another question?",
+      "source": "Node020",
+      "target": "Node008_1"
+    },
+    {
+      "text": "Can I ask you another question?",
+      "source": "Node020",
+      "target": "Node008_2"
+    },
+    {
+      "text": "Can I ask you another question?",
+      "source": "Node020",
+      "target": "Node008_3"
+    },
+    {
+      "text": "Great. Thanks.",
+      "source": "Node059_2",
+      "target": "Node059a"
+    },
+    {
+      "text": "Once the Gecko power plant is fixed, the disk indicates it's possible it could produce enough energy for Vault City, too. It looks like the reactor would need to be optimized first, though.",
+      "source": "Node052",
+      "target": "Node053"
+    },
+    {
+      "text": "Can I ask you another question?",
+      "source": "Node018",
+      "target": "Node008_1"
+    },
+    {
+      "text": "Can I ask you another question?",
+      "source": "Node018",
+      "target": "Node008_2"
+    },
+    {
+      "text": "What happened to the GECK that broke down?",
+      "source": "Node018",
+      "target": "Node020"
+    },
+    {
+      "text": "Can I ask you another question?",
+      "source": "Node018",
+      "target": "Node008_3"
+    },
+    {
+      "text": "I see. Thanks for the information.",
+      "source": "Node018",
+      "target": "Node999"
+    },
+    {
+      "text": "Can I ask you another question?",
+      "source": "Node018",
+      "target": "Node008_4"
+    },
+    {
+      "text": "What was in the shipment that was meant for Vault 13?",
+      "source": "Node018",
+      "target": "Node019"
+    },
+    {
+      "text": "I appreciate it. Thanks.",
+      "source": "Node057_2",
+      "target": "Node999"
+    },
+    {
+      "text": "Excellent. Thank you, Councilor. I'll go do that.",
+      "source": "Node056_4",
+      "target": "Node055a"
+    },
+    {
+      "text": "What is Gecko?",
+      "source": "Node029_1",
+      "target": "Node031"
+    },
+    {
+      "text": "Sorry to hear it. Thanks for your time. Goodbye.",
+      "source": "Node029_1",
+      "target": "Node999"
+    },
+    {
+      "text": "Where is Gecko?",
+      "source": "Node029_1",
+      "target": "Node030"
+    },
+    {
+      "text": "Well, as I understand it, Vault City's power generator can only support so many people. In fact, it's already nearing its limit.",
+      "source": "Node051",
+      "target": "Node052"
+    }
+  ]
+}

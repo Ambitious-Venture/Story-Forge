@@ -1,0 +1,209 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "Ah, my friend. It is good to see you again.",
+      "node_id": "node7",
+      "id": "vasquez07"
+    },
+    {
+      "text": "Well, maybe it is not so good to see you again. Have  a good day.",
+      "node_id": "node17",
+      "id": "vasquez08"
+    },
+    {
+      "text": "You see a seedy-looking gunman.",
+      "node_id": "node1_1",
+      "id": "start_1"
+    },
+    {
+      "text": "",
+      "node_id": "node2",
+      "id": "do_dialogue"
+    },
+    {
+      "text": "",
+      "node_id": "node3",
+      "id": "end_employment"
+    },
+    {
+      "text": "",
+      "node_id": "node4",
+      "id": "follow_player"
+    },
+    {
+      "text": "Did you know that I have a bounty on my head? It is too small, however.",
+      "node_id": "node6_4",
+      "id": "vasquez06_4"
+    },
+    {
+      "text": "Let us get something to drink!",
+      "node_id": "node6_1",
+      "id": "vasquez06_1"
+    },
+    {
+      "text": "",
+      "node_id": "node9",
+      "id": "hiring"
+    },
+    {
+      "text": "As long as you stay in Junktown, I am yours. I do not like leaving this town.",
+      "node_id": "node6_3",
+      "id": "vasquez06_3"
+    },
+    {
+      "text": "You have not heard of me? I am hurt! My name is Vasquez Villanova Hernandez Ortega. I am a famous desperado, my friend. And, if you have need, I am a gun for hire.",
+      "node_id": "node12",
+      "id": "vasquez02"
+    },
+    {
+      "text": "",
+      "node_id": "node13",
+      "id": "vasquezend"
+    },
+    {
+      "text": "What do you want?",
+      "node_id": "node8",
+      "id": "vasquez00"
+    },
+    {
+      "text": "Where shall we go first?",
+      "node_id": "node6_2",
+      "id": "vasquez06_2"
+    },
+    {
+      "text": "I do not work for the weak of mind. You leave now.",
+      "node_id": "node11",
+      "id": "vasquez01"
+    },
+    {
+      "text": "Excellent. I am yours. Let us go, this place bores me.",
+      "node_id": "node10",
+      "id": "vasquez05"
+    },
+    {
+      "text": "You should not have done that, my soon to be dead  friend.",
+      "node_id": "node5",
+      "id": "vasquez10"
+    },
+    {
+      "text": "Of course you do. My bill is small, and my worth is  so large. $500, please.",
+      "node_id": "node16",
+      "id": "vasquez09"
+    },
+    {
+      "text": "Ahh, straight to the point, my friend. Excellent. I will help you around town for a measly $500 a week. My services are not cheap, but then again, I am worth it.",
+      "node_id": "node14",
+      "id": "vasquez03"
+    }
+  ],
+  "links": [
+    {
+      "text": "Hnn.",
+      "source": "vasquez07",
+      "target": "vasquez08"
+    },
+    {
+      "text": "Nice meeting you again.",
+      "source": "vasquez07",
+      "target": "vasquezend"
+    },
+    {
+      "text": "I want to hire you for a week.",
+      "source": "vasquez07",
+      "target": "vasquez09"
+    },
+    {
+      "text": "",
+      "source": "start_1",
+      "target": "follow_player"
+    },
+    {
+      "text": "",
+      "source": "start_1",
+      "target": "end_employment"
+    },
+    {
+      "text": "",
+      "source": "start_1",
+      "target": "vasquez10"
+    },
+    {
+      "text": "",
+      "source": "start_1",
+      "target": "do_dialogue"
+    },
+    {
+      "text": "",
+      "source": "do_dialogue",
+      "target": "vasquez06_3"
+    },
+    {
+      "text": "",
+      "source": "do_dialogue",
+      "target": "vasquez06_2"
+    },
+    {
+      "text": "",
+      "source": "do_dialogue",
+      "target": "vasquez00"
+    },
+    {
+      "text": "",
+      "source": "do_dialogue",
+      "target": "vasquez07"
+    },
+    {
+      "text": "",
+      "source": "do_dialogue",
+      "target": "vasquez06_4"
+    },
+    {
+      "text": "",
+      "source": "do_dialogue",
+      "target": "vasquez06_1"
+    },
+    {
+      "text": "",
+      "source": "hiring",
+      "target": "vasquez05"
+    },
+    {
+      "text": "Really? How much do you cost?",
+      "source": "vasquez02",
+      "target": "vasquez03"
+    },
+    {
+      "text": "See you around, maybe . . . good luck. Heh.",
+      "source": "vasquez02",
+      "target": "vasquezend"
+    },
+    {
+      "text": "Hnn.",
+      "source": "vasquez00",
+      "target": "vasquez01"
+    },
+    {
+      "text": "Who are you?",
+      "source": "vasquez00",
+      "target": "vasquez02"
+    },
+    {
+      "text": "Here you go.",
+      "source": "vasquez09",
+      "target": "hiring"
+    },
+    {
+      "text": "Great, I'll hire you. Here's $500.",
+      "source": "vasquez03",
+      "target": "hiring"
+    },
+    {
+      "text": "Sorry to bother you, but I don't think I need your  services.",
+      "source": "vasquez03",
+      "target": "vasquezend"
+    }
+  ]
+}

@@ -1,0 +1,314 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "You see a young man with sharp features.",
+      "node_id": "node4_1",
+      "id": "look_at_p_proc_1"
+    },
+    {
+      "text": "",
+      "node_id": "node1",
+      "id": "start"
+    },
+    {
+      "text": "Please don't leave me!",
+      "node_id": "node28",
+      "id": "Jason21"
+    },
+    {
+      "text": "Huh. The Hub merchants talk about radscorpions and stuff.",
+      "node_id": "node15",
+      "id": "Jason07"
+    },
+    {
+      "text": "Lorraine says that there was a Vault south of here, where a lot of my grandparents lived. What's it like  living in a Vault?",
+      "node_id": "node12",
+      "id": "Jason05"
+    },
+    {
+      "text": "Hello again. Have any interesting stories to tell?",
+      "node_id": "node10",
+      "id": "Jason16"
+    },
+    {
+      "text": "Well, if you do anything interesting, tell me all about it!",
+      "node_id": "node26",
+      "id": "Jason17"
+    },
+    {
+      "text": "Yeah, I noticed that you don't have a bedroll or anything. It must get pretty dirty and uncomfortable out there.",
+      "node_id": "node21",
+      "id": "Jason15"
+    },
+    {
+      "text": "Oh. Well, you must have had some adventures after leaving, right?",
+      "node_id": "node19",
+      "id": "Jason06"
+    },
+    {
+      "text": "",
+      "node_id": "node6",
+      "id": "follow_player"
+    },
+    {
+      "text": "Hey, are you from really far away? Have you had a lot  of adventures?",
+      "node_id": "node11",
+      "id": "Jason01"
+    },
+    {
+      "text": "I thought that it would be fun to leave Adytum and explore the world. But the Rippers caught me and have been holding me here. Please, help me!",
+      "node_id": "node29",
+      "id": "Jason22"
+    },
+    {
+      "text": "That's cool. All we have here is this stupid well and those underground farms that Miles keeps trying  to get working.",
+      "node_id": "node20",
+      "id": "Jason14"
+    },
+    {
+      "text": "I wish that I could go adventuring sometime.",
+      "node_id": "node24",
+      "id": "Jason10"
+    },
+    {
+      "text": "Thank goodness you're here! Please help me get out of here!",
+      "node_id": "node8",
+      "id": "Jason19"
+    },
+    {
+      "text": "",
+      "node_id": "node3",
+      "id": "destroy_p_proc"
+    },
+    {
+      "text": "Thank you!",
+      "node_id": "node27",
+      "id": "Jason20"
+    },
+    {
+      "text": "I hope we get out of here soon!",
+      "node_id": "node7",
+      "id": "Jason23"
+    },
+    {
+      "text": "I never though about that. I rather like having clean water and a place to stay.",
+      "node_id": "node25",
+      "id": "Jason11"
+    },
+    {
+      "text": "Oh. I thought someone who'd been through the wastes outside would be, well, smarter. Never mind.",
+      "node_id": "node16",
+      "id": "Jason02"
+    },
+    {
+      "text": "Yeah, the Hub guards said that there are lots of radioactive mutant things living in the desert. Monster hunting must be  a real blast!",
+      "node_id": "node23",
+      "id": "Jason09"
+    },
+    {
+      "text": "Leave me alone!",
+      "node_id": "node9",
+      "id": "Jason18"
+    },
+    {
+      "text": "What, are you some kind of weirdo or something? Caleb never should have let you in the gates!",
+      "node_id": "node13",
+      "id": "Jason13"
+    },
+    {
+      "text": "",
+      "node_id": "node2",
+      "id": "critter_p_proc"
+    },
+    {
+      "text": "I thought that living in the wasteland would be . . . you know . . . rugged, and dangerous, and everything. But I suppose we have enough to keep us busy here, with  the gangs and all.",
+      "node_id": "node22",
+      "id": "Jason12"
+    },
+    {
+      "text": "",
+      "node_id": "node5",
+      "id": "talk_p_proc"
+    },
+    {
+      "text": "Really? What kinds of monsters have you fought?",
+      "node_id": "node14",
+      "id": "Jason08"
+    }
+  ],
+  "links": [
+    {
+      "text": "",
+      "source": "start",
+      "target": "look_at_p_proc_1"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "destroy_p_proc"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "talk_p_proc"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "critter_p_proc"
+    },
+    {
+      "text": "Well, actually, there are all sorts of monsters out there.",
+      "source": "Jason07",
+      "target": "Jason08"
+    },
+    {
+      "text": "Actually, it's mostly just desert.",
+      "source": "Jason07",
+      "target": "Jason12"
+    },
+    {
+      "text": "It's very exciting. We have all sorts of technology  you wouldn't believe!",
+      "source": "Jason05",
+      "target": "Jason14"
+    },
+    {
+      "text": "It's pretty boring, actually.",
+      "source": "Jason05",
+      "target": "Jason06"
+    },
+    {
+      "text": "What do you want to know about?",
+      "source": "Jason16",
+      "target": "Jason08"
+    },
+    {
+      "text": "Not really.",
+      "source": "Jason16",
+      "target": "Jason17"
+    },
+    {
+      "text": "",
+      "source": "Jason15",
+      "target": "Jason11"
+    },
+    {
+      "text": "As someone once wrote, 'Adventure is someone else far away having a very unpleasant time.'",
+      "source": "Jason06",
+      "target": "Jason15"
+    },
+    {
+      "text": "Yes, there's quite a bit of danger out there.",
+      "source": "Jason06",
+      "target": "Jason08"
+    },
+    {
+      "text": "Not really.",
+      "source": "Jason06",
+      "target": "Jason07"
+    },
+    {
+      "text": "Haven't done all that much, really.",
+      "source": "Jason01",
+      "target": "Jason07"
+    },
+    {
+      "text": "Yes, I'm from a Vault far to the north.",
+      "source": "Jason01",
+      "target": "Jason05"
+    },
+    {
+      "text": "Actually, I'm from Mars. Want to see my firelance?",
+      "source": "Jason01",
+      "target": "Jason13"
+    },
+    {
+      "text": "Uh, far. Vault.",
+      "source": "Jason01",
+      "target": "Jason02"
+    },
+    {
+      "text": "I've had some adventures.",
+      "source": "Jason01",
+      "target": "Jason08"
+    },
+    {
+      "text": "No way. You got yourself into this, you get out.",
+      "source": "Jason22",
+      "target": "Jason21"
+    },
+    {
+      "text": "All right, let's get out of here!",
+      "source": "Jason22",
+      "target": "Jason20"
+    },
+    {
+      "text": "",
+      "source": "Jason14",
+      "target": "Jason10"
+    },
+    {
+      "text": "What are you doing here?",
+      "source": "Jason19",
+      "target": "Jason22"
+    },
+    {
+      "text": "Ayuh.",
+      "source": "Jason19",
+      "target": "Jason20"
+    },
+    {
+      "text": "Sorry kid, you're on your own!",
+      "source": "Jason19",
+      "target": "Jason21"
+    },
+    {
+      "text": "Yes, it's a real kick!",
+      "source": "Jason09",
+      "target": "Jason10"
+    },
+    {
+      "text": "No; it's more of a pain. Venom, bites, radiation . . . it's deadly.",
+      "source": "Jason09",
+      "target": "Jason11"
+    },
+    {
+      "text": "",
+      "source": "critter_p_proc",
+      "target": "follow_player"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Jason18"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Jason01"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Jason16"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Jason19"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Jason23"
+    },
+    {
+      "text": "Not much, just some rats and stuff.",
+      "source": "Jason08",
+      "target": "Jason12"
+    }
+  ]
+}

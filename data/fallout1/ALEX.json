@@ -1,0 +1,144 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "",
+      "node_id": "node2",
+      "id": "critter_p_proc"
+    },
+    {
+      "text": "Try coming back in the morning.",
+      "node_id": "node11",
+      "id": "Alex06"
+    },
+    {
+      "text": "You see: Alex, the night watch Regulator.",
+      "node_id": "node4",
+      "id": "look_at_p_proc"
+    },
+    {
+      "text": "",
+      "node_id": "node1",
+      "id": "start"
+    },
+    {
+      "text": "",
+      "node_id": "node6",
+      "id": "sleeping"
+    },
+    {
+      "text": "",
+      "node_id": "node3",
+      "id": "destroy_p_proc"
+    },
+    {
+      "text": "Sorry, I can't let you in. Come back in the morning.",
+      "node_id": "node7",
+      "id": "Alex01"
+    },
+    {
+      "text": "Come on in,",
+      "node_id": "node5",
+      "id": "talk_p_proc"
+    },
+    {
+      "text": "Look, it is my duty and my honor to serve as the night watch for Adytum, so it is my business. You turn around and leave, or I'll have to get serious.",
+      "node_id": "node10",
+      "id": "Alex05"
+    },
+    {
+      "text": "Oh, that's it. Now the gloves are off!",
+      "node_id": "node13",
+      "id": "Alex07"
+    },
+    {
+      "text": "No strangers are allowed within the walls of Adytum, by order of the mayor.",
+      "node_id": "node9",
+      "id": "Alex03"
+    },
+    {
+      "text": "I'm sorry, but I can't let you in. Turn around and leave or I'll have to  shoot.",
+      "node_id": "node12",
+      "id": "Alex04"
+    },
+    {
+      "text": "Halt! Who goes there?",
+      "node_id": "node8",
+      "id": "Alex02"
+    }
+  ],
+  "links": [
+    {
+      "text": "",
+      "source": "critter_p_proc",
+      "target": "sleeping"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "destroy_p_proc"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "talk_p_proc"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "critter_p_proc"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "look_at_p_proc"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Alex02"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Alex01"
+    },
+    {
+      "text": "Get out of my face, John Law.",
+      "source": "Alex05",
+      "target": "Alex07"
+    },
+    {
+      "text": "Um, sorry. I'll leave.",
+      "source": "Alex05",
+      "target": "Alex06"
+    },
+    {
+      "text": "Um, sorry. I'll leave.",
+      "source": "Alex03",
+      "target": "Alex06"
+    },
+    {
+      "text": "I just need a place to sleep for the night.",
+      "source": "Alex03",
+      "target": "Alex04"
+    },
+    {
+      "text": "I'm just a traveler. I'd like to come inside.",
+      "source": "Alex02",
+      "target": "Alex03"
+    },
+    {
+      "text": "Um, sorry. I'll leave.",
+      "source": "Alex02",
+      "target": "Alex06"
+    },
+    {
+      "text": "None of your business.",
+      "source": "Alex02",
+      "target": "Alex05"
+    }
+  ]
+}

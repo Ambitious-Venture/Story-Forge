@@ -1,0 +1,64 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "Hello friend! Will you sing a song of Praise with me? . . . Once I was wandering blind, In a land that was so unkind . . .",
+      "node_id": "node2",
+      "id": "Chant01"
+    },
+    {
+      "text": "He finds you when and where you least expect it! Praise the Master! Praise the Holy Flame! Praise the world!",
+      "node_id": "node3",
+      "id": "Chant02"
+    },
+    {
+      "text": "The one who sits above. The one who sits below. The one who rests within. Praise the Master for such clarity of vision!",
+      "node_id": "node5",
+      "id": "Chant04"
+    },
+    {
+      "text": "Hmm, that's not what I had in mind. You had better practice, my friend. Praise to the Master! Praise the Holy Flame!",
+      "node_id": "node7",
+      "id": "Chant06"
+    },
+    {
+      "text": "What a wonderful joke! I used to have no sense of humor, but thanks to the Master, I am full of mirth! Praise the Master!",
+      "node_id": "node4",
+      "id": "Chant03"
+    },
+    {
+      "text": "Oh, if only I were so fortunate! Perhaps one day the Master will let me kiss his body parts. Praise the Master! Praise the Holy Flame!",
+      "node_id": "node6",
+      "id": "Chant05"
+    }
+  ],
+  "links": [
+    {
+      "text": "Don't quit your day job.",
+      "source": "Chant01",
+      "target": "Chant03"
+    },
+    {
+      "text": "I hate to interrupt your hymn, but where might I meet the Master?",
+      "source": "Chant01",
+      "target": "Chant02"
+    },
+    {
+      "text": "Who's in charge here?",
+      "source": "Chant01",
+      "target": "Chant04"
+    },
+    {
+      "text": "Happy! Happy! I sing song good!",
+      "source": "Chant01",
+      "target": "Chant06"
+    },
+    {
+      "text": ". . . but now I kiss the Master's behind . . .",
+      "source": "Chant01",
+      "target": "Chant05"
+    }
+  ]
+}

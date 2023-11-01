@@ -1,0 +1,279 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "Hrnnfff...uh-uh, Mom...therez no school today...Zsnzzzzz",
+      "node_id": "node6",
+      "id": "Node004"
+    },
+    {
+      "text": "It is I, the Chosen One.",
+      "node_id": "node19_11",
+      "id": "Node006_11"
+    },
+    {
+      "text": "",
+      "node_id": "node9",
+      "id": "use_skill_on_p_proc"
+    },
+    {
+      "text": "It is I, the Chosen One.",
+      "node_id": "node19_3",
+      "id": "Node006_3"
+    },
+    {
+      "text": "It is I, the Chosen One.",
+      "node_id": "node19_7",
+      "id": "Node006_7"
+    },
+    {
+      "text": "",
+      "node_id": "node21",
+      "id": "playerStepBack"
+    },
+    {
+      "text": "It is I, the Chosen One.",
+      "node_id": "node19_2",
+      "id": "Node006_2"
+    },
+    {
+      "text": "It is I, the Chosen One.",
+      "node_id": "node19_8",
+      "id": "Node006_8"
+    },
+    {
+      "text": "It is I, the Chosen One.",
+      "node_id": "node19_14",
+      "id": "Node006_14"
+    },
+    {
+      "text": "",
+      "node_id": "node11",
+      "id": "use_obj_on_p_proc"
+    },
+    {
+      "text": "WHAT?! STEAL FROM ME, WILL YOU?!",
+      "node_id": "node10",
+      "id": "Node008"
+    },
+    {
+      "text": "Wha--?",
+      "node_id": "node5",
+      "id": "Node005"
+    },
+    {
+      "text": "I wish I could see what's behind me.",
+      "node_id": "node18",
+      "id": "Node003"
+    },
+    {
+      "text": "It is I, the Chosen One.",
+      "node_id": "node19_10",
+      "id": "Node006_10"
+    },
+    {
+      "text": "It is I, the Chosen One.",
+      "node_id": "node19_1",
+      "id": "Node006_1"
+    },
+    {
+      "text": "",
+      "node_id": "node3",
+      "id": "use_p_proc"
+    },
+    {
+      "text": "It is I, the Chosen One. (12 Hours Later)",
+      "node_id": "node19_9",
+      "id": "Node006_9"
+    },
+    {
+      "text": "It is I, the Chosen One.",
+      "node_id": "node19_4",
+      "id": "Node006_4"
+    },
+    {
+      "text": "It is I, the Chosen One.",
+      "node_id": "node19_6",
+      "id": "Node006_6"
+    },
+    {
+      "text": "Damn tourists...",
+      "node_id": "node16",
+      "id": "Node001"
+    },
+    {
+      "text": "",
+      "node_id": "node22",
+      "id": "timed_event_p_proc"
+    },
+    {
+      "text": "I ALREADY GAVE YOU A GIFT.",
+      "node_id": "node4",
+      "id": "Node007"
+    },
+    {
+      "text": "It is I, the Chosen One.",
+      "node_id": "node19_12",
+      "id": "Node006_12"
+    },
+    {
+      "text": "It is I, the Chosen One.",
+      "node_id": "node19_13",
+      "id": "Node006_13"
+    },
+    {
+      "text": "Zzzzzz Snzzzzz Zzzzzzzzzz",
+      "node_id": "node17",
+      "id": "Node002"
+    },
+    {
+      "text": "It is I, the Chosen One.",
+      "node_id": "node19_5",
+      "id": "Node006_5"
+    }
+  ],
+  "links": [
+    {
+      "text": "",
+      "source": "Node004",
+      "target": "Node005"
+    },
+    {
+      "text": "",
+      "source": "use_skill_on_p_proc",
+      "target": "Node008"
+    },
+    {
+      "text": "",
+      "source": "use_obj_on_p_proc",
+      "target": "use_p_proc"
+    },
+    {
+      "text": "",
+      "source": "use_p_proc",
+      "target": "Node004"
+    },
+    {
+      "text": "",
+      "source": "use_p_proc",
+      "target": "Node007"
+    },
+    {
+      "text": "",
+      "source": "use_p_proc",
+      "target": "Node005"
+    },
+    {
+      "text": "",
+      "source": "timed_event_p_proc",
+      "target": "Node008"
+    },
+    {
+      "text": "",
+      "source": "timed_event_p_proc",
+      "target": "Node006_10"
+    },
+    {
+      "text": "",
+      "source": "timed_event_p_proc",
+      "target": "Node006_7"
+    },
+    {
+      "text": "",
+      "source": "timed_event_p_proc",
+      "target": "Node006_1"
+    },
+    {
+      "text": "",
+      "source": "timed_event_p_proc",
+      "target": "Node006_8"
+    },
+    {
+      "text": "",
+      "source": "timed_event_p_proc",
+      "target": "Node004"
+    },
+    {
+      "text": "",
+      "source": "timed_event_p_proc",
+      "target": "Node006_5"
+    },
+    {
+      "text": "",
+      "source": "timed_event_p_proc",
+      "target": "Node006_12"
+    },
+    {
+      "text": "",
+      "source": "timed_event_p_proc",
+      "target": "Node006_13"
+    },
+    {
+      "text": "",
+      "source": "timed_event_p_proc",
+      "target": "Node006_3"
+    },
+    {
+      "text": "",
+      "source": "timed_event_p_proc",
+      "target": "Node005"
+    },
+    {
+      "text": "",
+      "source": "timed_event_p_proc",
+      "target": "Node006_4"
+    },
+    {
+      "text": "",
+      "source": "timed_event_p_proc",
+      "target": "Node006_14"
+    },
+    {
+      "text": "",
+      "source": "timed_event_p_proc",
+      "target": "Node007"
+    },
+    {
+      "text": "",
+      "source": "timed_event_p_proc",
+      "target": "playerStepBack"
+    },
+    {
+      "text": "",
+      "source": "timed_event_p_proc",
+      "target": "Node006_9"
+    },
+    {
+      "text": "",
+      "source": "timed_event_p_proc",
+      "target": "Node006_6"
+    },
+    {
+      "text": "",
+      "source": "timed_event_p_proc",
+      "target": "Node006_2"
+    },
+    {
+      "text": "",
+      "source": "timed_event_p_proc",
+      "target": "Node003"
+    },
+    {
+      "text": "",
+      "source": "timed_event_p_proc",
+      "target": "Node006_11"
+    },
+    {
+      "text": "",
+      "source": "timed_event_p_proc",
+      "target": "Node001"
+    },
+    {
+      "text": "",
+      "source": "timed_event_p_proc",
+      "target": "Node002"
+    }
+  ]
+}

@@ -1,0 +1,799 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "I was not aware I had made it a request, child. Kill him!",
+      "node_id": "node53",
+      "id": "Node027a"
+    },
+    {
+      "text": "I can't understand a word you're saying. Perhaps you should see Juan or Vikki about an alignment.",
+      "node_id": "node11",
+      "id": "Node004"
+    },
+    {
+      "text": "You see AHS-9, the Great and Terrible.",
+      "node_id": "node38_2",
+      "id": "Node013_2"
+    },
+    {
+      "text": "Trust me, child, you are referring to the Enclave.",
+      "node_id": "node40",
+      "id": "Node015"
+    },
+    {
+      "text": "Good. Let me know when you're done, and I'll begin making inquiries into ways we can achieve your goal at the same time. Farewell, child.",
+      "node_id": "node36",
+      "id": "Node009"
+    },
+    {
+      "text": "All our needs have been met. Now it is time for me to meditate.",
+      "node_id": "node62",
+      "id": "Node036"
+    },
+    {
+      "text": "You see AHS-9, the Great and Terrible.",
+      "node_id": "node46_1",
+      "id": "TakeLetter_1"
+    },
+    {
+      "text": "If you'll agree to do me a favor, I can help you, child.",
+      "node_id": "node32",
+      "id": "Node006"
+    },
+    {
+      "text": "",
+      "node_id": "node21",
+      "id": "Node998"
+    },
+    {
+      "text": "You see AHS-9, the Great and Terrible.",
+      "node_id": "node10_2",
+      "id": "Node012_2"
+    },
+    {
+      "text": "Yes, my child?",
+      "node_id": "node12",
+      "id": "Node024"
+    },
+    {
+      "text": "You have killed the Emperor and destroyed his minions?",
+      "node_id": "node39",
+      "id": "Node019"
+    },
+    {
+      "text": "",
+      "node_id": "node23",
+      "id": "Node34"
+    },
+    {
+      "text": "That, my child, you will have to discover on your own. Ask around and you shall find the truth.",
+      "node_id": "node42",
+      "id": "Node017"
+    },
+    {
+      "text": "",
+      "node_id": "node14",
+      "id": "doCallGuards"
+    },
+    {
+      "text": "Then go and smite those troublesome souls. I await word of your success. [He smiles beatifically.]",
+      "node_id": "node61",
+      "id": "Node034"
+    },
+    {
+      "text": "Flying ships? You must be referring to the Enclave and their vertibirds.",
+      "node_id": "node27",
+      "id": "Node014"
+    },
+    {
+      "text": "The Enclave are a remnant of the past - a neurodyne that has yet to be aligned. They have hidden bases all over the shards of old California, and their strongest stronghold is off to the west, over the waters.",
+      "node_id": "node41",
+      "id": "Node016"
+    },
+    {
+      "text": "Ah, child, how could you stray from the path of truth like this? I see from your aura that you plan to kill me. I am bitterly disappointed. Bitterly. Ah well. Let us proceed.",
+      "node_id": "node8",
+      "id": "Node035"
+    },
+    {
+      "text": "Too late, meat. You have shown you cannot be trusted. Die!",
+      "node_id": "node58",
+      "id": "Node029"
+    },
+    {
+      "text": "I was not aware I had made it a request, child. Kill him!",
+      "node_id": "node56",
+      "id": "Node027b"
+    },
+    {
+      "text": "",
+      "node_id": "node5",
+      "id": "talk_p_proc"
+    },
+    {
+      "text": "",
+      "node_id": "node26",
+      "id": "Node23a"
+    },
+    {
+      "text": "If you change your mind, let me know. Remember, I may be the only way you have of reaching your family.",
+      "node_id": "node34",
+      "id": "Node008"
+    },
+    {
+      "text": "Of course, child. The alignment has cleared your basic neurodynes and aligned them with mine and the spokes of the Great Wheel. What do you need?",
+      "node_id": "node31",
+      "id": "Node005"
+    },
+    {
+      "text": "Yes, my child?",
+      "node_id": "node30",
+      "id": "Node003"
+    },
+    {
+      "text": "A letter from the Enlightened One? Is that what she calls herself now? Bah. [he takes the letter from you] And she promised a reward? You have a reward - my gratitude. Good day.",
+      "node_id": "node45",
+      "id": "Node021"
+    },
+    {
+      "text": "Your enburgled aura tells me that you come here meaning me no good. Tell me, child, do you wish to profit from your venture?",
+      "node_id": "node7",
+      "id": "Node032"
+    },
+    {
+      "text": "",
+      "node_id": "node22",
+      "id": "Node999"
+    },
+    {
+      "text": "Ahh, a letter from my field agent. Pity she calls herself \"The Enlightened One\" - it shows that she truly is not enlightened. You have my gratitude.",
+      "node_id": "node25",
+      "id": "Node023"
+    },
+    {
+      "text": "",
+      "node_id": "node49",
+      "id": "Node2526"
+    },
+    {
+      "text": "",
+      "node_id": "node60",
+      "id": "Node034a"
+    },
+    {
+      "text": "",
+      "node_id": "node24",
+      "id": "Node21a"
+    },
+    {
+      "text": "You disobey the commands of AHS-9, the Great and Terrible? Then you shall die.",
+      "node_id": "node57",
+      "id": "Node028"
+    },
+    {
+      "text": "Child, there are some things you are not meant to know for now. [He smiles benignly.]",
+      "node_id": "node50",
+      "id": "Node030"
+    },
+    {
+      "text": "Remember, you will need to visit AHS-7 when you have completed your task.",
+      "node_id": "node9_1",
+      "id": "Node010_1"
+    },
+    {
+      "text": "",
+      "node_id": "node6",
+      "id": "Node001"
+    },
+    {
+      "text": "Then there is no one who can stand in my way! But I see no need to be beholden to a mere tool. Farewell - and good riddance!",
+      "node_id": "node44",
+      "id": "Node020"
+    },
+    {
+      "text": "",
+      "node_id": "node29",
+      "id": "Node998a"
+    },
+    {
+      "text": "My counterpart, The Emperor of Shi-town, has been making my life miserable. I'd like you to end his. In return, I'll make sure you can get where you need to be.",
+      "node_id": "node33",
+      "id": "Node007"
+    },
+    {
+      "text": "",
+      "node_id": "node35",
+      "id": "Node009a"
+    },
+    {
+      "text": "Seek out Badger, whose caustic presence holds those \u00a0pathetic tanker vagrants together. Rid our fair city of him. When you have done so, visit AHS-7.",
+      "node_id": "node54",
+      "id": "Node026"
+    },
+    {
+      "text": "The ESS Quetzel will launch when the stars are right.",
+      "node_id": "node48",
+      "id": "Node031"
+    },
+    {
+      "text": "Greetings to you as well. Now, please finish your job so that I may aid you.",
+      "node_id": "node37",
+      "id": "Node011"
+    },
+    {
+      "text": "You see a well-dressed man.",
+      "node_id": "node10_1",
+      "id": "Node012_1"
+    },
+    {
+      "text": "You are in the presence of AHS-9, the Great and Terrible. What is it you desire of him?",
+      "node_id": "node13",
+      "id": "Node002"
+    },
+    {
+      "text": "Child, I am AHS-9. \u00a0I see many things that transpire in the fleshy world. Do you have more questions, or may I return to my meditations?",
+      "node_id": "node43",
+      "id": "Node018"
+    },
+    {
+      "text": "You see a well-dressed man.",
+      "node_id": "node38_1",
+      "id": "Node013_1"
+    },
+    {
+      "text": "",
+      "node_id": "node52",
+      "id": "NodeRecruit"
+    },
+    {
+      "text": "This, then, is my bargain: return to the Shi and eliminate Ken Lee and the Emperor. I will repay you with more money than you have ever dreamed.",
+      "node_id": "node59",
+      "id": "Node033"
+    },
+    {
+      "text": "",
+      "node_id": "node47",
+      "id": "Node2224"
+    },
+    {
+      "text": "",
+      "node_id": "node55",
+      "id": "NodeBadger"
+    },
+    {
+      "text": "Address your questions to AHS-7. I am AHS-9, the Great and Terrible, and I have many matters on my mind. Trouble me not, meat.",
+      "node_id": "node28",
+      "id": "Node022"
+    },
+    {
+      "text": "My counterpart, The Emperor of Shi-town, has been making my life miserable. I'd like you to end his. In return, I'll make sure you can get where you need to be.",
+      "node_id": "node51",
+      "id": "Node025"
+    }
+  ],
+  "links": [
+    {
+      "text": "Oh, all right. I'll do it.",
+      "source": "Node027a",
+      "target": "NodeRecruit"
+    },
+    {
+      "text": "No.",
+      "source": "Node027a",
+      "target": "Node028"
+    },
+    {
+      "text": "Anks!",
+      "source": "Node004",
+      "target": "Node999"
+    },
+    {
+      "text": "Anks! [It has been a pleasure, AHS-9. I wish you all the best. Good bye.]",
+      "source": "Node013_2",
+      "target": "Node999"
+    },
+    {
+      "text": "Yeah, okay. How do I find them?",
+      "source": "Node015",
+      "target": "Node016"
+    },
+    {
+      "text": "D'bye! [So long, AHS-9. You're a great man.]",
+      "source": "Node009",
+      "target": "Node999"
+    },
+    {
+      "text": "All right. I have more questions.",
+      "source": "Node036",
+      "target": "Node024"
+    },
+    {
+      "text": "Return to your meditations. I'm done.",
+      "source": "Node036",
+      "target": "Node036"
+    },
+    {
+      "text": "Oik? [What is it? I'd be happy to be of assistance.]",
+      "source": "Node006",
+      "target": "Node007"
+    },
+    {
+      "text": "No!",
+      "source": "Node006",
+      "target": "Node008"
+    },
+    {
+      "text": "Yes, I have. Now I require your assistance in helping my people.",
+      "source": "Node012_2",
+      "target": "Node019"
+    },
+    {
+      "text": "When does the spaceship take off?",
+      "source": "Node024",
+      "target": "Node031"
+    },
+    {
+      "text": "Do you have any tasks for me?",
+      "source": "Node024",
+      "target": "Node2526"
+    },
+    {
+      "text": "Where does all the money we provide go?",
+      "source": "Node024",
+      "target": "Node030"
+    },
+    {
+      "text": "Oh, nothing. Forget it.",
+      "source": "Node024",
+      "target": "Node999"
+    },
+    {
+      "text": "Yes, I have.",
+      "source": "Node019",
+      "target": "Node020"
+    },
+    {
+      "text": "",
+      "source": "Node34",
+      "target": "Node003"
+    },
+    {
+      "text": "",
+      "source": "Node34",
+      "target": "Node004"
+    },
+    {
+      "text": "Whatever. Bye.",
+      "source": "Node017",
+      "target": "Node999"
+    },
+    {
+      "text": "Very helpful. I have more questions.",
+      "source": "Node017",
+      "target": "Node002"
+    },
+    {
+      "text": "How do you know all this?",
+      "source": "Node017",
+      "target": "Node018"
+    },
+    {
+      "text": "No, wait, I changed my mind. I want you dead.",
+      "source": "Node034",
+      "target": "Node998a"
+    },
+    {
+      "text": "So long.",
+      "source": "Node034",
+      "target": "Node999"
+    },
+    {
+      "text": "Enclave? Enclave who?",
+      "source": "Node014",
+      "target": "Node016"
+    },
+    {
+      "text": "Yeah, I guess so.",
+      "source": "Node014",
+      "target": "Node015"
+    },
+    {
+      "text": "How do I get there?",
+      "source": "Node016",
+      "target": "Node017"
+    },
+    {
+      "text": "How do you know all this?",
+      "source": "Node016",
+      "target": "Node018"
+    },
+    {
+      "text": "Yes, let's. Die.",
+      "source": "Node035",
+      "target": "Node998a"
+    },
+    {
+      "text": "-done-",
+      "source": "Node029",
+      "target": "Node998a"
+    },
+    {
+      "text": "No.",
+      "source": "Node027b",
+      "target": "Node028"
+    },
+    {
+      "text": "Oh, all right. I'll do it.",
+      "source": "Node027b",
+      "target": "NodeBadger"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node010_1"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node024"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node012_1"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node004"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node002"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node012_2"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node001"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node032"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "doCallGuards"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node035"
+    },
+    {
+      "text": "",
+      "source": "Node23a",
+      "target": "Node023"
+    },
+    {
+      "text": "Ok. [What is this favor?]",
+      "source": "Node008",
+      "target": "Node007"
+    },
+    {
+      "text": "Didgeroo! [Thanks, I'd rather not owe anyone. So long!]",
+      "source": "Node008",
+      "target": "Node999"
+    },
+    {
+      "text": "Aagga diggle doodle doo! [Oh, thank goodness. I'm looking for my people. I need to get over the big water.]",
+      "source": "Node005",
+      "target": "Node006"
+    },
+    {
+      "text": "B-b-b-enny [Nothing, thanks. It's just nice being able to talk to you. Bye!]",
+      "source": "Node005",
+      "target": "Node999"
+    },
+    {
+      "text": "Hinchoaf? [You can understand me?]",
+      "source": "Node003",
+      "target": "Node005"
+    },
+    {
+      "text": "Aagga diggle doodle doo! [Oh, thank goodness. I'm looking for my people. I need to get over the big water.]",
+      "source": "Node003",
+      "target": "Node006"
+    },
+    {
+      "text": "Poopy pants! [Well, thanks for your time. I have to be running along now. A pleasure talking to you.]",
+      "source": "Node003",
+      "target": "Node999"
+    },
+    {
+      "text": "Err, I had some questions.",
+      "source": "Node021",
+      "target": "Node2224"
+    },
+    {
+      "text": "Gee, great. Bye.",
+      "source": "Node021",
+      "target": "Node999"
+    },
+    {
+      "text": "",
+      "source": "Node021",
+      "target": "TakeLetter_1"
+    },
+    {
+      "text": "That's it? Old man, you're dead.",
+      "source": "Node021",
+      "target": "Node998a"
+    },
+    {
+      "text": "Yes.",
+      "source": "Node032",
+      "target": "Node033"
+    },
+    {
+      "text": "No.",
+      "source": "Node032",
+      "target": "Node998a"
+    },
+    {
+      "text": "No problem. I have a question or two, though.",
+      "source": "Node023",
+      "target": "Node2224"
+    },
+    {
+      "text": "Great. Bye.",
+      "source": "Node023",
+      "target": "Node999"
+    },
+    {
+      "text": "",
+      "source": "Node023",
+      "target": "TakeLetter_1"
+    },
+    {
+      "text": "",
+      "source": "Node2526",
+      "target": "Node025"
+    },
+    {
+      "text": "",
+      "source": "Node2526",
+      "target": "Node036"
+    },
+    {
+      "text": "",
+      "source": "Node2526",
+      "target": "Node026"
+    },
+    {
+      "text": "",
+      "source": "Node034a",
+      "target": "Node034"
+    },
+    {
+      "text": "",
+      "source": "Node21a",
+      "target": "Node021"
+    },
+    {
+      "text": "Wait, I changed my mind.",
+      "source": "Node028",
+      "target": "Node029"
+    },
+    {
+      "text": "Bring it on.",
+      "source": "Node028",
+      "target": "Node998a"
+    },
+    {
+      "text": "Hm. Bye.",
+      "source": "Node030",
+      "target": "Node999"
+    },
+    {
+      "text": "All right. I have more questions.",
+      "source": "Node030",
+      "target": "Node024"
+    },
+    {
+      "text": "Not yet. I'll get back to you.",
+      "source": "Node010_1",
+      "target": "Node999"
+    },
+    {
+      "text": "Oh, AHS-9, I come bearing a letter from your agent in NCR. I bow to your glory.",
+      "source": "Node010_1",
+      "target": "Node23a"
+    },
+    {
+      "text": "Unh-uh [Not yet. I just wanted to say hi.]",
+      "source": "Node010_1",
+      "target": "Node011"
+    },
+    {
+      "text": "I'm working on it. I have some questions.",
+      "source": "Node010_1",
+      "target": "Node024"
+    },
+    {
+      "text": "Oh. Well, if that's the way it's got to be. So long.",
+      "source": "Node020",
+      "target": "Node999"
+    },
+    {
+      "text": "Why, you scumbag. I'm going to kill you now.",
+      "source": "Node020",
+      "target": "Node998a"
+    },
+    {
+      "text": "",
+      "source": "Node998a",
+      "target": "Node998"
+    },
+    {
+      "text": "No!",
+      "source": "Node007",
+      "target": "Node008"
+    },
+    {
+      "text": "Ays! [I'll do it.]",
+      "source": "Node007",
+      "target": "Node009a"
+    },
+    {
+      "text": "",
+      "source": "Node009a",
+      "target": "Node009"
+    },
+    {
+      "text": "Sure thing, boss. See ya.",
+      "source": "Node026",
+      "target": "NodeBadger"
+    },
+    {
+      "text": "I'd rather not.",
+      "source": "Node026",
+      "target": "Node027b"
+    },
+    {
+      "text": "Thanks. Bye.",
+      "source": "Node031",
+      "target": "Node999"
+    },
+    {
+      "text": "Right-o. I have more questions.",
+      "source": "Node031",
+      "target": "Node024"
+    },
+    {
+      "text": "Ng! Ng! [Yes, sir!]",
+      "source": "Node011",
+      "target": "Node999"
+    },
+    {
+      "text": "Yes, I have. Now I require your assistance in helping my people.",
+      "source": "Node012_1",
+      "target": "Node019"
+    },
+    {
+      "text": "The Enlightened One in NCR wanted me to deliver a letter. She said something about a reward?",
+      "source": "Node002",
+      "target": "Node21a"
+    },
+    {
+      "text": "I have many questions for you, AHS-9.",
+      "source": "Node002",
+      "target": "Node022"
+    },
+    {
+      "text": "The Enlightened One in NCR wanted me to deliver a letter. Here you go.",
+      "source": "Node002",
+      "target": "Node023"
+    },
+    {
+      "text": "Your death. Good bye, old man.",
+      "source": "Node002",
+      "target": "Node998a"
+    },
+    {
+      "text": "Oh, AHS-9, I come bearing a letter from your agent in NCR. I bow to your glory.",
+      "source": "Node002",
+      "target": "Node23a"
+    },
+    {
+      "text": "Agh a nu, AHS!",
+      "source": "Node002",
+      "target": "Node34"
+    },
+    {
+      "text": "I'm looking for my people. I heard they came down this way in flying ships.",
+      "source": "Node002",
+      "target": "Node014"
+    },
+    {
+      "text": "Nothing, sorry.",
+      "source": "Node002",
+      "target": "Node999"
+    },
+    {
+      "text": "Return to your meditations. I'm done.",
+      "source": "Node018",
+      "target": "Node999"
+    },
+    {
+      "text": "More questions.",
+      "source": "Node018",
+      "target": "Node002"
+    },
+    {
+      "text": "Anks! [It has been a pleasure, AHS-9. I wish you all the best. Good bye.]",
+      "source": "Node013_1",
+      "target": "Node999"
+    },
+    {
+      "text": "",
+      "source": "NodeRecruit",
+      "target": "Node999"
+    },
+    {
+      "text": "No, I don't think so.",
+      "source": "Node033",
+      "target": "Node998a"
+    },
+    {
+      "text": "You've got a deal, fat man.",
+      "source": "Node033",
+      "target": "Node034a"
+    },
+    {
+      "text": "",
+      "source": "Node2224",
+      "target": "Node024"
+    },
+    {
+      "text": "",
+      "source": "Node2224",
+      "target": "Node022"
+    },
+    {
+      "text": "",
+      "source": "NodeBadger",
+      "target": "Node999"
+    },
+    {
+      "text": "If you won't answer my questions, you'll answer my weapons.",
+      "source": "Node022",
+      "target": "Node998a"
+    },
+    {
+      "text": "Whatever.",
+      "source": "Node022",
+      "target": "Node999"
+    },
+    {
+      "text": "I'd rather not.",
+      "source": "Node025",
+      "target": "Node027a"
+    },
+    {
+      "text": "Sure thing, boss. See ya.",
+      "source": "Node025",
+      "target": "NodeRecruit"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "I knew that outside life would get you into trouble.",
+      "node_id": "node45",
+      "id": "Officer31"
+    },
+    {
+      "text": "Be careful what you call me. And don't draw a weapon inside. This is the Vault for god's sake.",
+      "node_id": "node46",
+      "id": "Officer29"
+    },
+    {
+      "text": "What do you think you are doing with that in here?",
+      "node_id": "node43",
+      "id": "Officer28"
+    },
+    {
+      "text": "You'd better not be practicing it in here. Me and you will have a serious problem if you do it again.",
+      "node_id": "node44",
+      "id": "Officer30"
+    }
+  ],
+  "links": [
+    {
+      "text": "Hung.",
+      "source": "Officer28",
+      "target": "Officer29"
+    },
+    {
+      "text": "Nothing, sorry. Didn't mean to have it drawn.",
+      "source": "Officer28",
+      "target": "Officer31"
+    },
+    {
+      "text": "Just practicing my aim.",
+      "source": "Officer28",
+      "target": "Officer30"
+    }
+  ]
+}

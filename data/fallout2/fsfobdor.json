@@ -1,0 +1,44 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "",
+      "node_id": "node8",
+      "id": "damage_p_proc"
+    },
+    {
+      "text": "You produce no effect.",
+      "node_id": "node3",
+      "id": "use_p_proc"
+    },
+    {
+      "text": "",
+      "node_id": "node6",
+      "id": "use_skill_on_p_proc"
+    },
+    {
+      "text": "",
+      "node_id": "node7",
+      "id": "use_obj_on_p_proc"
+    }
+  ],
+  "links": [
+    {
+      "text": "",
+      "source": "damage_p_proc",
+      "target": "use_p_proc"
+    },
+    {
+      "text": "",
+      "source": "use_skill_on_p_proc",
+      "target": "use_p_proc"
+    },
+    {
+      "text": "",
+      "source": "use_obj_on_p_proc",
+      "target": "use_p_proc"
+    }
+  ]
+}

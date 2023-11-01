@@ -1,0 +1,54 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "With the replacement chip, the computer seems to be functioning well.",
+      "node_id": "node2_1",
+      "id": "look_at_p_proc_1"
+    },
+    {
+      "text": "You fiddle with the computer, but don't really find out anything else about it.",
+      "node_id": "node3_2",
+      "id": "use_skill_on_p_proc_2"
+    },
+    {
+      "text": "",
+      "node_id": "node1",
+      "id": "start"
+    },
+    {
+      "text": "The water computer is useless without the water purification control chip which is unrepairable. You will need a replacement.",
+      "node_id": "node3_1",
+      "id": "use_skill_on_p_proc_1"
+    },
+    {
+      "text": "There are lots of blinking lights on this thing.",
+      "node_id": "node3_3",
+      "id": "use_skill_on_p_proc_3"
+    }
+  ],
+  "links": [
+    {
+      "text": "",
+      "source": "start",
+      "target": "look_at_p_proc_1"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "use_skill_on_p_proc_3"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "use_skill_on_p_proc_1"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "use_skill_on_p_proc_2"
+    }
+  ]
+}

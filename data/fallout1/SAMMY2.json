@@ -1,0 +1,24 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "You see Sammy.",
+      "node_id": "node1",
+      "id": "start"
+    },
+    {
+      "text": "We can't leave until all the radscorpions are dead.",
+      "node_id": "node2",
+      "id": "do_dialogue"
+    }
+  ],
+  "links": [
+    {
+      "text": "",
+      "source": "start",
+      "target": "do_dialogue"
+    }
+  ]
+}

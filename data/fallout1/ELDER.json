@@ -1,0 +1,44 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "I don't talk to your kind, stranger.",
+      "node_id": "node3",
+      "id": "elder07"
+    },
+    {
+      "text": "You see the Elder.",
+      "node_id": "node1",
+      "id": "start"
+    },
+    {
+      "text": "Please help us as soon as possible. Time is wasting.",
+      "node_id": "node4",
+      "id": "elder06"
+    },
+    {
+      "text": "I am pleased to meet you. I hope you have found this little village pleasing so far.",
+      "node_id": "node2",
+      "id": "do_dialogue"
+    }
+  ],
+  "links": [
+    {
+      "text": "",
+      "source": "start",
+      "target": "do_dialogue"
+    },
+    {
+      "text": "",
+      "source": "do_dialogue",
+      "target": "elder07"
+    },
+    {
+      "text": "",
+      "source": "do_dialogue",
+      "target": "elder06"
+    }
+  ]
+}

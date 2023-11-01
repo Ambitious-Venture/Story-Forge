@@ -1,0 +1,759 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "You are not allowed in this area. Only Servitors and higher allowed down here. Return to the Cathedral proper.",
+      "node_id": "node36",
+      "id": "jerem14"
+    },
+    {
+      "text": "If you do not know, it is none of your concern. If you are inquiring about something you should not know, then I will have to report you to our supervisors. You should know better.",
+      "node_id": "node16",
+      "id": "jerem02"
+    },
+    {
+      "text": "You see Jeremiah, a messenger for the Children.",
+      "node_id": "node1",
+      "id": "start"
+    },
+    {
+      "text": "",
+      "node_id": "node19",
+      "id": "jerem02b"
+    },
+    {
+      "text": "I transfer the human purity reports for the surrounding areas. But you should know this. [looking suspicious] Who are you?",
+      "node_id": "node25",
+      "id": "jerem08"
+    },
+    {
+      "text": "How did you get in here?! What are you doing sneaking around?",
+      "node_id": "node11",
+      "id": "jerem19"
+    },
+    {
+      "text": "Guards!!!",
+      "node_id": "node22",
+      "id": "jerem06"
+    },
+    {
+      "text": "I apologize. How may I be of service?",
+      "node_id": "node20",
+      "id": "jerem05"
+    },
+    {
+      "text": "",
+      "node_id": "node4",
+      "id": "do_dialogue"
+    },
+    {
+      "text": "",
+      "node_id": "node27",
+      "id": "jerem05a"
+    },
+    {
+      "text": "",
+      "node_id": "node35",
+      "id": "jerem19a"
+    },
+    {
+      "text": "",
+      "node_id": "node32",
+      "id": "jerem08a"
+    },
+    {
+      "text": "I do not know who you are, and you do not belong here. Guards!!!",
+      "node_id": "node29",
+      "id": "jerem12"
+    },
+    {
+      "text": "",
+      "node_id": "node37",
+      "id": "jeremret"
+    },
+    {
+      "text": "",
+      "node_id": "node23",
+      "id": "jerem03a"
+    },
+    {
+      "text": "Yes, my sister. How may I be of service?",
+      "node_id": "node8_1",
+      "id": "jerem23_1"
+    },
+    {
+      "text": "No, you may not ask me any questions. Now leave.",
+      "node_id": "node40",
+      "id": "jerem18"
+    },
+    {
+      "text": "",
+      "node_id": "node31",
+      "id": "jerem09a"
+    },
+    {
+      "text": "You ask too many questions. \u00a0I do not believe that you are who you  say you are. Guards!",
+      "node_id": "node9",
+      "id": "jerem28"
+    },
+    {
+      "text": "That's rather odd... I've never heard of you.",
+      "node_id": "node30",
+      "id": "jerem10"
+    },
+    {
+      "text": "Why, yes. I am the one who brings the Master the news of new, untainted humans untouched by radiation. I was the one who brought the Master the final news of a possible Lost Vault. It may still have pure-straing  humans in it.",
+      "node_id": "node49",
+      "id": "jerem25"
+    },
+    {
+      "text": "Yes, my sister. How may I be of service?",
+      "node_id": "node50_1",
+      "id": "jerem27_1"
+    },
+    {
+      "text": "",
+      "node_id": "node28",
+      "id": "jeremcbt"
+    },
+    {
+      "text": "",
+      "node_id": "node5",
+      "id": "checkarea"
+    },
+    {
+      "text": "Ah, yes, a super mutant in training. I will return to my tasks.",
+      "node_id": "node13",
+      "id": "jerem01"
+    },
+    {
+      "text": "It is obvious you do not belong here. Who are you?",
+      "node_id": "node21",
+      "id": "jerem07"
+    },
+    {
+      "text": "Please forgive me. I apologize for questioning you. Please carry on about your business, and if I can be of any service let me know.",
+      "node_id": "node33",
+      "id": "jerem11"
+    },
+    {
+      "text": "",
+      "node_id": "node46",
+      "id": "jerem21a"
+    },
+    {
+      "text": "You act very strangely. I do not believe that you are who you say you  are. Guards!",
+      "node_id": "node7",
+      "id": "jerem26"
+    },
+    {
+      "text": "Who are you and what are you doing down here?",
+      "node_id": "node10",
+      "id": "jerem13"
+    },
+    {
+      "text": "Very well, then. Peace be with you.",
+      "node_id": "node18",
+      "id": "jerem04"
+    },
+    {
+      "text": "",
+      "node_id": "node34",
+      "id": "jerem08b"
+    },
+    {
+      "text": "Excuse me, sister. You startled me. How may I serve the Master?",
+      "node_id": "node6_1",
+      "id": "jerem00_1"
+    },
+    {
+      "text": "I transfer records for the Master. That is all you need to know, my child. Now, you must leave.",
+      "node_id": "node39",
+      "id": "jerem17"
+    },
+    {
+      "text": "Stop! You have no business being here!",
+      "node_id": "node12",
+      "id": "jerem20"
+    },
+    {
+      "text": "",
+      "node_id": "node24",
+      "id": "jeremend"
+    },
+    {
+      "text": "",
+      "node_id": "node38",
+      "id": "jerem14a"
+    },
+    {
+      "text": "",
+      "node_id": "node44",
+      "id": "jerem20a"
+    },
+    {
+      "text": "Transferring the reports, of course.",
+      "node_id": "node15",
+      "id": "jerem03"
+    },
+    {
+      "text": "",
+      "node_id": "node14",
+      "id": "jerem00a"
+    },
+    {
+      "text": "Morpheus would not send a slag like you on such a mission. Guards!!",
+      "node_id": "node41",
+      "id": "jerem15"
+    },
+    {
+      "text": "Hey! I told you were not allowed down here! Guards!",
+      "node_id": "node3",
+      "id": "jerem29"
+    },
+    {
+      "text": "",
+      "node_id": "node2",
+      "id": "pre_dialogue"
+    },
+    {
+      "text": "",
+      "node_id": "node17",
+      "id": "jerem02a"
+    },
+    {
+      "text": "You ask too many questions. Who are you?",
+      "node_id": "node26",
+      "id": "jerem09"
+    },
+    {
+      "text": "You idiot! You are not allowed in this area. Return to the Cathedral  proper at once!",
+      "node_id": "node43",
+      "id": "jerem16"
+    },
+    {
+      "text": "I transfer the human purity reports for the surrounding areas.",
+      "node_id": "node48",
+      "id": "jerem24"
+    },
+    {
+      "text": "Um... I... I... You don't actually think it's m... me? \u00a0How ridiculous.  I've never!",
+      "node_id": "node47",
+      "id": "jerem22"
+    },
+    {
+      "text": "",
+      "node_id": "node42",
+      "id": "jerem18a"
+    },
+    {
+      "text": "No, I have not seen anyone. What did he look like?",
+      "node_id": "node45",
+      "id": "jerem21"
+    }
+  ],
+  "links": [
+    {
+      "text": "OK, but not before I split your head open.",
+      "source": "jerem14",
+      "target": "jeremcbt"
+    },
+    {
+      "text": "I apologize for any trouble I have caused.",
+      "source": "jerem14",
+      "target": "jeremret"
+    },
+    {
+      "text": "May I ask you some questions before I leave?",
+      "source": "jerem14",
+      "target": "jerem14a"
+    },
+    {
+      "text": "I am a person of high importance.",
+      "source": "jerem02",
+      "target": "jerem02a"
+    },
+    {
+      "text": "I'm sorry to have bothered you.",
+      "source": "jerem02",
+      "target": "jerem04"
+    },
+    {
+      "text": "Who the hell are you to be asking me questions?! You're lucky I don't report you to the holy flame!!",
+      "source": "jerem02",
+      "target": "jerem02b"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "pre_dialogue"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "jerem29"
+    },
+    {
+      "text": "",
+      "source": "jerem02b",
+      "target": "jerem05"
+    },
+    {
+      "text": "",
+      "source": "jerem02b",
+      "target": "jerem06"
+    },
+    {
+      "text": "",
+      "source": "jerem08",
+      "target": "jerem09a"
+    },
+    {
+      "text": "",
+      "source": "jerem19",
+      "target": "jerem19a"
+    },
+    {
+      "text": "",
+      "source": "jerem06",
+      "target": "jeremcbt"
+    },
+    {
+      "text": "What is it you are doing?",
+      "source": "jerem05",
+      "target": "jerem03"
+    },
+    {
+      "text": "You can start by answering my question.",
+      "source": "jerem05",
+      "target": "jerem05a"
+    },
+    {
+      "text": "You can die!",
+      "source": "jerem05",
+      "target": "jeremcbt"
+    },
+    {
+      "text": "",
+      "source": "do_dialogue",
+      "target": "checkarea"
+    },
+    {
+      "text": "",
+      "source": "do_dialogue",
+      "target": "jerem13"
+    },
+    {
+      "text": "",
+      "source": "do_dialogue",
+      "target": "jerem19"
+    },
+    {
+      "text": "",
+      "source": "do_dialogue",
+      "target": "jerem28"
+    },
+    {
+      "text": "",
+      "source": "do_dialogue",
+      "target": "jerem26"
+    },
+    {
+      "text": "",
+      "source": "do_dialogue",
+      "target": "jerem20"
+    },
+    {
+      "text": "",
+      "source": "do_dialogue",
+      "target": "jerem00_1"
+    },
+    {
+      "text": "",
+      "source": "do_dialogue",
+      "target": "jerem23_1"
+    },
+    {
+      "text": "",
+      "source": "jerem05a",
+      "target": "jerem12"
+    },
+    {
+      "text": "",
+      "source": "jerem05a",
+      "target": "jerem08"
+    },
+    {
+      "text": "Morpheus sent me with a message for the Master.",
+      "source": "jerem19a",
+      "target": "jerem15"
+    },
+    {
+      "text": "Looking for a lonely soul to send to heaven.",
+      "source": "jerem19a",
+      "target": "jeremcbt"
+    },
+    {
+      "text": "Urk!",
+      "source": "jerem19a",
+      "target": "jerem16"
+    },
+    {
+      "text": "I am a worshiper and I am lost.",
+      "source": "jerem19a",
+      "target": "jerem14"
+    },
+    {
+      "text": "",
+      "source": "jerem08a",
+      "target": "jerem11"
+    },
+    {
+      "text": "",
+      "source": "jerem08a",
+      "target": "jerem12"
+    },
+    {
+      "text": "",
+      "source": "jerem12",
+      "target": "jeremcbt"
+    },
+    {
+      "text": "",
+      "source": "jerem03a",
+      "target": "jerem09"
+    },
+    {
+      "text": "",
+      "source": "jerem03a",
+      "target": "jerem08"
+    },
+    {
+      "text": "You can serve me by dying, you whacked out bastard!",
+      "source": "jerem23_1",
+      "target": "jeremcbt"
+    },
+    {
+      "text": "What is it that you do here, brother?",
+      "source": "jerem23_1",
+      "target": "jerem24"
+    },
+    {
+      "text": "Just serve the Master. That's all I ask. Brother.",
+      "source": "jerem23_1",
+      "target": "jeremend"
+    },
+    {
+      "text": "",
+      "source": "jerem18",
+      "target": "jerem18a"
+    },
+    {
+      "text": "It is none of your business who I am... just answer my questions!",
+      "source": "jerem09a",
+      "target": "jerem12"
+    },
+    {
+      "text": "You dare question who I am? Fool, I should strike you down where you  stand.",
+      "source": "jerem09a",
+      "target": "jerem08b"
+    },
+    {
+      "text": "You are not to know who I am, it is the wish of the Master.",
+      "source": "jerem09a",
+      "target": "jerem11"
+    },
+    {
+      "text": "I was sent here by Morpheus with a message for the Master.",
+      "source": "jerem09a",
+      "target": "jerem08a"
+    },
+    {
+      "text": "",
+      "source": "jerem28",
+      "target": "jeremcbt"
+    },
+    {
+      "text": "I am of the High Order. Only the Master and Morpheus know of me in order to ensure my safety on the outside. But I have been called back by  order of the Master.",
+      "source": "jerem10",
+      "target": "jerem11"
+    },
+    {
+      "text": "I was sent here by Morpheus with a message for the Master.",
+      "source": "jerem10",
+      "target": "jerem08a"
+    },
+    {
+      "text": "I would like to ask you a few other questions.",
+      "source": "jerem25",
+      "target": "jerem26"
+    },
+    {
+      "text": "Yes, my brother. You do understand. Thank you. That is all.",
+      "source": "jerem25",
+      "target": "jeremend"
+    },
+    {
+      "text": "What is it that you do here, brother?",
+      "source": "jerem27_1",
+      "target": "jerem28"
+    },
+    {
+      "text": "You can serve me by dying, you whacked out bastard!",
+      "source": "jerem27_1",
+      "target": "jeremcbt"
+    },
+    {
+      "text": "Just serve the Master. That's all I ask. Brother.",
+      "source": "jerem27_1",
+      "target": "jeremend"
+    },
+    {
+      "text": "I am Loki. An initiate from the south.",
+      "source": "jerem07",
+      "target": "jerem10"
+    },
+    {
+      "text": "Quip!",
+      "source": "jerem07",
+      "target": "jerem01"
+    },
+    {
+      "text": "I am actually a Vault Dweller and would like to speak to the Master.",
+      "source": "jerem07",
+      "target": "jerem06"
+    },
+    {
+      "text": "No, I don't belong here. But I know where this bullet belongs... in  your head.",
+      "source": "jerem07",
+      "target": "jeremcbt"
+    },
+    {
+      "text": "",
+      "source": "jerem21a",
+      "target": "jerem22"
+    },
+    {
+      "text": "",
+      "source": "jerem21a",
+      "target": "jerem12"
+    },
+    {
+      "text": "",
+      "source": "jerem26",
+      "target": "jeremcbt"
+    },
+    {
+      "text": "",
+      "source": "jerem13",
+      "target": "jerem19a"
+    },
+    {
+      "text": "",
+      "source": "jerem08b",
+      "target": "jerem06"
+    },
+    {
+      "text": "",
+      "source": "jerem08b",
+      "target": "jerem11"
+    },
+    {
+      "text": "Quip!",
+      "source": "jerem00_1",
+      "target": "jerem01"
+    },
+    {
+      "text": "What are you doing?",
+      "source": "jerem00_1",
+      "target": "jerem00a"
+    },
+    {
+      "text": "",
+      "source": "jerem17",
+      "target": "jerem18a"
+    },
+    {
+      "text": "Duh?",
+      "source": "jerem20",
+      "target": "jerem01"
+    },
+    {
+      "text": "But I do have business here. Morpheus sent me on a mission for the  Master.",
+      "source": "jerem20",
+      "target": "jerem15"
+    },
+    {
+      "text": "No. Killing is my business and business is good.",
+      "source": "jerem20",
+      "target": "jeremcbt"
+    },
+    {
+      "text": "Sorry. I'm lost. I'll leave now.",
+      "source": "jerem20",
+      "target": "jerem12"
+    },
+    {
+      "text": "I followed a suspicious looking character down here. Have you seen  him?",
+      "source": "jerem20",
+      "target": "jerem20a"
+    },
+    {
+      "text": "",
+      "source": "jerem14a",
+      "target": "jerem18"
+    },
+    {
+      "text": "",
+      "source": "jerem14a",
+      "target": "jerem17"
+    },
+    {
+      "text": "",
+      "source": "jerem20a",
+      "target": "jerem21"
+    },
+    {
+      "text": "",
+      "source": "jerem20a",
+      "target": "jerem12"
+    },
+    {
+      "text": "That is all. Thank you.",
+      "source": "jerem03",
+      "target": "jeremend"
+    },
+    {
+      "text": "And a mighty fine job you're doing.",
+      "source": "jerem03",
+      "target": "jerem07"
+    },
+    {
+      "text": "Reports of what? If I may ask.",
+      "source": "jerem03",
+      "target": "jerem03a"
+    },
+    {
+      "text": "",
+      "source": "jerem00a",
+      "target": "jerem03"
+    },
+    {
+      "text": "",
+      "source": "jerem00a",
+      "target": "jerem02"
+    },
+    {
+      "text": "",
+      "source": "jerem15",
+      "target": "jeremcbt"
+    },
+    {
+      "text": "",
+      "source": "jerem29",
+      "target": "jeremcbt"
+    },
+    {
+      "text": "",
+      "source": "pre_dialogue",
+      "target": "jerem29"
+    },
+    {
+      "text": "",
+      "source": "pre_dialogue",
+      "target": "do_dialogue"
+    },
+    {
+      "text": "",
+      "source": "jerem02a",
+      "target": "jerem07"
+    },
+    {
+      "text": "",
+      "source": "jerem02a",
+      "target": "jerem05"
+    },
+    {
+      "text": "",
+      "source": "jerem09",
+      "target": "jerem09a"
+    },
+    {
+      "text": "Akay.",
+      "source": "jerem16",
+      "target": "jeremret"
+    },
+    {
+      "text": "Hunh.",
+      "source": "jerem16",
+      "target": "jerem19"
+    },
+    {
+      "text": "Nah.",
+      "source": "jerem16",
+      "target": "jeremcbt"
+    },
+    {
+      "text": "I would like to ask you a few more questions, brother.",
+      "source": "jerem24",
+      "target": "jerem26"
+    },
+    {
+      "text": "Yes, and a very important job it is. And do you understand the importance of your duties to the Master and all of us?",
+      "source": "jerem24",
+      "target": "jerem25"
+    },
+    {
+      "text": "That is all. Thank you.",
+      "source": "jerem24",
+      "target": "jeremend"
+    },
+    {
+      "text": "Ok. I'll be leaving then, but let me know if you see anything...",
+      "source": "jerem22",
+      "target": "jeremret"
+    },
+    {
+      "text": "Yes! I do think it was you! Get down on the ground and spread 'em!",
+      "source": "jerem22",
+      "target": "jerem12"
+    },
+    {
+      "text": "No, I don't believe it was you but may I ask you some questions?",
+      "source": "jerem22",
+      "target": "jerem18"
+    },
+    {
+      "text": "I will leave now.",
+      "source": "jerem18a",
+      "target": "jeremret"
+    },
+    {
+      "text": "I'll leave. I'll leave. But not until I blow your brains out.",
+      "source": "jerem18a",
+      "target": "jeremcbt"
+    },
+    {
+      "text": "I just wish to ask you a few more questions.",
+      "source": "jerem18a",
+      "target": "jerem12"
+    },
+    {
+      "text": "Doesn't matter. I think he got away.",
+      "source": "jerem21",
+      "target": "jerem12"
+    },
+    {
+      "text": "He was about your height but was wearing a leather jacket... What do you have on under those robes?",
+      "source": "jerem21",
+      "target": "jerem21a"
+    },
+    {
+      "text": "He looked just like you, shit-for-brains!",
+      "source": "jerem21",
+      "target": "jeremcbt"
+    }
+  ]
+}

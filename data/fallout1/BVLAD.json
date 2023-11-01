@@ -1,0 +1,44 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "",
+      "node_id": "node2",
+      "id": "do_stuff"
+    },
+    {
+      "text": "You slip off the ladder and plummet into the darkness below. You land with a crash and take damage.",
+      "node_id": "node3_2",
+      "id": "ladder01_2"
+    },
+    {
+      "text": "You fall off the ladder near the bottom.",
+      "node_id": "node3_3",
+      "id": "ladder01_3"
+    },
+    {
+      "text": "You slip off the ladder and plummet into the darkness below. You land with a crash, but take no damage.",
+      "node_id": "node3_1",
+      "id": "ladder01_1"
+    }
+  ],
+  "links": [
+    {
+      "text": "",
+      "source": "do_stuff",
+      "target": "ladder01_2"
+    },
+    {
+      "text": "",
+      "source": "do_stuff",
+      "target": "ladder01_1"
+    },
+    {
+      "text": "",
+      "source": "do_stuff",
+      "target": "ladder01_3"
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "",
+      "node_id": "node6",
+      "id": "deallocate"
+    },
+    {
+      "text": "",
+      "node_id": "node3",
+      "id": "look_at_p_proc"
+    },
+    {
+      "text": "",
+      "node_id": "node1",
+      "id": "start"
+    },
+    {
+      "text": "You are removing the tripwire from the arming switch when you drop the pin and set off the grenade!",
+      "node_id": "node4_1",
+      "id": "use_skill_on_p_proc_1"
+    },
+    {
+      "text": "It is not armed.",
+      "node_id": "node2_1",
+      "id": "description_p_proc_1"
+    },
+    {
+      "text": "It is not armed.",
+      "node_id": "node5_1",
+      "id": "spatial_p_proc_1"
+    },
+    {
+      "text": "",
+      "node_id": "node7",
+      "id": "detonate"
+    }
+  ],
+  "links": [
+    {
+      "text": "",
+      "source": "look_at_p_proc",
+      "target": "deallocate"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "look_at_p_proc"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "description_p_proc_1"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "use_skill_on_p_proc_1"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "spatial_p_proc_1"
+    },
+    {
+      "text": "",
+      "source": "use_skill_on_p_proc_1",
+      "target": "detonate"
+    },
+    {
+      "text": "",
+      "source": "use_skill_on_p_proc_1",
+      "target": "deallocate"
+    },
+    {
+      "text": "",
+      "source": "spatial_p_proc_1",
+      "target": "deallocate"
+    },
+    {
+      "text": "",
+      "source": "spatial_p_proc_1",
+      "target": "detonate"
+    },
+    {
+      "text": "",
+      "source": "detonate",
+      "target": "deallocate"
+    }
+  ]
+}

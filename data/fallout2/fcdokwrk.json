@@ -1,0 +1,54 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "",
+      "node_id": "node7",
+      "id": "Node002"
+    },
+    {
+      "text": "",
+      "node_id": "node17",
+      "id": "Node998"
+    },
+    {
+      "text": "",
+      "node_id": "node5",
+      "id": "talk_p_proc"
+    },
+    {
+      "text": "Nice day to be at the ocean.",
+      "node_id": "node8",
+      "id": "Node001"
+    },
+    {
+      "text": "Time to die, tourist.",
+      "node_id": "node6",
+      "id": "Node005"
+    }
+  ],
+  "links": [
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node002"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node005"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node001"
+    },
+    {
+      "text": "",
+      "source": "Node005",
+      "target": "Node998"
+    }
+  ]
+}

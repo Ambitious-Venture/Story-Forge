@@ -1,0 +1,44 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "This door is too large to open manually.  Use the entry terminal.",
+      "node_id": "node2",
+      "id": "description_p_proc"
+    },
+    {
+      "text": "",
+      "node_id": "node3",
+      "id": "map_enter_p_proc"
+    },
+    {
+      "text": "",
+      "node_id": "node1",
+      "id": "start"
+    },
+    {
+      "text": "This door is too large to open manually.  Use the entry terminal.",
+      "node_id": "node4",
+      "id": "use_p_proc"
+    }
+  ],
+  "links": [
+    {
+      "text": "",
+      "source": "start",
+      "target": "use_p_proc"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "description_p_proc"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "map_enter_p_proc"
+    }
+  ]
+}

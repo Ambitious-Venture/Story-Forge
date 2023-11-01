@@ -1,0 +1,144 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "You cannot use the traps skill on this computer.",
+      "node_id": "node2_5",
+      "id": "skills_5"
+    },
+    {
+      "text": "You have disarmed the nuclear warhead.",
+      "node_id": "node5",
+      "id": "reset"
+    },
+    {
+      "text": "You are not skilled enough to defeat the security mechanism.",
+      "node_id": "node2_1",
+      "id": "skills_1"
+    },
+    {
+      "text": "You are not skilled enough to defeat the security mechanism.",
+      "node_id": "node2_3",
+      "id": "skills_3"
+    },
+    {
+      "text": "There are cables running from the access computer to the warhead behind it.",
+      "node_id": "node1_1",
+      "id": "start_1"
+    },
+    {
+      "text": "That doesn't seem to be working.",
+      "node_id": "node3",
+      "id": "disarmit"
+    },
+    {
+      "text": "You are not skilled enough to defeat the security mechanism.",
+      "node_id": "node2_2",
+      "id": "skills_2"
+    },
+    {
+      "text": "You are not skilled enough to defeat the security mechanism.",
+      "node_id": "node2_4",
+      "id": "skills_4"
+    },
+    {
+      "text": "This computer cannot be repaired.",
+      "node_id": "node2_6",
+      "id": "skills_6"
+    },
+    {
+      "text": "That doesn't seem to be working.",
+      "node_id": "node2_7",
+      "id": "skills_7"
+    },
+    {
+      "text": "That doesn't seem to be working.",
+      "node_id": "node1_2",
+      "id": "start_2"
+    },
+    {
+      "text": "You have armed the warhead. A timer with four minutes  has started a countdown.",
+      "node_id": "node4",
+      "id": "armit"
+    },
+    {
+      "text": "That doesn't seem to be working.",
+      "node_id": "node1_3",
+      "id": "start_3"
+    }
+  ],
+  "links": [
+    {
+      "text": "",
+      "source": "skills_5",
+      "target": "armit"
+    },
+    {
+      "text": "",
+      "source": "skills_1",
+      "target": "armit"
+    },
+    {
+      "text": "",
+      "source": "skills_3",
+      "target": "armit"
+    },
+    {
+      "text": "",
+      "source": "start_1",
+      "target": "disarmit"
+    },
+    {
+      "text": "",
+      "source": "start_1",
+      "target": "armit"
+    },
+    {
+      "text": "",
+      "source": "disarmit",
+      "target": "reset"
+    },
+    {
+      "text": "",
+      "source": "skills_2",
+      "target": "armit"
+    },
+    {
+      "text": "",
+      "source": "skills_4",
+      "target": "armit"
+    },
+    {
+      "text": "",
+      "source": "skills_6",
+      "target": "armit"
+    },
+    {
+      "text": "",
+      "source": "skills_7",
+      "target": "armit"
+    },
+    {
+      "text": "",
+      "source": "start_2",
+      "target": "armit"
+    },
+    {
+      "text": "",
+      "source": "start_2",
+      "target": "disarmit"
+    },
+    {
+      "text": "",
+      "source": "start_3",
+      "target": "armit"
+    },
+    {
+      "text": "",
+      "source": "start_3",
+      "target": "disarmit"
+    }
+  ]
+}

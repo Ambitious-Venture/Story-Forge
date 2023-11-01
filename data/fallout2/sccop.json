@@ -1,0 +1,54 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "It's after curfew, stranger. Why don't you head home?",
+      "node_id": "node8",
+      "id": "Node002"
+    },
+    {
+      "text": "",
+      "node_id": "node6",
+      "id": "talk_p_proc"
+    },
+    {
+      "text": "Put your weapon away - NOW!",
+      "node_id": "node7",
+      "id": "Node001"
+    },
+    {
+      "text": "",
+      "node_id": "node21",
+      "id": "timed_event_p_proc"
+    },
+    {
+      "text": "Good day, stranger. New in town?",
+      "node_id": "node9",
+      "id": "Node003"
+    }
+  ],
+  "links": [
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node001"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node002"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node003"
+    },
+    {
+      "text": "",
+      "source": "timed_event_p_proc",
+      "target": "talk_p_proc"
+    }
+  ]
+}

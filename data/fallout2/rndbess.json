@@ -1,0 +1,24 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "You startle a flock of vultures feeding off a dead herd of brahmin.",
+      "node_id": "node3",
+      "id": "map_enter_p_proc"
+    },
+    {
+      "text": "",
+      "node_id": "node4",
+      "id": "LoadBrahmn"
+    }
+  ],
+  "links": [
+    {
+      "text": "",
+      "source": "map_enter_p_proc",
+      "target": "LoadBrahmn"
+    }
+  ]
+}

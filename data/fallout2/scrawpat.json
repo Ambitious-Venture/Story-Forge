@@ -1,0 +1,44 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "Shit! I didn't mean to spill my drink on you. Let me clean that up. Sorry, sorry.",
+      "node_id": "node9",
+      "id": "Node002"
+    },
+    {
+      "text": "Drinking and talking - hell, nothing exciting ever happens in this town.",
+      "node_id": "node8",
+      "id": "Node003"
+    },
+    {
+      "text": "",
+      "node_id": "node6",
+      "id": "talk_p_proc"
+    },
+    {
+      "text": "Look, I'm just drinking. Leave me alone.",
+      "node_id": "node7",
+      "id": "Node001"
+    }
+  ],
+  "links": [
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node001"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node002"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "Node003"
+    }
+  ]
+}

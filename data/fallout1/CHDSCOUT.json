@@ -1,0 +1,544 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "text": "OK. I suggest you get out of here before you get hurt.",
+      "node_id": "node16",
+      "id": "ChdScout3"
+    },
+    {
+      "text": "For someone who comes in peace, you do an awful lot of killing. But those Rippers were causing quite a bit of trouble. Orfeo can reward your  for your aid.",
+      "node_id": "node39",
+      "id": "ChdScout29"
+    },
+    {
+      "text": "Really? I think my boss would like to hear more about that. Go look for Orfeo. He'll be able to reward you for your help.",
+      "node_id": "node38",
+      "id": "ChdScout28"
+    },
+    {
+      "text": "So, you are a Follower?",
+      "node_id": "node27",
+      "id": "ChdScout15"
+    },
+    {
+      "text": "Great. Of all the people I had to stop, I stopped a piece of cannon fodder. What can I do for you?",
+      "node_id": "node13",
+      "id": "ChdScout2"
+    },
+    {
+      "text": "Meme? Well, get out of here! This is the property of the Children of  the Cathedral.",
+      "node_id": "node8",
+      "id": "ChdScout1"
+    },
+    {
+      "text": "",
+      "node_id": "node1",
+      "id": "start"
+    },
+    {
+      "text": "You kill harmless creatures which are the end result of man's destructive nature and then claim peace?",
+      "node_id": "node40",
+      "id": "ChdScout30"
+    },
+    {
+      "text": "I'm sorry. I still don't remember you. Maybe someone else may  remember who you are.",
+      "node_id": "node33",
+      "id": "ChdScout18"
+    },
+    {
+      "text": "I still let you live. I think I better take you in to have you cleansed of these thoughts of destruction.",
+      "node_id": "node42",
+      "id": "ChdScout31"
+    },
+    {
+      "text": "Silly me. I mistook you for someone else. Come with me. I'll show  you the way.",
+      "node_id": "node29",
+      "id": "ChdScout16"
+    },
+    {
+      "text": "I am . Remember it!",
+      "node_id": "node9_1",
+      "id": "ChdScout13_1"
+    },
+    {
+      "text": "That's where I know you from. It's payback time!",
+      "node_id": "node41",
+      "id": "ChdScout34"
+    },
+    {
+      "text": "",
+      "node_id": "node24",
+      "id": "ChdScoutend"
+    },
+    {
+      "text": "",
+      "node_id": "node14",
+      "id": "combat"
+    },
+    {
+      "text": "Let me think.",
+      "node_id": "node35",
+      "id": "ChdScout21"
+    },
+    {
+      "text": "",
+      "node_id": "node3",
+      "id": "destroy_p_proc"
+    },
+    {
+      "text": "It's you again. I thought you would have learned by now. Too little,  too late, I guess.",
+      "node_id": "node6",
+      "id": "ChdScout35"
+    },
+    {
+      "text": "It is very dangerous here. Big, bad monsters took over this place. We are trying to save what we can before they come back.",
+      "node_id": "node15",
+      "id": "ChdScout9"
+    },
+    {
+      "text": "Wasting my time, I see. Get lost!",
+      "node_id": "node18",
+      "id": "ChdScout5"
+    },
+    {
+      "text": "Oh, you want candy. Sorry, I don't have any. Goodbye.",
+      "node_id": "node20",
+      "id": "ChdScout7"
+    },
+    {
+      "text": "Yes, I remember you. We were told to look for you. Vengeance shall be mine!",
+      "node_id": "node34",
+      "id": "ChdScout19"
+    },
+    {
+      "text": "Fine. I'm . Ring a bell yet?",
+      "node_id": "node31_1",
+      "id": "ChdScout20_1"
+    },
+    {
+      "text": "Funny. I thought I saw some of them out in the street trying to clean  up the gangs.",
+      "node_id": "node43",
+      "id": "ChdScout32"
+    },
+    {
+      "text": "Who goes there?",
+      "node_id": "node7",
+      "id": "ChdScout0"
+    },
+    {
+      "text": "Okay. Suit yourself. When they get back here, you can be their dinner.",
+      "node_id": "node22",
+      "id": "ChdScout10"
+    },
+    {
+      "text": "You see before you an alert scout.",
+      "node_id": "node4",
+      "id": "look_at_p_proc"
+    },
+    {
+      "text": "If you are a friend, then prove it.",
+      "node_id": "node12",
+      "id": "ChdScout27"
+    },
+    {
+      "text": "Uh oh is right. They are nasty. We are trying to make them understand that people and monsters can live together.",
+      "node_id": "node23",
+      "id": "ChdScout12"
+    },
+    {
+      "text": "You want to help me? I doubt that. What do you have?",
+      "node_id": "node17",
+      "id": "ChdScout4"
+    },
+    {
+      "text": "Oh, a Vault. I'm sure that is very nice. Maybe you can talk to one of my superiors about that. I'm kinda busy right now.",
+      "node_id": "node21",
+      "id": "ChdScout8"
+    },
+    {
+      "text": "Deathslayer, eh? You look more like worm bait to me.",
+      "node_id": "node11",
+      "id": "ChdScout26"
+    },
+    {
+      "text": "I am . Remember it!",
+      "node_id": "node10_1",
+      "id": "ChdScout25_1"
+    },
+    {
+      "text": "You can try. I'm not sure you will get very far, though. Good luck to you.",
+      "node_id": "node25",
+      "id": "ChdScout11"
+    },
+    {
+      "text": "Those loser are now no more.",
+      "node_id": "node44",
+      "id": "ChdScout33"
+    },
+    {
+      "text": "",
+      "node_id": "node2",
+      "id": "critter_p_proc"
+    },
+    {
+      "text": "Then I don't have to let you live. Good night.",
+      "node_id": "node28",
+      "id": "ChdScout24"
+    },
+    {
+      "text": "I'm . How could you forget about me?",
+      "node_id": "node30_1",
+      "id": "ChdScout17_1"
+    },
+    {
+      "text": "Good. Just making sure for your headstone.",
+      "node_id": "node37",
+      "id": "ChdScout23"
+    },
+    {
+      "text": "Come with me. I'll show you where everyone else went.",
+      "node_id": "node26",
+      "id": "ChdScout14"
+    },
+    {
+      "text": "",
+      "node_id": "node32",
+      "id": "ChdScout17a"
+    },
+    {
+      "text": "Vaut. Vaut? What's a vaut?",
+      "node_id": "node19",
+      "id": "ChdScout6"
+    },
+    {
+      "text": "",
+      "node_id": "node5",
+      "id": "talk_p_proc"
+    }
+  ],
+  "links": [
+    {
+      "text": "No, I am a Children member.",
+      "source": "ChdScout15",
+      "target": "ChdScout17_1"
+    },
+    {
+      "text": "Of course! Who else would I be?",
+      "source": "ChdScout15",
+      "target": "ChdScout16"
+    },
+    {
+      "text": "Hep ew.",
+      "source": "ChdScout2",
+      "target": "ChdScout4"
+    },
+    {
+      "text": "Nahnah.",
+      "source": "ChdScout2",
+      "target": "ChdScout3"
+    },
+    {
+      "text": "Go night-night!",
+      "source": "ChdScout2",
+      "target": "combat"
+    },
+    {
+      "text": "Huh? Me stay!",
+      "source": "ChdScout1",
+      "target": "ChdScout2"
+    },
+    {
+      "text": "Me no want to go.",
+      "source": "ChdScout1",
+      "target": "ChdScout9"
+    },
+    {
+      "text": "Huh? You Die!",
+      "source": "ChdScout1",
+      "target": "combat"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "destroy_p_proc"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "critter_p_proc"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "look_at_p_proc"
+    },
+    {
+      "text": "",
+      "source": "start",
+      "target": "talk_p_proc"
+    },
+    {
+      "text": "I'm sorry. They were ugly, so I shot them.",
+      "source": "ChdScout30",
+      "target": "ChdScout31"
+    },
+    {
+      "text": "They were hurting people all over the place.",
+      "source": "ChdScout30",
+      "target": "ChdScout32"
+    },
+    {
+      "text": "Now I'm going to kill you.",
+      "source": "ChdScout30",
+      "target": "combat"
+    },
+    {
+      "text": "",
+      "source": "ChdScout31",
+      "target": "combat"
+    },
+    {
+      "text": "",
+      "source": "ChdScout16",
+      "target": "combat"
+    },
+    {
+      "text": "DIE!!!",
+      "source": "ChdScout13_1",
+      "target": "combat"
+    },
+    {
+      "text": "I'm one of you. Now let me pass.",
+      "source": "ChdScout13_1",
+      "target": "ChdScout15"
+    },
+    {
+      "text": "I don't have to.",
+      "source": "ChdScout13_1",
+      "target": "ChdScout24"
+    },
+    {
+      "text": "I'm a Follower. Where did everyone go?",
+      "source": "ChdScout13_1",
+      "target": "ChdScout14"
+    },
+    {
+      "text": "",
+      "source": "ChdScout34",
+      "target": "combat"
+    },
+    {
+      "text": "",
+      "source": "ChdScout21",
+      "target": "ChdScout17a"
+    },
+    {
+      "text": "",
+      "source": "ChdScout35",
+      "target": "combat"
+    },
+    {
+      "text": "Bubye.",
+      "source": "ChdScout9",
+      "target": "ChdScoutend"
+    },
+    {
+      "text": "Uh, oh.",
+      "source": "ChdScout9",
+      "target": "ChdScout12"
+    },
+    {
+      "text": "No go! No go!",
+      "source": "ChdScout9",
+      "target": "ChdScout10"
+    },
+    {
+      "text": "",
+      "source": "ChdScout19",
+      "target": "combat"
+    },
+    {
+      "text": "Hmmm. I think . . . KILL!",
+      "source": "ChdScout20_1",
+      "target": "combat"
+    },
+    {
+      "text": "They attacked the Blades?",
+      "source": "ChdScout32",
+      "target": "ChdScout33"
+    },
+    {
+      "text": "Die, scum!",
+      "source": "ChdScout32",
+      "target": "combat"
+    },
+    {
+      "text": "Me. Me.",
+      "source": "ChdScout0",
+      "target": "ChdScout1"
+    },
+    {
+      "text": "I do!",
+      "source": "ChdScout0",
+      "target": "ChdScout25_1"
+    },
+    {
+      "text": "Deathslayer!",
+      "source": "ChdScout0",
+      "target": "ChdScout26"
+    },
+    {
+      "text": "Be at peace. I am a friend.",
+      "source": "ChdScout0",
+      "target": "ChdScout27"
+    },
+    {
+      "text": "Who goes where?",
+      "source": "ChdScout0",
+      "target": "ChdScout13_1"
+    },
+    {
+      "text": "Me kill! Me kill!",
+      "source": "ChdScout10",
+      "target": "ChdScout11"
+    },
+    {
+      "text": "Bubye.",
+      "source": "ChdScout10",
+      "target": "ChdScoutend"
+    },
+    {
+      "text": "I helped kill those mutant things.",
+      "source": "ChdScout27",
+      "target": "ChdScout30"
+    },
+    {
+      "text": "I helped kill the Followers.",
+      "source": "ChdScout27",
+      "target": "ChdScout28"
+    },
+    {
+      "text": "I helped kill the Children.",
+      "source": "ChdScout27",
+      "target": "ChdScout34"
+    },
+    {
+      "text": "I helped kill the Rippers.",
+      "source": "ChdScout27",
+      "target": "ChdScout29"
+    },
+    {
+      "text": "Oh. OK. Bubye.",
+      "source": "ChdScout12",
+      "target": "ChdScoutend"
+    },
+    {
+      "text": "Vaut.",
+      "source": "ChdScout4",
+      "target": "ChdScout6"
+    },
+    {
+      "text": "Nahnah.",
+      "source": "ChdScout4",
+      "target": "ChdScout5"
+    },
+    {
+      "text": "Dis!",
+      "source": "ChdScout4",
+      "target": "combat"
+    },
+    {
+      "text": "",
+      "source": "ChdScout26",
+      "target": "combat"
+    },
+    {
+      "text": "DIE!!!",
+      "source": "ChdScout25_1",
+      "target": "combat"
+    },
+    {
+      "text": "I'm one of you. Now let me pass.",
+      "source": "ChdScout25_1",
+      "target": "ChdScout15"
+    },
+    {
+      "text": "I don't have to!",
+      "source": "ChdScout25_1",
+      "target": "ChdScout24"
+    },
+    {
+      "text": "I'm a Follower. Where did everyone go?",
+      "source": "ChdScout25_1",
+      "target": "ChdScout14"
+    },
+    {
+      "text": "That's a good thing. Well, goodbye.",
+      "source": "ChdScout33",
+      "target": "ChdScoutend"
+    },
+    {
+      "text": "And now, you won't be either.",
+      "source": "ChdScout33",
+      "target": "combat"
+    },
+    {
+      "text": "",
+      "source": "ChdScout24",
+      "target": "combat"
+    },
+    {
+      "text": "I'm your worst nightmare.",
+      "source": "ChdScout17_1",
+      "target": "combat"
+    },
+    {
+      "text": "",
+      "source": "ChdScout23",
+      "target": "combat"
+    },
+    {
+      "text": "",
+      "source": "ChdScout14",
+      "target": "combat"
+    },
+    {
+      "text": "",
+      "source": "ChdScout17a",
+      "target": "ChdScout19"
+    },
+    {
+      "text": "",
+      "source": "ChdScout17a",
+      "target": "ChdScout18"
+    },
+    {
+      "text": "Valt! Valt!",
+      "source": "ChdScout6",
+      "target": "ChdScout8"
+    },
+    {
+      "text": "Numnum.",
+      "source": "ChdScout6",
+      "target": "ChdScout7"
+    },
+    {
+      "text": "Nonah.",
+      "source": "ChdScout6",
+      "target": "ChdScout5"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "ChdScout0"
+    },
+    {
+      "text": "",
+      "source": "talk_p_proc",
+      "target": "ChdScout35"
+    }
+  ]
+}
