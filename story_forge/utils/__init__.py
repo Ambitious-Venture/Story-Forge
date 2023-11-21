@@ -1,1 +1,1 @@
-from miscellaneous import *
+from miscellaneous import load_jinja_as_string # noqa: F401
