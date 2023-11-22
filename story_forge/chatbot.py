@@ -1,7 +1,7 @@
 import json
 from pathlib import Path
 from typing import Optional, Union, List, Dict
-from utils import load_jinja_as_string
+from utils import load_jinja_as_string, save_conversation_as_json
 from transformers import (
     AutoModel, AutoTokenizer, 
     ConversationalPipeline, Conversation, 
@@ -38,20 +38,23 @@ class ChatBotSession:
             self.conversation.add_message({"role": "user", "content": message})
         self.conversation = self.pipe(self.conversation)
         return self.conversation.generated_responses[-1]
-
-    def save_history(self, path: Union[str, Path]) -> None:
-        conversation_json = list(self.conversation)
-        with open(path):
-            json.dump(conversation_json, path)
+    
+    def is_conversation_exist(self) -> bool:
+        return self.conversation is not None
 
     def set_conversation(self, conversation: Conversation):
         self.conversation = conversation
     
-    def clean_history(self) -> None:
+    def clean_conversation(self) -> None:
         self.conversation = None
+        
+    def save_conversation(self, path: Union[str, Path]) -> None:
+        if self.is_conversation_exist():
+            raise RuntimeError("Conversation doesn't exist for saving!")
+        save_conversation_as_json(self.conversation)
 
     @staticmethod
-    def import_history(self, path: Union[str, Path]) -> List[Dict[str, str]]:
+    def import_conversation(path: Union[str, Path]) -> List[Dict[str, str]]:
         with open(path) as f:
             conversation_json = json.load(f)
         return conversation_json
