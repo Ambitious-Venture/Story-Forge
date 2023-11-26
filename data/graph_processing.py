@@ -7,7 +7,7 @@ from functools import cached_property
 
 
 class DiaologGraph:
-    
+
     def __init__(self, graph_json_path: Union[str, Path]) -> None:
         self.graph = self.load_graph_from_json(graph_json_path)
 
@@ -39,7 +39,7 @@ class DiaologGraph:
         return [{"role": "node", "content": data["text"]}]
 
     def iterate_through_graph(self, start_node: str, last_node: str = None) -> list[dict[str, str]]:
-        last_nodes = [last_node] if last_node is not None else self.last_nodes() 
+        last_nodes = [last_node] if last_node is not None else self.last_nodes
         for ln in last_nodes:
             for path in nx.all_simple_paths(self.graph, start_node, ln):
                 yield self.passing_through_graph(path)
