@@ -26,27 +26,24 @@ class ChatBotSession:
                 if isinstance(chat_template, str) else load_jinja_as_string(chat_template)
             self.tokenizer.chat_template = chat_template
         self.pipe = ConversationalPipeline(model=self.model, tokenizer=self.tokenizer)
-        self.conversation = None
+        self.conversation = Conversation()
 
     def __str__(self) -> str:
         return str(self.conversation)
 
     def send_message(self, message: str) -> str:
-        if self.conversation is None:
-            self.conversation = Conversation(message)
-        else:
-            self.conversation.add_message({"role": "user", "content": message})
+        self.conversation.add_message({"role": "user", "content": message})
         self.conversation = self.pipe(self.conversation)
         return self.conversation.generated_responses[-1]
     
     def is_conversation_exist(self) -> bool:
-        return self.conversation is not None
+        return len(self.conversation) > 0
 
     def set_conversation(self, conversation: Conversation):
         self.conversation = conversation
     
     def clean_conversation(self) -> None:
-        self.conversation = None
+        self.conversation = Conversation()
         
     def save_conversation(self, path: Union[str, Path]) -> None:
         if self.is_conversation_exist():
