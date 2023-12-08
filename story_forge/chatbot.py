@@ -1,3 +1,4 @@
+import os
 import json
 from pathlib import Path
 from typing import Optional, Union, List, Dict
@@ -20,10 +21,9 @@ class ChatBotSession:
         self.model = model
         self.tokenizer = tokenizer
         self.generation_cfg = generation_cfg
-        self.chat_template
         if chat_template is not None:
             chat_template = chat_template \
-                if isinstance(chat_template, str) else load_jinja_as_string(chat_template)
+                if not os.path.exists(chat_template) else load_jinja_as_string(chat_template)
             self.tokenizer.chat_template = chat_template
         self.pipe = ConversationalPipeline(model=self.model, tokenizer=self.tokenizer)
         self.conversation = Conversation()
