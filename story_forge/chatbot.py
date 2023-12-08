@@ -2,12 +2,14 @@ import os
 import json
 from pathlib import Path
 from typing import Optional, Union, List, Dict
-from utils import load_jinja_as_string, save_conversation_as_json
 from transformers import (
-    AutoModel, AutoTokenizer, 
-    ConversationalPipeline, Conversation, 
-    GenerationConfig
+    AutoModel, AutoTokenizer,
+    ConversationalPipeline, Conversation,
+    GenerationConfig, TextIteratorStreamer
 )
+from itertools import chain
+from utils import load_jinja_as_string, save_conversation_as_json
+from utils import ThreadWithReturnValue
 
 
 class ChatBotSession:
@@ -16,26 +18,43 @@ class ChatBotSession:
             model: AutoModel, 
             tokenizer: AutoTokenizer, 
             chat_template: Optional[Union[str, Path]] = None, 
-            generation_cfg: Optional[GenerationConfig] = None
             ) -> None:
         self.model = model
         self.tokenizer = tokenizer
-        self.generation_cfg = generation_cfg
         if chat_template is not None:
             chat_template = chat_template \
                 if not os.path.exists(chat_template) else load_jinja_as_string(chat_template)
             self.tokenizer.chat_template = chat_template
-        self.pipe = ConversationalPipeline(model=self.model, tokenizer=self.tokenizer)
+        self.streamer = TextIteratorStreamer(tokenizer=tokenizer)
+        self.pipe = ConversationalPipeline(
+            model=self.model, tokenizer=self.tokenizer, streamer=self.streamer)
         self.conversation = Conversation()
 
     def __str__(self) -> str:
         return str(self.conversation)
 
-    def send_message(self, message: str) -> str:
+    def generate(self, message: str, generation_cfg: Union[dict, GenerationConfig] = dict()) -> str:
         self.conversation.add_message({"role": "user", "content": message})
-        self.conversation = self.pipe(self.conversation)
+        self.conversation = self.pipe(self.conversation, **generation_cfg)
         return self.conversation.generated_responses[-1]
-    
+
+    def stream_generate(
+            self, message: str, 
+            generation_cfg: Union[dict, GenerationConfig] = dict()
+            ) -> str:
+        self.conversation.add_message({"role": "user", "content": message})
+        thread = ThreadWithReturnValue(
+            target=self.pipe, kwargs={"conversations": self.conversation, **generation_cfg})
+        thread.start()
+        streamer_iter = iter(self.streamer)
+        # pass input message
+        next(streamer_iter)
+        for new_token in chain(streamer_iter, [None]):
+            if new_token is None:
+                self.conversation = thread.join()
+                return None
+            yield new_token
+        
     def is_conversation_exist(self) -> bool:
         return len(self.conversation) > 0
 
