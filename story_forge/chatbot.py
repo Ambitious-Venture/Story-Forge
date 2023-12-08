@@ -51,11 +51,11 @@ class ChatBotSession:
         next(streamer_iter)
         # pass last [/INST] token
         next(streamer_iter)
-        for new_token in chain(streamer_iter, [None]):
-            if new_token is None:
+        for new_text in chain(streamer_iter, [None]):
+            if new_text is None:
                 self.conversation = thread.join()
                 return None
-            yield new_token
+            yield new_text
         
     def is_conversation_exist(self) -> bool:
         return len(self.conversation) > 0
