@@ -47,11 +47,9 @@ class ChatBotSession:
             target=self.pipe, kwargs={"conversations": self.conversation, **generation_cfg})
         thread.start()
         streamer_iter = iter(self.streamer)
-        # pass input message
-        next(streamer_iter)
-        # pass last [/INST] token
-        next(streamer_iter)
         for new_text in chain(streamer_iter, [None]):
+            if "[/INST]" in new_text:
+                continue
             if new_text is None:
                 self.conversation = thread.join()
                 return None
