@@ -49,6 +49,8 @@ class ChatBotSession:
         streamer_iter = iter(self.streamer)
         # pass input message
         next(streamer_iter)
+        # pass last [/INST] token
+        next(streamer_iter)
         for new_token in chain(streamer_iter, [None]):
             if new_token is None:
                 self.conversation = thread.join()
