@@ -48,7 +48,7 @@ class ChatBotSession:
         thread.start()
         streamer_iter = iter(self.streamer)
         for new_text in chain(streamer_iter, [None]):
-            if "[/INST]" in new_text:
+            if "[/INST]" in new_text or "[INST]" in new_text:
                 continue
             if new_text is None:
                 self.conversation = thread.join()
